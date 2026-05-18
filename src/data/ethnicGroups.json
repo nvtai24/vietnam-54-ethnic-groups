@@ -1,0 +1,186 @@
+{
+  "groups": [
+    {
+      "id": "kinh",
+      "name": "Kinh",
+      "otherNames": ["Việt"],
+      "population": 85800000,
+      "regions": ["Toàn quốc, tập trung ở đồng bằng"],
+      "language": "Tiếng Việt",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=1200",
+        "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=1200",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=1200"
+      ],
+      "description": "Người Kinh là dân tộc đông nhất Việt Nam, chiếm khoảng 85% dân số cả nước. Người Kinh có nền văn hóa lâu đời, chịu ảnh hưởng sâu sắc của văn hóa Trung Hoa nhưng vẫn giữ được bản sắc riêng độc đáo.",
+      "history": "Người Kinh có lịch sử hình thành và phát triển hàng nghìn năm, từ thời Văn Lang - Âu Lạc. Qua các triều đại phong kiến, người Kinh đã xây dựng nên nền văn minh lúa nước rực rỡ, với những thành tựu văn hóa, nghệ thuật và khoa học kỹ thuật đáng tự hào.",
+      "culture": {
+        "festivals": [
+          "Tết Nguyên Đán - Lễ hội lớn nhất trong năm",
+          "Tết Trung Thu - Lễ hội của trẻ em",
+          "Tết Hàn Thực - Tưởng nhớ tổ tiên",
+          "Lễ Giỗ Tổ Hùng Vương - 10/3 Âm lịch"
+        ],
+        "customs": [
+          "Thờ cúng tổ tiên",
+          "Cưới hỏi theo nghi lễ truyền thống",
+          "Tục lệ tang ma",
+          "Phong tục đầu năm: xông đất, lì xì, chúc Tết"
+        ],
+        "clothing": "Áo dài là trang phục truyền thống đặc trưng của người Kinh, đặc biệt là phụ nữ. Áo dài có lịch sử phát triển lâu đời, từ áo tứ thân thời xưa đến áo dài hiện đại ngày nay. Áo dài thường được mặc trong các dịp lễ, tết và sự kiện quan trọng.",
+        "cuisine": [
+          "Phở - Món ăn quốc hồn quốc tuý",
+          "Bánh chưng, bánh tét - Món ăn truyền thống ngày Tết",
+          "Bún chả, bún bò, bún riêu",
+          "Nem rán, gỏi cuốn",
+          "Cơm tấm, xôi"
+        ],
+        "housing": "Nhà truyền thống của người Kinh thường là nhà sàn hoặc nhà đất, có mái ngói, kết cấu gỗ. Kiến trúc nhà ở thể hiện quan niệm phong thủy, với bố cục hài hòa giữa không gian sống và thiên nhiên."
+      },
+      "music": [
+        {
+          "title": "Dân ca quan họ Bắc Ninh",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "description": "Di sản văn hóa phi vật thể đại diện của nhân loại"
+        },
+        {
+          "title": "Ca trù",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "description": "Nghệ thuật hát xướng cổ truyền"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống người Kinh",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Tìm hiểu về văn hóa, phong tục tập quán của người Kinh"
+        }
+      ],
+      "characteristics": [
+        "Cần cù, chịu khó",
+        "Trọng nghĩa tình",
+        "Tôn trọng truyền thống",
+        "Tinh thần đoàn kết cộng đồng",
+        "Yêu quê hương đất nước"
+      ]
+    },
+    {
+      "id": "tay",
+      "name": "Tày",
+      "otherNames": ["Thổ", "Ngạn", "Phén", "Thù Lao"],
+      "population": 1845000,
+      "regions": ["Cao Bằng", "Lạng Sơn", "Bắc Kạn", "Quảng Ninh", "Hà Giang"],
+      "language": "Tiếng Tày (ngữ hệ Tày-Thái)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Người Tày là dân tộc thiểu số đông nhất Việt Nam, sinh sống chủ yếu ở vùng núi phía Bắc.",
+      "history": "Người Tày có lịch sử lâu đời, di cư từ phía Bắc vào Việt Nam từ nhiều thế kỷ trước.",
+      "culture": {
+        "festivals": ["Lồng Tồng", "Tết Nguyên Đán"],
+        "customs": ["Cưới xin theo tục lệ truyền thống", "Thờ cúng tổ tiên"],
+        "clothing": "Trang phục truyền thống có màu sắc chủ đạo là chàm, với họa tiết thêu tinh xảo.",
+        "cuisine": ["Bánh khảo", "Thịt lợn cắp nách", "Rượu ngô"],
+        "housing": "Nhà sàn truyền thống làm bằng gỗ và tre"
+      },
+      "characteristics": [
+        "Hiền hòa, thân thiện",
+        "Giỏi trồng lúa nước",
+        "Có văn hóa dân ca phong phú"
+      ]
+    },
+    {
+      "id": "thai",
+      "name": "Thái",
+      "population": 1550000,
+      "regions": ["Sơn La", "Điện Biên", "Lai Châu", "Nghệ An"],
+      "language": "Tiếng Thái",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Người Thái có nền văn hóa đặc sắc với nghệ thuật dệt thổ cẩm nổi tiếng.",
+      "history": "Người Thái di cư vào Việt Nam từ thế kỷ 11-12.",
+      "culture": {
+        "festivals": ["Xên Mường", "Xên Bản"],
+        "customs": ["Tục lệ cưới xin", "Lễ cúng mừng nhà mới"],
+        "clothing": "Váy dệt thổ cẩm với họa tiết độc đáo, áo cánh ngắn.",
+        "cuisine": ["Cơm lam", "Thịt trâu gác bếp", "Rượu cần"],
+        "housing": "Nhà sàn cao, mái lợp tranh hoặc ngói"
+      },
+      "characteristics": [
+        "Giỏi dệt thổ cẩm",
+        "Có văn hóa ca múa phong phú",
+        "Yêu thiên nhiên"
+      ]
+    },
+    {
+      "id": "muong",
+      "name": "Mường",
+      "population": 1400000,
+      "regions": ["Hòa Bình", "Phú Thọ", "Thanh Hóa"],
+      "language": "Tiếng Mường",
+      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "images": [],
+      "description": "Người Mường có quan hệ gần gũi với người Kinh về mặt ngôn ngữ và văn hóa.",
+      "history": "Người Mường là một trong những cư dân bản địa lâu đời nhất ở Việt Nam.",
+      "culture": {
+        "festivals": ["Lễ hội Mường", "Tết Nguyên Đán"],
+        "customs": ["Tục thờ cúng tổ tiên", "Lễ cưới truyền thống"],
+        "clothing": "Áo cánh trắng, váy đen, khăn piêu trắng.",
+        "cuisine": ["Cơm lam", "Gà đồi", "Măng rừng"],
+        "housing": "Nhà sàn truyền thống"
+      },
+      "characteristics": [
+        "Cần cù, chất phác",
+        "Giữ gìn văn hóa truyền thống",
+        "Có sử thi Mường độc đáo"
+      ]
+    },
+    {
+      "id": "khmer",
+      "name": "Khmer",
+      "population": 1320000,
+      "regions": ["Sóc Trăng", "Trà Vinh", "Kiên Giang", "An Giang"],
+      "language": "Tiếng Khmer",
+      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "images": [],
+      "description": "Người Khmer ở Việt Nam chủ yếu theo đạo Phật Theravada, có nền văn hóa đặc sắc.",
+      "history": "Người Khmer là cư dân bản địa ở Nam Bộ từ rất lâu đời.",
+      "culture": {
+        "festivals": ["Chol Chnam Thmay (Tết Khmer)", "Ok Om Bok (Lễ hội Trăng)"],
+        "customs": ["Lễ cúng cơm mới", "Lễ Dolta"],
+        "clothing": "Sampot (váy truyền thống), áo bà ba.",
+        "cuisine": ["Bánh tét", "Cá kho", "Bún nước lèo"],
+        "housing": "Nhà sàn hoặc nhà đất, gần chùa"
+      },
+      "characteristics": [
+        "Hiền hòa, hiếu khách",
+        "Tín ngưỡng Phật giáo sâu sắc",
+        "Nghệ thuật múa truyền thống phong phú"
+      ]
+    },
+    {
+      "id": "hmong",
+      "name": "H'Mông",
+      "otherNames": ["Mèo", "Mông"],
+      "population": 1393000,
+      "regions": ["Hà Giang", "Lào Cai", "Cao Bằng", "Sơn La"],
+      "language": "Tiếng H'Mông",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [],
+      "description": "Người H'Mông nổi tiếng với trang phục thổ cẩm rực rỡ và lễ hội Gầu Tào độc đáo.",
+      "history": "Người H'Mông di cư vào Việt Nam từ thế kỷ 18-19.",
+      "culture": {
+        "festivals": ["Gầu Tào", "Tết Nhảy"],
+        "customs": ["Tục bắt vợ", "Lễ cưới truyền thống"],
+        "clothing": "Trang phục thổ cẩm với họa tiết phức tạp, đầy màu sắc.",
+        "cuisine": ["Thắng cố", "Ngô nướng", "Rượu ngô"],
+        "housing": "Nhà đất, mái tranh hoặc ngói"
+      },
+      "characteristics": [
+        "Cần cù, bền bỉ",
+        "Giỏi trồng ngô và dệt vải",
+        "Có văn hóa ca múa đặc sắc"
+      ]
+    }
+  ]
+}
