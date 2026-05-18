@@ -169,7 +169,7 @@ Dân tộc **Kinh** được làm mẫu với đầy đủ thông tin, ảnh, â
 - **TypeScript** - Type safety
 - **React Router** - Navigation
 - **Vite** - Build tool
-- **CSS3** - Styling với gradient và animation
+- **Tailwind CSS v4** - Utility-first CSS framework
 
 ## 📱 Responsive
 
