@@ -25,6 +25,7 @@ const heroSlideLayouts = [
 const HomePage = () => {
   const groups = ethnicGroupsData.groups as EthnicGroup[];
   const heroBackground = groups[0]?.images?.[2] || groups[0]?.thumbnail;
+  const gridBackground = groups[0]?.images?.[1] || heroBackground;
   const heroSlides = useMemo(() => [...groups, ...groups], [groups]);
 
   return (
@@ -134,46 +135,54 @@ const HomePage = () => {
       </section>
 
       {/* Ethnic Groups Grid */}
-      <section className="container mx-auto px-8 py-16">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-          {groups.map((group) => (
-            <Link
-              key={group.id}
-              to={`/dan-toc/${group.id}`}
-              className="group relative overflow-hidden rounded-lg shadow-[0_16px_40px_rgba(19,41,61,0.14)] hover:shadow-[0_22px_52px_rgba(19,41,61,0.24)] transition-all duration-300 aspect-[3/4] bg-[#17324d]"
-            >
-              {/* Image */}
-              <img
-                src={group.thumbnail}
-                alt={group.name}
-                className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
-              />
-              
-              {/* Overlay gradient */}
-              <div className="absolute inset-0 bg-gradient-to-t from-[#13293d]/88 via-[#13293d]/42 to-[#9b2636]/8"></div>
-              
-              {/* Content */}
-              <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
-                <h3 className="text-3xl font-bold mb-2 uppercase tracking-wider">
-                  {group.name}
-                </h3>
-                <p className="text-sm text-[#f6e7ba]">
-                  {group.population.toLocaleString('vi-VN')} người
-                </p>
-                <p className="text-xs text-[#eef4ef]/78 mt-1">
-                  {group.regions[0]}
-                </p>
-              </div>
+      <section className="relative overflow-hidden py-16">
+        <img
+          src={gridBackground}
+          alt=""
+          className="absolute inset-0 h-full w-full object-cover"
+          aria-hidden="true"
+        />
+        <div className="absolute inset-0 bg-[#eef4ef]/88"></div>
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(238,244,239,0.96)_0%,rgba(238,244,239,0.82)_42%,rgba(19,41,61,0.2)_100%)]"></div>
 
-              {/* Hover effect border */}
-              <div className="absolute inset-0 border-4 border-transparent group-hover:border-[#d8aa45] transition-colors duration-300 rounded-lg"></div>
-            </Link>
-          ))}
+        <div className="container relative z-10 mx-auto px-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {groups.map((group) => (
+              <Link
+                key={group.id}
+                to={`/dan-toc/${group.id}`}
+                className="group relative overflow-hidden rounded-lg shadow-[0_16px_40px_rgba(19,41,61,0.14)] hover:shadow-[0_22px_52px_rgba(19,41,61,0.24)] transition-all duration-300 aspect-[3/4] bg-[#17324d]"
+              >
+                {/* Image */}
+                <img
+                  src={group.thumbnail}
+                  alt={group.name}
+                  className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                />
+                
+                {/* Overlay gradient */}
+                <div className="absolute inset-0 bg-gradient-to-t from-[#13293d]/88 via-[#13293d]/42 to-[#9b2636]/8"></div>
+                
+                {/* Content */}
+                <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
+                  <h3 className="text-3xl font-bold mb-2 uppercase tracking-wider transition-colors duration-300 group-hover:text-[#d8aa45] group-focus-visible:text-[#d8aa45]">
+                    {group.name}
+                  </h3>
+                  <p className="text-sm text-[#f6e7ba]">
+                    {group.regions[0]}
+                  </p>
+                </div>
+
+                {/* Hover effect border */}
+                <div className="absolute inset-0 border-4 border-transparent group-hover:border-[#d8aa45] transition-colors duration-300 rounded-lg"></div>
+              </Link>
+            ))}
+          </div>
         </div>
       </section>
 
       {/* Footer */}
-      <footer className="bg-[#13293d] text-[#eef4ef] py-8 mt-16 border-t border-[#d8aa45]/30">
+      <footer className="bg-[#13293d] text-[#eef4ef] py-8 border-t border-[#d8aa45]/30">
         <div className="container mx-auto px-8 text-center">
           <p className="text-sm text-[#eef4ef]/72">
             © 2026 - Sản phẩm sáng tạo môn Chủ nghĩa Khoa học Xã hội
