@@ -6,3 +6,16 @@
   --color-primary-light: #da1e37;
   --color-accent: #ffd700;
 }
+
+@keyframes scroll-vertical {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-50%);
+  }
+}
+
+.animate-scroll-vertical {
+  animation: scroll-vertical 20s linear infinite;
+}

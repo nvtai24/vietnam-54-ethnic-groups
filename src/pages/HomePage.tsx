@@ -9,17 +9,15 @@ const HomePage = () => {
     <div className="min-h-screen bg-gray-50">
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200 overflow-hidden">
-        {/* Decorative sidebar */}
-        <div className="absolute left-0 top-0 bottom-0 w-20 bg-gradient-to-b from-yellow-400 via-red-500 to-blue-600 flex flex-col items-center justify-center gap-8 py-12">
-          {/* Decorative circles/patterns */}
-          <div className="w-12 h-12 rounded-full bg-green-500 opacity-80"></div>
-          <div className="w-12 h-12 rounded-full bg-orange-500 opacity-80"></div>
-          <div className="w-12 h-12 bg-cyan-400 opacity-80 rotate-45"></div>
-          <div className="w-12 h-12 rounded-full bg-green-600 opacity-80"></div>
-          <div className="w-12 h-12 rounded-full bg-blue-500 opacity-80"></div>
-          <div className="w-12 h-12 rounded-full bg-teal-500 opacity-80"></div>
-          <div className="w-12 h-12 bg-red-500 opacity-80 rotate-45"></div>
-          <div className="w-12 h-12 bg-blue-400 opacity-80"></div>
+        {/* Decorative sidebar with scrolling text */}
+        <div className="absolute left-0 top-0 bottom-0 w-20 bg-gradient-to-b from-yellow-400 via-red-500 to-blue-600 flex items-center justify-center overflow-hidden">
+          {/* Vertical scrolling text - duplicated for seamless loop */}
+          <div className="flex flex-col">
+            <div className="animate-scroll-vertical text-white font-bold text-base tracking-widest whitespace-nowrap" 
+                 style={{ writingMode: 'vertical-rl', textOrientation: 'mixed' }}>
+              VIỆT NAM • 54 DÂN TỘC • MỘT TRÁI TIM • ĐOÀN KẾT • ĐA DẠNG • PHÁT TRIỂN • BẢN SẮC • TRUYỀN THỐNG • HIỆN ĐẠI • VIỆT NAM • 54 DÂN TỘC • MỘT TRÁI TIM • ĐOÀN KẾT • ĐA DẠNG • PHÁT TRIỂN • BẢN SẮC • TRUYỀN THỐNG • HIỆN ĐẠI • VIỆT NAM • 54 DÂN TỘC • MỘT TRÁI TIM • ĐOÀN KẾT • ĐA DẠNG • PHÁT TRIỂN • BẢN SẮC • TRUYỀN THỐNG • HIỆN ĐẠI •&nbsp;
+            </div>
+          </div>
         </div>
 
         <div className="container mx-auto px-8 md:px-16 lg:px-24 flex items-center justify-between gap-12 relative z-10">
