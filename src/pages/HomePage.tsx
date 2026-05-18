@@ -1,3 +1,4 @@
+import { useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import ethnicGroupsData from '../data/ethnicGroups.json';
 import type { EthnicGroup } from '../types/EthnicGroup';
@@ -14,9 +15,17 @@ const sidebarWords = [
   'TỰ HÀO',
 ];
 
+const heroSlideLayouts = [
+  { height: '386px', marginTop: '18px' },
+  { height: '424px', marginTop: '48px' },
+  { height: '414px', marginTop: '-10px' },
+  { height: '396px', marginTop: '24px' },
+];
+
 const HomePage = () => {
   const groups = ethnicGroupsData.groups as EthnicGroup[];
   const heroBackground = groups[0]?.images?.[2] || groups[0]?.thumbnail;
+  const heroSlides = useMemo(() => [...groups, ...groups], [groups]);
 
   return (
     <div className="min-h-screen bg-[#eef4ef]">
@@ -74,26 +83,45 @@ const HomePage = () => {
             </div>
           </div>
 
-          {/* Right side - Image collage */}
-          <div className="hidden lg:flex items-center gap-4">
-            {groups.slice(0, 4).map((group, index) => (
+          {/* Right side - Image slider */}
+          <div className="relative hidden lg:block w-[768px] shrink-0">
+            <div className="hero-slider overflow-hidden py-8">
               <div
-                key={group.id}
-                className="relative overflow-hidden rounded-xl shadow-[0_24px_60px_rgba(19,41,61,0.22)] transform hover:scale-105 transition-transform duration-300"
-                style={{
-                  width: '180px',
-                  height: index % 2 === 0 ? '400px' : '350px',
-                  marginTop: index % 2 === 0 ? '0' : '50px'
-                }}
+                className="hero-slider__track"
               >
-                <img
-                  src={group.thumbnail}
-                  alt={group.name}
-                  className="w-full h-full object-cover"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-[#13293d]/58 via-transparent to-transparent"></div>
+                {heroSlides.map((group, index) => {
+                  const slideIndex = index % groups.length;
+                  const isClonedSlide = index >= groups.length;
+
+                  return (
+                    <Link
+                      key={`${group.id}-${index}`}
+                      to={`/dan-toc/${group.id}`}
+                      className="group relative block w-[180px] shrink-0 overflow-hidden rounded-xl bg-[#17324d] shadow-[0_24px_60px_rgba(19,41,61,0.22)] transition-transform duration-300 hover:-translate-y-2 focus:outline-none focus-visible:ring-4 focus-visible:ring-[#d8aa45]/70"
+                      style={heroSlideLayouts[slideIndex % heroSlideLayouts.length]}
+                      aria-hidden={isClonedSlide}
+                      aria-label={`Xem chi tiết dân tộc ${group.name}`}
+                      tabIndex={isClonedSlide ? -1 : undefined}
+                    >
+                      <img
+                        src={group.thumbnail}
+                        alt={group.name}
+                        className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
+                        onError={(event) => {
+                          event.currentTarget.style.opacity = '0';
+                        }}
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-[#13293d]/78 via-[#13293d]/18 to-transparent"></div>
+                      <div className="absolute bottom-0 left-0 right-0 p-4 text-white">
+                        <h3 className="text-xl font-bold uppercase tracking-wide transition-colors duration-300 group-hover:text-[#d8aa45] group-focus-visible:text-[#d8aa45]">
+                          {group.name}
+                        </h3>
+                      </div>
+                    </Link>
+                  );
+                })}
               </div>
-            ))}
+            </div>
           </div>
         </div>
 
