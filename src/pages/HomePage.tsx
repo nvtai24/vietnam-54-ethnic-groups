@@ -2,6 +2,18 @@ import { Link } from 'react-router-dom';
 import ethnicGroupsData from '../data/ethnicGroups.json';
 import type { EthnicGroup } from '../types/EthnicGroup';
 
+const sidebarWords = [
+  'VIỆT NAM',
+  '54 DÂN TỘC',
+  'MỘT TRÁI TIM',
+  'ĐOÀN KẾT',
+  'ĐA DẠNG',
+  'BẢN SẮC',
+  'TRUYỀN THỐNG',
+  'HỘI NHẬP',
+  'TỰ HÀO',
+];
+
 const HomePage = () => {
   const groups = ethnicGroupsData.groups as EthnicGroup[];
 
@@ -10,12 +22,24 @@ const HomePage = () => {
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200 overflow-hidden">
         {/* Decorative sidebar with scrolling text */}
-        <div className="absolute left-0 top-0 bottom-0 w-20 bg-gradient-to-b from-yellow-400 via-red-500 to-blue-600 flex items-center justify-center overflow-hidden">
-          {/* Vertical scrolling text - duplicated for seamless loop */}
-          <div className="flex flex-col">
-            <div className="animate-scroll-vertical text-white font-bold text-base tracking-widest whitespace-nowrap" 
-                 style={{ writingMode: 'vertical-rl', textOrientation: 'mixed' }}>
-              VIỆT NAM • 54 DÂN TỘC • MỘT TRÁI TIM • ĐOÀN KẾT • ĐA DẠNG • PHÁT TRIỂN • BẢN SẮC • TRUYỀN THỐNG • HIỆN ĐẠI • VIỆT NAM • 54 DÂN TỘC • MỘT TRÁI TIM • ĐOÀN KẾT • ĐA DẠNG • PHÁT TRIỂN • BẢN SẮC • TRUYỀN THỐNG • HIỆN ĐẠI • VIỆT NAM • 54 DÂN TỘC • MỘT TRÁI TIM • ĐOÀN KẾT • ĐA DẠNG • PHÁT TRIỂN • BẢN SẮC • TRUYỀN THỐNG • HIỆN ĐẠI •&nbsp;
+        <div
+          className="absolute left-0 top-0 bottom-0 w-16 md:w-20 bg-[#7f1d1d] overflow-hidden shadow-[8px_0_30px_rgba(31,41,55,0.16)]"
+          aria-hidden="true"
+        >
+          <div className="absolute inset-0 bg-[linear-gradient(180deg,#f8d36b_0%,#b91c1c_42%,#12355b_100%)] opacity-95"></div>
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_12%,rgba(255,255,255,0.32),transparent_24%)]"></div>
+
+          <div className="sidebar-marquee relative h-full">
+            <div className="sidebar-marquee__content">
+              {[0, 1].map((trackIndex) => (
+                <div className="sidebar-marquee__track" key={trackIndex}>
+                  {sidebarWords.map((word) => (
+                    <span className="sidebar-marquee__item" key={`${trackIndex}-${word}`}>
+                      {word}
+                    </span>
+                  ))}
+                </div>
+              ))}
             </div>
           </div>
         </div>

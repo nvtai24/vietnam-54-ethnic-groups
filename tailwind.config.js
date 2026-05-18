@@ -19,15 +19,6 @@ export default {
       fontFamily: {
         sans: ['Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif'],
       },
-      animation: {
-        'scroll-vertical': 'scroll-vertical 20s linear infinite',
-      },
-      keyframes: {
-        'scroll-vertical': {
-          '0%': { transform: 'translateY(0)' },
-          '100%': { transform: 'translateY(-50%)' },
-        },
-      },
     },
   },
   plugins: [],
