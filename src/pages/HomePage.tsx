@@ -16,18 +16,28 @@ const sidebarWords = [
 
 const HomePage = () => {
   const groups = ethnicGroupsData.groups as EthnicGroup[];
+  const heroBackground = groups[0]?.images?.[2] || groups[0]?.thumbnail;
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-[#eef4ef]">
       {/* Hero Section */}
-      <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200 overflow-hidden">
+      <section className="relative min-h-screen flex items-center justify-center bg-[#13293d] overflow-hidden">
+        <img
+          src={heroBackground}
+          alt=""
+          className="absolute inset-0 h-full w-full object-cover opacity-95"
+          aria-hidden="true"
+        />
+        <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(238,244,239,0.92)_0%,rgba(238,244,239,0.76)_40%,rgba(19,41,61,0.34)_100%)]"></div>
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(19,41,61,0.2)_0%,rgba(19,41,61,0.05)_38%,rgba(19,41,61,0.42)_100%)]"></div>
+
         {/* Decorative sidebar with scrolling text */}
         <div
-          className="absolute left-0 top-0 bottom-0 w-16 md:w-20 bg-[#7f1d1d] overflow-hidden shadow-[8px_0_30px_rgba(31,41,55,0.16)]"
+          className="absolute left-0 top-0 bottom-0 w-16 md:w-20 bg-[#7c1f2c] overflow-hidden shadow-[8px_0_30px_rgba(19,41,61,0.22)] z-20"
           aria-hidden="true"
         >
-          <div className="absolute inset-0 bg-[linear-gradient(180deg,#f8d36b_0%,#b91c1c_42%,#12355b_100%)] opacity-95"></div>
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_12%,rgba(255,255,255,0.32),transparent_24%)]"></div>
+          <div className="absolute inset-0 bg-[linear-gradient(180deg,#d8aa45_0%,#9b2636_42%,#17324d_100%)] opacity-95"></div>
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_12%,rgba(255,255,255,0.24),transparent_24%)]"></div>
 
           <div className="sidebar-marquee relative h-full">
             <div className="sidebar-marquee__content">
@@ -47,20 +57,20 @@ const HomePage = () => {
         <div className="container mx-auto px-8 md:px-16 lg:px-24 flex items-center justify-between gap-12 relative z-10">
           {/* Left side - Typography */}
           <div className="flex-1 max-w-2xl">
-            <h1 className="text-7xl md:text-8xl lg:text-9xl font-black text-[#1a3a5c] mb-4 leading-none">
+            <h1 className="text-7xl md:text-8xl lg:text-9xl font-black text-[#17324d] mb-4 leading-none drop-shadow-[0_2px_14px_rgba(238,244,239,0.48)]">
               54
             </h1>
-            <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#1a3a5c] mb-2 tracking-wide">
+            <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#17324d] mb-2 tracking-wide drop-shadow-[0_2px_12px_rgba(238,244,239,0.4)]">
               DÂN TỘC
             </h2>
-            <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#1a3a5c] tracking-wide">
+            <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#17324d] tracking-wide drop-shadow-[0_2px_12px_rgba(238,244,239,0.4)]">
               VIỆT NAM
             </h2>
             
             {/* Decorative lines */}
             <div className="mt-8 space-y-2">
-              <div className="h-1 w-32 bg-red-600"></div>
-              <div className="h-1 w-24 bg-yellow-500"></div>
+              <div className="h-1 w-32 bg-[#9b2636]"></div>
+              <div className="h-1 w-24 bg-[#d8aa45]"></div>
             </div>
           </div>
 
@@ -69,7 +79,7 @@ const HomePage = () => {
             {groups.slice(0, 4).map((group, index) => (
               <div
                 key={group.id}
-                className="relative overflow-hidden rounded-2xl shadow-2xl transform hover:scale-105 transition-transform duration-300"
+                className="relative overflow-hidden rounded-xl shadow-[0_24px_60px_rgba(19,41,61,0.22)] transform hover:scale-105 transition-transform duration-300"
                 style={{
                   width: '180px',
                   height: index % 2 === 0 ? '400px' : '350px',
@@ -81,7 +91,7 @@ const HomePage = () => {
                   alt={group.name}
                   className="w-full h-full object-cover"
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+                <div className="absolute inset-0 bg-gradient-to-t from-[#13293d]/58 via-transparent to-transparent"></div>
               </div>
             ))}
           </div>
@@ -89,8 +99,8 @@ const HomePage = () => {
 
         {/* Scroll indicator */}
         <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
-          <div className="w-6 h-10 border-2 border-gray-400 rounded-full flex items-start justify-center p-2">
-            <div className="w-1 h-3 bg-gray-400 rounded-full"></div>
+          <div className="w-6 h-10 border-2 border-[#17324d]/45 rounded-full flex items-start justify-center p-2 bg-[#eef4ef]/35">
+            <div className="w-1 h-3 bg-[#9b2636] rounded-full"></div>
           </div>
         </div>
       </section>
@@ -102,7 +112,7 @@ const HomePage = () => {
             <Link
               key={group.id}
               to={`/dan-toc/${group.id}`}
-              className="group relative overflow-hidden rounded-lg shadow-lg hover:shadow-2xl transition-all duration-300 aspect-[3/4]"
+              className="group relative overflow-hidden rounded-lg shadow-[0_16px_40px_rgba(19,41,61,0.14)] hover:shadow-[0_22px_52px_rgba(19,41,61,0.24)] transition-all duration-300 aspect-[3/4] bg-[#17324d]"
             >
               {/* Image */}
               <img
@@ -112,32 +122,32 @@ const HomePage = () => {
               />
               
               {/* Overlay gradient */}
-              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
+              <div className="absolute inset-0 bg-gradient-to-t from-[#13293d]/88 via-[#13293d]/42 to-[#9b2636]/8"></div>
               
               {/* Content */}
               <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
                 <h3 className="text-3xl font-bold mb-2 uppercase tracking-wider">
                   {group.name}
                 </h3>
-                <p className="text-sm opacity-90">
+                <p className="text-sm text-[#f6e7ba]">
                   {group.population.toLocaleString('vi-VN')} người
                 </p>
-                <p className="text-xs opacity-75 mt-1">
+                <p className="text-xs text-[#eef4ef]/78 mt-1">
                   {group.regions[0]}
                 </p>
               </div>
 
               {/* Hover effect border */}
-              <div className="absolute inset-0 border-4 border-transparent group-hover:border-yellow-400 transition-colors duration-300 rounded-lg"></div>
+              <div className="absolute inset-0 border-4 border-transparent group-hover:border-[#d8aa45] transition-colors duration-300 rounded-lg"></div>
             </Link>
           ))}
         </div>
       </section>
 
       {/* Footer */}
-      <footer className="bg-gray-900 text-white py-8 mt-16">
+      <footer className="bg-[#13293d] text-[#eef4ef] py-8 mt-16 border-t border-[#d8aa45]/30">
         <div className="container mx-auto px-8 text-center">
-          <p className="text-sm opacity-75">
+          <p className="text-sm text-[#eef4ef]/72">
             © 2026 - Sản phẩm sáng tạo môn Chủ nghĩa Khoa học Xã hội
           </p>
         </div>
