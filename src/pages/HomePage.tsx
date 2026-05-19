@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import ethnicGroupsData from '../data/ethnicGroups.json';
 import type { EthnicGroup } from '../types/EthnicGroup';
@@ -27,6 +27,40 @@ const HomePage = () => {
   const heroBackground = groups[0]?.images?.[2] || groups[0]?.thumbnail;
   const gridBackground = groups[0]?.images?.[1] || heroBackground;
   const heroSlides = useMemo(() => [...groups, ...groups], [groups]);
+  const [searchTerm, setSearchTerm] = useState('');
+  const [selectedRegion, setSelectedRegion] = useState('all');
+
+  const regionOptions = useMemo(
+    () => Array.from(new Set(groups.flatMap((group) => group.regions))).sort((a, b) => a.localeCompare(b, 'vi')),
+    [groups]
+  );
+
+  const filteredGroups = useMemo(() => {
+    const normalizedSearch = searchTerm.trim().toLocaleLowerCase('vi-VN');
+
+    return groups.filter((group) => {
+      const searchableText = [
+        group.name,
+        ...(group.otherNames || []),
+        group.language,
+        ...group.regions,
+      ]
+        .join(' ')
+        .toLocaleLowerCase('vi-VN');
+
+      const matchesSearch = !normalizedSearch || searchableText.includes(normalizedSearch);
+      const matchesRegion = selectedRegion === 'all' || group.regions.includes(selectedRegion);
+
+      return matchesSearch && matchesRegion;
+    });
+  }, [groups, searchTerm, selectedRegion]);
+
+  const hasActiveFilters = searchTerm.trim().length > 0 || selectedRegion !== 'all';
+
+  const clearFilters = () => {
+    setSearchTerm('');
+    setSelectedRegion('all');
+  };
 
   return (
     <div className="min-h-screen bg-[#eef4ef]">
@@ -146,12 +180,78 @@ const HomePage = () => {
         <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(238,244,239,0.96)_0%,rgba(238,244,239,0.82)_42%,rgba(19,41,61,0.2)_100%)]"></div>
 
         <div className="container relative z-10 mx-auto px-8">
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {groups.map((group) => (
+          <div className="mb-8 rounded-xl border border-[#d8aa45]/28 bg-[#eef4ef]/88 p-5 shadow-[0_18px_44px_rgba(19,41,61,0.12)] backdrop-blur-md">
+            <div className="flex flex-col gap-5 xl:flex-row xl:items-end xl:justify-between">
+              <div>
+                <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#9b2636]">
+                  Tra cứu dân tộc
+                </p>
+                <h2 className="mt-2 text-3xl font-black text-[#17324d]">
+                  Danh sách 54 dân tộc
+                </h2>
+                <p className="mt-2 text-sm text-[#17324d]/70">
+                  Tìm theo tên, tên gọi khác, khu vực hoặc ngôn ngữ.
+                </p>
+              </div>
+
+              <div className="grid gap-3 md:grid-cols-[minmax(0,1fr)_220px_auto] xl:w-[760px]">
+                <label className="block">
+                  <span className="sr-only">Tìm kiếm dân tộc</span>
+                  <input
+                    type="search"
+                    value={searchTerm}
+                    onChange={(event) => setSearchTerm(event.target.value)}
+                    placeholder="Tìm dân tộc, khu vực, ngôn ngữ..."
+                    className="h-12 w-full rounded-lg border border-[#17324d]/16 bg-white/92 px-4 text-sm font-medium text-[#17324d] shadow-sm outline-none transition focus:border-[#d8aa45] focus:ring-4 focus:ring-[#d8aa45]/20"
+                  />
+                </label>
+
+                <label className="block">
+                  <span className="sr-only">Lọc theo khu vực</span>
+                  <select
+                    value={selectedRegion}
+                    onChange={(event) => setSelectedRegion(event.target.value)}
+                    className="h-12 w-full rounded-lg border border-[#17324d]/16 bg-white/92 px-4 text-sm font-semibold text-[#17324d] shadow-sm outline-none transition focus:border-[#d8aa45] focus:ring-4 focus:ring-[#d8aa45]/20"
+                  >
+                    <option value="all">Tất cả khu vực</option>
+                    {regionOptions.map((region) => (
+                      <option key={region} value={region}>
+                        {region}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+
+                <button
+                  type="button"
+                  onClick={clearFilters}
+                  disabled={!hasActiveFilters}
+                  className="h-12 rounded-lg bg-[#17324d] px-5 text-sm font-bold text-[#eef4ef] transition hover:bg-[#9b2636] disabled:cursor-not-allowed disabled:bg-[#17324d]/24 disabled:text-[#17324d]/45"
+                >
+                  Xóa lọc
+                </button>
+              </div>
+            </div>
+
+            <div className="mt-5 flex flex-wrap items-center gap-3 text-sm font-semibold text-[#17324d]/72">
+              <span className="rounded-full bg-[#17324d]/8 px-4 py-2">
+                Hiển thị {filteredGroups.length}/{groups.length} dân tộc
+              </span>
+              {hasActiveFilters && (
+                <span className="rounded-full bg-[#d8aa45]/20 px-4 py-2 text-[#7c1f2c]">
+                  Đang lọc kết quả
+                </span>
+              )}
+            </div>
+          </div>
+
+          {filteredGroups.length > 0 ? (
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-4">
+              {filteredGroups.map((group) => (
               <Link
                 key={group.id}
                 to={`/dan-toc/${group.id}`}
-                className="group relative overflow-hidden rounded-lg shadow-[0_16px_40px_rgba(19,41,61,0.14)] hover:shadow-[0_22px_52px_rgba(19,41,61,0.24)] transition-all duration-300 aspect-[3/4] bg-[#17324d]"
+                className="group relative overflow-hidden rounded-lg shadow-[0_12px_30px_rgba(19,41,61,0.14)] hover:shadow-[0_18px_42px_rgba(19,41,61,0.24)] transition-all duration-300 aspect-[3/4] bg-[#17324d]"
               >
                 {/* Image */}
                 <img
@@ -164,20 +264,37 @@ const HomePage = () => {
                 <div className="absolute inset-0 bg-gradient-to-t from-[#13293d]/88 via-[#13293d]/42 to-[#9b2636]/8"></div>
                 
                 {/* Content */}
-                <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
-                  <h3 className="text-3xl font-bold mb-2 uppercase tracking-wider transition-colors duration-300 group-hover:text-[#d8aa45] group-focus-visible:text-[#d8aa45]">
+                <div className="absolute bottom-0 left-0 right-0 p-4 text-white">
+                  <h3 className="text-xl font-bold mb-1 uppercase tracking-wide transition-colors duration-300 group-hover:text-[#d8aa45] group-focus-visible:text-[#d8aa45]">
                     {group.name}
                   </h3>
-                  <p className="text-sm text-[#f6e7ba]">
+                  <p className="text-xs text-[#f6e7ba]">
                     {group.regions[0]}
                   </p>
                 </div>
 
                 {/* Hover effect border */}
-                <div className="absolute inset-0 border-4 border-transparent group-hover:border-[#d8aa45] transition-colors duration-300 rounded-lg"></div>
+                <div className="absolute inset-0 border-2 border-transparent group-hover:border-[#d8aa45] transition-colors duration-300 rounded-lg"></div>
               </Link>
-            ))}
-          </div>
+              ))}
+            </div>
+          ) : (
+            <div className="rounded-xl border border-[#d8aa45]/28 bg-[#17324d] px-6 py-14 text-center text-[#eef4ef] shadow-[0_18px_44px_rgba(19,41,61,0.14)]">
+              <p className="text-sm font-bold uppercase tracking-[0.2em] text-[#d8aa45]">
+                Không có kết quả
+              </p>
+              <h3 className="mt-3 text-3xl font-black">
+                Không tìm thấy dân tộc phù hợp
+              </h3>
+              <button
+                type="button"
+                onClick={clearFilters}
+                className="mt-6 rounded-full bg-[#d8aa45] px-6 py-3 text-sm font-bold text-[#17324d] transition hover:bg-[#f6e7ba]"
+              >
+                Xóa bộ lọc
+              </button>
+            </div>
+          )}
         </div>
       </section>
 
