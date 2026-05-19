@@ -1,10 +1,28 @@
-import { useMemo, useState, type SyntheticEvent } from 'react';
-import { Link } from 'react-router-dom';
-import ethnicGroupsData from '../data/ethnicGroups.json';
-import type { EthnicGroup } from '../types/EthnicGroup';
+import { useMemo, useState, type SyntheticEvent } from "react";
+import { Link } from "react-router-dom";
+import ethnicGroupsData from "../data/ethnicGroups.json";
+import type { EthnicGroup } from "../types/EthnicGroup";
 
-const posterWords = ['BẢN SẮC', '54 DÂN TỘC', 'VIỆT NAM', 'ĐOÀN KẾT', 'TRUYỀN THỐNG'];
-const heroYoutubeEmbedUrl = 'https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1';
+const posterWords = [
+  "54 DÂN TỘC ANH EM",
+  "MỘT VIỆT NAM",
+  "BẢN SẮC VÙNG MIỀN",
+  "TRUYỀN THỐNG SỐNG ĐỘNG",
+  "ĐOÀN KẾT CỘNG ĐỒNG",
+  "SẮC MÀU TRANG PHỤC",
+  "TIẾNG NÓI QUÊ HƯƠNG",
+  "LỄ HỘI BỐN MÙA",
+  "NÉT ĐẸP NÚI RỪNG",
+  "VĂN HÓA ĐỒNG BẰNG",
+  "DẤU ẤN CAO NGUYÊN",
+  "KHÔNG GIAN CỒNG CHIÊNG",
+  "CHỢ PHIÊN VÙNG CAO",
+  "NHỊP SỐNG BẢN LÀNG",
+  "DI SẢN CHA ÔNG",
+  "HÀNH TRÌNH KHÁM PHÁ",
+];
+const heroYoutubeEmbedUrl =
+  "https://www.youtube.com/embed/U81DXgr7fUU?autoplay=1&mute=1&loop=1&playlist=U81DXgr7fUU";
 
 const HomePage = () => {
   const groups = ethnicGroupsData.groups as EthnicGroup[];
@@ -12,19 +30,23 @@ const HomePage = () => {
   const heroGroup = groups[0];
   const heroBackground = heroGroup?.images?.[2] || heroGroup?.thumbnail;
   const heroPortrait = heroGroup?.images?.[0] || heroGroup?.thumbnail;
-  const groupsBackground = groups[4]?.thumbnail || groups[3]?.thumbnail || heroBackground;
+  const groupsBackground =
+    groups[4]?.thumbnail || groups[3]?.thumbnail || heroBackground;
   const fallbackImage = heroBackground || heroPortrait;
 
-  const [searchTerm, setSearchTerm] = useState('');
-  const [selectedRegion, setSelectedRegion] = useState('all');
+  const [searchTerm, setSearchTerm] = useState("");
+  const [selectedRegion, setSelectedRegion] = useState("all");
 
   const regionOptions = useMemo(
-    () => Array.from(new Set(groups.flatMap((group) => group.regions))).sort((a, b) => a.localeCompare(b, 'vi')),
-    [groups]
+    () =>
+      Array.from(new Set(groups.flatMap((group) => group.regions))).sort(
+        (a, b) => a.localeCompare(b, "vi"),
+      ),
+    [groups],
   );
 
   const filteredGroups = useMemo(() => {
-    const normalizedSearch = searchTerm.trim().toLocaleLowerCase('vi-VN');
+    const normalizedSearch = searchTerm.trim().toLocaleLowerCase("vi-VN");
 
     return groups.filter((group) => {
       const searchableText = [
@@ -33,21 +55,24 @@ const HomePage = () => {
         group.language,
         ...group.regions,
       ]
-        .join(' ')
-        .toLocaleLowerCase('vi-VN');
+        .join(" ")
+        .toLocaleLowerCase("vi-VN");
 
-      const matchesSearch = !normalizedSearch || searchableText.includes(normalizedSearch);
-      const matchesRegion = selectedRegion === 'all' || group.regions.includes(selectedRegion);
+      const matchesSearch =
+        !normalizedSearch || searchableText.includes(normalizedSearch);
+      const matchesRegion =
+        selectedRegion === "all" || group.regions.includes(selectedRegion);
 
       return matchesSearch && matchesRegion;
     });
   }, [groups, searchTerm, selectedRegion]);
 
-  const hasActiveFilters = searchTerm.trim().length > 0 || selectedRegion !== 'all';
+  const hasActiveFilters =
+    searchTerm.trim().length > 0 || selectedRegion !== "all";
 
   const clearFilters = () => {
-    setSearchTerm('');
-    setSelectedRegion('all');
+    setSearchTerm("");
+    setSelectedRegion("all");
   };
 
   const handleImageFallback = (event: SyntheticEvent<HTMLImageElement>) => {
@@ -56,7 +81,7 @@ const HomePage = () => {
       return;
     }
 
-    event.currentTarget.style.opacity = '0';
+    event.currentTarget.style.opacity = "0";
   };
 
   return (
@@ -79,7 +104,10 @@ const HomePage = () => {
               <p>Vietnam 54 Ethnic Groups</p>
               <p className="mt-1 text-[#b0160b]">Digital culture archive</p>
             </div>
-            <nav className="hidden items-center gap-5 sm:flex" aria-label="Homepage sections">
+            <nav
+              className="hidden items-center gap-5 sm:flex"
+              aria-label="Homepage sections"
+            >
               <a href="#explore" className="transition hover:text-[#b0160b]">
                 Khám phá
               </a>
@@ -92,7 +120,9 @@ const HomePage = () => {
           <div className="relative z-20 grid flex-1 items-center gap-10 py-12 lg:grid-cols-[minmax(0,1fr)_minmax(440px,620px)] lg:gap-14 lg:py-8">
             <div className="max-w-[820px]">
               <div className="mb-6 flex flex-wrap items-center gap-3 text-[0.68rem] font-black uppercase leading-none text-[#b0160b]">
-                <span className="border-2 border-[#b0160b] px-3 py-2">54 dân tộc</span>
+                <span className="border-2 border-[#b0160b] px-3 py-2">
+                  54 dân tộc
+                </span>
                 <span className="h-[2px] w-16 bg-[#b0160b]"></span>
                 <span>Digital culture archive</span>
               </div>
@@ -103,11 +133,13 @@ const HomePage = () => {
 
               <div className="mt-8 grid gap-5 border-l-4 border-[#b0160b] pl-5 md:grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)] md:items-end">
                 <p className="text-sm font-black uppercase leading-[0.95] text-[#15110f] sm:text-base">
-                  Một bản đồ văn hóa sống động của các cộng đồng trên dải đất hình chữ S.
+                  Một bản đồ văn hóa sống động của các cộng đồng trên dải đất
+                  hình chữ S.
                 </p>
                 <div className="md:text-right">
                   <p className="text-sm font-black uppercase leading-[0.95] text-[#15110f] sm:text-base">
-                    Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng dân tộc.
+                    Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng
+                    dân tộc.
                   </p>
                   <a
                     href="#groups"
@@ -150,12 +182,14 @@ const HomePage = () => {
                     </>
                   )}
                 </div>
-                <div className="mt-2 flex items-center justify-between gap-4 border-2 border-[#b0160b] px-3 py-2">
-                  <div className="bg-[#b0160b] px-3 py-2 text-2xl font-black leading-none text-[#f8f4ec]">
-                    54
-                  </div>
-                  <div className="flex-1 text-right text-[0.68rem] font-black uppercase leading-none text-[#15110f]">
-                    Bản sắc, truyền thống, đoàn kết
+                <div
+                  className="mt-2 overflow-hidden border-2 border-[#b0160b] bg-[#b0160b] py-3 text-[0.74rem] font-black uppercase leading-none text-[#f8f4ec]"
+                  aria-label="54 dân tộc anh em, một Việt Nam"
+                >
+                  <div className="poster-marquee flex w-max gap-5">
+                    {[...posterWords, ...posterWords].map((word, index) => (
+                      <span key={`video-${word}-${index}`}>{word}</span>
+                    ))}
                   </div>
                 </div>
               </div>
@@ -164,29 +198,30 @@ const HomePage = () => {
 
           <div className="relative z-20 flex items-end justify-between gap-6 text-[0.62rem] font-black uppercase leading-none text-[#15110f]">
             <p>Since 2026</p>
-            <div className="hidden max-w-[520px] overflow-hidden md:block">
-              <div className="poster-marquee flex w-max gap-5">
-                {[...posterWords, ...posterWords].map((word, index) => (
-                  <span key={`${word}-${index}`}>{word}</span>
-                ))}
-              </div>
-            </div>
             <p>vietnam-54ethnic-groups</p>
           </div>
         </div>
       </section>
 
-      <section id="explore" className="relative isolate overflow-hidden bg-[#7f1008] px-6 py-10 text-[#f8f4ec] sm:px-10">
+      <section
+        id="explore"
+        className="relative isolate overflow-hidden bg-[#7f1008] px-6 py-10 text-[#f8f4ec] sm:px-10"
+      >
         <div className="paper-grain absolute inset-0 opacity-35"></div>
 
         <div className="relative z-10 mx-auto grid max-w-[1280px] gap-6 md:grid-cols-[0.72fr_1.28fr] md:items-center">
           <div>
-            <p className="text-xs font-black uppercase tracking-[0.18em] text-[#f8f4ec]/70">Tiêu điểm</p>
+            <p className="text-xs font-black uppercase tracking-[0.18em] text-[#f8f4ec]/70">
+              Tiêu điểm
+            </p>
             <h2 className="mt-2 max-w-[520px] text-4xl font-black uppercase leading-[0.88] tracking-normal sm:text-6xl">
               Bản sắc trong từng miền đất
             </h2>
           </div>
-          <div className="ethnic-carousel overflow-hidden border-y border-[#f8f4ec]/42 py-2" aria-label="Carousel các dân tộc">
+          <div
+            className="ethnic-carousel overflow-hidden border-y border-[#f8f4ec]/42 py-2"
+            aria-label="Carousel các dân tộc"
+          >
             <div className="ethnic-carousel-track flex w-max gap-3">
               {carouselGroups.map((group, index) => {
                 const isDuplicate = index >= groups.length;
@@ -194,7 +229,7 @@ const HomePage = () => {
 
                 return (
                   <Link
-                    key={`${group.id}-${isDuplicate ? 'duplicate' : 'original'}`}
+                    key={`${group.id}-${isDuplicate ? "duplicate" : "original"}`}
                     to={`/dan-toc/${group.id}`}
                     aria-hidden={isDuplicate}
                     tabIndex={isDuplicate ? -1 : undefined}
@@ -210,7 +245,7 @@ const HomePage = () => {
                     </div>
                     <div className="p-4">
                       <p className="text-[0.64rem] font-black uppercase tracking-[0.16em] text-[#b0160b] group-hover:text-[#f8f4ec]/72">
-                        {String(groupNumber).padStart(2, '0')}
+                        {String(groupNumber).padStart(2, "0")}
                       </p>
                       <h3 className="mt-2 text-2xl font-black uppercase leading-none tracking-normal">
                         {group.name}
@@ -224,7 +259,10 @@ const HomePage = () => {
         </div>
       </section>
 
-      <section id="groups" className="relative isolate overflow-hidden bg-[#f8f4ec] px-6 py-12 sm:px-10">
+      <section
+        id="groups"
+        className="relative isolate overflow-hidden bg-[#f8f4ec] px-6 py-12 sm:px-10"
+      >
         <img
           src={groupsBackground}
           alt=""
@@ -236,7 +274,9 @@ const HomePage = () => {
         <div className="relative z-10 mx-auto max-w-[1280px]">
           <div className="mb-8 grid gap-6 border-y-2 border-[#b0160b] py-6 lg:grid-cols-[0.8fr_1.2fr] lg:items-end">
             <div>
-              <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">Tra cứu dân tộc</p>
+              <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
+                Tra cứu dân tộc
+              </p>
               <h2 className="mt-3 text-4xl font-black uppercase leading-[0.88] tracking-normal text-[#b0160b] sm:text-6xl">
                 Danh sách 54 dân tộc
               </h2>
@@ -283,9 +323,15 @@ const HomePage = () => {
 
           <div className="mb-6 flex flex-wrap items-center justify-between gap-3 text-xs font-black uppercase tracking-[0.13em] text-[#15110f]">
             <span>
-              Hiển thị <span className="text-[#b0160b]">{filteredGroups.length}</span>/{groups.length} dân tộc
+              Hiển thị{" "}
+              <span className="text-[#b0160b]">{filteredGroups.length}</span>/
+              {groups.length} dân tộc
             </span>
-            {hasActiveFilters && <span className="bg-[#b0160b] px-3 py-2 text-[#f8f4ec]">Đang lọc kết quả</span>}
+            {hasActiveFilters && (
+              <span className="bg-[#b0160b] px-3 py-2 text-[#f8f4ec]">
+                Đang lọc kết quả
+              </span>
+            )}
           </div>
 
           {filteredGroups.length > 0 ? (
@@ -305,7 +351,7 @@ const HomePage = () => {
                     />
                     <div className="absolute inset-0 bg-[linear-gradient(180deg,transparent_35%,rgba(21,17,15,0.72)_100%)]"></div>
                     <span className="absolute left-3 top-3 bg-[#b0160b] px-2 py-1 text-[0.62rem] font-black text-[#f8f4ec]">
-                      {String(index + 1).padStart(2, '0')}
+                      {String(index + 1).padStart(2, "0")}
                     </span>
                     <div className="absolute bottom-0 left-0 right-0 p-4 text-[#f8f4ec]">
                       <h3 className="text-2xl font-black uppercase leading-none tracking-normal">
@@ -321,7 +367,9 @@ const HomePage = () => {
             </div>
           ) : (
             <div className="border-2 border-[#b0160b] bg-white px-6 py-14 text-center text-[#15110f]">
-              <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">Không có kết quả</p>
+              <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
+                Không có kết quả
+              </p>
               <h3 className="mt-3 text-3xl font-black uppercase leading-none tracking-normal">
                 Không tìm thấy dân tộc phù hợp
               </h3>
