@@ -3,12 +3,34 @@ import { Link, useParams } from "react-router-dom";
 import ethnicGroupsData from "../data/ethnicGroups.json";
 import type { EthnicGroup } from "../types/EthnicGroup";
 
+const generalCultureVideo = {
+  title: "Tư liệu văn hóa 54 dân tộc Việt Nam",
+  url: "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1",
+  description:
+    "Một góc nhìn tổng quan về đời sống, trang phục và bản sắc của các cộng đồng dân tộc Việt Nam.",
+};
+
+const getLifeItemImage = (sectionTitle: string, item: string) => {
+  const sectionKeyword =
+    sectionTitle === "Lễ hội"
+      ? "festival"
+      : sectionTitle === "Ẩm thực"
+        ? "food"
+        : "culture";
+  const query = encodeURIComponent(`${item} ${sectionKeyword} Vietnam`);
+
+  return `https://source.unsplash.com/900x700/?${query}`;
+};
+
 const DetailPage = () => {
   const { id } = useParams<{ id: string }>();
-  const group = (ethnicGroupsData.groups as EthnicGroup[]).find(
-    (item) => item.id === id,
-  );
+  const groups = ethnicGroupsData.groups as EthnicGroup[];
+  const group = groups.find((item) => item.id === id);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [hoveredLifeImage, setHoveredLifeImage] = useState<{
+    image: string;
+    section: string;
+  } | null>(null);
 
   const allImages = useMemo(() => {
     if (!group) {
@@ -49,6 +71,10 @@ const DetailPage = () => {
   const accentImage = allImages[(currentImageIndex + 3) % allImages.length] || sideImage;
   const galleryImages = allImages.slice(0, 6);
   const hasGallery = allImages.length > 1;
+  const videosToShow =
+    group.videos && group.videos.length > 0
+      ? group.videos
+      : [generalCultureVideo];
 
   const infoStats = [
     ["Dân số", `${group.population.toLocaleString("vi-VN")} người`],
@@ -286,43 +312,112 @@ const DetailPage = () => {
         </div>
       </section>
 
-      <section className="bg-[#b0160b] px-6 py-14 text-[#f8f4ec] sm:px-10">
+      <section className="bg-[#b0160b] px-6 py-12 text-[#f8f4ec] sm:px-10">
         <div className="mx-auto max-w-[1280px]">
-          <div className="grid gap-5 lg:grid-cols-[0.72fr_1.28fr] lg:items-end">
+          <div className="grid gap-5 lg:grid-cols-[360px_minmax(0,1fr)] lg:items-end">
             <div>
               <p className="text-xs font-black uppercase tracking-[0.18em] text-[#f8f4ec]/72">
                 Đời sống
               </p>
-              <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] sm:text-7xl">
-                Lễ hội, phong tục, ẩm thực
+              <h2 className="mt-3 text-3xl font-black uppercase leading-tight sm:text-5xl">
+                Lễ hội, phong tục và ẩm thực
               </h2>
             </div>
-            <p className="max-w-[680px] text-base font-bold leading-7 text-[#f8f4ec]/86">
-              Các thực hành văn hóa được nhóm theo từng chủ đề để dễ quét nhanh
-              và vẫn giữ được chiều sâu khi đọc chi tiết.
+            <p className="max-w-[760px] text-base font-bold leading-7 text-[#f8f4ec]/86">
+              Những nét sinh hoạt quen thuộc giúp nhận ra nhịp sống riêng của
+              cộng đồng, từ mùa lễ hội đến bữa ăn và nếp ứng xử hằng ngày.
             </p>
           </div>
 
           <div className="mt-10 grid gap-4 md:grid-cols-3">
-            {lifeSections.map(([title, items]) => (
-              <article key={title as string} className="bg-[#f8f4ec] text-[#15110f]">
-                <div className="border-b-2 border-[#b0160b] px-5 py-4">
-                  <h3 className="text-3xl font-black uppercase leading-none">
-                    {title as string}
-                  </h3>
-                </div>
-                <ul className="p-5 text-sm font-bold leading-6">
-                  {(items as string[]).map((item) => (
-                    <li
-                      key={item}
-                      className="border-b border-[#15110f]/18 py-3 last:border-b-0"
-                    >
-                      {item}
-                    </li>
-                  ))}
-                </ul>
-              </article>
-            ))}
+            {lifeSections.map(([title, items]) => {
+              const sectionTitle = title as string;
+              const activeImage =
+                hoveredLifeImage?.section === sectionTitle
+                  ? hoveredLifeImage.image
+                  : "";
+
+              return (
+                <article
+                  key={sectionTitle}
+                  className="relative isolate overflow-hidden border-2 border-[#f8f4ec] bg-[#f8f4ec] text-[#15110f] transition duration-300"
+                  onMouseLeave={() => setHoveredLifeImage(null)}
+                  style={
+                    activeImage
+                      ? {
+                          backgroundImage: `url("${activeImage}")`,
+                          backgroundPosition: "center",
+                          backgroundSize: "cover",
+                        }
+                      : undefined
+                  }
+                >
+                  {activeImage && (
+                    <>
+                      <div className="absolute inset-0 z-0 bg-[#15110f]/56"></div>
+                      <div className="paper-grain absolute inset-0 z-0 opacity-35"></div>
+                    </>
+                  )}
+                  <div
+                    className={`relative z-10 border-b-2 px-5 py-4 transition ${
+                      activeImage
+                        ? "border-[#f8f4ec]/72 text-[#f8f4ec]"
+                        : "border-[#b0160b]"
+                    }`}
+                  >
+                    <h3 className="text-3xl font-black uppercase leading-none">
+                      {sectionTitle}
+                    </h3>
+                  </div>
+                  <ul
+                    className={`relative z-10 p-5 text-sm font-bold leading-6 transition ${
+                      activeImage ? "text-[#f8f4ec]" : ""
+                    }`}
+                  >
+                    {(items as string[]).map((item) => (
+                      <li
+                        key={item}
+                        className={`border-b py-1 last:border-b-0 ${
+                          activeImage
+                            ? "border-[#f8f4ec]/28"
+                            : "border-[#15110f]/18"
+                        }`}
+                      >
+                        <button
+                          type="button"
+                          onClick={() =>
+                            setHoveredLifeImage({
+                              image: getLifeItemImage(sectionTitle, item),
+                              section: sectionTitle,
+                            })
+                          }
+                          onBlur={() => setHoveredLifeImage(null)}
+                          onFocus={() =>
+                            setHoveredLifeImage({
+                              image: getLifeItemImage(sectionTitle, item),
+                              section: sectionTitle,
+                            })
+                          }
+                          onMouseEnter={() =>
+                            setHoveredLifeImage({
+                              image: getLifeItemImage(sectionTitle, item),
+                              section: sectionTitle,
+                            })
+                          }
+                          className={`block w-full px-2 py-3 text-left font-bold transition ${
+                            activeImage
+                              ? "hover:bg-[#f8f4ec]/14 focus-visible:bg-[#f8f4ec]/14"
+                              : "hover:bg-[#b0160b] hover:text-[#f8f4ec] focus-visible:bg-[#b0160b] focus-visible:text-[#f8f4ec]"
+                          } focus:outline-none`}
+                        >
+                          {item}
+                        </button>
+                      </li>
+                    ))}
+                  </ul>
+                </article>
+              );
+            })}
           </div>
         </div>
       </section>
@@ -351,64 +446,45 @@ const DetailPage = () => {
         </div>
       </section>
 
-      {((group.music && group.music.length > 0) ||
-        (group.videos && group.videos.length > 0)) && (
-        <section className="bg-[#15110f] px-6 py-14 text-[#f8f4ec] sm:px-10">
-          <div className="mx-auto max-w-[1280px]">
-            <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
-              Tư liệu nghe nhìn
+      <section className="relative overflow-hidden bg-[#efe2cd] px-6 py-14 sm:px-10">
+        <div className="paper-grain absolute inset-0 opacity-35"></div>
+        <div className="relative z-10 mx-auto max-w-[1280px]">
+          <div className="grid gap-5 lg:grid-cols-[0.7fr_1.3fr] lg:items-end">
+            <div>
+              <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
+                Video tư liệu
+              </p>
+              <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] text-[#b0160b] sm:text-7xl">
+                Sắc màu văn hóa
+              </h2>
+            </div>
+            <p className="max-w-[680px] text-base font-bold leading-7">
+              Một đoạn video tư liệu giúp người xem cảm nhận rõ hơn về đời
+              sống, trang phục và không gian văn hóa của cộng đồng.
             </p>
-            <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] sm:text-7xl">
-              Âm nhạc và video
-            </h2>
-
-            {group.music && group.music.length > 0 && (
-              <div className="mt-10 grid gap-4 md:grid-cols-2">
-                {group.music.map((music) => (
-                  <article key={music.title} className="border-2 border-[#f8f4ec]/24 p-5">
-                    <h3 className="text-2xl font-black uppercase leading-none">
-                      {music.title}
-                    </h3>
-                    <p className="mt-3 text-sm font-bold leading-6 text-[#f8f4ec]/70">
-                      {music.description}
-                    </p>
-                    <audio controls className="mt-5 w-full">
-                      <source src={music.url} type="audio/mpeg" />
-                      Trình duyệt của bạn không hỗ trợ phát âm thanh.
-                    </audio>
-                  </article>
-                ))}
-              </div>
-            )}
-
-            {group.videos && group.videos.length > 0 && (
-              <div className="mt-5 grid gap-4 lg:grid-cols-2">
-                {group.videos.map((video) => (
-                  <article key={video.title} className="bg-[#f8f4ec] text-[#15110f]">
-                    <div className="relative aspect-video overflow-hidden">
-                      <iframe
-                        src={video.url}
-                        title={video.title}
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowFullScreen
-                        className="absolute inset-0 h-full w-full"
-                      ></iframe>
-                    </div>
-                    <div className="p-5">
-                      <h3 className="text-2xl font-black uppercase leading-none">
-                        {video.title}
-                      </h3>
-                      <p className="mt-3 text-sm font-bold leading-6 text-[#15110f]/70">
-                        {video.description}
-                      </p>
-                    </div>
-                  </article>
-                ))}
-              </div>
-            )}
           </div>
-        </section>
-      )}
+
+          <article className="mt-10 overflow-hidden border-2 border-[#15110f] bg-[#f8f4ec] text-[#15110f]">
+            <div className="relative aspect-video overflow-hidden bg-[#15110f]">
+              <iframe
+                src={videosToShow[0].url}
+                title={videosToShow[0].title}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                className="absolute inset-0 h-full w-full"
+              ></iframe>
+            </div>
+            <div className="p-5">
+              <h3 className="text-2xl font-black uppercase leading-tight">
+                {videosToShow[0].title}
+              </h3>
+              <p className="mt-3 text-sm font-bold leading-6 text-[#15110f]/70">
+                {videosToShow[0].description}
+              </p>
+            </div>
+          </article>
+        </div>
+      </section>
 
       <footer className="border-t-2 border-[#b0160b] bg-[#f8f4ec] px-6 py-8 text-center sm:px-10">
         <Link
