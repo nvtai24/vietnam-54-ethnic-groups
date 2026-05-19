@@ -4,6 +4,7 @@ import ethnicGroupsData from '../data/ethnicGroups.json';
 import type { EthnicGroup } from '../types/EthnicGroup';
 
 const posterWords = ['BẢN SẮC', '54 DÂN TỘC', 'VIỆT NAM', 'ĐOÀN KẾT', 'TRUYỀN THỐNG'];
+const heroYoutubeEmbedUrl = 'https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1';
 
 const HomePage = () => {
   const groups = ethnicGroupsData.groups as EthnicGroup[];
@@ -11,6 +12,7 @@ const HomePage = () => {
   const heroGroup = groups[0];
   const heroBackground = heroGroup?.images?.[2] || heroGroup?.thumbnail;
   const heroPortrait = heroGroup?.images?.[0] || heroGroup?.thumbnail;
+  const groupsBackground = groups[4]?.thumbnail || groups[3]?.thumbnail || heroBackground;
   const fallbackImage = heroBackground || heroPortrait;
 
   const [searchTerm, setSearchTerm] = useState('');
@@ -59,16 +61,17 @@ const HomePage = () => {
 
   return (
     <div className="min-h-screen bg-[#f6f2ea] text-[#15110f]">
-      <section className="relative isolate overflow-hidden border-[14px] border-[#f6f2ea] bg-[#f8f4ec] min-h-screen">
-        <div className="paper-grain absolute inset-0"></div>
-        <div className="absolute inset-x-5 top-5 bottom-5 border-2 border-[#b0160b] sm:inset-x-7 sm:top-7 sm:bottom-7"></div>
+      <section className="relative isolate min-h-screen overflow-hidden bg-[#15110f]">
         <img
           src={heroBackground}
           alt=""
-          className="absolute inset-0 h-full w-full object-cover opacity-[0.11] saturate-0 contrast-125"
+          className="absolute inset-0 h-full w-full scale-105 object-cover opacity-58 saturate-100 contrast-105"
           aria-hidden="true"
         />
-        <div className="absolute inset-0 bg-[#f8f4ec]/80"></div>
+        <div className="absolute inset-0 bg-[#15110f]/25"></div>
+        <div className="absolute inset-0 bg-[#f3dfbd]/50"></div>
+        <div className="paper-grain absolute inset-0"></div>
+        <div className="absolute inset-x-5 top-5 bottom-5 border-2 border-[#b0160b]/80 sm:inset-x-7 sm:top-7 sm:bottom-7"></div>
 
         <div className="relative z-10 mx-auto flex min-h-screen w-full max-w-[1440px] flex-col px-8 py-10 sm:px-12 lg:px-16">
           <header className="relative z-20 flex items-start justify-between gap-6 text-[0.68rem] font-black uppercase leading-none tracking-normal text-[#15110f]">
@@ -86,7 +89,7 @@ const HomePage = () => {
             </nav>
           </header>
 
-          <div className="relative z-20 grid flex-1 items-center gap-10 py-12 lg:grid-cols-[minmax(0,1fr)_minmax(340px,430px)] lg:gap-14 lg:py-8">
+          <div className="relative z-20 grid flex-1 items-center gap-10 py-12 lg:grid-cols-[minmax(0,1fr)_minmax(440px,620px)] lg:gap-14 lg:py-8">
             <div className="max-w-[820px]">
               <div className="mb-6 flex flex-wrap items-center gap-3 text-[0.68rem] font-black uppercase leading-none text-[#b0160b]">
                 <span className="border-2 border-[#b0160b] px-3 py-2">54 dân tộc</span>
@@ -116,26 +119,42 @@ const HomePage = () => {
               </div>
             </div>
 
-            <div className="relative justify-self-center lg:justify-self-end">
-              <div className="absolute -right-5 top-8 hidden h-[82%] w-20 rotate-3 bg-[#b0160b] shadow-[0_16px_32px_rgba(176,22,11,0.2)] sm:block"></div>
-              <div className="relative w-full max-w-[380px] border-2 border-[#15110f] bg-[#f8f4ec] p-3 shadow-[0_24px_70px_rgba(21,17,15,0.2)] sm:max-w-[420px]">
-                <div className="mb-3 flex items-center justify-between text-[0.62rem] font-black uppercase leading-none text-[#15110f]">
-                  <span>Dân tộc anh em</span>
-                  <span className="text-[#b0160b]">Since 2026</span>
+            <div className="relative w-full justify-self-center lg:justify-self-end">
+              <div className="absolute -right-4 top-6 hidden h-[82%] w-16 rotate-2 bg-[#b0160b] shadow-[0_16px_32px_rgba(176,22,11,0.18)] sm:block"></div>
+              <div className="relative w-full max-w-[620px] border-2 border-[#15110f] bg-[#f8f4ec]/95 p-2 shadow-[0_24px_70px_rgba(21,17,15,0.18)]">
+                <div className="flex items-center justify-between border-b-2 border-[#15110f] px-3 py-2 text-[0.62rem] font-black uppercase leading-none text-[#15110f]">
+                  <span>Video tư liệu</span>
+                  <span className="text-[#b0160b]">54 dân tộc anh em</span>
                 </div>
-                <div className="aspect-[4/5] overflow-hidden bg-[#15110f]">
-                  <img
-                    src={heroPortrait}
-                    alt="Phong cảnh Việt Nam"
-                    className="h-full w-full object-cover grayscale-[12%] contrast-110"
-                    onError={handleImageFallback}
-                  />
+                <div className="relative mt-2 aspect-video overflow-hidden border-2 border-[#b0160b] bg-[#15110f]">
+                  {heroYoutubeEmbedUrl ? (
+                    <iframe
+                      src={heroYoutubeEmbedUrl}
+                      title="Video giới thiệu văn hóa các dân tộc Việt Nam"
+                      className="absolute inset-0 h-full w-full"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                      allowFullScreen
+                    />
+                  ) : (
+                    <>
+                      <img
+                        src={heroPortrait}
+                        alt="Phong cảnh Việt Nam"
+                        className="h-full w-full object-cover grayscale-[12%] contrast-110"
+                        onError={handleImageFallback}
+                      />
+                      <div className="absolute inset-0 bg-[#15110f]/28"></div>
+                      <div className="absolute left-1/2 top-1/2 grid h-16 w-16 -translate-x-1/2 -translate-y-1/2 place-items-center border-2 border-[#f8f4ec] bg-[#b0160b] text-2xl font-black leading-none text-[#f8f4ec]">
+                        Play
+                      </div>
+                    </>
+                  )}
                 </div>
-                <div className="mt-3 grid grid-cols-[88px_1fr] border-2 border-[#b0160b]">
-                  <div className="bg-[#b0160b] px-4 py-3 text-center text-4xl font-black leading-none text-[#f8f4ec]">
+                <div className="mt-2 flex items-center justify-between gap-4 border-2 border-[#b0160b] px-3 py-2">
+                  <div className="bg-[#b0160b] px-3 py-2 text-2xl font-black leading-none text-[#f8f4ec]">
                     54
                   </div>
-                  <div className="flex items-center px-4 text-xs font-black uppercase leading-none text-[#15110f]">
+                  <div className="flex-1 text-right text-[0.68rem] font-black uppercase leading-none text-[#15110f]">
                     Bản sắc, truyền thống, đoàn kết
                   </div>
                 </div>
@@ -157,8 +176,10 @@ const HomePage = () => {
         </div>
       </section>
 
-      <section id="explore" className="bg-[#b0160b] px-6 py-10 text-[#f8f4ec] sm:px-10">
-        <div className="mx-auto grid max-w-[1280px] gap-6 md:grid-cols-[0.72fr_1.28fr] md:items-center">
+      <section id="explore" className="relative isolate overflow-hidden bg-[#7f1008] px-6 py-10 text-[#f8f4ec] sm:px-10">
+        <div className="paper-grain absolute inset-0 opacity-35"></div>
+
+        <div className="relative z-10 mx-auto grid max-w-[1280px] gap-6 md:grid-cols-[0.72fr_1.28fr] md:items-center">
           <div>
             <p className="text-xs font-black uppercase tracking-[0.18em] text-[#f8f4ec]/70">Tiêu điểm</p>
             <h2 className="mt-2 max-w-[520px] text-4xl font-black uppercase leading-[0.88] tracking-normal sm:text-6xl">
@@ -203,8 +224,15 @@ const HomePage = () => {
         </div>
       </section>
 
-      <section id="groups" className="relative overflow-hidden bg-[#f8f4ec] px-6 py-12 sm:px-10">
-        <div className="paper-grain absolute inset-0"></div>
+      <section id="groups" className="relative isolate overflow-hidden bg-[#f8f4ec] px-6 py-12 sm:px-10">
+        <img
+          src={groupsBackground}
+          alt=""
+          className="absolute inset-0 h-full w-full object-cover saturate-110 contrast-105"
+          aria-hidden="true"
+        />
+        <div className="absolute inset-0 bg-[#f3dfbd]/82"></div>
+        <div className="paper-grain absolute inset-0 opacity-40"></div>
         <div className="relative z-10 mx-auto max-w-[1280px]">
           <div className="mb-8 grid gap-6 border-y-2 border-[#b0160b] py-6 lg:grid-cols-[0.8fr_1.2fr] lg:items-end">
             <div>
