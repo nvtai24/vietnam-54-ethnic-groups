@@ -26,11 +26,11 @@ const heroYoutubeEmbedUrl =
 
 const homepageImages = {
   heroBackground:
-    "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=1600",
+    "https://bcp.cdnchinhphu.vn/334894974524682240/2023/10/10/cacdantoc-16969037990481671125584.jpg",
   videoFallback:
-    "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=1200",
+    "https://www.kidsup.net/wp-content/uploads/2025/09/cac-dan-toc-tren-dat-nuoc-viet-nam.jpg",
   groupsBackground:
-    "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=1600",
+    "https://ttgdtxtanyen.bacninh.edu.vn/upload/39331/20250425/12_005ad.png",
 };
 
 const HomePage = () => {
