@@ -22,7 +22,7 @@ const posterWords = [
   "HÀNH TRÌNH KHÁM PHÁ",
 ];
 const heroYoutubeEmbedUrl =
-  "https://www.youtube.com/embed/U81DXgr7fUU?autoplay=1&mute=1&loop=1&playlist=U81DXgr7fUU";
+  "https://www.youtube.com/embed/TY48IDOxLx8?autoplay=0&mute=0&loop=1&playlist=TY48IDOxLx8";
 
 const HomePage = () => {
   const groups = ethnicGroupsData.groups as EthnicGroup[];

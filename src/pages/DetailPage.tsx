@@ -1,30 +1,14 @@
 import { useMemo, useState, type SyntheticEvent } from "react";
 import { Link, useParams } from "react-router-dom";
 import ethnicGroupsData from "../data/ethnicGroups.json";
-import type { EthnicGroup } from "../types/EthnicGroup";
+import type { EthnicGroupsData } from "../types/EthnicGroup";
 
-const generalCultureVideo = {
-  title: "Tư liệu văn hóa 54 dân tộc Việt Nam",
-  url: "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1",
-  description:
-    "Một góc nhìn tổng quan về đời sống, trang phục và bản sắc của các cộng đồng dân tộc Việt Nam.",
-};
-
-const getLifeItemImage = (sectionTitle: string, item: string) => {
-  const sectionKeyword =
-    sectionTitle === "Lễ hội"
-      ? "festival"
-      : sectionTitle === "Ẩm thực"
-        ? "food"
-        : "culture";
-  const query = encodeURIComponent(`${item} ${sectionKeyword} Vietnam`);
-
-  return `https://source.unsplash.com/900x700/?${query}`;
-};
+const data = ethnicGroupsData as EthnicGroupsData;
 
 const DetailPage = () => {
   const { id } = useParams<{ id: string }>();
-  const groups = ethnicGroupsData.groups as EthnicGroup[];
+  const groups = data.groups;
+  const detailPage = data.detailPage;
   const group = groups.find((item) => item.id === id);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [hoveredLifeImage, setHoveredLifeImage] = useState<{
@@ -48,16 +32,16 @@ const DetailPage = () => {
         <div className="paper-grain absolute inset-0"></div>
         <div className="relative z-10 max-w-xl border-2 border-[#b0160b] bg-[#f8f4ec] p-8">
           <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
-            Không tìm thấy
+            {detailPage.notFound.eyebrow}
           </p>
           <h1 className="mt-4 text-4xl font-black uppercase leading-none text-[#b0160b]">
-            Không tìm thấy thông tin dân tộc
+            {detailPage.notFound.title}
           </h1>
           <Link
             to="/"
             className="mt-8 inline-flex border-2 border-[#b0160b] bg-[#b0160b] px-6 py-3 text-xs font-black uppercase tracking-[0.13em] text-[#f8f4ec] transition hover:bg-transparent hover:text-[#b0160b]"
           >
-            Quay về trang chủ
+            {detailPage.notFound.backLabel}
           </Link>
         </div>
       </main>
@@ -66,31 +50,43 @@ const DetailPage = () => {
 
   const fallbackImage = allImages[0];
   const heroImage = allImages[currentImageIndex] || fallbackImage;
-  const sideImage = allImages[(currentImageIndex + 1) % allImages.length] || heroImage;
-  const wideImage = allImages[(currentImageIndex + 2) % allImages.length] || heroImage;
-  const accentImage = allImages[(currentImageIndex + 3) % allImages.length] || sideImage;
+  const historyImages = group.historyImages;
+  const clothingImage = group.culture.clothingImage;
+  const housingImage = group.culture.housingImage;
   const galleryImages = allImages.slice(0, 6);
   const hasGallery = allImages.length > 1;
   const videosToShow =
     group.videos && group.videos.length > 0
       ? group.videos
-      : [generalCultureVideo];
+      : [detailPage.mediaSection.defaultVideo];
 
   const infoStats = [
-    ["Dân số", `${group.population.toLocaleString("vi-VN")} người`],
-    ["Ngôn ngữ", group.language],
-    ["Khu vực", group.regions.join(", ")],
+    [
+      detailPage.statLabels.population,
+      `${group.population.toLocaleString("vi-VN")} ${detailPage.statLabels.populationUnit}`,
+    ],
+    [detailPage.statLabels.language, group.language],
+    [detailPage.statLabels.regions, group.regions.join(", ")],
   ];
 
   const cultureSections = [
-    ["Trang phục", group.culture.clothing],
-    ["Nhà ở", group.culture.housing],
+    [detailPage.materialCultureSection.clothingTitle, group.culture.clothing],
+    [detailPage.materialCultureSection.housingTitle, group.culture.housing],
   ];
 
   const lifeSections = [
-    ["Lễ hội", group.culture.festivals],
-    ["Phong tục", group.culture.customs],
-    ["Ẩm thực", group.culture.cuisine],
+    {
+      title: detailPage.lifeSection.festivalTitle,
+      items: group.culture.festivals,
+    },
+    {
+      title: detailPage.lifeSection.customTitle,
+      items: group.culture.customs,
+    },
+    {
+      title: detailPage.lifeSection.cuisineTitle,
+      items: group.culture.cuisine,
+    },
   ];
 
   const handleImageFallback = (event: SyntheticEvent<HTMLImageElement>) => {
@@ -127,16 +123,18 @@ const DetailPage = () => {
         <div className="relative z-10 mx-auto flex min-h-screen w-full max-w-[1360px] flex-col">
           <nav className="flex items-start justify-between gap-5 px-2 py-5 text-[0.68rem] font-black uppercase leading-none text-[#15110f]">
             <Link to="/" className="transition hover:text-[#b0160b]">
-              Trang chủ
+              {detailPage.navigation.homeLabel}
             </Link>
-            <span className="text-[#b0160b]">54 dân tộc Việt Nam</span>
+            <span className="text-[#b0160b]">
+              {detailPage.navigation.collectionLabel}
+            </span>
             <span className="hidden sm:inline">{group.name}</span>
           </nav>
 
           <div className="grid flex-1 items-center gap-8 py-7 lg:grid-cols-[minmax(0,0.86fr)_minmax(480px,1fr)] lg:gap-12">
             <div className="px-2">
               <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
-                Hồ sơ dân tộc
+                {detailPage.hero.eyebrow}
               </p>
               <h1 className="mt-4 text-6xl font-black uppercase leading-[0.82] text-[#b0160b] sm:text-8xl lg:text-9xl">
                 {group.name}
@@ -144,7 +142,8 @@ const DetailPage = () => {
 
               {group.otherNames && group.otherNames.length > 0 && (
                 <p className="mt-5 max-w-[640px] text-sm font-black uppercase leading-tight text-[#15110f]">
-                  Tên gọi khác: {group.otherNames.join(", ")}
+                  {detailPage.hero.otherNamesLabel}:{" "}
+                  {group.otherNames.join(", ")}
                 </p>
               )}
 
@@ -174,7 +173,7 @@ const DetailPage = () => {
                 <div className="relative aspect-[5/4] overflow-hidden bg-[#15110f]">
                   <img
                     src={heroImage}
-                    alt={`Hình ảnh dân tộc ${group.name}`}
+                    alt={`${detailPage.imageLabels.mainImageAltPrefix} ${group.name}`}
                     className="h-full w-full object-cover contrast-105 transition duration-500"
                     onError={handleImageFallback}
                   />
@@ -184,17 +183,17 @@ const DetailPage = () => {
                         type="button"
                         onClick={prevImage}
                         className="grid h-10 w-10 place-items-center border-2 border-[#f8f4ec] bg-[#15110f]/76 text-2xl font-black leading-none text-[#f8f4ec] transition hover:bg-[#b0160b]"
-                        aria-label="Xem ảnh trước"
+                        aria-label={detailPage.imageLabels.previousImage}
                       >
-                        ‹
+                        {detailPage.imageLabels.previousImageSymbol}
                       </button>
                       <button
                         type="button"
                         onClick={nextImage}
                         className="grid h-10 w-10 place-items-center border-2 border-[#f8f4ec] bg-[#15110f]/76 text-2xl font-black leading-none text-[#f8f4ec] transition hover:bg-[#b0160b]"
-                        aria-label="Xem ảnh tiếp theo"
+                        aria-label={detailPage.imageLabels.nextImage}
                       >
-                        ›
+                        {detailPage.imageLabels.nextImageSymbol}
                       </button>
                     </div>
                   )}
@@ -212,7 +211,7 @@ const DetailPage = () => {
                             ? "border-[#b0160b] opacity-100"
                             : "border-[#15110f]/18 opacity-70 hover:opacity-100"
                         }`}
-                        aria-label={`Xem ảnh ${index + 1}`}
+                        aria-label={`${detailPage.imageLabels.thumbnailImagePrefix} ${index + 1}`}
                       >
                         <img
                           src={image}
@@ -229,7 +228,7 @@ const DetailPage = () => {
           </div>
 
           <p className="px-2 pb-6 text-[0.62rem] font-black uppercase leading-none">
-            vietnam-54ethnic-groups
+            {detailPage.footerLabel}
           </p>
         </div>
       </section>
@@ -239,10 +238,10 @@ const DetailPage = () => {
         <div className="relative z-10 mx-auto grid max-w-[1280px] gap-10 lg:grid-cols-[0.95fr_1.05fr] lg:items-start">
           <div>
             <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
-              Lịch sử
+              {detailPage.historySection.eyebrow}
             </p>
             <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] text-[#b0160b] sm:text-7xl">
-              Dấu mốc cộng đồng
+              {detailPage.historySection.title}
             </h2>
             <p className="mt-7 max-w-[760px] text-base font-bold leading-7">
               {group.history}
@@ -251,14 +250,14 @@ const DetailPage = () => {
 
           <div className="grid gap-4 sm:grid-cols-[0.8fr_1.2fr]">
             <img
-              src={sideImage}
+              src={historyImages[0]}
               alt=""
               className="aspect-[4/5] w-full object-cover contrast-105 sm:mt-12"
               aria-hidden="true"
               onError={handleImageFallback}
             />
             <img
-              src={wideImage}
+              src={historyImages[1]}
               alt=""
               className="aspect-[4/3] w-full object-cover contrast-105"
               aria-hidden="true"
@@ -273,14 +272,14 @@ const DetailPage = () => {
         <div className="relative z-10 mx-auto grid max-w-[1280px] gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
           <div className="grid gap-4 sm:grid-cols-2">
             <img
-              src={accentImage}
+              src={clothingImage}
               alt=""
               className="aspect-[4/3] w-full object-cover contrast-105"
               aria-hidden="true"
               onError={handleImageFallback}
             />
             <img
-              src={heroImage}
+              src={housingImage}
               alt=""
               className="aspect-[4/5] w-full object-cover contrast-105 sm:mt-12"
               aria-hidden="true"
@@ -290,10 +289,10 @@ const DetailPage = () => {
 
           <div>
             <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
-              Văn hóa vật thể
+              {detailPage.materialCultureSection.eyebrow}
             </p>
             <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] text-[#b0160b] sm:text-7xl">
-              Không gian sống và trang phục
+              {detailPage.materialCultureSection.title}
             </h2>
             <div className="mt-8 grid gap-4">
               {cultureSections.map(([title, text]) => (
@@ -317,21 +316,20 @@ const DetailPage = () => {
           <div className="grid gap-5 lg:grid-cols-[360px_minmax(0,1fr)] lg:items-end">
             <div>
               <p className="text-xs font-black uppercase tracking-[0.18em] text-[#f8f4ec]/72">
-                Đời sống
+                {detailPage.lifeSection.eyebrow}
               </p>
               <h2 className="mt-3 text-3xl font-black uppercase leading-tight sm:text-5xl">
-                Lễ hội, phong tục và ẩm thực
+                {detailPage.lifeSection.title}
               </h2>
             </div>
             <p className="max-w-[760px] text-base font-bold leading-7 text-[#f8f4ec]/86">
-              Những nét sinh hoạt quen thuộc giúp nhận ra nhịp sống riêng của
-              cộng đồng, từ mùa lễ hội đến bữa ăn và nếp ứng xử hằng ngày.
+              {detailPage.lifeSection.description}
             </p>
           </div>
 
           <div className="mt-10 grid gap-4 md:grid-cols-3">
-            {lifeSections.map(([title, items]) => {
-              const sectionTitle = title as string;
+            {lifeSections.map((section) => {
+              const sectionTitle = section.title;
               const activeImage =
                 hoveredLifeImage?.section === sectionTitle
                   ? hoveredLifeImage.image
@@ -374,9 +372,9 @@ const DetailPage = () => {
                       activeImage ? "text-[#f8f4ec]" : ""
                     }`}
                   >
-                    {(items as string[]).map((item) => (
+                    {section.items.map((item) => (
                       <li
-                        key={item}
+                        key={item.name}
                         className={`border-b py-1 last:border-b-0 ${
                           activeImage
                             ? "border-[#f8f4ec]/28"
@@ -387,20 +385,20 @@ const DetailPage = () => {
                           type="button"
                           onClick={() =>
                             setHoveredLifeImage({
-                              image: getLifeItemImage(sectionTitle, item),
+                              image: item.imageUrl,
                               section: sectionTitle,
                             })
                           }
                           onBlur={() => setHoveredLifeImage(null)}
                           onFocus={() =>
                             setHoveredLifeImage({
-                              image: getLifeItemImage(sectionTitle, item),
+                              image: item.imageUrl,
                               section: sectionTitle,
                             })
                           }
                           onMouseEnter={() =>
                             setHoveredLifeImage({
-                              image: getLifeItemImage(sectionTitle, item),
+                              image: item.imageUrl,
                               section: sectionTitle,
                             })
                           }
@@ -410,7 +408,7 @@ const DetailPage = () => {
                               : "hover:bg-[#b0160b] hover:text-[#f8f4ec] focus-visible:bg-[#b0160b] focus-visible:text-[#f8f4ec]"
                           } focus:outline-none`}
                         >
-                          {item}
+                          {item.name}
                         </button>
                       </li>
                     ))}
@@ -427,10 +425,10 @@ const DetailPage = () => {
         <div className="relative z-10 mx-auto grid max-w-[1280px] gap-8 lg:grid-cols-[0.88fr_1.12fr] lg:items-start">
           <div>
             <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
-              Nhận diện
+              {detailPage.identitySection.eyebrow}
             </p>
             <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] text-[#b0160b] sm:text-7xl">
-              Bản sắc cộng đồng
+              {detailPage.identitySection.title}
             </h2>
           </div>
 
@@ -452,15 +450,14 @@ const DetailPage = () => {
           <div className="grid gap-5 lg:grid-cols-[0.7fr_1.3fr] lg:items-end">
             <div>
               <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
-                Video tư liệu
+                {detailPage.mediaSection.eyebrow}
               </p>
               <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] text-[#b0160b] sm:text-7xl">
-                Sắc màu văn hóa
+                {detailPage.mediaSection.title}
               </h2>
             </div>
             <p className="max-w-[680px] text-base font-bold leading-7">
-              Một đoạn video tư liệu giúp người xem cảm nhận rõ hơn về đời
-              sống, trang phục và không gian văn hóa của cộng đồng.
+              {detailPage.mediaSection.description}
             </p>
           </div>
 
@@ -491,7 +488,7 @@ const DetailPage = () => {
           to="/"
           className="inline-flex border-2 border-[#b0160b] bg-[#b0160b] px-6 py-3 text-xs font-black uppercase tracking-[0.13em] text-[#f8f4ec] transition hover:bg-transparent hover:text-[#b0160b]"
         >
-          Quay về trang chủ
+          {detailPage.actions.backHome}
         </Link>
       </footer>
     </main>

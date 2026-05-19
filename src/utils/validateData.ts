@@ -107,6 +107,14 @@ export function validateEthnicGroup(group: EthnicGroup): ValidationError[] {
       });
     }
 
+    if (!group.culture.clothingImage || group.culture.clothingImage.trim() === '') {
+      errors.push({
+        field: 'culture.clothingImage',
+        message: 'Ảnh trang phục không được để trống',
+        ethnicGroupId: group.id
+      });
+    }
+
     if (!group.culture.cuisine || group.culture.cuisine.length === 0) {
       errors.push({
         field: 'culture.cuisine',
@@ -119,6 +127,14 @@ export function validateEthnicGroup(group: EthnicGroup): ValidationError[] {
       errors.push({
         field: 'culture.housing',
         message: 'Mô tả nhà ở không được để trống',
+        ethnicGroupId: group.id
+      });
+    }
+
+    if (!group.culture.housingImage || group.culture.housingImage.trim() === '') {
+      errors.push({
+        field: 'culture.housingImage',
+        message: 'Ảnh nhà ở không được để trống',
         ethnicGroupId: group.id
       });
     }
@@ -153,6 +169,68 @@ export function validateEthnicGroup(group: EthnicGroup): ValidationError[] {
         });
       }
     });
+  }
+
+  if (!group.historyImages || group.historyImages.length !== 2) {
+    errors.push({
+      field: 'historyImages',
+      message: 'Lịch sử cần đúng 2 ảnh tư liệu',
+      ethnicGroupId: group.id
+    });
+  } else {
+    group.historyImages.forEach((img, index) => {
+      if (!urlPattern.test(img)) {
+        errors.push({
+          field: `historyImages[${index}]`,
+          message: `URL ảnh lịch sử thứ ${index + 1} không hợp lệ`,
+          ethnicGroupId: group.id
+        });
+      }
+    });
+  }
+
+  if (group.culture) {
+    const activityGroups = [
+      ['culture.festivals', group.culture.festivals],
+      ['culture.customs', group.culture.customs],
+      ['culture.cuisine', group.culture.cuisine],
+    ] as const;
+
+    activityGroups.forEach(([field, items]) => {
+      items.forEach((item, index) => {
+        if (!item.name || item.name.trim() === '') {
+          errors.push({
+            field: `${field}[${index}].name`,
+            message: 'Tên mục không được để trống',
+            ethnicGroupId: group.id
+          });
+        }
+
+        if (!item.imageUrl || !urlPattern.test(item.imageUrl)) {
+          errors.push({
+            field: `${field}[${index}].imageUrl`,
+            message: 'URL ảnh hoạt động không hợp lệ',
+            ethnicGroupId: group.id
+          });
+        }
+      });
+    });
+
+    if (group.culture.clothingImage && !urlPattern.test(group.culture.clothingImage)) {
+      errors.push({
+        field: 'culture.clothingImage',
+        message: 'URL ảnh trang phục không hợp lệ',
+        ethnicGroupId: group.id
+      });
+    }
+
+    if (group.culture.housingImage && !urlPattern.test(group.culture.housingImage)) {
+      errors.push({
+        field: 'culture.housingImage',
+        message: 'URL ảnh nhà ở không hợp lệ',
+        ethnicGroupId: group.id
+      });
+    }
   }
 
   // Validate music URLs
