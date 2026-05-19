@@ -42,8 +42,7 @@ export interface EthnicGroup {
   
   // Media
   music?: MediaItem[];
-  
-  videos?: MediaItem[]; // YouTube embed URL
+  videoUrl?: string; // YouTube embed URL
   
   // Đặc điểm nhận dạng
   characteristics: string[];
@@ -97,7 +96,7 @@ export interface DetailPageCopy {
     eyebrow: string;
     title: string;
     description: string;
-    defaultVideo: MediaItem;
+    defaultVideoUrl: string;
   };
   actions: {
     backHome: string;

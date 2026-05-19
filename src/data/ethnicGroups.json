@@ -3,7 +3,9 @@
     {
       "id": "kinh",
       "name": "Kinh",
-      "otherNames": ["Việt"],
+      "otherNames": [
+        "Việt"
+      ],
       "population": 82085826,
       "regions": [
         "Toàn quốc, tập trung đông ở vùng đồng bằng, ven biển và các đô thị"
@@ -88,12 +90,18 @@
         "Trọng tình nghĩa",
         "Hiếu học",
         "Yêu nước"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "tay",
       "name": "Tày",
-      "otherNames": ["Thổ", "Ngạn", "Phén", "Thù Lao"],
+      "otherNames": [
+        "Thổ",
+        "Ngạn",
+        "Phén",
+        "Thù Lao"
+      ],
       "population": 1845892,
       "regions": [
         "Cao Bằng",
@@ -163,12 +171,17 @@
         "Hiền hòa, hiếu khách",
         "Giỏi canh tác lúa nước",
         "Văn hóa dân ca phong phú"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "thai",
       "name": "Thái",
-      "otherNames": ["Táy", "Tày Đăm", "Tày Khảo"],
+      "otherNames": [
+        "Táy",
+        "Tày Đăm",
+        "Tày Khảo"
+      ],
       "population": 1820950,
       "regions": [
         "Sơn La",
@@ -241,12 +254,17 @@
         "Thanh lịch, khéo léo",
         "Giỏi dệt thổ cẩm",
         "Yêu ca múa"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "muong",
       "name": "Mường",
-      "otherNames": ["Mol", "Mual", "Mọi"],
+      "otherNames": [
+        "Mol",
+        "Mual",
+        "Mọi"
+      ],
       "population": 1452095,
       "regions": [
         "Hòa Bình",
@@ -318,12 +336,16 @@
         "Chân chất, mộc mạc",
         "Tôn trọng thứ bậc gia đình",
         "Giàu truyền thống văn nghệ dân gian"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "khmer",
       "name": "Khmer",
-      "otherNames": ["Khmer Nam Bộ", "Miên"],
+      "otherNames": [
+        "Khmer Nam Bộ",
+        "Miên"
+      ],
       "population": 1319652,
       "regions": [
         "Sóc Trăng",
@@ -400,12 +422,18 @@
         "Sùng đạo Phật",
         "Hiền lành, cởi mở",
         "Có năng khiếu nghệ thuật, điêu khắc"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "hoa",
       "name": "Hoa",
-      "otherNames": ["Hán", "Triều Châu", "Phúc Kiến", "Quảng Đông"],
+      "otherNames": [
+        "Hán",
+        "Triều Châu",
+        "Phúc Kiến",
+        "Quảng Đông"
+      ],
       "population": 749466,
       "regions": [
         "TP. Hồ Chí Minh",
@@ -490,12 +518,18 @@
         "Giỏi kinh doanh",
         "Đề cao tính gia tộc, hội đồng hương",
         "Trọng chữ tín"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "nung",
       "name": "Nùng",
-      "otherNames": ["Nùng Xuồng", "Nùng Giang", "Nùng An", "Nùng Inh"],
+      "otherNames": [
+        "Nùng Xuồng",
+        "Nùng Giang",
+        "Nùng An",
+        "Nùng Inh"
+      ],
       "population": 1083298,
       "regions": [
         "Lạng Sơn",
@@ -564,12 +598,17 @@
         "Thật thà, thẳng thắn",
         "Chăm chỉ",
         "Có tinh thần thượng võ"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "hmong",
       "name": "H'Mông",
-      "otherNames": ["Mông", "Mèo", "Mán trắng"],
+      "otherNames": [
+        "Mông",
+        "Mèo",
+        "Mán trắng"
+      ],
       "population": 1393547,
       "regions": [
         "Hà Giang",
@@ -644,12 +683,19 @@
         "Độc lập, mạnh mẽ",
         "Chịu đựng gian khổ tốt",
         "Giữ gìn bản sắc văn hóa rất mạnh"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "dao",
       "name": "Dao",
-      "otherNames": ["Mán", "Động", "Trại", "Dìu Miền", "Kim Miền"],
+      "otherNames": [
+        "Mán",
+        "Động",
+        "Trại",
+        "Dìu Miền",
+        "Kim Miền"
+      ],
       "population": 891151,
       "regions": [
         "Hà Giang",
@@ -718,14 +764,23 @@
         "Am hiểu thảo dược",
         "Kín đáo, trầm tĩnh",
         "Trọng nghi lễ và tôn giáo"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "giarai",
       "name": "Gia Rai",
-      "otherNames": ["Jarai", "Giơ-rai", "Chơ-ray"],
+      "otherNames": [
+        "Jarai",
+        "Giơ-rai",
+        "Chơ-ray"
+      ],
       "population": 513930,
-      "regions": ["Gia Lai", "Kon Tum", "Đắk Lắk"],
+      "regions": [
+        "Gia Lai",
+        "Kon Tum",
+        "Đắk Lắk"
+      ],
       "language": "Tiếng Gia Rai (ngữ hệ Nam Đảo)",
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
@@ -789,14 +844,24 @@
         "Trọng nữ quyền",
         "Tinh thần cộng đồng cao",
         "Giàu tính nghệ thuật (điêu khắc gỗ)"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "ede",
       "name": "Ê Đê",
-      "otherNames": ["Rhade", "Aná Gar", "Mọi"],
+      "otherNames": [
+        "Rhade",
+        "Aná Gar",
+        "Mọi"
+      ],
       "population": 398671,
-      "regions": ["Đắk Lắk", "Phú Yên", "Đắk Nông", "Khánh Hòa"],
+      "regions": [
+        "Đắk Lắk",
+        "Phú Yên",
+        "Đắk Nông",
+        "Khánh Hòa"
+      ],
       "language": "Tiếng Ê Đê (ngữ hệ Nam Đảo)",
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
@@ -860,14 +925,25 @@
         "Phóng khoáng, cởi mở",
         "Trọng mẫu hệ",
         "Đam mê âm nhạc cồng chiêng"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "bana",
       "name": "Ba Na",
-      "otherNames": ["Bahnar", "Bơ Nâm", "Roh", "Kon Kđe"],
+      "otherNames": [
+        "Bahnar",
+        "Bơ Nâm",
+        "Roh",
+        "Kon Kđe"
+      ],
       "population": 286910,
-      "regions": ["Kon Tum", "Gia Lai", "Bình Định", "Phú Yên"],
+      "regions": [
+        "Kon Tum",
+        "Gia Lai",
+        "Bình Định",
+        "Phú Yên"
+      ],
       "language": "Tiếng Ba Na (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
@@ -935,14 +1011,24 @@
         "Thượng võ, dũng cảm",
         "Yêu tự do",
         "Giỏi đan lát và tạc tượng"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "xodang",
       "name": "Xơ Đăng",
-      "otherNames": ["Sedang", "Xê Đăng", "Hđang", "Mơ-nâm"],
+      "otherNames": [
+        "Sedang",
+        "Xê Đăng",
+        "Hđang",
+        "Mơ-nâm"
+      ],
       "population": 212277,
-      "regions": ["Kon Tum", "Quảng Nam", "Quảng Ngãi"],
+      "regions": [
+        "Kon Tum",
+        "Quảng Nam",
+        "Quảng Ngãi"
+      ],
       "language": "Tiếng Xơ Đăng (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
@@ -1010,14 +1096,24 @@
         "Đoàn kết cộng đồng",
         "Có tinh thần tự lập cao",
         "Giỏi săn bắn, rèn sắt"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "sanchay",
       "name": "Sán Chay",
-      "otherNames": ["Cao Lan", "Sán Chỉ", "Mán Cao Lan"],
+      "otherNames": [
+        "Cao Lan",
+        "Sán Chỉ",
+        "Mán Cao Lan"
+      ],
       "population": 201398,
-      "regions": ["Tuyên Quang", "Thái Nguyên", "Bắc Giang", "Quảng Ninh"],
+      "regions": [
+        "Tuyên Quang",
+        "Thái Nguyên",
+        "Bắc Giang",
+        "Quảng Ninh"
+      ],
       "language": "Tiếng Sán Chay (nhóm ngôn ngữ Tày-Thái đối với Cao Lan, Hán đối với Sán Chỉ)",
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
@@ -1081,14 +1177,25 @@
         "Hiền lành, chất phác",
         "Thích ca hát",
         "Tôn trọng người già"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "coho",
       "name": "Cơ Ho",
-      "otherNames": ["K'ho", "Srê", "Nộp", "Chil"],
+      "otherNames": [
+        "K'ho",
+        "Srê",
+        "Nộp",
+        "Chil"
+      ],
       "population": 214616,
-      "regions": ["Lâm Đồng", "Bình Thuận", "Ninh Thuận", "Đồng Nai"],
+      "regions": [
+        "Lâm Đồng",
+        "Bình Thuận",
+        "Ninh Thuận",
+        "Đồng Nai"
+      ],
       "language": "Tiếng Cơ Ho (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
@@ -1144,12 +1251,17 @@
         "Giản dị, chân thành",
         "Hòa hợp với thiên nhiên",
         "Tôn trọng chế độ mẫu hệ"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "cham",
       "name": "Chăm",
-      "otherNames": ["Chàm", "Chiêm Thành", "Hroi"],
+      "otherNames": [
+        "Chàm",
+        "Chiêm Thành",
+        "Hroi"
+      ],
       "population": 178948,
       "regions": [
         "Ninh Thuận",
@@ -1218,12 +1330,17 @@
         "Tinh hoa nghệ thuật điêu khắc, kiến trúc",
         "Giỏi dệt vải, làm gốm",
         "Trọng mẫu hệ"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "sandiu",
       "name": "Sán Dìu",
-      "otherNames": ["Sán Déo", "Trại", "Trại Đất"],
+      "otherNames": [
+        "Sán Déo",
+        "Trại",
+        "Trại Đất"
+      ],
       "population": 183004,
       "regions": [
         "Thái Nguyên",
@@ -1295,14 +1412,22 @@
         "Cần cù, tiết kiệm",
         "Giỏi nghề mộc, rèn",
         "Coi trọng gia phả"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "hre",
       "name": "Hrê",
-      "otherNames": ["Mọi đá vách", "Chăm Rê", "Mọi Luỹ"],
+      "otherNames": [
+        "Mọi đá vách",
+        "Chăm Rê",
+        "Mọi Luỹ"
+      ],
       "population": 149460,
-      "regions": ["Quảng Ngãi", "Bình Định"],
+      "regions": [
+        "Quảng Ngãi",
+        "Bình Định"
+      ],
       "language": "Tiếng Hrê (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
@@ -1366,14 +1491,25 @@
         "Mạnh mẽ, gan dạ",
         "Giỏi canh tác thủy lợi",
         "Yêu âm nhạc cồng chiêng"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "mnong",
       "name": "Mnông",
-      "otherNames": ["Pnông", "Nông", "Preh", "Bu Đâng"],
+      "otherNames": [
+        "Pnông",
+        "Nông",
+        "Preh",
+        "Bu Đâng"
+      ],
       "population": 127334,
-      "regions": ["Đắk Nông", "Đắk Lắk", "Lâm Đồng", "Bình Phước"],
+      "regions": [
+        "Đắk Nông",
+        "Đắk Lắk",
+        "Lâm Đồng",
+        "Bình Phước"
+      ],
       "language": "Tiếng Mnông (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
@@ -1437,14 +1573,24 @@
         "Can đảm, phóng khoáng",
         "Tôn trọng thiên nhiên",
         "Yêu động vật (voi)"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "raglai",
       "name": "Ra Glai",
-      "otherNames": ["Raglai", "Roglai", "Radlai"],
+      "otherNames": [
+        "Raglai",
+        "Roglai",
+        "Radlai"
+      ],
       "population": 146613,
-      "regions": ["Ninh Thuận", "Khánh Hòa", "Bình Thuận", "Lâm Đồng"],
+      "regions": [
+        "Ninh Thuận",
+        "Khánh Hòa",
+        "Bình Thuận",
+        "Lâm Đồng"
+      ],
       "language": "Tiếng Ra Glai (ngữ hệ Nam Đảo)",
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
@@ -1500,14 +1646,24 @@
         "Sống tình cảm",
         "Yêu tự do và núi rừng",
         "Trọng mẫu hệ"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "bruvankieu",
       "name": "Bru - Vân Kiều",
-      "otherNames": ["Bru", "Vân Kiều", "Măng Coong", "Trì"],
+      "otherNames": [
+        "Bru",
+        "Vân Kiều",
+        "Măng Coong",
+        "Trì"
+      ],
       "population": 94598,
-      "regions": ["Quảng Trị", "Quảng Bình", "Đắk Lắk"],
+      "regions": [
+        "Quảng Trị",
+        "Quảng Bình",
+        "Đắk Lắk"
+      ],
       "language": "Tiếng Bru - Vân Kiều (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
@@ -1571,14 +1727,24 @@
         "Lòng trung thành cao",
         "Sống tình nghĩa",
         "Giỏi đi rừng"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "tho",
       "name": "Thổ",
-      "otherNames": ["Kẹo", "Mọn", "Cuối", "Họ", "Đan Lai"],
+      "otherNames": [
+        "Kẹo",
+        "Mọn",
+        "Cuối",
+        "Họ",
+        "Đan Lai"
+      ],
       "population": 91430,
-      "regions": ["Nghệ An", "Thanh Hóa"],
+      "regions": [
+        "Nghệ An",
+        "Thanh Hóa"
+      ],
       "language": "Tiếng Thổ (ngữ hệ Nam Á, cùng nhóm Việt-Mường)",
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
@@ -1634,14 +1800,29 @@
         "housing": "Nhà sàn, gần gũi kiến trúc nhà người Thái hoặc Mường.",
         "housingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       },
-      "characteristics": ["Chất phác", "Hòa đồng", "Dễ tiếp thu văn hóa mới"]
+      "characteristics": [
+        "Chất phác",
+        "Hòa đồng",
+        "Dễ tiếp thu văn hóa mới"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "giay",
       "name": "Giáy",
-      "otherNames": ["Nhắng", "Dẳng", "Pầu Thìn", "Cùi Chu"],
+      "otherNames": [
+        "Nhắng",
+        "Dẳng",
+        "Pầu Thìn",
+        "Cùi Chu"
+      ],
       "population": 67715,
-      "regions": ["Lào Cai", "Hà Giang", "Lai Châu", "Cao Bằng"],
+      "regions": [
+        "Lào Cai",
+        "Hà Giang",
+        "Lai Châu",
+        "Cao Bằng"
+      ],
       "language": "Tiếng Giáy (ngữ hệ Tày-Thái)",
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
@@ -1701,14 +1882,23 @@
         "Chăm chỉ",
         "Khéo tay hay làm",
         "Coi trọng lễ nghi gia đình"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "cotu",
       "name": "Cơ Tu",
-      "otherNames": ["Ca Tu", "Cao", "Hạ", "Phương"],
+      "otherNames": [
+        "Ca Tu",
+        "Cao",
+        "Hạ",
+        "Phương"
+      ],
       "population": 74173,
-      "regions": ["Quảng Nam", "Thừa Thiên Huế"],
+      "regions": [
+        "Quảng Nam",
+        "Thừa Thiên Huế"
+      ],
       "language": "Tiếng Cơ Tu (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
@@ -1776,14 +1966,22 @@
         "Tinh thần thượng võ",
         "Yêu rừng, bảo vệ rừng",
         "Năng khiếu nghệ thuật tạc tượng"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "gietrieng",
       "name": "Gié - Triêng",
-      "otherNames": ["Đoàn", "Xôi", "Bnoong"],
+      "otherNames": [
+        "Đoàn",
+        "Xôi",
+        "Bnoong"
+      ],
       "population": 63322,
-      "regions": ["Kon Tum", "Quảng Nam"],
+      "regions": [
+        "Kon Tum",
+        "Quảng Nam"
+      ],
       "language": "Tiếng Gié - Triêng (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
@@ -1847,14 +2045,23 @@
         "Sống đoàn kết",
         "Tôn trọng thần linh rừng núi",
         "Tính tự trị làng bản cao"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "ma",
       "name": "Mạ",
-      "otherNames": ["Châu Mạ", "Mạ Xốp", "Mạ Tô"],
+      "otherNames": [
+        "Châu Mạ",
+        "Mạ Xốp",
+        "Mạ Tô"
+      ],
       "population": 50322,
-      "regions": ["Lâm Đồng", "Đồng Nai", "Đắk Nông"],
+      "regions": [
+        "Lâm Đồng",
+        "Đồng Nai",
+        "Đắk Nông"
+      ],
       "language": "Tiếng Mạ (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
@@ -1910,14 +2117,24 @@
         "Dũng cảm, thẳng thắn",
         "Giỏi nghề dệt",
         "Gắn bó với núi rừng"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "khomu",
       "name": "Khơ Mú",
-      "otherNames": ["Xá Cẩu", "Tày Hay", "Mứn Xen"],
+      "otherNames": [
+        "Xá Cẩu",
+        "Tày Hay",
+        "Mứn Xen"
+      ],
       "population": 90612,
-      "regions": ["Nghệ An", "Điện Biên", "Sơn La", "Lai Châu"],
+      "regions": [
+        "Nghệ An",
+        "Điện Biên",
+        "Sơn La",
+        "Lai Châu"
+      ],
       "language": "Tiếng Khơ Mú (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
@@ -1973,14 +2190,22 @@
         "Lạc quan",
         "Yêu âm nhạc múa hát",
         "Thích sống trên sườn núi cao"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "co",
       "name": "Co",
-      "otherNames": ["Cùa", "Kor", "Trầu"],
+      "otherNames": [
+        "Cùa",
+        "Kor",
+        "Trầu"
+      ],
       "population": 40442,
-      "regions": ["Quảng Ngãi", "Quảng Nam"],
+      "regions": [
+        "Quảng Ngãi",
+        "Quảng Nam"
+      ],
       "language": "Tiếng Co (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
@@ -2044,14 +2269,21 @@
         "Trung thành",
         "Giỏi trồng trọt (quế)",
         "Thích múa hát, gõ chiêng"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "taoi",
       "name": "Tà Ôi",
-      "otherNames": ["Pa Cô", "Pa Hi"],
+      "otherNames": [
+        "Pa Cô",
+        "Pa Hi"
+      ],
       "population": 52356,
-      "regions": ["Thừa Thiên Huế", "Quảng Trị"],
+      "regions": [
+        "Thừa Thiên Huế",
+        "Quảng Trị"
+      ],
       "language": "Tiếng Tà Ôi (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
@@ -2115,14 +2347,22 @@
         "Kiên cường",
         "Thủy chung tình nghĩa",
         "Giỏi dệt thủ công"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "choro",
       "name": "Chơ Ro",
-      "otherNames": ["Đơ-Ro", "Châu Ro"],
+      "otherNames": [
+        "Đơ-Ro",
+        "Châu Ro"
+      ],
       "population": 29520,
-      "regions": ["Đồng Nai", "Bà Rịa - Vũng Tàu", "Bình Thuận"],
+      "regions": [
+        "Đồng Nai",
+        "Bà Rịa - Vũng Tàu",
+        "Bình Thuận"
+      ],
       "language": "Tiếng Chơ Ro (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
@@ -2182,14 +2422,23 @@
         "Chân thực, mộc mạc",
         "Tình làng nghĩa xóm gắn bó",
         "Thích ca múa"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "khang",
       "name": "Kháng",
-      "otherNames": ["Xá Khao", "Xá Sú", "Xá Đón"],
+      "otherNames": [
+        "Xá Khao",
+        "Xá Sú",
+        "Xá Đón"
+      ],
       "population": 16181,
-      "regions": ["Sơn La", "Điện Biên", "Lai Châu"],
+      "regions": [
+        "Sơn La",
+        "Điện Biên",
+        "Lai Châu"
+      ],
       "language": "Tiếng Kháng (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
@@ -2257,14 +2506,21 @@
         "Giỏi bơi lội, vượt thác",
         "Thạo nghề đan lát",
         "Hòa hợp với sông nước"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "xinhmun",
       "name": "Xinh Mun",
-      "otherNames": ["Puộc", "Pụa"],
+      "otherNames": [
+        "Puộc",
+        "Pụa"
+      ],
       "population": 29503,
-      "regions": ["Sơn La", "Điện Biên"],
+      "regions": [
+        "Sơn La",
+        "Điện Biên"
+      ],
       "language": "Tiếng Xinh Mun (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
@@ -2328,14 +2584,22 @@
         "Sống giản dị",
         "Chăm chỉ làm nương",
         "Nghề đan mây tre giang giỏi"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "hanhi",
       "name": "Hà Nhì",
-      "otherNames": ["U Ní", "Xá U Ní"],
+      "otherNames": [
+        "U Ní",
+        "Xá U Ní"
+      ],
       "population": 25539,
-      "regions": ["Lai Châu", "Lào Cai", "Điện Biên"],
+      "regions": [
+        "Lai Châu",
+        "Lào Cai",
+        "Điện Biên"
+      ],
       "language": "Tiếng Hà Nhì (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
@@ -2395,14 +2659,22 @@
         "Cần cù, thích ứng tốt với khí hậu lạnh",
         "Đoàn kết",
         "Thân thiện"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "churu",
       "name": "Chu Ru",
-      "otherNames": ["Chơ Ru", "Kru", "Ru"],
+      "otherNames": [
+        "Chơ Ru",
+        "Kru",
+        "Ru"
+      ],
       "population": 23242,
-      "regions": ["Lâm Đồng", "Ninh Thuận"],
+      "regions": [
+        "Lâm Đồng",
+        "Ninh Thuận"
+      ],
       "language": "Tiếng Chu Ru (ngữ hệ Nam Đảo)",
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
@@ -2466,14 +2738,23 @@
         "Giỏi làm gốm thủ công",
         "Trọng nữ quyền",
         "Sống thanh bình"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "lao",
       "name": "Lào",
-      "otherNames": ["Phu Thay", "Thay Lào", "Thay Cẩu"],
+      "otherNames": [
+        "Phu Thay",
+        "Thay Lào",
+        "Thay Cẩu"
+      ],
       "population": 17532,
-      "regions": ["Điện Biên", "Lai Châu", "Sơn La"],
+      "regions": [
+        "Điện Biên",
+        "Lai Châu",
+        "Sơn La"
+      ],
       "language": "Tiếng Lào (ngữ hệ Tày-Thái)",
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
@@ -2541,14 +2822,22 @@
         "Hiền hòa, vui vẻ",
         "Mến khách",
         "Thích múa hát, lễ hội"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "lachi",
       "name": "La Chí",
-      "otherNames": ["Thổ Đen", "Mán", "Cù Tê"],
+      "otherNames": [
+        "Thổ Đen",
+        "Mán",
+        "Cù Tê"
+      ],
       "population": 15126,
-      "regions": ["Hà Giang", "Lào Cai"],
+      "regions": [
+        "Hà Giang",
+        "Lào Cai"
+      ],
       "language": "Tiếng La Chí (ngữ hệ Ka Đai)",
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
@@ -2608,14 +2897,21 @@
         "Cần cù tằn tiện",
         "Tôn thờ tổ tiên",
         "Giữ gìn truyền thống chặt chẽ"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "lahu",
       "name": "La Hủ",
-      "otherNames": ["Xá Lá Vàng", "Khù Sung", "Cò Xung"],
+      "otherNames": [
+        "Xá Lá Vàng",
+        "Khù Sung",
+        "Cò Xung"
+      ],
       "population": 12113,
-      "regions": ["Lai Châu"],
+      "regions": [
+        "Lai Châu"
+      ],
       "language": "Tiếng La Hủ (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
@@ -2675,14 +2971,22 @@
         "Bộc trực",
         "Dũng cảm săn bắn",
         "Thích ứng tốt với rừng rậm"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "laha",
       "name": "La Ha",
-      "otherNames": ["Xá Khao", "Xá Chá", "Khơ Láo"],
+      "otherNames": [
+        "Xá Khao",
+        "Xá Chá",
+        "Khơ Láo"
+      ],
       "population": 10157,
-      "regions": ["Sơn La", "Lào Cai"],
+      "regions": [
+        "Sơn La",
+        "Lào Cai"
+      ],
       "language": "Tiếng La Ha (ngữ hệ Ka Đai)",
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
@@ -2742,14 +3046,21 @@
         "Cần cù, nhẫn nại",
         "Tín ngưỡng vạn vật hữu linh",
         "Gắn bó với núi rừng"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "pathen",
       "name": "Pà Thẻn",
-      "otherNames": ["Mèo Lai", "Pà Hưng"],
+      "otherNames": [
+        "Mèo Lai",
+        "Pà Hưng"
+      ],
       "population": 8248,
-      "regions": ["Hà Giang", "Tuyên Quang"],
+      "regions": [
+        "Hà Giang",
+        "Tuyên Quang"
+      ],
       "language": "Tiếng Pà Thẻn (ngữ hệ H'Mông - Dao)",
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
@@ -2809,14 +3120,25 @@
         "housing": "Nhà sàn, nhà đất hoặc nửa sàn nửa đất tùy nơi.",
         "housingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
       },
-      "characteristics": ["Tôn trọng thầy cúng", "Gan dạ", "Giỏi dệt vải"]
+      "characteristics": [
+        "Tôn trọng thầy cúng",
+        "Gan dạ",
+        "Giỏi dệt vải"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "lu",
       "name": "Lự",
-      "otherNames": ["Lự Đen", "Lự Trắng", "Nhắng"],
+      "otherNames": [
+        "Lự Đen",
+        "Lự Trắng",
+        "Nhắng"
+      ],
       "population": 6757,
-      "regions": ["Lai Châu"],
+      "regions": [
+        "Lai Châu"
+      ],
       "language": "Tiếng Lự (ngữ hệ Tày-Thái)",
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
@@ -2880,14 +3202,24 @@
         "Sạch sẽ, tươm tất",
         "Khéo tay hay làm",
         "Coi trọng nghề dệt"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "ngai",
       "name": "Ngái",
-      "otherNames": ["Sán Ngái", "Khách Gia", "Hẹ"],
+      "otherNames": [
+        "Sán Ngái",
+        "Khách Gia",
+        "Hẹ"
+      ],
       "population": 1649,
-      "regions": ["Thái Nguyên", "Bắc Giang", "Quảng Ninh", "Tuyên Quang"],
+      "regions": [
+        "Thái Nguyên",
+        "Bắc Giang",
+        "Quảng Ninh",
+        "Tuyên Quang"
+      ],
       "language": "Tiếng Ngái (thuộc hệ ngôn ngữ Hán - Tạng)",
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
@@ -2947,14 +3279,26 @@
         "housing": "Nhà đất, tường trình bằng đất sét trộn rơm rạ hoặc xây gạch mộc.",
         "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       },
-      "characteristics": ["Chịu thương chịu khó", "Đoàn kết", "Thích ca hát"]
+      "characteristics": [
+        "Chịu thương chịu khó",
+        "Đoàn kết",
+        "Thích ca hát"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "chut",
       "name": "Chứt",
-      "otherNames": ["Rục", "Sách", "Arem", "Mày"],
+      "otherNames": [
+        "Rục",
+        "Sách",
+        "Arem",
+        "Mày"
+      ],
       "population": 7536,
-      "regions": ["Quảng Bình"],
+      "regions": [
+        "Quảng Bình"
+      ],
       "language": "Tiếng Chứt (ngữ hệ Nam Á, nhóm Việt - Mường)",
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
@@ -3014,14 +3358,24 @@
         "Rụt rè, nhút nhát",
         "Kỹ năng sinh tồn trong rừng cao",
         "Chất phác"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "lolo",
       "name": "Lô Lô",
-      "otherNames": ["Mùn Di", "Di", "Lô Lô Hoa", "Lô Lô Đen"],
+      "otherNames": [
+        "Mùn Di",
+        "Di",
+        "Lô Lô Hoa",
+        "Lô Lô Đen"
+      ],
       "population": 4827,
-      "regions": ["Hà Giang", "Cao Bằng", "Lai Châu"],
+      "regions": [
+        "Hà Giang",
+        "Cao Bằng",
+        "Lai Châu"
+      ],
       "language": "Tiếng Lô Lô (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
@@ -3085,14 +3439,22 @@
         "Giàu bản sắc văn hóa",
         "Tự hào dân tộc",
         "Giỏi thêu thùa"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "mang",
       "name": "Mảng",
-      "otherNames": ["Mảng Ư", "Xá Mảng", "Xá Bốc"],
+      "otherNames": [
+        "Mảng Ư",
+        "Xá Mảng",
+        "Xá Bốc"
+      ],
       "population": 4650,
-      "regions": ["Lai Châu", "Điện Biên"],
+      "regions": [
+        "Lai Châu",
+        "Điện Biên"
+      ],
       "language": "Tiếng Mảng (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
@@ -3148,14 +3510,25 @@
         "housing": "Nhà sàn mái lợp gianh sạp tre.",
         "housingImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
       },
-      "characteristics": ["Hiền lành", "Chịu khó", "Giữ gìn tục xăm cằm cổ xưa"]
+      "characteristics": [
+        "Hiền lành",
+        "Chịu khó",
+        "Giữ gìn tục xăm cằm cổ xưa"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "cong",
       "name": "Cống",
-      "otherNames": ["Xắm Khống", "Phuy A"],
+      "otherNames": [
+        "Xắm Khống",
+        "Phuy A"
+      ],
       "population": 2729,
-      "regions": ["Lai Châu", "Điện Biên"],
+      "regions": [
+        "Lai Châu",
+        "Điện Biên"
+      ],
       "language": "Tiếng Cống (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
@@ -3211,14 +3584,23 @@
         "Lạc quan",
         "Sống hòa thuận",
         "Thạo nghề sông nước và đan lát"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "boy",
       "name": "Bố Y",
-      "otherNames": ["Chủng Chá", "Trọng Gia", "Tu Dí"],
+      "otherNames": [
+        "Chủng Chá",
+        "Trọng Gia",
+        "Tu Dí"
+      ],
       "population": 3232,
-      "regions": ["Lào Cai", "Hà Giang", "Yên Bái"],
+      "regions": [
+        "Lào Cai",
+        "Hà Giang",
+        "Yên Bái"
+      ],
       "language": "Tiếng Bố Y (ngữ hệ Ka Đai)",
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
@@ -3282,14 +3664,26 @@
         "housing": "Nhà đất trình tường, mái lợp ngói máng hoặc cỏ gianh, có cấu trúc bảo vệ tốt.",
         "housingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       },
-      "characteristics": ["Cần cù tằn tiện", "Khéo tay", "Tôn trọng lễ giáo"]
+      "characteristics": [
+        "Cần cù tằn tiện",
+        "Khéo tay",
+        "Tôn trọng lễ giáo"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "colao",
       "name": "Cờ Lao",
-      "otherNames": ["Klau", "Ho Ki", "Voa Đề"],
+      "otherNames": [
+        "Klau",
+        "Ho Ki",
+        "Voa Đề"
+      ],
       "population": 2939,
-      "regions": ["Hà Giang", "Yên Bái"],
+      "regions": [
+        "Hà Giang",
+        "Yên Bái"
+      ],
       "language": "Tiếng Cờ Lao (ngữ hệ Ka Đai)",
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
@@ -3353,14 +3747,21 @@
         "Kiên cường chống chọi với tự nhiên",
         "Chăm chỉ",
         "Sống kín đáo"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "pupeo",
       "name": "Pu Péo",
-      "otherNames": ["Ka Bẻo", "Penti", "La Quả"],
+      "otherNames": [
+        "Ka Bẻo",
+        "Penti",
+        "La Quả"
+      ],
       "population": 903,
-      "regions": ["Hà Giang"],
+      "regions": [
+        "Hà Giang"
+      ],
       "language": "Tiếng Pu Péo (ngữ hệ Ka Đai)",
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
@@ -3416,14 +3817,21 @@
         "Giữ gìn truyền thống chặt chẽ",
         "Bảo vệ rừng",
         "Yêu hòa bình"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "sila",
       "name": "Si La",
-      "otherNames": ["Cú Dề Xừ", "Khả Phé"],
+      "otherNames": [
+        "Cú Dề Xừ",
+        "Khả Phé"
+      ],
       "population": 840,
-      "regions": ["Lai Châu", "Điện Biên"],
+      "regions": [
+        "Lai Châu",
+        "Điện Biên"
+      ],
       "language": "Tiếng Si La (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
@@ -3479,14 +3887,24 @@
         "housing": "Nhà trệt, nhỏ bé, vách nứa, mái tranh, cửa thấp.",
         "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       },
-      "characteristics": ["Thật thà", "Hiền lành", "Hòa hợp với thiên nhiên"]
+      "characteristics": [
+        "Thật thà",
+        "Hiền lành",
+        "Hòa hợp với thiên nhiên"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "odu",
       "name": "Ơ Đu",
-      "otherNames": ["Tày Hạt", "Phouteng"],
+      "otherNames": [
+        "Tày Hạt",
+        "Phouteng"
+      ],
       "population": 428,
-      "regions": ["Nghệ An"],
+      "regions": [
+        "Nghệ An"
+      ],
       "language": "Tiếng Ơ Đu (ngữ hệ Nam Á) - Nay chủ yếu nói tiếng Khơ Mú hoặc Thái",
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
@@ -3546,14 +3964,23 @@
         "housing": "Nhà sàn mái tranh, trước đây thường nằm quay lưng vào núi.",
         "housingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
       },
-      "characteristics": ["Sống khép kín", "Dễ đồng hóa", "Hiền lành"]
+      "characteristics": [
+        "Sống khép kín",
+        "Dễ đồng hóa",
+        "Hiền lành"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "romam",
       "name": "Rơ Măm",
-      "otherNames": ["Rong Mam"],
+      "otherNames": [
+        "Rong Mam"
+      ],
       "population": 639,
-      "regions": ["Kon Tum"],
+      "regions": [
+        "Kon Tum"
+      ],
       "language": "Tiếng Rơ Măm (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
@@ -3621,14 +4048,20 @@
         "Bảo tồn cộng đồng chặt chẽ",
         "Phóng khoáng",
         "Trọng lễ nghi tín ngưỡng"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "brau",
       "name": "Brâu",
-      "otherNames": ["Brao", "Lave"],
+      "otherNames": [
+        "Brao",
+        "Lave"
+      ],
       "population": 525,
-      "regions": ["Kon Tum"],
+      "regions": [
+        "Kon Tum"
+      ],
       "language": "Tiếng Brâu (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
@@ -3688,14 +4121,23 @@
         "Tôn trọng luật tục làng",
         "Gắn bó với cồng chiêng",
         "Thật thà, dũng cảm"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "xtieng",
       "name": "Xtiêng",
-      "otherNames": ["Xa Điêng", "Bù Đíp"],
+      "otherNames": [
+        "Xa Điêng",
+        "Bù Đíp"
+      ],
       "population": 100752,
-      "regions": ["Bình Phước", "Tây Ninh", "Lâm Đồng", "Đồng Nai"],
+      "regions": [
+        "Bình Phước",
+        "Tây Ninh",
+        "Lâm Đồng",
+        "Đồng Nai"
+      ],
       "language": "Tiếng Xtiêng (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
@@ -3759,14 +4201,28 @@
         "housing": "Nhà sàn hoặc nhà trệt tùy nhóm, cửa ra vào thấp, ít cửa sổ.",
         "housingImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
       },
-      "characteristics": ["Tự lập", "Gan dạ", "Tôn trọng các trưởng lão làng"]
+      "characteristics": [
+        "Tự lập",
+        "Gan dạ",
+        "Tôn trọng các trưởng lão làng"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     {
       "id": "phula",
       "name": "Phù Lá",
-      "otherNames": ["Xá Phó", "Bồ Khô Pạ", "Mu Di Pạ"],
+      "otherNames": [
+        "Xá Phó",
+        "Bồ Khô Pạ",
+        "Mu Di Pạ"
+      ],
       "population": 12471,
-      "regions": ["Lào Cai", "Lai Châu", "Sơn La", "Hà Giang"],
+      "regions": [
+        "Lào Cai",
+        "Lai Châu",
+        "Sơn La",
+        "Hà Giang"
+      ],
       "language": "Tiếng Phù Lá (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
@@ -3830,7 +4286,8 @@
         "Hiền lành",
         "Chăm chỉ",
         "Khéo tay trong dệt và đan lát"
-      ]
+      ],
+      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     }
   ],
   "detailPage": {
@@ -3881,11 +4338,7 @@
       "eyebrow": "Video tư liệu",
       "title": "Sắc màu văn hóa",
       "description": "Một đoạn video tư liệu giúp người xem cảm nhận rõ hơn về đời sống, trang phục và không gian văn hóa của cộng đồng.",
-      "defaultVideo": {
-        "title": "Tư liệu văn hóa 54 dân tộc Việt Nam",
-        "url": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1",
-        "description": "Một góc nhìn tổng quan về đời sống, trang phục và bản sắc của các cộng đồng dân tộc Việt Nam."
-      }
+      "defaultVideoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
     },
     "actions": {
       "backHome": "Quay về trang chủ"

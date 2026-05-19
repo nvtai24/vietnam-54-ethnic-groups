@@ -57,10 +57,7 @@ const DetailPage = () => {
   const housingImage = group.culture.housingImage;
   const galleryImages = detailImages.slice(0, 6);
   const hasGallery = detailImages.length > 1;
-  const videosToShow =
-    group.videos && group.videos.length > 0
-      ? group.videos
-      : [detailPage.mediaSection.defaultVideo];
+  const videoUrl = group.videoUrl || detailPage.mediaSection.defaultVideoUrl;
 
   const infoStats = [
     [
@@ -476,20 +473,12 @@ const DetailPage = () => {
           <article className="mt-10 overflow-hidden border-2 border-[#15110f] bg-[#f8f4ec] text-[#15110f]">
             <div className="relative aspect-video overflow-hidden bg-[#15110f]">
               <iframe
-                src={videosToShow[0].url}
-                title={videosToShow[0].title}
+                src={videoUrl}
+                title={detailPage.mediaSection.title}
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
                 className="absolute inset-0 h-full w-full"
               ></iframe>
-            </div>
-            <div className="p-5">
-              <h3 className="text-2xl font-black uppercase leading-tight">
-                {videosToShow[0].title}
-              </h3>
-              <p className="mt-3 text-sm font-bold leading-6 text-[#15110f]/70">
-                {videosToShow[0].description}
-              </p>
             </div>
           </article>
         </div>
