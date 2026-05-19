@@ -1,22 +1,13 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #c31432;
-  --color-primary-dark: #a01028;
-  --color-primary-light: #da1e37;
-  --color-accent: #ffd700;
+  --color-primary: #b0160b;
+  --color-primary-dark: #7f1008;
+  --color-paper: #f8f4ec;
+  --color-ink: #15110f;
 }
 
-@keyframes sidebar-marquee {
-  0% {
-    transform: translate3d(0, 0, 0);
-  }
-  100% {
-    transform: translate3d(0, -50%, 0);
-  }
-}
-
-@keyframes hero-slider-scroll {
+@keyframes poster-marquee-scroll {
   0% {
     transform: translate3d(0, 0, 0);
   }
@@ -25,62 +16,37 @@
   }
 }
 
-.sidebar-marquee {
-  mask-image: linear-gradient(to bottom, transparent 0%, #000 10%, #000 90%, transparent 100%);
+.paper-grain {
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(21, 17, 15, 0.09) 0 1px, transparent 1px),
+    radial-gradient(circle at 80% 70%, rgba(176, 22, 11, 0.08) 0 1px, transparent 1px),
+    linear-gradient(135deg, rgba(21, 17, 15, 0.04), transparent 42%, rgba(176, 22, 11, 0.035));
+  background-size: 22px 22px, 31px 31px, 100% 100%;
+  mix-blend-mode: multiply;
+  opacity: 0.48;
+  pointer-events: none;
 }
 
-.sidebar-marquee__content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  animation: sidebar-marquee 28s linear infinite;
+.poster-title {
+  font-size: clamp(4.3rem, 20vw, 17.5rem);
+  letter-spacing: -0.09em;
+  text-shadow: 0 2px 0 rgba(127, 16, 8, 0.28);
+}
+
+.poster-marquee {
+  animation: poster-marquee-scroll 24s linear infinite;
   will-change: transform;
 }
 
-.sidebar-marquee__track {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.sidebar-marquee__item {
-  color: rgba(255, 255, 255, 0.94);
-  font-size: 0.82rem;
-  font-weight: 800;
-  letter-spacing: 0.12em;
-  line-height: 1;
-  margin-bottom: 1.85rem;
-  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.3);
-  text-transform: uppercase;
-  white-space: nowrap;
-  writing-mode: vertical-rl;
-}
-
-.hero-slider {
-  mask-image: linear-gradient(to right, transparent 0%, #000 6%, #000 94%, transparent 100%);
-}
-
-.hero-slider__track {
-  animation: hero-slider-scroll 34s linear infinite;
-  display: flex;
-  gap: 1rem;
-  width: max-content;
-  will-change: transform;
-}
-
-@media (min-width: 768px) {
-  .sidebar-marquee__item {
-    font-size: 0.92rem;
-    margin-bottom: 2.15rem;
+@media (max-width: 767px) {
+  .poster-title {
+    top: 40%;
+    font-size: clamp(4.1rem, 22vw, 8.2rem);
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .sidebar-marquee__content {
+  .poster-marquee {
     animation-duration: 80s;
-  }
-
-  .hero-slider__track {
-    animation-duration: 120s;
   }
 }

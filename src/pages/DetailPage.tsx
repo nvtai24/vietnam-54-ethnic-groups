@@ -1,13 +1,7 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useState, type SyntheticEvent } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import ethnicGroupsData from '../data/ethnicGroups.json';
 import type { EthnicGroup } from '../types/EthnicGroup';
-
-const sectionTitles = {
-  overview: 'Tổng quan',
-  culture: 'Văn hóa truyền thống',
-  media: 'Tư liệu nghe nhìn',
-};
 
 const DetailPage = () => {
   const { id } = useParams<{ id: string }>();
@@ -24,27 +18,38 @@ const DetailPage = () => {
 
   if (!group) {
     return (
-      <main className="min-h-screen bg-[#eef4ef] flex flex-col items-center justify-center p-8 text-center">
-        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-[#9b2636]">
-          Không tìm thấy
-        </p>
-        <h1 className="mt-3 text-4xl font-black text-[#17324d]">
-          Không tìm thấy thông tin dân tộc
-        </h1>
-        <Link
-          to="/"
-          className="mt-8 inline-flex items-center rounded-full bg-[#17324d] px-6 py-3 font-semibold text-[#eef4ef] transition-colors hover:bg-[#9b2636]"
-        >
-          Quay về trang chủ
-        </Link>
+      <main className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-[#f8f4ec] p-8 text-center text-[#15110f]">
+        <div className="paper-grain absolute inset-0"></div>
+        <div className="relative z-10 max-w-xl border-2 border-[#b0160b] bg-[#f8f4ec] p-8">
+          <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">Không tìm thấy</p>
+          <h1 className="mt-4 text-4xl font-black uppercase leading-none tracking-[-0.04em] text-[#b0160b]">
+            Không tìm thấy thông tin dân tộc
+          </h1>
+          <Link
+            to="/"
+            className="mt-8 inline-flex border-2 border-[#b0160b] bg-[#b0160b] px-6 py-3 text-xs font-black uppercase tracking-[0.13em] text-[#f8f4ec] transition hover:bg-transparent hover:text-[#b0160b]"
+          >
+            Quay về trang chủ
+          </Link>
+        </div>
       </main>
     );
   }
 
-  const heroImage = allImages[currentImageIndex] || group.thumbnail;
-  const supportingImage = allImages[(currentImageIndex + 1) % allImages.length] || heroImage;
-  const cultureImage = allImages[(currentImageIndex + 2) % allImages.length] || heroImage;
-  const identityImage = allImages[(currentImageIndex + 3) % allImages.length] || heroImage;
+  const fallbackImage = allImages[0];
+  const heroImage = allImages[currentImageIndex] || fallbackImage;
+  const sideImage = allImages[(currentImageIndex + 1) % allImages.length] || heroImage;
+  const wideImage = allImages[(currentImageIndex + 2) % allImages.length] || heroImage;
+  const accentImage = allImages[(currentImageIndex + 3) % allImages.length] || sideImage;
+
+  const handleImageFallback = (event: SyntheticEvent<HTMLImageElement>) => {
+    if (fallbackImage && event.currentTarget.src !== fallbackImage) {
+      event.currentTarget.src = fallbackImage;
+      return;
+    }
+
+    event.currentTarget.style.opacity = '0';
+  };
 
   const nextImage = () => {
     setCurrentImageIndex((prev) => (prev + 1) % allImages.length);
@@ -55,242 +60,255 @@ const DetailPage = () => {
   };
 
   return (
-    <main className="min-h-screen bg-[#eef4ef] text-[#17324d]">
-      <section className="relative min-h-[720px] overflow-hidden bg-[#13293d]">
-        <img
-          src={heroImage}
-          alt=""
-          className="absolute inset-0 h-full w-full object-cover opacity-90"
-          aria-hidden="true"
-        />
-        <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(19,41,61,0.9)_0%,rgba(19,41,61,0.7)_42%,rgba(19,41,61,0.32)_100%)]"></div>
-        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(19,41,61,0.38)_0%,rgba(19,41,61,0.08)_42%,rgba(238,244,239,0.9)_100%)]"></div>
+    <main className="min-h-screen bg-[#f6f2ea] text-[#15110f]">
+      <section className="relative isolate overflow-hidden border-[14px] border-[#f6f2ea] bg-[#f8f4ec]">
+        <div className="paper-grain absolute inset-0"></div>
+        <div className="absolute inset-x-5 top-5 bottom-5 border-2 border-[#b0160b] sm:inset-x-7 sm:top-7 sm:bottom-7"></div>
 
-        <div className="relative z-10 mx-auto flex min-h-[720px] max-w-7xl flex-col px-6 py-6 md:px-10 lg:px-12">
-          <nav className="flex items-center gap-3 text-sm font-semibold text-[#eef4ef]/78">
-            <Link to="/" className="transition-colors hover:text-[#d8aa45]">
+        <div className="relative z-10 mx-auto flex min-h-screen w-full max-w-[1440px] flex-col px-8 py-10 sm:px-12 lg:px-16">
+          <nav className="relative z-30 flex items-start justify-between gap-6 text-[0.68rem] font-black uppercase leading-none tracking-[-0.01em]">
+            <Link to="/" className="transition hover:text-[#b0160b]">
               Trang chủ
             </Link>
-            <span className="text-[#d8aa45]">/</span>
-            <span className="text-[#eef4ef]">{group.name}</span>
+            <span className="text-[#b0160b]">54 dân tộc Việt Nam</span>
+            <span>{group.name}</span>
           </nav>
 
-          <div className="grid flex-1 items-center gap-10 py-12 lg:grid-cols-[0.9fr_1.1fr]">
-            <div className="max-w-2xl">
-              <p className="text-sm font-bold uppercase tracking-[0.24em] text-[#d8aa45]">
-                54 dân tộc Việt Nam
-              </p>
-              <h1 className="mt-5 text-6xl font-black uppercase leading-none text-[#eef4ef] drop-shadow-[0_10px_28px_rgba(0,0,0,0.28)] md:text-8xl">
+          <div className="relative grid flex-1 items-center gap-8 py-12 lg:grid-cols-[0.75fr_1fr_0.75fr]">
+            <div className="relative z-20 max-w-[330px] self-end">
+              <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">Dân tộc</p>
+              <h1 className="mt-4 text-[clamp(4.2rem,13vw,11rem)] font-black uppercase leading-[0.72] tracking-[-0.08em] text-[#b0160b]">
                 {group.name}
               </h1>
               {group.otherNames && group.otherNames.length > 0 && (
-                <p className="mt-5 text-lg font-medium text-[#eef4ef]/82 md:text-xl">
+                <p className="mt-5 text-sm font-black uppercase leading-tight">
                   Tên gọi khác: {group.otherNames.join(', ')}
                 </p>
               )}
-              <p className="mt-8 max-w-xl text-lg leading-8 text-[#eef4ef]/86">
-                {group.description}
-              </p>
+              <div className="mt-6 h-1 w-24 bg-[#b0160b]"></div>
             </div>
 
-            <div className="relative">
-              <div className="relative overflow-hidden rounded-xl shadow-[0_28px_70px_rgba(0,0,0,0.35)]">
+            <div className="relative z-20 mx-auto w-full max-w-[440px]">
+              <div className="absolute -left-8 top-8 h-28 w-44 -rotate-6 bg-[#b0160b]"></div>
+              <button
+                type="button"
+                onClick={nextImage}
+                className="group relative block aspect-[4/5] w-full bg-[#15110f] shadow-[0_26px_70px_rgba(21,17,15,0.28)] focus:outline-none focus-visible:ring-4 focus-visible:ring-[#b0160b]/35"
+                aria-label="Đổi ảnh chính"
+              >
                 <img
                   src={heroImage}
                   alt={`Hình ảnh dân tộc ${group.name}`}
-                  className="h-[420px] w-full object-cover md:h-[520px]"
+                  className="h-full w-full object-cover grayscale-[42%] contrast-110 transition duration-500 group-hover:grayscale-0"
+                  onError={handleImageFallback}
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-[#13293d]/72 via-transparent to-transparent"></div>
-
-                {allImages.length > 1 && (
-                  <div className="absolute inset-x-5 top-1/2 flex -translate-y-1/2 justify-between">
-                    <button
-                      type="button"
-                      onClick={prevImage}
-                      className="flex h-11 w-11 items-center justify-center rounded-full border border-[#eef4ef]/45 bg-[#13293d]/70 text-3xl leading-none text-[#eef4ef] transition-colors hover:bg-[#9b2636] focus:outline-none focus-visible:ring-4 focus-visible:ring-[#d8aa45]/70"
-                      aria-label="Xem ảnh trước"
-                    >
-                      ‹
-                    </button>
-                    <button
-                      type="button"
-                      onClick={nextImage}
-                      className="flex h-11 w-11 items-center justify-center rounded-full border border-[#eef4ef]/45 bg-[#13293d]/70 text-3xl leading-none text-[#eef4ef] transition-colors hover:bg-[#9b2636] focus:outline-none focus-visible:ring-4 focus-visible:ring-[#d8aa45]/70"
-                      aria-label="Xem ảnh tiếp theo"
-                    >
-                      ›
-                    </button>
-                  </div>
-                )}
-              </div>
-
+                <span className="absolute bottom-4 right-4 bg-[#b0160b] px-3 py-2 text-[0.62rem] font-black uppercase tracking-[0.14em] text-[#f8f4ec]">
+                  Click đổi ảnh
+                </span>
+              </button>
               {allImages.length > 1 && (
-                <div className="mt-4 grid grid-cols-4 gap-3">
+                <div className="mt-4 flex items-center justify-center gap-3">
+                  <button
+                    type="button"
+                    onClick={prevImage}
+                    className="flex h-10 w-10 items-center justify-center border-2 border-[#15110f] bg-[#f8f4ec] text-2xl font-black leading-none transition hover:border-[#b0160b] hover:bg-[#b0160b] hover:text-[#f8f4ec]"
+                    aria-label="Xem ảnh trước"
+                  >
+                    ‹
+                  </button>
                   {allImages.slice(0, 4).map((image, index) => (
                     <button
                       key={`${image}-${index}`}
                       type="button"
                       onClick={() => setCurrentImageIndex(index)}
-                      className={`h-20 overflow-hidden rounded-lg border-2 transition-all ${
+                      className={`h-10 w-10 border-2 transition ${
                         index === currentImageIndex
-                          ? 'border-[#d8aa45] opacity-100'
-                          : 'border-[#eef4ef]/35 opacity-[0.72] hover:opacity-100'
+                          ? 'border-[#b0160b]'
+                          : 'border-[#15110f]/25 opacity-70 hover:opacity-100'
                       }`}
                       aria-label={`Xem ảnh ${index + 1}`}
                     >
-                      <img src={image} alt="" className="h-full w-full object-cover" aria-hidden="true" />
+                      <img src={image} alt="" className="h-full w-full object-cover" onError={handleImageFallback} />
                     </button>
                   ))}
+                  <button
+                    type="button"
+                    onClick={nextImage}
+                    className="flex h-10 w-10 items-center justify-center border-2 border-[#15110f] bg-[#f8f4ec] text-2xl font-black leading-none transition hover:border-[#b0160b] hover:bg-[#b0160b] hover:text-[#f8f4ec]"
+                    aria-label="Xem ảnh tiếp theo"
+                  >
+                    ›
+                  </button>
                 </div>
               )}
             </div>
-          </div>
-        </div>
-      </section>
 
-      <section className="relative z-20 -mt-20 px-6 md:px-10 lg:px-12">
-        <div className="mx-auto grid max-w-7xl gap-4 md:grid-cols-3">
-          {[
-            ['Dân số', `${group.population.toLocaleString('vi-VN')} người`],
-            ['Khu vực sinh sống', group.regions.join(', ')],
-            ['Ngôn ngữ', group.language],
-          ].map(([label, value]) => (
-            <div
-              key={label}
-              className="rounded-lg border border-[#d8aa45]/24 bg-[#17324d] p-5 text-[#eef4ef] shadow-[0_18px_45px_rgba(19,41,61,0.2)]"
-            >
-              <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#d8aa45]">{label}</p>
-              <p className="mt-3 text-lg font-semibold leading-7">{value}</p>
-            </div>
-          ))}
-        </div>
-      </section>
-
-      <section className="px-6 py-16 md:px-10 lg:px-12">
-        <div className="mx-auto grid max-w-7xl gap-8 lg:grid-cols-[0.9fr_1.1fr]">
-          <div className="overflow-hidden rounded-xl shadow-[0_18px_48px_rgba(19,41,61,0.16)]">
-            <img src={supportingImage} alt="" className="h-full min-h-[420px] w-full object-cover" aria-hidden="true" />
-          </div>
-
-          <div className="flex flex-col justify-center">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-[#9b2636]">
-              {sectionTitles.overview}
-            </p>
-            <h2 className="mt-3 text-4xl font-black text-[#17324d] md:text-5xl">
-              Câu chuyện hình thành và phát triển
-            </h2>
-            <div className="mt-5 h-1 w-28 bg-[#d8aa45]"></div>
-            <p className="mt-8 text-lg leading-8 text-[#17324d]/78">{group.history}</p>
-          </div>
-        </div>
-      </section>
-
-      <section className="relative overflow-hidden bg-[#13293d] px-6 py-16 text-[#eef4ef] md:px-10 lg:px-12">
-        <img src={identityImage} alt="" className="absolute inset-0 h-full w-full object-cover opacity-[0.18]" aria-hidden="true" />
-        <div className="absolute inset-0 bg-[#13293d]/88"></div>
-
-        <div className="relative z-10 mx-auto grid max-w-7xl gap-8 lg:grid-cols-[0.85fr_1.15fr]">
-          <div>
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-[#d8aa45]">Bản sắc</p>
-            <h2 className="mt-3 text-4xl font-black md:text-5xl">Đặc điểm nhận dạng</h2>
-            <p className="mt-6 max-w-xl text-lg leading-8 text-[#eef4ef]/72">
-              Những nét tính cách, giá trị cộng đồng và dấu ấn văn hóa thường được nhắc đến khi nói về dân tộc {group.name}.
-            </p>
-          </div>
-
-          <div className="grid gap-4 sm:grid-cols-2">
-            {group.characteristics.map((char, index) => (
-              <div
-                key={char}
-                className="rounded-lg border border-[#eef4ef]/12 bg-[#eef4ef]/8 p-5 backdrop-blur-sm"
-              >
-                <span className="text-xs font-black uppercase tracking-[0.2em] text-[#d8aa45]">
-                  {String(index + 1).padStart(2, '0')}
-                </span>
-                <p className="mt-3 text-lg font-semibold leading-7">{char}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="px-6 py-16 md:px-10 lg:px-12">
-        <div className="mx-auto max-w-7xl">
-          <div className="grid items-end gap-6 lg:grid-cols-[0.8fr_1.2fr]">
-            <div>
-              <p className="text-sm font-bold uppercase tracking-[0.2em] text-[#9b2636]">
-                {sectionTitles.culture}
+            <div className="relative z-20 max-w-[360px] justify-self-end text-right lg:self-end lg:pb-16">
+              <p className="text-sm font-black uppercase leading-[0.95] tracking-[-0.04em] sm:text-lg">
+                {group.description}
               </p>
-              <h2 className="mt-3 text-4xl font-black text-[#17324d] md:text-5xl">
-                Đời sống văn hóa
+              <div className="mt-7 grid gap-3 text-left">
+                {[
+                  ['Dân số', `${group.population.toLocaleString('vi-VN')} người`],
+                  ['Ngôn ngữ', group.language],
+                  ['Khu vực', group.regions.join(', ')],
+                ].map(([label, value]) => (
+                  <div key={label} className="border-t-2 border-[#15110f] pt-3">
+                    <p className="text-[0.62rem] font-black uppercase tracking-[0.16em] text-[#b0160b]">{label}</p>
+                    <p className="mt-1 text-sm font-black uppercase leading-tight">{value}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+
+          <p className="relative z-20 text-[0.62rem] font-black uppercase leading-none">vietnam-54ethnic-groups</p>
+        </div>
+      </section>
+
+      <section className="relative overflow-hidden bg-[#f8f4ec] px-6 py-14 sm:px-10">
+        <div className="paper-grain absolute inset-0"></div>
+        <div className="relative z-10 mx-auto grid max-w-[1280px] gap-8 lg:grid-cols-[1.05fr_0.95fr] lg:items-center">
+          <div>
+            <h2 className="max-w-[760px] text-[clamp(3rem,8vw,7.2rem)] font-black uppercase leading-[0.82] tracking-[-0.07em] text-[#b0160b]">
+              Văn hóa {group.name}
+            </h2>
+            <p className="mt-8 max-w-[360px] text-xl font-black uppercase leading-[0.95] tracking-[-0.04em]">
+              Câu chuyện hình thành, phát triển và dấu ấn cộng đồng.
+            </p>
+            <p className="mt-8 max-w-[720px] text-sm font-bold leading-6">{group.history}</p>
+          </div>
+
+          <div className="grid gap-4">
+            <img
+              src={sideImage}
+              alt=""
+              className="ml-auto aspect-[4/3] w-full max-w-[300px] object-cover grayscale contrast-110"
+              aria-hidden="true"
+              onError={handleImageFallback}
+            />
+            <img
+              src={wideImage}
+              alt=""
+              className="aspect-[16/10] w-full object-cover grayscale contrast-110"
+              aria-hidden="true"
+              onError={handleImageFallback}
+            />
+          </div>
+        </div>
+      </section>
+
+      <section className="relative overflow-hidden bg-[#f8f4ec] px-6 py-14 sm:px-10">
+        <div className="paper-grain absolute inset-0"></div>
+        <div className="relative z-10 mx-auto grid max-w-[1280px] gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-end">
+          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-[0.8fr_1.2fr]">
+            <img
+              src={accentImage}
+              alt=""
+              className="aspect-[4/3] w-full object-cover grayscale contrast-110 sm:mt-12"
+              aria-hidden="true"
+              onError={handleImageFallback}
+            />
+            <img
+              src={heroImage}
+              alt=""
+              className="aspect-[4/5] w-full object-cover grayscale contrast-110"
+              aria-hidden="true"
+              onError={handleImageFallback}
+            />
+          </div>
+
+          <div>
+            <p className="ml-auto max-w-[320px] text-right text-xs font-bold italic leading-4">
+              Trang phục là một trong những tín hiệu thị giác mạnh nhất để nhận diện bản sắc, lối sống và thẩm mỹ của cộng đồng.
+            </p>
+            <h2 className="mt-28 text-right text-[clamp(3.4rem,8vw,7rem)] font-black uppercase leading-[0.82] tracking-[-0.07em] text-[#b0160b]">
+              Trang phục truyền thống
+            </h2>
+            <p className="mt-6 text-sm font-bold leading-6">{group.culture.clothing}</p>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-[#b0160b] px-6 py-12 text-[#f8f4ec] sm:px-10">
+        <div className="mx-auto max-w-[1280px]">
+          <div className="grid gap-6 lg:grid-cols-[0.7fr_1.3fr] lg:items-end">
+            <div>
+              <p className="text-xs font-black uppercase tracking-[0.18em] text-[#f8f4ec]/70">Đời sống</p>
+              <h2 className="mt-3 text-5xl font-black uppercase leading-[0.82] tracking-[-0.06em] sm:text-7xl">
+                Lễ hội, phong tục, ẩm thực
               </h2>
             </div>
-            <p className="text-lg leading-8 text-[#17324d]/72">
-              Các nhóm thông tin được đặt cạnh hình ảnh để phần chi tiết dễ quét hơn, đồng thời vẫn giữ cảm giác giàu chất liệu văn hóa.
+            <p className="max-w-[620px] text-sm font-bold leading-6 text-[#f8f4ec]/86">
+              Các lớp văn hóa được trình bày thành từng mảng ngắn để dễ đọc, giống một trang tạp chí hơn là một bảng thông tin khô.
             </p>
           </div>
 
-          <div className="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
+          <div className="mt-10 grid gap-4 md:grid-cols-3">
             {[
               ['Lễ hội', group.culture.festivals],
-              ['Phong tục tập quán', group.culture.customs],
+              ['Phong tục', group.culture.customs],
               ['Ẩm thực', group.culture.cuisine],
             ].map(([title, items], index) => (
-              <article key={title as string} className="overflow-hidden rounded-lg bg-white shadow-[0_16px_42px_rgba(19,41,61,0.12)]">
-                <img
-                  src={allImages[(index + 1) % allImages.length] || cultureImage}
-                  alt=""
-                  className="h-44 w-full object-cover"
-                  aria-hidden="true"
-                />
-                <div className="p-5">
-                  <h3 className="text-2xl font-black text-[#17324d]">{title as string}</h3>
-                  <ul className="mt-4 space-y-3 text-[#17324d]/74">
-                    {(items as string[]).map((item) => (
-                      <li key={item} className="border-l-2 border-[#d8aa45] pl-3 leading-7">
-                        {item}
-                      </li>
-                    ))}
-                  </ul>
+              <article key={title as string} className="bg-[#f8f4ec] text-[#15110f]">
+                <div className="border-b-2 border-[#b0160b] px-5 py-4">
+                  <p className="text-[0.62rem] font-black uppercase tracking-[0.18em] text-[#b0160b]">
+                    {String(index + 1).padStart(2, '0')}
+                  </p>
+                  <h3 className="mt-2 text-3xl font-black uppercase leading-none tracking-[-0.04em]">
+                    {title as string}
+                  </h3>
                 </div>
+                <ul className="space-y-0 p-5 text-sm font-bold leading-6">
+                  {(items as string[]).map((item) => (
+                    <li key={item} className="border-b border-[#15110f]/18 py-3 last:border-b-0">
+                      {item}
+                    </li>
+                  ))}
+                </ul>
               </article>
             ))}
           </div>
+        </div>
+      </section>
 
-          <div className="mt-5 grid gap-5 lg:grid-cols-2">
-            <article className="grid overflow-hidden rounded-lg bg-white shadow-[0_16px_42px_rgba(19,41,61,0.12)] md:grid-cols-[0.9fr_1.1fr]">
-              <img src={cultureImage} alt="" className="h-full min-h-[260px] w-full object-cover" aria-hidden="true" />
-              <div className="p-6">
-                <h3 className="text-2xl font-black text-[#17324d]">Trang phục truyền thống</h3>
-                <p className="mt-4 leading-8 text-[#17324d]/74">{group.culture.clothing}</p>
-              </div>
-            </article>
+      <section className="relative overflow-hidden bg-[#f8f4ec] px-6 py-14 sm:px-10">
+        <div className="paper-grain absolute inset-0"></div>
+        <div className="relative z-10 mx-auto grid max-w-[1280px] gap-8 lg:grid-cols-[0.95fr_1.05fr]">
+          <div>
+            <h2 className="text-[clamp(3rem,7vw,6.5rem)] font-black uppercase leading-[0.82] tracking-[-0.07em] text-[#b0160b]">
+              Bản sắc cộng đồng
+            </h2>
+            <p className="mt-7 text-sm font-bold leading-6">{group.culture.housing}</p>
+          </div>
 
-            <article className="grid overflow-hidden rounded-lg bg-white shadow-[0_16px_42px_rgba(19,41,61,0.12)] md:grid-cols-[0.9fr_1.1fr]">
-              <img src={supportingImage} alt="" className="h-full min-h-[260px] w-full object-cover" aria-hidden="true" />
-              <div className="p-6">
-                <h3 className="text-2xl font-black text-[#17324d]">Nhà ở</h3>
-                <p className="mt-4 leading-8 text-[#17324d]/74">{group.culture.housing}</p>
+          <div className="grid gap-3 sm:grid-cols-2">
+            {group.characteristics.map((char, index) => (
+              <div key={char} className="border-2 border-[#15110f] bg-[#f8f4ec] p-5">
+                <p className="text-[0.62rem] font-black uppercase tracking-[0.18em] text-[#b0160b]">
+                  {String(index + 1).padStart(2, '0')}
+                </p>
+                <p className="mt-4 text-xl font-black uppercase leading-none tracking-[-0.04em]">{char}</p>
               </div>
-            </article>
+            ))}
           </div>
         </div>
       </section>
 
       {((group.music && group.music.length > 0) || (group.videos && group.videos.length > 0)) && (
-        <section className="bg-[#17324d] px-6 py-16 text-[#eef4ef] md:px-10 lg:px-12">
-          <div className="mx-auto max-w-7xl">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-[#d8aa45]">
-              {sectionTitles.media}
-            </p>
-            <h2 className="mt-3 text-4xl font-black md:text-5xl">Âm nhạc và video</h2>
+        <section className="bg-[#15110f] px-6 py-14 text-[#f8f4ec] sm:px-10">
+          <div className="mx-auto max-w-[1280px]">
+            <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">Tư liệu nghe nhìn</p>
+            <h2 className="mt-3 text-5xl font-black uppercase leading-[0.82] tracking-[-0.06em] sm:text-7xl">
+              Âm nhạc và video
+            </h2>
 
             {group.music && group.music.length > 0 && (
-              <div className="mt-10 grid gap-5 md:grid-cols-2">
+              <div className="mt-10 grid gap-4 md:grid-cols-2">
                 {group.music.map((music) => (
-                  <article key={music.title} className="rounded-lg border border-[#eef4ef]/12 bg-[#eef4ef]/8 p-5">
-                    <h3 className="text-2xl font-black">{music.title}</h3>
-                    <p className="mt-3 text-[#eef4ef]/72">{music.description}</p>
+                  <article key={music.title} className="border-2 border-[#f8f4ec]/24 p-5">
+                    <h3 className="text-2xl font-black uppercase leading-none tracking-[-0.04em]">{music.title}</h3>
+                    <p className="mt-3 text-sm font-bold leading-6 text-[#f8f4ec]/70">{music.description}</p>
                     <audio controls className="mt-5 w-full">
                       <source src={music.url} type="audio/mpeg" />
                       Trình duyệt của bạn không hỗ trợ phát âm thanh.
@@ -301,9 +319,9 @@ const DetailPage = () => {
             )}
 
             {group.videos && group.videos.length > 0 && (
-              <div className="mt-6 grid gap-5 lg:grid-cols-2">
+              <div className="mt-5 grid gap-4 lg:grid-cols-2">
                 {group.videos.map((video) => (
-                  <article key={video.title} className="overflow-hidden rounded-lg bg-[#eef4ef] text-[#17324d]">
+                  <article key={video.title} className="bg-[#f8f4ec] text-[#15110f]">
                     <div className="relative aspect-video overflow-hidden">
                       <iframe
                         src={video.url}
@@ -314,8 +332,8 @@ const DetailPage = () => {
                       ></iframe>
                     </div>
                     <div className="p-5">
-                      <h3 className="text-2xl font-black">{video.title}</h3>
-                      <p className="mt-2 text-[#17324d]/72">{video.description}</p>
+                      <h3 className="text-2xl font-black uppercase leading-none tracking-[-0.04em]">{video.title}</h3>
+                      <p className="mt-3 text-sm font-bold leading-6 text-[#15110f]/70">{video.description}</p>
                     </div>
                   </article>
                 ))}
@@ -325,16 +343,14 @@ const DetailPage = () => {
         </section>
       )}
 
-      <section className="px-6 py-12 md:px-10 lg:px-12">
-        <div className="mx-auto max-w-7xl">
-          <Link
-            to="/"
-            className="inline-flex items-center rounded-full bg-[#17324d] px-6 py-3 font-semibold text-[#eef4ef] shadow-[0_12px_30px_rgba(19,41,61,0.18)] transition-colors hover:bg-[#9b2636] focus:outline-none focus-visible:ring-4 focus-visible:ring-[#d8aa45]/70"
-          >
-            Quay về trang chủ
-          </Link>
-        </div>
-      </section>
+      <footer className="border-t-2 border-[#b0160b] bg-[#f8f4ec] px-6 py-8 text-center sm:px-10">
+        <Link
+          to="/"
+          className="inline-flex border-2 border-[#b0160b] bg-[#b0160b] px-6 py-3 text-xs font-black uppercase tracking-[0.13em] text-[#f8f4ec] transition hover:bg-transparent hover:text-[#b0160b]"
+        >
+          Quay về trang chủ
+        </Link>
+      </footer>
     </main>
   );
 };
