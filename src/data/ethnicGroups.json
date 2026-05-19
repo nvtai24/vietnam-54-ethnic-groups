@@ -4,183 +4,1081 @@
       "id": "kinh",
       "name": "Kinh",
       "otherNames": ["Việt"],
-      "population": 85800000,
-      "regions": ["Toàn quốc, tập trung ở đồng bằng"],
+      "population": 82085826,
+      "regions": ["Toàn quốc, tập trung đông ở vùng đồng bằng, ven biển và các đô thị"],
       "language": "Tiếng Việt",
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
-      "images": [
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=1200",
-        "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=1200",
-        "https://images.unsplash.com/photo-1528127269322-539801943592?w=1200"
-      ],
-      "description": "Người Kinh là dân tộc đông nhất Việt Nam, chiếm khoảng 85% dân số cả nước. Người Kinh có nền văn hóa lâu đời, chịu ảnh hưởng sâu sắc của văn hóa Trung Hoa nhưng vẫn giữ được bản sắc riêng độc đáo.",
-      "history": "Người Kinh có lịch sử hình thành và phát triển hàng nghìn năm, từ thời Văn Lang - Âu Lạc. Qua các triều đại phong kiến, người Kinh đã xây dựng nên nền văn minh lúa nước rực rỡ, với những thành tựu văn hóa, nghệ thuật và khoa học kỹ thuật đáng tự hào.",
+      "images": [],
+      "description": "Người Kinh là dân tộc đông nhất Việt Nam, chiếm khoảng 85% dân số cả nước. Người Kinh có nền văn hóa lâu đời, chịu ảnh hưởng sâu sắc của văn hóa Á Đông nhưng vẫn giữ được bản sắc riêng độc đáo.",
+      "history": "Người Kinh có lịch sử hình thành và phát triển hàng nghìn năm, từ thời Văn Lang - Âu Lạc, gắn liền với nền văn minh lúa nước sông Hồng.",
       "culture": {
-        "festivals": [
-          "Tết Nguyên Đán - Lễ hội lớn nhất trong năm",
-          "Tết Trung Thu - Lễ hội của trẻ em",
-          "Tết Hàn Thực - Tưởng nhớ tổ tiên",
-          "Lễ Giỗ Tổ Hùng Vương - 10/3 Âm lịch"
-        ],
-        "customs": [
-          "Thờ cúng tổ tiên",
-          "Cưới hỏi theo nghi lễ truyền thống",
-          "Tục lệ tang ma",
-          "Phong tục đầu năm: xông đất, lì xì, chúc Tết"
-        ],
-        "clothing": "Áo dài là trang phục truyền thống đặc trưng của người Kinh, đặc biệt là phụ nữ. Áo dài có lịch sử phát triển lâu đời, từ áo tứ thân thời xưa đến áo dài hiện đại ngày nay. Áo dài thường được mặc trong các dịp lễ, tết và sự kiện quan trọng.",
-        "cuisine": [
-          "Phở - Món ăn quốc hồn quốc tuý",
-          "Bánh chưng, bánh tét - Món ăn truyền thống ngày Tết",
-          "Bún chả, bún bò, bún riêu",
-          "Nem rán, gỏi cuốn",
-          "Cơm tấm, xôi"
-        ],
-        "housing": "Nhà truyền thống của người Kinh thường là nhà sàn hoặc nhà đất, có mái ngói, kết cấu gỗ. Kiến trúc nhà ở thể hiện quan niệm phong thủy, với bố cục hài hòa giữa không gian sống và thiên nhiên."
+        "festivals": ["Tết Nguyên Đán", "Tết Trung Thu", "Giỗ Tổ Hùng Vương", "Tết Đoan Ngọ"],
+        "customs": ["Thờ cúng tổ tiên", "Cưới hỏi theo nghi lễ truyền thống", "Tôn sư trọng đạo"],
+        "clothing": "Áo dài, áo tứ thân, yếm, nón lá.",
+        "cuisine": ["Phở", "Bánh chưng", "Nem rán", "Bún chả", "Nước mắm"],
+        "housing": "Nhà 3 gian 2 chái truyền thống bằng gỗ, mái ngói đỏ hoặc nhà hiện đại."
       },
-      "music": [
-        {
-          "title": "Dân ca quan họ Bắc Ninh",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-          "description": "Di sản văn hóa phi vật thể đại diện của nhân loại"
-        },
-        {
-          "title": "Ca trù",
-          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-          "description": "Nghệ thuật hát xướng cổ truyền"
-        }
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống người Kinh",
-          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-          "description": "Tìm hiểu về văn hóa, phong tục tập quán của người Kinh"
-        }
-      ],
-      "characteristics": [
-        "Cần cù, chịu khó",
-        "Trọng nghĩa tình",
-        "Tôn trọng truyền thống",
-        "Tinh thần đoàn kết cộng đồng",
-        "Yêu quê hương đất nước"
-      ]
+      "characteristics": ["Cần cù, chịu khó", "Trọng tình nghĩa", "Hiếu học", "Yêu nước"]
     },
     {
       "id": "tay",
       "name": "Tày",
       "otherNames": ["Thổ", "Ngạn", "Phén", "Thù Lao"],
-      "population": 1845000,
-      "regions": ["Cao Bằng", "Lạng Sơn", "Bắc Kạn", "Quảng Ninh", "Hà Giang"],
+      "population": 1845892,
+      "regions": ["Cao Bằng", "Lạng Sơn", "Bắc Kạn", "Quảng Ninh", "Hà Giang", "Thái Nguyên", "Lào Cai"],
       "language": "Tiếng Tày (ngữ hệ Tày-Thái)",
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
-      "description": "Người Tày là dân tộc thiểu số đông nhất Việt Nam, sinh sống chủ yếu ở vùng núi phía Bắc.",
-      "history": "Người Tày có lịch sử lâu đời, di cư từ phía Bắc vào Việt Nam từ nhiều thế kỷ trước.",
+      "description": "Người Tày là dân tộc thiểu số đông nhất Việt Nam, cư trú chủ yếu ở vùng thung lũng, ven suối các tỉnh miền núi phía Bắc.",
+      "history": "Người Tày là cư dân bản địa có mặt ở Việt Nam từ rất sớm, gắn bó mật thiết với người Nùng và người Thái.",
       "culture": {
-        "festivals": ["Lồng Tồng", "Tết Nguyên Đán"],
-        "customs": ["Cưới xin theo tục lệ truyền thống", "Thờ cúng tổ tiên"],
-        "clothing": "Trang phục truyền thống có màu sắc chủ đạo là chàm, với họa tiết thêu tinh xảo.",
-        "cuisine": ["Bánh khảo", "Thịt lợn cắp nách", "Rượu ngô"],
-        "housing": "Nhà sàn truyền thống làm bằng gỗ và tre"
+        "festivals": ["Lễ hội Lồng Tồng (Xuống đồng)"],
+        "customs": ["Thờ cúng tổ tiên và thờ Thổ công, Bà mụ", "Hát Then"],
+        "clothing": "Trang phục màu chàm đen, phụ nữ mặc áo ngũ thân, chít khăn mỏ quạ.",
+        "cuisine": ["Xôi ngũ sắc", "Bánh chưng tày", "Thịt lợn quay", "Khâu nhục", "Lạp sườn"],
+        "housing": "Nhà sàn bằng gỗ, mái lợp cọ hoặc ngói."
       },
-      "characteristics": [
-        "Hiền hòa, thân thiện",
-        "Giỏi trồng lúa nước",
-        "Có văn hóa dân ca phong phú"
-      ]
+      "characteristics": ["Hiền hòa, hiếu khách", "Giỏi canh tác lúa nước", "Văn hóa dân ca phong phú"]
     },
     {
       "id": "thai",
       "name": "Thái",
-      "population": 1550000,
-      "regions": ["Sơn La", "Điện Biên", "Lai Châu", "Nghệ An"],
-      "language": "Tiếng Thái",
+      "otherNames": ["Táy", "Tày Đăm", "Tày Khảo"],
+      "population": 1820950,
+      "regions": ["Sơn La", "Điện Biên", "Lai Châu", "Hòa Bình", "Thanh Hóa", "Nghệ An"],
+      "language": "Tiếng Thái (ngữ hệ Tày-Thái)",
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
-      "description": "Người Thái có nền văn hóa đặc sắc với nghệ thuật dệt thổ cẩm nổi tiếng.",
-      "history": "Người Thái di cư vào Việt Nam từ thế kỷ 11-12.",
+      "description": "Người Thái nổi tiếng với nghệ thuật dệt thổ cẩm, kiến trúc nhà sàn và điệu múa xòe truyền thống.",
+      "history": "Người Thái di cư từ vùng Vân Nam (Trung Quốc) xuống phía Nam cách đây hàng ngàn năm.",
       "culture": {
-        "festivals": ["Xên Mường", "Xên Bản"],
-        "customs": ["Tục lệ cưới xin", "Lễ cúng mừng nhà mới"],
-        "clothing": "Váy dệt thổ cẩm với họa tiết độc đáo, áo cánh ngắn.",
-        "cuisine": ["Cơm lam", "Thịt trâu gác bếp", "Rượu cần"],
-        "housing": "Nhà sàn cao, mái lợp tranh hoặc ngói"
+        "festivals": ["Lễ hội Xên Bản Xên Mường", "Lễ hội Hoa Ban"],
+        "customs": ["Tục ở rể (đã giảm)", "Múa Xòe, múa Sạp", "Thờ cúng tổ tiên"],
+        "clothing": "Phụ nữ mặc áo cóm (ngắn) bó sát, váy đen dài, đội khăn piêu (Thái đen).",
+        "cuisine": ["Cơm lam", "Thịt trâu gác bếp", "Pa pỉnh tộp (cá nướng)", "Rượu cần"],
+        "housing": "Nhà sàn cao, mái lợp cỏ gianh hình mai rùa (Thái Đen) hoặc mái bằng (Thái Trắng)."
       },
-      "characteristics": [
-        "Giỏi dệt thổ cẩm",
-        "Có văn hóa ca múa phong phú",
-        "Yêu thiên nhiên"
-      ]
+      "characteristics": ["Thanh lịch, khéo léo", "Giỏi dệt thổ cẩm", "Yêu ca múa"]
     },
     {
       "id": "muong",
       "name": "Mường",
-      "population": 1400000,
-      "regions": ["Hòa Bình", "Phú Thọ", "Thanh Hóa"],
-      "language": "Tiếng Mường",
+      "otherNames": ["Mol", "Mual", "Mọi"],
+      "population": 1452095,
+      "regions": ["Hòa Bình", "Thanh Hóa", "Phú Thọ", "Sơn La", "Hà Nội (Ba Vì)"],
+      "language": "Tiếng Mường (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
-      "description": "Người Mường có quan hệ gần gũi với người Kinh về mặt ngôn ngữ và văn hóa.",
-      "history": "Người Mường là một trong những cư dân bản địa lâu đời nhất ở Việt Nam.",
+      "description": "Người Mường có cùng nguồn gốc với người Kinh, nhưng sinh sống ở miền núi nên giữ được nhiều nét văn hóa cổ xưa hơn.",
+      "history": "Là cư dân bản địa lâu đời, tách ra từ khối Việt-Mường chung khoảng vài ngàn năm trước.",
       "culture": {
-        "festivals": ["Lễ hội Mường", "Tết Nguyên Đán"],
-        "customs": ["Tục thờ cúng tổ tiên", "Lễ cưới truyền thống"],
-        "clothing": "Áo cánh trắng, váy đen, khăn piêu trắng.",
-        "cuisine": ["Cơm lam", "Gà đồi", "Măng rừng"],
-        "housing": "Nhà sàn truyền thống"
+        "festivals": ["Lễ hội Khai hạ", "Lễ hội cầu mưa", "Lễ mừng cơm mới"],
+        "customs": ["Sử thi Đẻ đất đẻ nước", "Sử dụng cồng chiêng trong các dịp lễ tết"],
+        "clothing": "Phụ nữ mặc áo cánh ngắn (pắn), váy đen dài với cạp váy dệt hoa văn cầu kỳ.",
+        "cuisine": ["Cỗ lá", "Cơm đồ", "Thịt lợn thui luộc", "Rượu cần"],
+        "housing": "Nhà sàn truyền thống với 4 mái."
       },
-      "characteristics": [
-        "Cần cù, chất phác",
-        "Giữ gìn văn hóa truyền thống",
-        "Có sử thi Mường độc đáo"
-      ]
+      "characteristics": ["Chân chất, mộc mạc", "Tôn trọng thứ bậc gia đình", "Giàu truyền thống văn nghệ dân gian"]
     },
     {
       "id": "khmer",
       "name": "Khmer",
-      "population": 1320000,
-      "regions": ["Sóc Trăng", "Trà Vinh", "Kiên Giang", "An Giang"],
-      "language": "Tiếng Khmer",
+      "otherNames": ["Khmer Nam Bộ", "Miên"],
+      "population": 1319652,
+      "regions": ["Sóc Trăng", "Trà Vinh", "Kiên Giang", "An Giang", "Bạc Liêu", "Cà Mau"],
+      "language": "Tiếng Khmer (ngữ hệ Nam Á)",
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
-      "description": "Người Khmer ở Việt Nam chủ yếu theo đạo Phật Theravada, có nền văn hóa đặc sắc.",
-      "history": "Người Khmer là cư dân bản địa ở Nam Bộ từ rất lâu đời.",
+      "description": "Người Khmer Nam Bộ có nền văn hóa gắn liền với Phật giáo Nam tông, thể hiện rõ qua hệ thống chùa chiền độc đáo.",
+      "history": "Là những cư dân sinh sống lâu đời ở vùng đồng bằng sông Cửu Long.",
       "culture": {
-        "festivals": ["Chol Chnam Thmay (Tết Khmer)", "Ok Om Bok (Lễ hội Trăng)"],
-        "customs": ["Lễ cúng cơm mới", "Lễ Dolta"],
-        "clothing": "Sampot (váy truyền thống), áo bà ba.",
-        "cuisine": ["Bánh tét", "Cá kho", "Bún nước lèo"],
-        "housing": "Nhà sàn hoặc nhà đất, gần chùa"
+        "festivals": ["Chôl Chnăm Thmây (Năm mới)", "Sen Dolta (Lễ cúng ông bà)", "Oóc Om Bóc (Lễ cúng trăng)"],
+        "customs": ["Tục nam giới đi tu báo hiếu", "Đua ghe ngo", "Nghệ thuật sân khấu Dù kê, Rô băm"],
+        "clothing": "Trang phục truyền thống Săm-pốt, áo tầm vông.",
+        "cuisine": ["Bún nước lèo", "Mắm bò hóc (Prahok)", "Bánh tét Trà Cuôn", "Canh sim-lo"],
+        "housing": "Thường cất nhà sàn hoặc nhà đất, bố trí xóm làng xung quanh chùa."
       },
-      "characteristics": [
-        "Hiền hòa, hiếu khách",
-        "Tín ngưỡng Phật giáo sâu sắc",
-        "Nghệ thuật múa truyền thống phong phú"
-      ]
+      "characteristics": ["Sùng đạo Phật", "Hiền lành, cởi mở", "Có năng khiếu nghệ thuật, điêu khắc"]
+    },
+    {
+      "id": "hoa",
+      "name": "Hoa",
+      "otherNames": ["Hán", "Triều Châu", "Phúc Kiến", "Quảng Đông"],
+      "population": 749466,
+      "regions": ["TP. Hồ Chí Minh", "Đồng Nai", "Sóc Trăng", "Kiên Giang", "Bạc Liêu", "Bình Dương"],
+      "language": "Tiếng Hán (các phương ngữ: Quảng Đông, Phúc Kiến, Triều Châu...)",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [],
+      "description": "Người Hoa tại Việt Nam chủ yếu sống ở các đô thị lớn, có truyền thống kinh doanh thương mại và tiểu thủ công nghiệp.",
+      "history": "Người Hoa di cư sang Việt Nam nhiều đợt trong lịch sử, đặc biệt từ thế kỷ 17 đến thế kỷ 20.",
+      "culture": {
+        "festivals": ["Tết Nguyên Tiêu", "Tết Trung Thu", "Tết Thanh Minh", "Lễ vía Bà Thiên Hậu"],
+        "customs": ["Múa lân sư rồng", "Thờ cúng Quan Công, Bà Thiên Hậu", "Viết thư pháp"],
+        "clothing": "Sườn xám (nữ), áo cổ tàu. Ngày nay chủ yếu mặc âu phục.",
+        "cuisine": ["Dimsum", "Vịt quay", "Hủ tiếu", "Mì xào", "Chè trôi nước"],
+        "housing": "Sống trong các khu phố sầm uất, nhà cửa xây bằng gạch, ngói, đặc trưng kiểu kiến trúc phố cổ."
+      },
+      "characteristics": ["Giỏi kinh doanh", "Đề cao tính gia tộc, hội đồng hương", "Trọng chữ tín"]
+    },
+    {
+      "id": "nung",
+      "name": "Nùng",
+      "otherNames": ["Nùng Xuồng", "Nùng Giang", "Nùng An", "Nùng Inh"],
+      "population": 1083298,
+      "regions": ["Lạng Sơn", "Cao Bằng", "Bắc Giang", "Thái Nguyên", "Hà Giang", "Đắk Lắk"],
+      "language": "Tiếng Nùng (ngữ hệ Tày-Thái)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Người Nùng có mối quan hệ gần gũi với người Tày, giỏi nghề mộc, đan lát và rèn nông cụ.",
+      "history": "Có nguồn gốc từ các nhóm cư dân sống ở khu vực biên giới Việt - Trung, di cư vào Việt Nam từ lâu đời.",
+      "culture": {
+        "festivals": ["Lễ hội Lồng Tồng", "Tết Thanh Minh (Tết tảo mộ)"],
+        "customs": ["Hát Sli", "Thờ cúng tổ tiên, ma xó"],
+        "clothing": "Trang phục màu chàm, ít thêu thùa hoa văn, thiết kế đơn giản, thiết thực cho lao động.",
+        "cuisine": ["Khâu nhục", "Lợn quay mắc mật", "Bánh khảo", "Xôi màu"],
+        "housing": "Nhà sàn truyền thống hoặc nhà trình tường (vùng giáp biên). "
+      },
+      "characteristics": ["Thật thà, thẳng thắn", "Chăm chỉ", "Có tinh thần thượng võ"]
     },
     {
       "id": "hmong",
       "name": "H'Mông",
-      "otherNames": ["Mèo", "Mông"],
-      "population": 1393000,
-      "regions": ["Hà Giang", "Lào Cai", "Cao Bằng", "Sơn La"],
-      "language": "Tiếng H'Mông",
+      "otherNames": ["Mông", "Mèo", "Mán trắng"],
+      "population": 1393547,
+      "regions": ["Hà Giang", "Điện Biên", "Sơn La", "Lào Cai", "Lai Châu", "Yên Bái", "Nghệ An", "Đắk Lắk"],
+      "language": "Tiếng H'Mông (ngữ hệ H'Mông - Dao)",
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
-      "description": "Người H'Mông nổi tiếng với trang phục thổ cẩm rực rỡ và lễ hội Gầu Tào độc đáo.",
-      "history": "Người H'Mông di cư vào Việt Nam từ thế kỷ 18-19.",
+      "description": "Người H'Mông nổi tiếng với trang phục sặc sỡ, ruộng bậc thang kỳ vĩ và kỹ năng thổi khèn điêu luyện.",
+      "history": "Người H'Mông di cư vào miền Bắc Việt Nam khoảng 300 năm trước từ phía Bắc.",
       "culture": {
-        "festivals": ["Gầu Tào", "Tết Nhảy"],
-        "customs": ["Tục bắt vợ", "Lễ cưới truyền thống"],
-        "clothing": "Trang phục thổ cẩm với họa tiết phức tạp, đầy màu sắc.",
-        "cuisine": ["Thắng cố", "Ngô nướng", "Rượu ngô"],
-        "housing": "Nhà đất, mái tranh hoặc ngói"
+        "festivals": ["Lễ hội Gầu Tào", "Tết độc lập (2/9)"],
+        "customs": ["Tục kéo vợ (bắt vợ)", "Hát ống, thổi khèn Mông", "Chơi quay, ném pao"],
+        "clothing": "Trang phục rực rỡ nhiều màu sắc, váy xếp nếp dệt bằng lanh, nhuộm sáp ong, thêu hoa văn phức tạp.",
+        "cuisine": ["Mèn mén (cơm ngô)", "Thắng cố", "Thịt hun khói", "Rượu ngô"],
+        "housing": "Nhà trệt, vách ván hoặc trình tường đất, mái lợp ván gỗ hoặc ngói âm dương."
       },
-      "characteristics": [
-        "Cần cù, bền bỉ",
-        "Giỏi trồng ngô và dệt vải",
-        "Có văn hóa ca múa đặc sắc"
-      ]
+      "characteristics": ["Độc lập, mạnh mẽ", "Chịu đựng gian khổ tốt", "Giữ gìn bản sắc văn hóa rất mạnh"]
+    },
+    {
+      "id": "dao",
+      "name": "Dao",
+      "otherNames": ["Mán", "Động", "Trại", "Dìu Miền", "Kim Miền"],
+      "population": 891151,
+      "regions": ["Hà Giang", "Tuyên Quang", "Lào Cai", "Yên Bái", "Quảng Ninh", "Lai Châu"],
+      "language": "Tiếng Dao (ngữ hệ H'Mông - Dao)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Người Dao có nhiều nhóm địa phương (Dao Đỏ, Dao Tiền, Dao Quần Chẹt...) với trang phục và phong tục đa dạng. Nổi tiếng với các bài thuốc Nam bí truyền.",
+      "history": "Cũng giống người H'Mông, người Dao di cư vào Việt Nam từ các vùng phía Bắc từ thế kỷ 13 đến thế kỷ 20.",
+      "culture": {
+        "festivals": ["Lễ Cấp sắc (Lễ trưởng thành cho nam giới)", "Tết Nhảy"],
+        "customs": ["Sử dụng chữ Nôm Dao", "Tắm lá thuốc", "Lễ cúng Bàn Vương (thủy tổ)"],
+        "clothing": "Rất đa dạng. Dao Đỏ đội khăn đỏ rực rỡ, Dao Tiền đính các đồng bạc trên áo, Dao Quần Chẹt mặc quần ngắn nẹp chéo.",
+        "cuisine": ["Thịt lợn ướp chua", "Cá suối nướng", "Rượu hoẵng"],
+        "housing": "Nhà đất, nhà sàn hoặc nhà nửa sàn nửa đất tùy thuộc vào nhóm và địa hình."
+      },
+      "characteristics": ["Am hiểu thảo dược", "Kín đáo, trầm tĩnh", "Trọng nghi lễ và tôn giáo"]
+    },
+    {
+      "id": "giarai",
+      "name": "Gia Rai",
+      "otherNames": ["Jarai", "Giơ-rai", "Chơ-ray"],
+      "population": 513930,
+      "regions": ["Gia Lai", "Kon Tum", "Đắk Lắk"],
+      "language": "Tiếng Gia Rai (ngữ hệ Nam Đảo)",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Là dân tộc bản địa có dân số đông nhất Tây Nguyên, nổi tiếng với nhà rông cao vút và nhà mồ với các bức tượng sinh động.",
+      "history": "Gia Rai là một trong những cư dân bản địa lâu đời nhất tại Tây Nguyên.",
+      "culture": {
+        "festivals": ["Lễ Bỏ mả (Pơ-thi)", "Lễ mừng lúa mới"],
+        "customs": ["Chế độ mẫu hệ", "Sử dụng cồng chiêng, đàn T'rưng, K'lông pút"],
+        "clothing": "Nam đóng khố, cởi trần hoặc mặc áo chui đầu; nữ mặc váy quấn, áo ngắn chui đầu, chủ đạo là màu chàm có sọc hoa văn đỏ, vàng.",
+        "cuisine": ["Cơm lam", "Rượu cần", "Thịt nướng xiên", "Muối kiến vàng", "Bò một nắng"],
+        "housing": "Nhà sàn dài bằng gỗ, tre nứa. Mỗi làng có một nhà Rông lớn ở trung tâm."
+      },
+      "characteristics": ["Trọng nữ quyền", "Tinh thần cộng đồng cao", "Giàu tính nghệ thuật (điêu khắc gỗ)"]
+    },
+    {
+      "id": "ede",
+      "name": "Ê Đê",
+      "otherNames": ["Rhade", "Aná Gar", "Mọi"],
+      "population": 398671,
+      "regions": ["Đắk Lắk", "Phú Yên", "Đắk Nông", "Khánh Hòa"],
+      "language": "Tiếng Ê Đê (ngữ hệ Nam Đảo)",
+      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "images": [],
+      "description": "Người Ê Đê nổi bật với kiến trúc nhà dài hình con thuyền, sử thi Đam San và chế độ mẫu hệ sâu sắc.",
+      "history": "Người Ê Đê thuộc nhóm ngôn ngữ Malayo-Polynesia, đã định cư ở Tây Nguyên từ thời tiền sử.",
+      "culture": {
+        "festivals": ["Lễ cúng bến nước", "Lễ mừng lúa mới", "Lễ cầu mưa"],
+        "customs": ["Chế độ mẫu hệ: con mang họ mẹ, con gái út thừa kế tài sản", "Kể Khan (sử thi)"],
+        "clothing": "Màu đen hoặc chàm làm nền, điểm xuyết hoa văn đỏ, trắng, vàng. Nữ mặc váy quấn dài, áo chui đầu xẻ tà.",
+        "cuisine": ["Canh bồi", "Cà đắng", "Thịt gác bếp", "Rượu cần"],
+        "housing": "Nhà dài truyền thống bằng gỗ, tre, lợp cỏ tranh, cầu thang đẽo hình bầu vú mẹ."
+      },
+      "characteristics": ["Phóng khoáng, cởi mở", "Trọng mẫu hệ", "Đam mê âm nhạc cồng chiêng"]
+    },
+    {
+      "id": "bana",
+      "name": "Ba Na",
+      "otherNames": ["Bahnar", "Bơ Nâm", "Roh", "Kon Kđe"],
+      "population": 286910,
+      "regions": ["Kon Tum", "Gia Lai", "Bình Định", "Phú Yên"],
+      "language": "Tiếng Ba Na (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "images": [],
+      "description": "Người Ba Na là cư dân bản địa lâu đời ở Tây Nguyên, nổi tiếng với sử thi (H'mon) và kiến trúc nhà Rông.",
+      "history": "Người Ba Na cư trú tại vùng bắc Tây Nguyên và tây duyên hải miền Trung từ rất lâu đời.",
+      "culture": {
+        "festivals": ["Lễ đâm trâu", "Lễ mừng lúa mới", "Lễ bỏ mả"],
+        "customs": ["Chế độ song hệ (kết hợp phụ hệ và mẫu hệ)", "Sinh hoạt cộng đồng tại nhà Rông", "Kể H'mon"],
+        "clothing": "Màu đen, xanh đen và đỏ. Nam mặc áo chui đầu xẻ ngực, đóng khố chữ T. Nữ mặc áo ngắn, váy quấn.",
+        "cuisine": ["Rượu cần", "Thịt nướng ống tre", "Cá suối nướng", "Lá mì xào"],
+        "housing": "Nhà sàn bằng gỗ, tre, lợp tranh. Nhà Rông Ba Na rất to và cao vút, là biểu tượng sức mạnh của làng."
+      },
+      "characteristics": ["Thượng võ, dũng cảm", "Yêu tự do", "Giỏi đan lát và tạc tượng"]
+    },
+    {
+      "id": "xodang",
+      "name": "Xơ Đăng",
+      "otherNames": ["Sedang", "Xê Đăng", "Hđang", "Mơ-nâm"],
+      "population": 212277,
+      "regions": ["Kon Tum", "Quảng Nam", "Quảng Ngãi"],
+      "language": "Tiếng Xơ Đăng (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Cư trú chủ yếu ở Bắc Tây Nguyên, giỏi canh tác lúa nước trên ruộng bậc thang và rèn nông cụ.",
+      "history": "Có quan hệ nguồn gốc với các cư dân Nam Á cổ, sinh sống lâu đời ở vùng núi Ngọc Linh.",
+      "culture": {
+        "festivals": ["Lễ hội máng nước", "Lễ đâm trâu", "Lễ mừng lúa mới"],
+        "customs": ["Nam nữ bình đẳng", "Trồng sâm Ngọc Linh", "Hát múa dân gian phong phú"],
+        "clothing": "Nam đóng khố, nữ mặc váy quấn và áo chui đầu không tay, trang phục nhiều hoa văn.",
+        "cuisine": ["Rượu cần", "Cơm lam", "Chuột rừng nướng", "Thịt trâu gác bếp"],
+        "housing": "Nhà sàn dài nhiều bếp, các làng thường có nhà rông với hình dáng giống cánh buồm."
+      },
+      "characteristics": ["Đoàn kết cộng đồng", "Có tinh thần tự lập cao", "Giỏi săn bắn, rèn sắt"]
+    },
+    {
+      "id": "sanchay",
+      "name": "Sán Chay",
+      "otherNames": ["Cao Lan", "Sán Chỉ", "Mán Cao Lan"],
+      "population": 201398,
+      "regions": ["Tuyên Quang", "Thái Nguyên", "Bắc Giang", "Quảng Ninh"],
+      "language": "Tiếng Sán Chay (nhóm ngôn ngữ Tày-Thái đối với Cao Lan, Hán đối với Sán Chỉ)",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [],
+      "description": "Người Sán Chay gồm hai nhóm Cao Lan và Sán Chỉ, giỏi làm ruộng nước và có kho tàng dân ca phong phú.",
+      "history": "Di cư từ Nam Trung Quốc vào Việt Nam từ khoảng thế kỷ 17.",
+      "culture": {
+        "festivals": ["Tết Nguyên Đán", "Lễ cầu mùa", "Lễ Cấp sắc"],
+        "customs": ["Hát Sình ca (giao duyên)", "Múa xúc tép, múa chim gáy", "Sử dụng chữ Hán nôm"],
+        "clothing": "Nhóm Cao Lan mặc áo dài chàm xẻ tà, nhóm Sán Chỉ nữ thường chít khăn quấn đầu đỏ.",
+        "cuisine": ["Xôi ngũ sắc", "Bánh chưng sừng trâu", "Thịt chua"],
+        "housing": "Chủ yếu ở nhà sàn, một số nơi ở nhà đất."
+      },
+      "characteristics": ["Hiền lành, chất phác", "Thích ca hát", "Tôn trọng người già"]
+    },
+    {
+      "id": "coho",
+      "name": "Cơ Ho",
+      "otherNames": ["K'ho", "Srê", "Nộp", "Chil"],
+      "population": 214616,
+      "regions": ["Lâm Đồng", "Bình Thuận", "Ninh Thuận", "Đồng Nai"],
+      "language": "Tiếng Cơ Ho (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "images": [],
+      "description": "Cơ Ho là dân tộc bản địa đông nhất ở Lâm Đồng, có văn hóa cồng chiêng đặc sắc gắn liền với các buôn làng Tây Nguyên.",
+      "history": "Là cư dân thuộc nhóm ngôn ngữ Môn - Khmer đã định cư lâu đời trên cao nguyên Lang Biang.",
+      "culture": {
+        "festivals": ["Lễ cúng Thần Nông (Nhô Lir Bông)"],
+        "customs": ["Chế độ mẫu hệ", "Tôn giáo đa thần (Yàng)", "Chơi đàn T'rưng, kèn bầu"],
+        "clothing": "Váy, áo (nữ) và khố (nam) bằng vải thổ cẩm nền đen dệt hoa văn trắng, đỏ.",
+        "cuisine": ["Thịt nướng", "Cà đắng nấu lươn", "Rượu cần (tơ-nơm)"],
+        "housing": "Nhà sàn dài bằng gỗ, mái lợp tranh, hai mái uốn cong như mui thuyền."
+      },
+      "characteristics": ["Giản dị, chân thành", "Hòa hợp với thiên nhiên", "Tôn trọng chế độ mẫu hệ"]
+    },
+    {
+      "id": "cham",
+      "name": "Chăm",
+      "otherNames": ["Chàm", "Chiêm Thành", "Hroi"],
+      "population": 178948,
+      "regions": ["Ninh Thuận", "Bình Thuận", "An Giang", "TP. Hồ Chí Minh", "Tây Ninh", "Phú Yên"],
+      "language": "Tiếng Chăm (ngữ hệ Nam Đảo)",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Người Chăm là hậu duệ của vương quốc Chăm Pa cổ, sở hữu nền văn hóa đa dạng, rực rỡ với các tháp Chăm cổ kính và nghệ thuật làm gốm Bàu Trúc.",
+      "history": "Từng có quốc gia Chăm Pa phát triển rực rỡ ở miền Trung Việt Nam từ thế kỷ thứ 2 đến thế kỷ 17.",
+      "culture": {
+        "festivals": ["Lễ hội Katê (Chăm Bà-la-môn)", "Tết Ramawan (Chăm Islam)"],
+        "customs": ["Chế độ mẫu hệ", "Múa Apsara, múa quạt", "Tín ngưỡng Bà-la-môn giáo và Hồi giáo"],
+        "clothing": "Nữ mặc áo dài quá gối chui đầu, váy quấn (Aw Kamei), nam mặc áo sơ mi, quấn sà rông.",
+        "cuisine": ["Canh bồi", "Cà ri Chăm", "Bánh tét"],
+        "housing": "Nhà trệt xây gạch, mái ngói, quần tụ thành từng paley (làng)."
+      },
+      "characteristics": ["Tinh hoa nghệ thuật điêu khắc, kiến trúc", "Giỏi dệt vải, làm gốm", "Trọng mẫu hệ"]
+    },
+    {
+      "id": "sandiu",
+      "name": "Sán Dìu",
+      "otherNames": ["Sán Déo", "Trại", "Trại Đất"],
+      "population": 183004,
+      "regions": ["Thái Nguyên", "Vĩnh Phúc", "Bắc Giang", "Quảng Ninh", "Tuyên Quang"],
+      "language": "Tiếng Sán Dìu (nhóm ngôn ngữ Hán)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Người Sán Dìu cư trú chủ yếu ở trung du miền núi phía Bắc, có kinh nghiệm trồng trọt, chăn nuôi lâu đời.",
+      "history": "Di cư sang Việt Nam từ khu vực Quảng Đông (Trung Quốc) khoảng 400 năm trước.",
+      "culture": {
+        "festivals": ["Tết Thanh Minh", "Tết Đông Chí", "Lễ cúng Đại phan"],
+        "customs": ["Hát Soọng cô (giao duyên)", "Tục rước dâu ban đêm", "Ăn trầu"],
+        "clothing": "Trang phục nữ thường là áo xẻ ngực dài qua mông, nhuộm chàm, bên trong mặc yếm, đội khăn đen.",
+        "cuisine": ["Bánh chưng gù", "Thịt lợn khau nhục", "Cháo măng chua"],
+        "housing": "Sống trong nhà đất, mái lợp rạ hoặc ngói, tường trình đất hoặc xếp gạch mộc."
+      },
+      "characteristics": ["Cần cù, tiết kiệm", "Giỏi nghề mộc, rèn", "Coi trọng gia phả"]
+    },
+    {
+      "id": "hre",
+      "name": "Hrê",
+      "otherNames": ["Mọi đá vách", "Chăm Rê", "Mọi Luỹ"],
+      "population": 149460,
+      "regions": ["Quảng Ngãi", "Bình Định"],
+      "language": "Tiếng Hrê (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "images": [],
+      "description": "Người Hrê sinh sống dọc sườn Đông Trường Sơn, giỏi làm ruộng nước và dệt thổ cẩm.",
+      "history": "Là cư dân sinh sống lâu đời ở khu vực miền núi phía tây các tỉnh duyên hải Nam Trung Bộ.",
+      "culture": {
+        "festivals": ["Lễ đâm trâu", "Lễ cầu mưa", "Lễ ăn trâu"],
+        "customs": ["Thờ cúng đa thần", "Hát ca choi, thổi kèn đá", "Chế độ phụ hệ"],
+        "clothing": "Trang phục màu đen có sọc đỏ. Nam đóng khố, nữ mặc váy và áo chui đầu.",
+        "cuisine": ["Rượu cần", "Thịt trâu nướng", "Cơm gạo lốc (gạo rẫy)"],
+        "housing": "Nhà sàn, hai mái uốn cong, không có nhà rông."
+      },
+      "characteristics": ["Mạnh mẽ, gan dạ", "Giỏi canh tác thủy lợi", "Yêu âm nhạc cồng chiêng"]
+    },
+    {
+      "id": "mnong",
+      "name": "Mnông",
+      "otherNames": ["Pnông", "Nông", "Preh", "Bu Đâng"],
+      "population": 127334,
+      "regions": ["Đắk Nông", "Đắk Lắk", "Lâm Đồng", "Bình Phước"],
+      "language": "Tiếng Mnông (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "images": [],
+      "description": "Người Mnông nổi tiếng với nghề thuần dưỡng voi rừng và truyền thuyết về các dũng sĩ, các sử thi Ót N'rông.",
+      "history": "Cư dân bản địa định cư lâu đời trên vùng cao nguyên M'Nông.",
+      "culture": {
+        "festivals": ["Lễ đâm trâu", "Lễ mừng lúa mới", "Lễ hội cúng bến nước"],
+        "customs": ["Chế độ mẫu hệ", "Thuần dưỡng voi", "Sử thi Ót N'rông"],
+        "clothing": "Nam đóng khố, nữ quấn váy vắt chéo qua vai. Vải chàm đen điểm hoa văn đỏ rực.",
+        "cuisine": ["Canh thụt", "Cà đắng nấu mẻ", "Rượu cần"],
+        "housing": "Nhà trệt hoặc nhà sàn thấp, vách trát bùn nhào rơm hoặc đan phên tre."
+      },
+      "characteristics": ["Can đảm, phóng khoáng", "Tôn trọng thiên nhiên", "Yêu động vật (voi)"]
+    },
+    {
+      "id": "raglai",
+      "name": "Ra Glai",
+      "otherNames": ["Raglai", "Roglai", "Radlai"],
+      "population": 146613,
+      "regions": ["Ninh Thuận", "Khánh Hòa", "Bình Thuận", "Lâm Đồng"],
+      "language": "Tiếng Ra Glai (ngữ hệ Nam Đảo)",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Người Ra Glai có mối quan hệ gần gũi với người Chăm, chế độ mẫu hệ và cây đàn Chapi nổi tiếng.",
+      "history": "Ra Glai có nghĩa là 'người rừng', là nhóm cư dân bản địa lâu đời ở vùng nam Trung Bộ.",
+      "culture": {
+        "festivals": ["Lễ bỏ mả", "Lễ ăn mừng lúa mới"],
+        "customs": ["Chế độ mẫu hệ tuyệt đối", "Đàn Chapi, Mã la (một loại cồng chiêng)"],
+        "clothing": "Mặc quần áo vải thô dệt thủ công màu đen nhạt, điểm dải băng đỏ.",
+        "cuisine": ["Cơm lam ống nứa", "Rượu cần", "Thịt lợn đen nướng"],
+        "housing": "Nhà sàn, mái tranh, vách nứa, thường cất trên sườn đồi."
+      },
+      "characteristics": ["Sống tình cảm", "Yêu tự do và núi rừng", "Trọng mẫu hệ"]
+    },
+    {
+      "id": "bruvankieu",
+      "name": "Bru - Vân Kiều",
+      "otherNames": ["Bru", "Vân Kiều", "Măng Coong", "Trì"],
+      "population": 94598,
+      "regions": ["Quảng Trị", "Quảng Bình", "Đắk Lắk"],
+      "language": "Tiếng Bru - Vân Kiều (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Dân tộc Bru - Vân Kiều cư trú dọc theo dãy Trường Sơn, mang họ Hồ của Bác Hồ và có lòng yêu nước nồng nàn.",
+      "history": "Người Bru-Vân Kiều là cư dân cư trú lâu đời ở khu vực Trung Trường Sơn.",
+      "culture": {
+        "festivals": ["Lễ hội đập trống (Maccoong)", "Lễ mừng lúa mới"],
+        "customs": ["Mang họ Hồ", "Cúng thần núi, thần nước", "Tục nối dây (em trai lấy chị dâu góa)"],
+        "clothing": "Nữ mặc áo xẻ ngực, váy màu đen/chàm; nam đóng khố, cởi trần hoặc mặc áo cánh.",
+        "cuisine": ["Cơm nếp", "Thịt nướng", "Cá suối nướng", "Rượu cần"],
+        "housing": "Nhà sàn nhỏ hình khum khum như mai rùa."
+      },
+      "characteristics": ["Lòng trung thành cao", "Sống tình nghĩa", "Giỏi đi rừng"]
+    },
+    {
+      "id": "tho",
+      "name": "Thổ",
+      "otherNames": ["Kẹo", "Mọn", "Cuối", "Họ", "Đan Lai"],
+      "population": 91430,
+      "regions": ["Nghệ An", "Thanh Hóa"],
+      "language": "Tiếng Thổ (ngữ hệ Nam Á, cùng nhóm Việt-Mường)",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [],
+      "description": "Người Thổ cư trú ở vùng giao thoa giữa người Việt và người Mường, có nét văn hóa pha trộn đặc sắc.",
+      "history": "Có nguồn gốc hình thành từ sự giao lưu, hòa huyết giữa các nhóm Việt cổ và Mường.",
+      "culture": {
+        "festivals": ["Lễ bốc mả", "Tết Nguyên Đán"],
+        "customs": ["Cúng ma nhà", "Ngủ âm (nam nữ chưa vợ chồng ngủ tập thể để tìm hiểu)"],
+        "clothing": "Phụ nữ mua váy của người Thái, áo cánh giống người Việt. Không có nghề dệt.",
+        "cuisine": ["Ốc luộc", "Rau đồ", "Thịt rừng", "Rượu cần"],
+        "housing": "Nhà sàn, gần gũi kiến trúc nhà người Thái hoặc Mường."
+      },
+      "characteristics": ["Chất phác", "Hòa đồng", "Dễ tiếp thu văn hóa mới"]
+    },
+    {
+      "id": "giay",
+      "name": "Giáy",
+      "otherNames": ["Nhắng", "Dẳng", "Pầu Thìn", "Cùi Chu"],
+      "population": 67715,
+      "regions": ["Lào Cai", "Hà Giang", "Lai Châu", "Cao Bằng"],
+      "language": "Tiếng Giáy (ngữ hệ Tày-Thái)",
+      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "images": [],
+      "description": "Người Giáy cư trú chủ yếu ở vùng thung lũng, giỏi trồng lúa nước và làm các món bánh truyền thống ngon miệng.",
+      "history": "Di cư từ Trung Quốc vào Việt Nam khoảng 200 năm trước.",
+      "culture": {
+        "festivals": ["Lễ hội Roóng Poọc (Xuống đồng)"],
+        "customs": ["Tôn kính tổ tiên", "Cấm ăn thịt chó, thịt trâu trong các dịp lễ tết", "Hát vươn (hát giao duyên)"],
+        "clothing": "Phụ nữ mặc áo xẻ nát, cài cúc vải sườn phải, viền vải khác màu, mặc quần lụa đen.",
+        "cuisine": ["Khẩu nhục", "Bánh rợm", "Phở chua", "Mèn mén"],
+        "housing": "Nhà trệt hoặc nhà sàn tùy địa hình, bàn thờ tổ tiên đặt ở gian giữa trang trọng."
+      },
+      "characteristics": ["Chăm chỉ", "Khéo tay hay làm", "Coi trọng lễ nghi gia đình"]
+    },
+    {
+      "id": "cotu",
+      "name": "Cơ Tu",
+      "otherNames": ["Ca Tu", "Cao", "Hạ", "Phương"],
+      "population": 74173,
+      "regions": ["Quảng Nam", "Thừa Thiên Huế"],
+      "language": "Tiếng Cơ Tu (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Người Cơ Tu nổi tiếng với điệu múa Tung tung da dá, kiến trúc nhà Gươl và nghề dệt thổ cẩm cườm chì độc đáo.",
+      "history": "Sinh sống lâu đời ở vùng núi cao phía tây miền Trung Trường Sơn.",
+      "culture": {
+        "festivals": ["Lễ đâm trâu", "Lễ mừng lúa mới", "Lễ tạ ơn rừng"],
+        "customs": ["Điệu múa Tung tung (nam) và Da dá (nữ)", "Tượng gỗ nhà mồ", "Chế độ phụ hệ"],
+        "clothing": "Thổ cẩm đen sọc đỏ, đính hạt cườm chì hoa văn hình thoi. Nam đóng khố xỏ lá, nữ mặc váy ống.",
+        "cuisine": ["Cơm lam", "Cá nướng ống tre", "Thịt trâu hun khói", "Rượu Tà vạt (rượu đoác)"],
+        "housing": "Mỗi làng có một nhà Gươl to ở chính giữa để sinh hoạt cộng đồng, chạm khắc gỗ công phu."
+      },
+      "characteristics": ["Tinh thần thượng võ", "Yêu rừng, bảo vệ rừng", "Năng khiếu nghệ thuật tạc tượng"]
+    },
+    {
+      "id": "gietrieng",
+      "name": "Gié - Triêng",
+      "otherNames": ["Đoàn", "Xôi", "Bnoong"],
+      "population": 63322,
+      "regions": ["Kon Tum", "Quảng Nam"],
+      "language": "Tiếng Gié - Triêng (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Người Gié-Triêng cư trú ở vùng rừng núi hiểm trở, có tục chia của cho người chết và nhiều kiêng kỵ độc đáo.",
+      "history": "Cư dân bản địa sống lâu đời ở ngã ba biên giới Đông Dương.",
+      "culture": {
+        "festivals": ["Lễ cúng lúa mới", "Lễ đâm trâu"],
+        "customs": ["Cô gái cõng củi tạ lỗi nhà trai khi cưới", "Tục chia của cho người chết", "Trọng vai trò của ông cậu"],
+        "clothing": "Nam đóng khố, cởi trần; nữ mặc váy quấn dài, áo xẻ ngực. Đeo nhiều vòng tay, vòng cổ hạt cườm.",
+        "cuisine": ["Thịt nướng đá", "Canh thụt", "Rượu đoác", "Cơm ống tre"],
+        "housing": "Nhà sàn dài bằng tre nứa. Kiến trúc nhà rông mái dốc, sàn nhà cao."
+      },
+      "characteristics": ["Sống đoàn kết", "Tôn trọng thần linh rừng núi", "Tính tự trị làng bản cao"]
+    },
+    {
+      "id": "ma",
+      "name": "Mạ",
+      "otherNames": ["Châu Mạ", "Mạ Xốp", "Mạ Tô"],
+      "population": 50322,
+      "regions": ["Lâm Đồng", "Đồng Nai", "Đắk Nông"],
+      "language": "Tiếng Mạ (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "images": [],
+      "description": "Người Mạ từng có liên minh bộ lạc mạnh trên cao nguyên, giỏi nghề rèn sắt và dệt thổ cẩm.",
+      "history": "Sinh sống từ lâu đời ở khu vực nam Tây Nguyên.",
+      "culture": {
+        "festivals": ["Lễ cúng thần lúa (Yang Wer)"],
+        "customs": ["Cà răng căng tai (ngày xưa)", "Thờ đa thần", "Nhạc cụ cồng chiêng, khèn bầu"],
+        "clothing": "Nam đóng khố, nữ mặc váy quấn. Thổ cẩm người Mạ rất đẹp, có tua rua và hoa văn tinh xảo.",
+        "cuisine": ["Cơm nương nướng", "Thịt lợn rừng", "Rượu cần"],
+        "housing": "Nhà sàn dài, cửa ra vào ở hai đầu hồi. Trong nhà có nhiều bếp lửa."
+      },
+      "characteristics": ["Dũng cảm, thẳng thắn", "Giỏi nghề dệt", "Gắn bó với núi rừng"]
+    },
+    {
+      "id": "khomu",
+      "name": "Khơ Mú",
+      "otherNames": ["Xá Cẩu", "Tày Hay", "Mứn Xen"],
+      "population": 90612,
+      "regions": ["Nghệ An", "Điện Biên", "Sơn La", "Lai Châu"],
+      "language": "Tiếng Khơ Mú (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [],
+      "description": "Người Khơ Mú có điệu múa Au eo sôi động và phong tục uống rượu cần bằng mũi rất đặc biệt.",
+      "history": "Cư dân cư trú lâu đời ở Tây Bắc Việt Nam và Bắc Lào.",
+      "culture": {
+        "festivals": ["Lễ hội cầu mưa", "Lễ mừng cơm mới"],
+        "customs": ["Thờ ma nhà, ma trời", "Tục ở rể 3-5 năm", "Múa mâm, múa đao"],
+        "clothing": "Mặc trang phục tương tự người Thái đen nhưng cách đội khăn và trang sức có phần khác biệt.",
+        "cuisine": ["Các món nướng, xôi, rượu cần", "Món ăn pha nhiều gia vị cay, chua, đắng"],
+        "housing": "Nhà sàn mái tranh, trước đây thường du canh du cư nên làm nhà tạm, nay đã định canh định cư."
+      },
+      "characteristics": ["Lạc quan", "Yêu âm nhạc múa hát", "Thích sống trên sườn núi cao"]
+    },
+    {
+      "id": "co",
+      "name": "Co",
+      "otherNames": ["Cùa", "Kor", "Trầu"],
+      "population": 40442,
+      "regions": ["Quảng Ngãi", "Quảng Nam"],
+      "language": "Tiếng Co (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Người Co nổi tiếng với điệu múa đấu chiêng, trồng quế trên núi và có lòng trung thành sâu sắc với Cách mạng.",
+      "history": "Cư dân bản địa sống chủ yếu ở huyện Trà Bồng (Quảng Ngãi).",
+      "culture": {
+        "festivals": ["Lễ đâm trâu tạ ơn thần linh", "Lễ hội ăn lúa mới"],
+        "customs": ["Đấu chiêng", "Tôn thờ thần lúa", "Chế độ phụ hệ nhưng rất tôn trọng nữ giới"],
+        "clothing": "Nữ mặc váy ống màu đen điểm hoa văn viền, ở trần (xưa) hoặc mặc áo ngắn. Nam đóng khố.",
+        "cuisine": ["Thịt trâu luộc", "Cơm nếp rẫy", "Trầu cau", "Trà quế"],
+        "housing": "Trước đây ở nhà sàn dài, cả làng sống chung trong 1-2 nóc nhà. Ngày nay ở nhà ngắn riêng biệt."
+      },
+      "characteristics": ["Trung thành", "Giỏi trồng trọt (quế)", "Thích múa hát, gõ chiêng"]
+    },
+    {
+      "id": "taoi",
+      "name": "Tà Ôi",
+      "otherNames": ["Pa Cô", "Pa Hi"],
+      "population": 52356,
+      "regions": ["Thừa Thiên Huế", "Quảng Trị"],
+      "language": "Tiếng Tà Ôi (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Người Tà Ôi nổi tiếng với dệt thổ cẩm Zèng - di sản văn hóa phi vật thể quốc gia, đính hạt cườm trắng tinh xảo.",
+      "history": "Sống lâu đời trên dải Trường Sơn, tham gia kháng chiến tích cực và tự nguyện mang họ Hồ.",
+      "culture": {
+        "festivals": ["Lễ hội A Riêu Ping (bốc mả)", "Lễ A Riêu Car (đâm trâu)"],
+        "customs": ["Dệt Zèng", "Làng bản có rào tre phòng thủ", "Chế độ phụ hệ"],
+        "clothing": "Trang phục thổ cẩm Zèng rất đặc trưng, hạt cườm đính vào sợi sợi chỉ trước khi dệt.",
+        "cuisine": ["Bánh a quát", "Thịt lợn nướng ống tre", "Cơm lam", "Rượu cần"],
+        "housing": "Nhà sàn dài bằng gỗ, tre. Chính giữa nhà là nơi tiếp khách và đặt bàn thờ."
+      },
+      "characteristics": ["Kiên cường", "Thủy chung tình nghĩa", "Giỏi dệt thủ công"]
+    },
+    {
+      "id": "choro",
+      "name": "Chơ Ro",
+      "otherNames": ["Đơ-Ro", "Châu Ro"],
+      "population": 29520,
+      "regions": ["Đồng Nai", "Bà Rịa - Vũng Tàu", "Bình Thuận"],
+      "language": "Tiếng Chơ Ro (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "images": [],
+      "description": "Người Chơ Ro là cư dân bản địa miền Đông Nam Bộ, trước kia sống bằng săn bắt hái lượm và làm rẫy.",
+      "history": "Thuộc nhóm cư dân Môn - Khmer sinh sống lâu đời ở vùng đồi núi thấp Đông Nam Bộ.",
+      "culture": {
+        "festivals": ["Lễ cúng Thần Rừng (Sa Yang Va)"],
+        "customs": ["Tôn giáo đa thần", "Nhạc cụ cồng chiêng, đàn tre", "Nam nữ bình quyền, phụ nữ có vai trò lớn"],
+        "clothing": "Trước đây nam đóng khố, nữ quấn váy vấp, nay chủ yếu mặc đồ giống người Kinh.",
+        "cuisine": ["Cơm lam", "Canh bồi", "Thịt lợn lai rừng nướng", "Rượu cần"],
+        "housing": "Trước kia ở nhà sàn, nay phần lớn chuyển sang ở nhà trệt."
+      },
+      "characteristics": ["Chân thực, mộc mạc", "Tình làng nghĩa xóm gắn bó", "Thích ca múa"]
+    },
+    {
+      "id": "khang",
+      "name": "Kháng",
+      "otherNames": ["Xá Khao", "Xá Sú", "Xá Đón"],
+      "population": 16181,
+      "regions": ["Sơn La", "Điện Biên", "Lai Châu"],
+      "language": "Tiếng Kháng (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [],
+      "description": "Người Kháng cư trú ven sông Đà, rất giỏi chế tạo thuyền độc mộc hình đuôi én.",
+      "history": "Là một trong những cư dân bản địa lâu đời nhất ở Tây Bắc.",
+      "culture": {
+        "festivals": ["Lễ cúng bản", "Lễ lên nhà mới", "Tết Xíp xí"],
+        "customs": ["Uống rượu cần bằng mũi", "Ngủ thăm (trước đây)", "Tục đẽo thuyền độc mộc"],
+        "clothing": "Trang phục mượn của người Thái, nữ mặc áo cóm, váy đen.",
+        "cuisine": ["Cá suối nướng úp", "Măng chua", "Cơm nếp đồ", "Rượu cần"],
+        "housing": "Nhà sàn, làm theo hình thuyền độc mộc, mái uốn cong."
+      },
+      "characteristics": ["Giỏi bơi lội, vượt thác", "Thạo nghề đan lát", "Hòa hợp với sông nước"]
+    },
+    {
+      "id": "xinhmun",
+      "name": "Xinh Mun",
+      "otherNames": ["Puộc", "Pụa"],
+      "population": 29503,
+      "regions": ["Sơn La", "Điện Biên"],
+      "language": "Tiếng Xinh Mun (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Người Xinh Mun có tục nhai trầu quệt mép, cư trú vùng biên giới Việt-Lào đan xen với người Thái.",
+      "history": "Là cư dân sinh sống lâu đời ở vùng núi cao Tây Bắc.",
+      "culture": {
+        "festivals": ["Lễ cúng bản", "Lễ Mương A Ma (Cầu sức khỏe)"],
+        "customs": ["Tục ở rể", "Nhai trầu", "Thích ca hát giao duyên"],
+        "clothing": "Mặc giống người Thái đen. Phụ nữ mặc áo cóm bó sát, váy dài.",
+        "cuisine": ["Xôi nếp", "Thịt hun khói", "Măng chua", "Nộm hoa chuối rừng"],
+        "housing": "Nhà sàn, mái hình mai rùa hoặc mái bằng, cấu trúc giống người Thái."
+      },
+      "characteristics": ["Sống giản dị", "Chăm chỉ làm nương", "Nghề đan mây tre giang giỏi"]
+    },
+    {
+      "id": "hanhi",
+      "name": "Hà Nhì",
+      "otherNames": ["U Ní", "Xá U Ní"],
+      "population": 25539,
+      "regions": ["Lai Châu", "Lào Cai", "Điện Biên"],
+      "language": "Tiếng Hà Nhì (ngữ hệ Tạng-Miến)",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Người Hà Nhì nổi tiếng với những ngôi nhà trình tường bằng đất hình nấm chịu rét tốt ở Y Tý và nghệ thuật làm ruộng bậc thang.",
+      "history": "Di cư từ Trung Quốc xuống vùng núi Tây Bắc Việt Nam khoảng 300 năm trước.",
+      "culture": {
+        "festivals": ["Lễ hội Khô Già Già (Cầu mùa)", "Tết Thiếu nhi (Gạ Ma Do)"],
+        "customs": ["Nhà trình tường đất", "Nam giới giỏi đan lát", "Múa xòe Hà Nhì"],
+        "clothing": "Hà Nhì Đen (Lào Cai) mặc đồ đen thêu hoa văn chỉ đỏ, Hà Nhì Hoa (Lai Châu) mặc sặc sỡ hơn, đội mũ đính tua rua đỏ.",
+        "cuisine": ["Bia Hà Nhì", "Bánh trôi", "Thịt lợn treo gác bếp"],
+        "housing": "Nhà trình tường bằng đất sét dày 40-50cm, mái lợp gianh hình chóp nhọn như cây nấm."
+      },
+      "characteristics": ["Cần cù, thích ứng tốt với khí hậu lạnh", "Đoàn kết", "Thân thiện"]
+    },
+    {
+      "id": "churu",
+      "name": "Chu Ru",
+      "otherNames": ["Chơ Ru", "Kru", "Ru"],
+      "population": 23242,
+      "regions": ["Lâm Đồng", "Ninh Thuận"],
+      "language": "Tiếng Chu Ru (ngữ hệ Nam Đảo)",
+      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "images": [],
+      "description": "Người Chu Ru có nghề làm gốm không dùng bàn xoay và truyền thuyết về nguồn gốc giống với người Chăm.",
+      "history": "Tách ra từ khối cộng đồng Chăm Pa cổ, di cư lên vùng cao nguyên.",
+      "culture": {
+        "festivals": ["Lễ cúng bến nước", "Lễ cúng thần nông nghiệp (Bơ-mung)"],
+        "customs": ["Chế độ mẫu hệ", "Cô gái chủ động đi hỏi chồng", "Thợ rèn và làm gốm giỏi"],
+        "clothing": "Nam giới quấn khố, áo cổ tròn; nữ mặc váy quấn màu chàm, áo ngắn cài nút giữa.",
+        "cuisine": ["Cơm lam", "Thịt lợn rừng", "Rượu cần", "Canh chua lá giang"],
+        "housing": "Nhà trệt hoặc nhà sàn thấp, vách phên tre, mái cỏ tranh."
+      },
+      "characteristics": ["Giỏi làm gốm thủ công", "Trọng nữ quyền", "Sống thanh bình"]
+    },
+    {
+      "id": "lao",
+      "name": "Lào",
+      "otherNames": ["Phu Thay", "Thay Lào", "Thay Cẩu"],
+      "population": 17532,
+      "regions": ["Điện Biên", "Lai Châu", "Sơn La"],
+      "language": "Tiếng Lào (ngữ hệ Tày-Thái)",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [],
+      "description": "Người Lào tại Việt Nam mang đậm nét văn hóa đặc trưng của nước bạn Lào, đặc biệt là lễ hội té nước và múa Lăm vông.",
+      "history": "Là bộ phận người Lào định cư tại Việt Nam qua các biến thiên lịch sử vùng biên.",
+      "culture": {
+        "festivals": ["Lễ hội té nước (Bun Pi Mày)", "Lễ Khẩu xé"],
+        "customs": ["Tín ngưỡng Phật giáo tiểu thừa", "Múa Lăm vông", "Tục buộc chỉ cổ tay"],
+        "clothing": "Phụ nữ mặc váy ống (xỉn) dệt hoa văn ở gấu, áo cánh chui đầu xẻ ngực, quấn khăn chéo vai.",
+        "cuisine": ["Xôi nếp", "Lạp", "Cá nướng", "Tép chua", "Rượu nếp"],
+        "housing": "Nhà sàn cao, rộng, hai mái dốc, thường có chóp nhọn."
+      },
+      "characteristics": ["Hiền hòa, vui vẻ", "Mến khách", "Thích múa hát, lễ hội"]
+    },
+    {
+      "id": "lachi",
+      "name": "La Chí",
+      "otherNames": ["Thổ Đen", "Mán", "Cù Tê"],
+      "population": 15126,
+      "regions": ["Hà Giang", "Lào Cai"],
+      "language": "Tiếng La Chí (ngữ hệ Ka Đai)",
+      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "images": [],
+      "description": "Người La Chí có tục thờ ông tổ Hoàng Vần Thùng và Tết Khu Cù Tê rất đặc sắc.",
+      "history": "Người La Chí sinh sống tập trung ở vùng núi cao biên giới phía Bắc từ rất lâu đời.",
+      "culture": {
+        "festivals": ["Tết Khu Cù Tê (Tháng 7 âm lịch)"],
+        "customs": ["Trồng bông dệt vải", "Tín ngưỡng thờ cúng tổ tiên là trên hết", "Tục nhuộm răng đen"],
+        "clothing": "Nam mặc áo cánh chui đầu xẻ ngực cài cúc; nữ mặc quần ống rộng, áo xẻ nách dài, thường nhuộm chàm đen.",
+        "cuisine": ["Thịt lợn hun khói", "Chuột núi nướng", "Xôi màu", "Rượu hoẵng"],
+        "housing": "Nhà sàn bằng gỗ, vách nứa, mái tranh. Gian giữa để bàn thờ tổ tiên."
+      },
+      "characteristics": ["Cần cù tằn tiện", "Tôn thờ tổ tiên", "Giữ gìn truyền thống chặt chẽ"]
+    },
+    {
+      "id": "lahu",
+      "name": "La Hủ",
+      "otherNames": ["Xá Lá Vàng", "Khù Sung", "Cò Xung"],
+      "population": 12113,
+      "regions": ["Lai Châu"],
+      "language": "Tiếng La Hủ (ngữ hệ Tạng-Miến)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Trước đây người La Hủ gọi là 'Xá Lá Vàng' vì sống du canh du cư trong rừng sâu, nay đã định cư lập bản.",
+      "history": "Di cư từ tỉnh Vân Nam (Trung Quốc) vào Việt Nam khoảng 2 thế kỷ trước.",
+      "culture": {
+        "festivals": ["Tết nguyên đán (chậm hơn Kinh 1-2 tháng)", "Lễ cúng bản"],
+        "customs": ["Hát giao duyên bằng tiếng La Hủ", "Sinh đẻ ngoài rừng (trước đây)", "Đan lát giỏi"],
+        "clothing": "Phụ nữ mặc áo dài chui đầu xẻ tà phối mảng vải màu đỏ, trắng, xanh, đen; mặc quần ống rộng.",
+        "cuisine": ["Thịt sóc nướng", "Cơm nếp đồ", "Măng đắng"],
+        "housing": "Trước kia lợp nhà bằng lá chuối rừng (lá vàng thì chuyển đi), nay đã cất nhà gỗ mái tôn/ngói."
+      },
+      "characteristics": ["Bộc trực", "Dũng cảm săn bắn", "Thích ứng tốt với rừng rậm"]
+    },
+    {
+      "id": "laha",
+      "name": "La Ha",
+      "otherNames": ["Xá Khao", "Xá Chá", "Khơ Láo"],
+      "population": 10157,
+      "regions": ["Sơn La", "Lào Cai"],
+      "language": "Tiếng La Ha (ngữ hệ Ka Đai)",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Người La Ha nổi tiếng với lễ hội Dâng hoa măng (Pang A) cầu mong sức khỏe và chữa bệnh.",
+      "history": "Là cư dân lâu đời ở Tây Bắc, từng bị các dân tộc khác chèn ép phải ở vùng núi heo hút.",
+      "culture": {
+        "festivals": ["Lễ hội Pang A (Mùa xuân)"],
+        "customs": ["Tín ngưỡng thờ thầy cúng (Ptao)", "Ở rể 4-8 năm", "Trang phục vay mượn của người Thái"],
+        "clothing": "Sử dụng y phục của người Thái đen.",
+        "cuisine": ["Măng đắng", "Thịt chuột rừng", "Cơm nếp", "Rượu cần"],
+        "housing": "Nhà sàn lợp tranh hoặc lá gồi, có 2 cửa ra vào, một bên dành cho khách, một bên cho gia đình."
+      },
+      "characteristics": ["Cần cù, nhẫn nại", "Tín ngưỡng vạn vật hữu linh", "Gắn bó với núi rừng"]
+    },
+    {
+      "id": "pathen",
+      "name": "Pà Thẻn",
+      "otherNames": ["Mèo Lai", "Pà Hưng"],
+      "population": 8248,
+      "regions": ["Hà Giang", "Tuyên Quang"],
+      "language": "Tiếng Pà Thẻn (ngữ hệ H'Mông - Dao)",
+      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "images": [],
+      "description": "Người Pà Thẻn nổi bật với nghi lễ nhảy lửa thần bí và trang phục nữ giới màu đỏ chót rất sặc sỡ.",
+      "history": "Di cư từ Trung Quốc vào Việt Nam khoảng 200-300 năm trước.",
+      "culture": {
+        "festivals": ["Lễ hội Nhảy lửa (Kéo xế)", "Lễ cúng cơm mới"],
+        "customs": ["Tục nhảy múa trên than hồng không bị bỏng", "Dệt thổ cẩm bằng khung cửi", "Chế độ phụ hệ"],
+        "clothing": "Màu đỏ là chủ đạo. Nữ mặc áo không cổ xẻ ngực, váy xếp nếp dệt sọc đỏ, đội khăn xếp thành nhiều lớp như sừng nai.",
+        "cuisine": ["Thịt lợn treo gác bếp", "Xôi màu", "Cá suối", "Rượu ngô"],
+        "housing": "Nhà sàn, nhà đất hoặc nửa sàn nửa đất tùy nơi."
+      },
+      "characteristics": ["Tôn trọng thầy cúng", "Gan dạ", "Giỏi dệt vải"]
+    },
+    {
+      "id": "lu",
+      "name": "Lự",
+      "otherNames": ["Lự Đen", "Lự Trắng", "Nhắng"],
+      "population": 6757,
+      "regions": ["Lai Châu"],
+      "language": "Tiếng Lự (ngữ hệ Tày-Thái)",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [],
+      "description": "Người Lự nhuộm răng đen nhánh, giỏi dệt vải với hoa văn sinh động và canh tác lúa nước ven suối.",
+      "history": "Cư dân di cư từ Mường Lúm (Vân Nam) xuống Lai Châu từ thế kỷ 11.",
+      "culture": {
+        "festivals": ["Tết Nguyên Đán", "Lễ cúng bản", "Lễ cúng rừng"],
+        "customs": ["Nhuộm răng đen", "Hát giao duyên (Khắp)", "Chế độ mẫu hệ"],
+        "clothing": "Nữ mặc áo cóm, váy có mảng hoa văn sặc sỡ ở giữa, đội khăn quấn lệch.",
+        "cuisine": ["Xôi nếp dẻo", "Cá suối ướp gia vị nướng", "Thịt chua"],
+        "housing": "Nhà sàn hai mái, một mái to một mái nhỏ bẻ vát, thường quay mặt ra suối."
+      },
+      "characteristics": ["Sạch sẽ, tươm tất", "Khéo tay hay làm", "Coi trọng nghề dệt"]
+    },
+    {
+      "id": "ngai",
+      "name": "Ngái",
+      "otherNames": ["Sán Ngái", "Khách Gia", "Hẹ"],
+      "population": 1649,
+      "regions": ["Thái Nguyên", "Bắc Giang", "Quảng Ninh", "Tuyên Quang"],
+      "language": "Tiếng Ngái (thuộc hệ ngôn ngữ Hán - Tạng)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Người Ngái có nguồn gốc từ người Khách Gia (Hakka) Trung Quốc, sống xen kẽ với người Hoa nhưng có bản sắc riêng.",
+      "history": "Di cư vào Việt Nam thành nhiều đợt, cư trú chủ yếu ở trung du và ven biển phía Bắc.",
+      "culture": {
+        "festivals": ["Tết Nguyên Đán", "Tết Trùng Cửu", "Tết Đông Chí"],
+        "customs": ["Hát Sường ca (Sơn ca)", "Không có thói quen bó chân cho phụ nữ như người Hoa cổ", "Thờ cúng tổ tiên"],
+        "clothing": "Trang phục đơn giản, màu chàm, giống với trang phục người Hoa vùng nông thôn, nữ thường đội nón lá rộng vành.",
+        "cuisine": ["Khâu nhục", "Bánh chưng Ngái", "Thịt lợn muối chua"],
+        "housing": "Nhà đất, tường trình bằng đất sét trộn rơm rạ hoặc xây gạch mộc."
+      },
+      "characteristics": ["Chịu thương chịu khó", "Đoàn kết", "Thích ca hát"]
+    },
+    {
+      "id": "chut",
+      "name": "Chứt",
+      "otherNames": ["Rục", "Sách", "Arem", "Mày"],
+      "population": 7536,
+      "regions": ["Quảng Bình"],
+      "language": "Tiếng Chứt (ngữ hệ Nam Á, nhóm Việt - Mường)",
+      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "images": [],
+      "description": "Người Chứt (nhất là nhóm Rục) từng sống trong hang đá rêu phong, chỉ mới được phát hiện và định cư từ giữa thế kỷ 20.",
+      "history": "Là những cư dân cổ trốn tránh chiến tranh và phu phen vào sâu trong hang động dãy Trường Sơn.",
+      "culture": {
+        "festivals": ["Lễ cúng bến nước", "Tết lấp lỗ (trỉa lúa)"],
+        "customs": ["Tin vào ma quỷ", "Thổi khèn lá", "Hút thuốc lá cuộn sừng"],
+        "clothing": "Trước kia mặc vỏ cây, nay dùng trang phục giống người Kinh mua ở chợ.",
+        "cuisine": ["Bột nhúc", "Thịt khỉ, chuột rừng (xưa)", "Cơm lam nướng"],
+        "housing": "Từng sống ở hang động (Rục), nay đã làm nhà trệt nhỏ hoặc nhà sàn."
+      },
+      "characteristics": ["Rụt rè, nhút nhát", "Kỹ năng sinh tồn trong rừng cao", "Chất phác"]
+    },
+    {
+      "id": "lolo",
+      "name": "Lô Lô",
+      "otherNames": ["Mùn Di", "Di", "Lô Lô Hoa", "Lô Lô Đen"],
+      "population": 4827,
+      "regions": ["Hà Giang", "Cao Bằng", "Lai Châu"],
+      "language": "Tiếng Lô Lô (ngữ hệ Tạng-Miến)",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Người Lô Lô sử dụng trống đồng cổ trong tang lễ và có trang phục thêu đắp vải tam giác rực rỡ kỳ công.",
+      "history": "Người Lô Lô từng có vương quốc cổ mạnh ở Nam Chiếu (Vân Nam), sau di cư xuống Việt Nam.",
+      "culture": {
+        "festivals": ["Lễ cầu mưa", "Lễ cúng tổ tiên"],
+        "customs": ["Sử dụng trống đồng cổ truyền", "Nhảy múa cúng ma", "Phụ nữ trang điểm lộng lẫy"],
+        "clothing": "Lô Lô Hoa mặc áo xẻ ngực đính nhiều băng vải màu tam giác, quần ống rộng thêu hoa văn sặc sỡ. Lô Lô Đen mặc áo màu đen.",
+        "cuisine": ["Thịt lợn treo", "Xôi nếp", "Rượu ngô", "Bột tam giác mạch"],
+        "housing": "Nhà đất, nhà nửa sàn nửa đất hoặc nhà sàn tùy địa hình."
+      },
+      "characteristics": ["Giàu bản sắc văn hóa", "Tự hào dân tộc", "Giỏi thêu thùa"]
+    },
+    {
+      "id": "mang",
+      "name": "Mảng",
+      "otherNames": ["Mảng Ư", "Xá Mảng", "Xá Bốc"],
+      "population": 4650,
+      "regions": ["Lai Châu", "Điện Biên"],
+      "language": "Tiếng Mảng (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "images": [],
+      "description": "Người Mảng có tục xăm cằm đặc trưng mang ý nghĩa thẩm mỹ và trưởng thành.",
+      "history": "Cư dân bản địa sống dọc theo sông Nậm Na, đan xen với người Thái, H'Mông.",
+      "culture": {
+        "festivals": ["Lễ cúng bản", "Lễ lên nhà mới"],
+        "customs": ["Tục xăm cằm xung quanh mép", "Hát giao duyên", "Tục ở rể"],
+        "clothing": "Phụ nữ mặc váy đen, áo cóm trắng xẻ ngực, quấn tấm vải trắng đính hạt cườm quanh eo.",
+        "cuisine": ["Cá suối nướng", "Măng đắng", "Thịt thú rừng săn bắn"],
+        "housing": "Nhà sàn mái lợp gianh sạp tre."
+      },
+      "characteristics": ["Hiền lành", "Chịu khó", "Giữ gìn tục xăm cằm cổ xưa"]
+    },
+    {
+      "id": "cong",
+      "name": "Cống",
+      "otherNames": ["Xắm Khống", "Phuy A"],
+      "population": 2729,
+      "regions": ["Lai Châu", "Điện Biên"],
+      "language": "Tiếng Cống (ngữ hệ Tạng-Miến)",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [],
+      "description": "Người Cống có lễ tết Ngô rất đặc sắc và là dân tộc giỏi đan lát mây tre bương nhất nhì vùng Tây Bắc.",
+      "history": "Di cư từ Trung Quốc sang Việt Nam cách đây vài trăm năm, thường di chuyển dọc các con sông.",
+      "culture": {
+        "festivals": ["Tết Ngô (Mền loóng phạt ái)"],
+        "customs": ["Trồng bông, nhuộm chàm nhưng không dệt vải", "Lễ cúng hồn lúa", "Chế độ phụ hệ"],
+        "clothing": "Mượn y phục của người Thái, phụ nữ hay búi tóc trên đỉnh đầu.",
+        "cuisine": ["Các món từ ngô", "Cá suối", "Thịt lợn nướng lá"],
+        "housing": "Nhà sàn, có gian tiếp khách riêng biệt, cấu trúc khá đơn giản."
+      },
+      "characteristics": ["Lạc quan", "Sống hòa thuận", "Thạo nghề sông nước và đan lát"]
+    },
+    {
+      "id": "boy",
+      "name": "Bố Y",
+      "otherNames": ["Chủng Chá", "Trọng Gia", "Tu Dí"],
+      "population": 3232,
+      "regions": ["Lào Cai", "Hà Giang", "Yên Bái"],
+      "language": "Tiếng Bố Y (ngữ hệ Ka Đai)",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Người Bố Y chủ yếu làm nông nghiệp, làm nhà trình tường và làm mộc rèn rất khéo léo.",
+      "history": "Có nguồn gốc từ tỉnh Quý Châu (Trung Quốc), di cư sang Việt Nam khoảng thế kỷ 19.",
+      "culture": {
+        "festivals": ["Tết Nguyên Đán", "Lễ Thanh Minh", "Tết Đoan Ngọ"],
+        "customs": ["Làm lễ cúng bái tổ tiên", "Cô dâu cưỡi ngựa về nhà chồng", "Chạm khắc bạc"],
+        "clothing": "Phụ nữ Bố Y mặc áo ngắn năm thân xẻ nách phải, viền cổ tay đính vải hoa, quấn khăn sặc sỡ.",
+        "cuisine": ["Thịt hun khói", "Lạp xưởng", "Xôi ngũ sắc", "Thắng cố"],
+        "housing": "Nhà đất trình tường, mái lợp ngói máng hoặc cỏ gianh, có cấu trúc bảo vệ tốt."
+      },
+      "characteristics": ["Cần cù tằn tiện", "Khéo tay", "Tôn trọng lễ giáo"]
+    },
+    {
+      "id": "colao",
+      "name": "Cờ Lao",
+      "otherNames": ["Klau", "Ho Ki", "Voa Đề"],
+      "population": 2939,
+      "regions": ["Hà Giang", "Yên Bái"],
+      "language": "Tiếng Cờ Lao (ngữ hệ Ka Đai)",
+      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "images": [],
+      "description": "Cư trú nơi những sườn núi dốc và vách đá tai mèo, nổi tiếng với kỹ năng canh tác hốc đá gieo ngô.",
+      "history": "Người Cờ Lao là một bộ phận của khối Bách Việt cổ, di cư xuống Việt Nam vào khoảng giữa thế kỷ 19.",
+      "culture": {
+        "festivals": ["Lễ cúng Hoàng Vần Thùng", "Tết tháng Bảy"],
+        "customs": ["Giữ nhau thai (rau thai) của trẻ nhỏ trên gác bếp", "Không ăn thịt chó", "Thợ rèn đúc sắt giỏi"],
+        "clothing": "Nữ mặc áo dài chui đầu xẻ xéo hoặc cài nút trước ngực, viền những dải vải màu sắc sặc sỡ quanh tà áo và ống tay.",
+        "cuisine": ["Mèn mén", "Thịt lợn treo", "Bánh bò mèn mén", "Rượu ngô men lá"],
+        "housing": "Nhà đất tường trình hoặc vách nứa, lợp cỏ tranh, sát vách đá."
+      },
+      "characteristics": ["Kiên cường chống chọi với tự nhiên", "Chăm chỉ", "Sống kín đáo"]
+    },
+    {
+      "id": "pupeo",
+      "name": "Pu Péo",
+      "otherNames": ["Ka Bẻo", "Penti", "La Quả"],
+      "population": 903,
+      "regions": ["Hà Giang"],
+      "language": "Tiếng Pu Péo (ngữ hệ Ka Đai)",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Người Pu Péo là một trong những dân tộc ít người nhất, với tục cúng rừng thiêng và trang phục đắp vải màu sặc sỡ.",
+      "history": "Cư dân cư trú lâu đời ở vùng cực bắc Việt Nam (Đồng Văn, Hà Giang).",
+      "culture": {
+        "festivals": ["Lễ cúng Rừng (tháng 6 âm lịch)"],
+        "customs": ["Làm lễ quét làng để xua đuổi tà ma", "Nghi lễ hát múa cúng ma", "Ghép vải màu làm hoa văn"],
+        "clothing": "Áo ngoài ngắn bọc ngoài áo dài bên trong, váy trang trí bằng cách ghép các mảnh vải tam giác, vuông màu đỏ, xanh.",
+        "cuisine": ["Thịt treo gác bếp", "Cơm ngô", "Bánh chưng đen"],
+        "housing": "Nhà trình tường gạch mộc, lợp ngói âm dương, nằm ven các sườn núi cao."
+      },
+      "characteristics": ["Giữ gìn truyền thống chặt chẽ", "Bảo vệ rừng", "Yêu hòa bình"]
+    },
+    {
+      "id": "sila",
+      "name": "Si La",
+      "otherNames": ["Cú Dề Xừ", "Khả Phé"],
+      "population": 840,
+      "regions": ["Lai Châu", "Điện Biên"],
+      "language": "Tiếng Si La (ngữ hệ Tạng-Miến)",
+      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "images": [],
+      "description": "Dân tộc ít người có phong tục nhuộm răng đen tẩm bằng cánh kiến đỏ, phụ nữ đính xu bạc đầy trước ngực áo.",
+      "history": "Di cư từ Lhasa (Tây Tạng) qua Lào rồi vào vùng Tây Bắc Việt Nam khoảng 150 năm trước.",
+      "culture": {
+        "festivals": ["Lễ cúng bản", "Tết Cơm mới"],
+        "customs": ["Nhuộm răng đỏ (thanh niên) và răng đen (người có gia đình)", "Kiêng kỵ khi vợ sinh con"],
+        "clothing": "Nữ mặc váy kín, áo xẻ ngực đính đầy đồng bạc trắng, đội khăn quấn có tua rua đỏ.",
+        "cuisine": ["Thịt luộc", "Cá nướng", "Măng đắng", "Cơm tẻ dẻo"],
+        "housing": "Nhà trệt, nhỏ bé, vách nứa, mái tranh, cửa thấp."
+      },
+      "characteristics": ["Thật thà", "Hiền lành", "Hòa hợp với thiên nhiên"]
+    },
+    {
+      "id": "odu",
+      "name": "Ơ Đu",
+      "otherNames": ["Tày Hạt", "Phouteng"],
+      "population": 428,
+      "regions": ["Nghệ An"],
+      "language": "Tiếng Ơ Đu (ngữ hệ Nam Á) - Nay chủ yếu nói tiếng Khơ Mú hoặc Thái",
+      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "images": [],
+      "description": "Là dân tộc có số dân ít nhất Việt Nam, đang đứng trước nguy cơ mai một văn hóa và ngôn ngữ truyền thống.",
+      "history": "Người Ơ Đu từng cư trú đông đúc dọc sông Nậm Nơn, Nậm Mộ, sau bị đẩy vào rừng sâu do biến cố lịch sử.",
+      "culture": {
+        "festivals": ["Lễ cúng ma nhà", "Tết đón tiếng sấm đầu năm"],
+        "customs": ["Đếm thời gian theo tiếng sấm", "Bỏ phong tục dệt vải từ lâu", "Tiếp thu mạnh văn hóa Thái"],
+        "clothing": "Gần như hoàn toàn mượn trang phục của người Thái và Khơ Mú.",
+        "cuisine": ["Thịt sóc núi", "Rượu cần", "Cơm nếp", "Măng rừng"],
+        "housing": "Nhà sàn mái tranh, trước đây thường nằm quay lưng vào núi."
+      },
+      "characteristics": ["Sống khép kín", "Dễ đồng hóa", "Hiền lành"]
+    },
+    {
+      "id": "romam",
+      "name": "Rơ Măm",
+      "otherNames": ["Rong Mam"],
+      "population": 639,
+      "regions": ["Kon Tum"],
+      "language": "Tiếng Rơ Măm (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "images": [],
+      "description": "Người Rơ Măm cư trú duy nhất tại làng Le (Kon Tum), có tục xăm mặt, cưa răng và làm nương rẫy hốc đá.",
+      "history": "Cư dân bản địa sống lâu đời ở vùng ba biên giới Việt - Lào - Campuchia.",
+      "culture": {
+        "festivals": ["Lễ hội đâm trâu", "Lễ bỏ mả", "Lễ mừng lúa mới"],
+        "customs": ["Cưa răng, căng tai", "Đeo khuyên tai ngà voi (người giàu)", "Nam nữ tự do tìm hiểu"],
+        "clothing": "Nam đóng khố, nữ quấn váy quai nôi, chủ đạo màu trắng đục mộc mạc chưa nhuộm chàm.",
+        "cuisine": ["Cơm lam ống", "Thịt trâu nướng", "Canh bồi", "Rượu cần nếp than"],
+        "housing": "Từng sống trong các ngôi nhà sàn dài chung cho gia đình lớn, nay đã tách ra nhà nhỏ hơn."
+      },
+      "characteristics": ["Bảo tồn cộng đồng chặt chẽ", "Phóng khoáng", "Trọng lễ nghi tín ngưỡng"]
+    },
+    {
+      "id": "brau",
+      "name": "Brâu",
+      "otherNames": ["Brao", "Lave"],
+      "population": 525,
+      "regions": ["Kon Tum"],
+      "language": "Tiếng Brâu (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "images": [],
+      "description": "Người Brâu chỉ có một làng duy nhất ở Việt Nam (làng Đắk Mế). Họ có truyền thống đánh cồng chiêng Tha rất quý giá.",
+      "history": "Cư dân từ vùng nam Lào và đông bắc Campuchia di cư sang vùng Ngọc Hồi khoảng thế kỷ 19.",
+      "culture": {
+        "festivals": ["Lễ hội cúng lúa mới", "Lễ đâm trâu"],
+        "customs": ["Đánh cồng chiêng Tha (2 chiếc, không đánh chung chiêng khác)", "Cà răng căng tai (xưa)"],
+        "clothing": "Nam đóng khố, nữ mặc váy quấn, trang phục đơn giản, ít hoa văn, vải thô.",
+        "cuisine": ["Rượu cần", "Cơm gạo nương", "Thịt rừng nướng", "Lá mì xào"],
+        "housing": "Nhà sàn cao, mái vót nhọn, hướng nhà thường không theo quy định cụ thể."
+      },
+      "characteristics": ["Tôn trọng luật tục làng", "Gắn bó với cồng chiêng", "Thật thà, dũng cảm"]
+    },
+    {
+      "id": "xtieng",
+      "name": "Xtiêng",
+      "otherNames": ["Xa Điêng", "Bù Đíp"],
+      "population": 100752,
+      "regions": ["Bình Phước", "Tây Ninh", "Lâm Đồng", "Đồng Nai"],
+      "language": "Tiếng Xtiêng (ngữ hệ Nam Á)",
+      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "images": [],
+      "description": "Người Xtiêng gắn bó với rừng xanh Đông Nam Bộ, dệt thổ cẩm đẹp và có tinh thần tự lực cao.",
+      "history": "Cư dân bản địa lâu đời ở vùng bán bình nguyên Đông Nam Bộ, là chủ nhân văn hóa cồng chiêng Nam Tây Nguyên.",
+      "culture": {
+        "festivals": ["Lễ hội đâm trâu", "Lễ cúng Thần Rừng", "Lễ kết bạn"],
+        "customs": ["Cộng đồng sống độc lập", "Đeo nhiều trang sức vòng đồng, bạc", "Sử dụng cồng chiêng, khèn bầu"],
+        "clothing": "Phụ nữ mặc váy quấn màu đen/chàm điểm xuyết chỉ đỏ thêu hoa văn, nam giới đóng khố.",
+        "cuisine": ["Cơm lam", "Canh thụt thò", "Thịt lợn nướng lá bưởi", "Rượu cần"],
+        "housing": "Nhà sàn hoặc nhà trệt tùy nhóm, cửa ra vào thấp, ít cửa sổ."
+      },
+      "characteristics": ["Tự lập", "Gan dạ", "Tôn trọng các trưởng lão làng"]
+    },
+    {
+      "id": "phula",
+      "name": "Phù Lá",
+      "otherNames": ["Xá Phó", "Bồ Khô Pạ", "Mu Di Pạ"],
+      "population": 12471,
+      "regions": ["Lào Cai", "Lai Châu", "Sơn La", "Hà Giang"],
+      "language": "Tiếng Phù Lá (ngữ hệ Tạng-Miến)",
+      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "images": [],
+      "description": "Người Phù Lá có nghệ thuật trang trí trang phục bằng hạt cườm sinh động, giỏ mây đan cài hai mặt tinh xảo.",
+      "history": "Một bộ phận di cư từ Vân Nam (Trung Quốc) xuống Tây Bắc Việt Nam.",
+      "culture": {
+        "festivals": ["Lễ quét làng xua đuổi tà ma", "Tết cơm mới"],
+        "customs": ["Cô dâu về nhà chồng phải bước qua lửa", "Ở rể 1-2 năm", "Múa chuông, thổi sáo trúc"],
+        "clothing": "Phụ nữ Xá Phó (Phù Lá) mặc áo xẻ ngực ngắn, váy màu chàm đính hàng nghìn hạt cườm tạo hoa văn.",
+        "cuisine": ["Thịt chua", "Xôi nếp", "Măng đắng", "Rượu nếp"],
+        "housing": "Nhà sàn thấp hoặc nhà đất, mái lợp gianh, có cấu trúc nhỏ gọn."
+      },
+      "characteristics": ["Hiền lành", "Chăm chỉ", "Khéo tay trong dệt và đan lát"]
     }
   ]
 }
