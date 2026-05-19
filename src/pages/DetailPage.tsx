@@ -16,14 +16,12 @@ const DetailPage = () => {
     section: string;
   } | null>(null);
 
-  const allImages = useMemo(() => {
+  const detailImages = useMemo(() => {
     if (!group) {
       return [];
     }
 
-    return Array.from(
-      new Set([group.thumbnail, ...group.images].filter(Boolean)),
-    );
+    return Array.from(new Set(group.images.filter(Boolean)));
   }, [group]);
 
   if (!group) {
@@ -48,13 +46,17 @@ const DetailPage = () => {
     );
   }
 
-  const fallbackImage = allImages[0];
-  const heroImage = allImages[currentImageIndex] || fallbackImage;
+  const fallbackImage =
+    detailImages[0] ||
+    group.history.imageUrls[0] ||
+    group.culture.clothingImage ||
+    group.thumbnail;
+  const heroImage = detailImages[currentImageIndex] || fallbackImage;
   const historyImageUrls = group.history.imageUrls;
   const clothingImage = group.culture.clothingImage;
   const housingImage = group.culture.housingImage;
-  const galleryImages = allImages.slice(0, 6);
-  const hasGallery = allImages.length > 1;
+  const galleryImages = detailImages.slice(0, 6);
+  const hasGallery = detailImages.length > 1;
   const videosToShow =
     group.videos && group.videos.length > 0
       ? group.videos
@@ -99,24 +101,34 @@ const DetailPage = () => {
   };
 
   const nextImage = () => {
-    if (!allImages.length) {
+    if (!detailImages.length) {
       return;
     }
 
-    setCurrentImageIndex((prev) => (prev + 1) % allImages.length);
+    setCurrentImageIndex((prev) => (prev + 1) % detailImages.length);
   };
 
   const prevImage = () => {
-    if (!allImages.length) {
+    if (!detailImages.length) {
       return;
     }
 
-    setCurrentImageIndex((prev) => (prev - 1 + allImages.length) % allImages.length);
+    setCurrentImageIndex(
+      (prev) => (prev - 1 + detailImages.length) % detailImages.length,
+    );
   };
 
   return (
     <main className="min-h-screen bg-[#f6f2ea] text-[#15110f]">
       <section className="relative isolate overflow-hidden bg-[#f8f4ec] px-6 py-6 sm:px-10">
+        <img
+          src={group.thumbnail}
+          alt=""
+          className="absolute inset-0 h-full w-full scale-105 object-cover opacity-36 saturate-105 contrast-105"
+          aria-hidden="true"
+          onError={handleImageFallback}
+        />
+        <div className="absolute inset-0 bg-[#f8f4ec]/52"></div>
         <div className="paper-grain absolute inset-0"></div>
         <div className="absolute inset-x-4 top-4 bottom-4 border-2 border-[#b0160b]/80 sm:inset-x-7 sm:top-7 sm:bottom-7"></div>
 
