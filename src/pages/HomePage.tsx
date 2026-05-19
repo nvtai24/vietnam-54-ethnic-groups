@@ -5,17 +5,13 @@ import type { EthnicGroup } from '../types/EthnicGroup';
 
 const posterWords = ['BẢN SẮC', '54 DÂN TỘC', 'VIỆT NAM', 'ĐOÀN KẾT', 'TRUYỀN THỐNG'];
 
-const featuredGroupIds = ['kinh', 'tay', 'thai', 'muong'];
-
 const HomePage = () => {
   const groups = ethnicGroupsData.groups as EthnicGroup[];
+  const carouselGroups = [...groups, ...groups];
   const heroGroup = groups[0];
   const heroBackground = heroGroup?.images?.[2] || heroGroup?.thumbnail;
   const heroPortrait = heroGroup?.images?.[0] || heroGroup?.thumbnail;
   const fallbackImage = heroBackground || heroPortrait;
-  const featuredGroups = featuredGroupIds
-    .map((id) => groups.find((group) => group.id === id))
-    .filter(Boolean) as EthnicGroup[];
 
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedRegion, setSelectedRegion] = useState('all');
@@ -162,38 +158,47 @@ const HomePage = () => {
       </section>
 
       <section id="explore" className="bg-[#b0160b] px-6 py-10 text-[#f8f4ec] sm:px-10">
-        <div className="mx-auto grid max-w-[1280px] gap-6 md:grid-cols-[0.8fr_1.2fr] md:items-end">
+        <div className="mx-auto grid max-w-[1280px] gap-6 md:grid-cols-[0.72fr_1.28fr] md:items-center">
           <div>
             <p className="text-xs font-black uppercase tracking-[0.18em] text-[#f8f4ec]/70">Tiêu điểm</p>
             <h2 className="mt-2 max-w-[520px] text-4xl font-black uppercase leading-[0.88] tracking-normal sm:text-6xl">
               Bản sắc trong từng miền đất
             </h2>
           </div>
-          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-            {featuredGroups.map((group, index) => (
-              <Link
-                key={group.id}
-                to={`/dan-toc/${group.id}`}
-                className="group border border-[#f8f4ec]/42 bg-[#f8f4ec] text-[#15110f] transition hover:-translate-y-1 hover:bg-[#15110f] hover:text-[#f8f4ec]"
-              >
-                <div className="aspect-[4/3] overflow-hidden bg-[#15110f]">
-                  <img
-                    src={group.thumbnail}
-                    alt={group.name}
-                    className="h-full w-full object-cover opacity-90 transition duration-500 group-hover:scale-110 group-hover:opacity-75"
-                    onError={handleImageFallback}
-                  />
-                </div>
-                <div className="p-4">
-                  <p className="text-[0.64rem] font-black uppercase tracking-[0.16em] text-[#b0160b] group-hover:text-[#f8f4ec]/72">
-                    0{index + 1}
-                  </p>
-                  <h3 className="mt-2 text-2xl font-black uppercase leading-none tracking-normal">
-                    {group.name}
-                  </h3>
-                </div>
-              </Link>
-            ))}
+          <div className="ethnic-carousel overflow-hidden border-y border-[#f8f4ec]/42 py-2" aria-label="Carousel các dân tộc">
+            <div className="ethnic-carousel-track flex w-max gap-3">
+              {carouselGroups.map((group, index) => {
+                const isDuplicate = index >= groups.length;
+                const groupNumber = (index % groups.length) + 1;
+
+                return (
+                  <Link
+                    key={`${group.id}-${isDuplicate ? 'duplicate' : 'original'}`}
+                    to={`/dan-toc/${group.id}`}
+                    aria-hidden={isDuplicate}
+                    tabIndex={isDuplicate ? -1 : undefined}
+                    className="group w-[190px] shrink-0 border border-[#f8f4ec]/42 bg-[#f8f4ec] text-[#15110f] transition hover:-translate-y-1 hover:bg-[#15110f] hover:text-[#f8f4ec] focus:outline-none focus-visible:ring-4 focus-visible:ring-[#f8f4ec]/35 sm:w-[210px] lg:w-[230px]"
+                  >
+                    <div className="aspect-[4/3] overflow-hidden bg-[#15110f]">
+                      <img
+                        src={group.thumbnail}
+                        alt={group.name}
+                        className="h-full w-full object-cover opacity-90 transition duration-500 group-hover:scale-110 group-hover:opacity-75"
+                        onError={handleImageFallback}
+                      />
+                    </div>
+                    <div className="p-4">
+                      <p className="text-[0.64rem] font-black uppercase tracking-[0.16em] text-[#b0160b] group-hover:text-[#f8f4ec]/72">
+                        {String(groupNumber).padStart(2, '0')}
+                      </p>
+                      <h3 className="mt-2 text-2xl font-black uppercase leading-none tracking-normal">
+                        {group.name}
+                      </h3>
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
           </div>
         </div>
       </section>
