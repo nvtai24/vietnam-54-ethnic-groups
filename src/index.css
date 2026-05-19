@@ -28,8 +28,8 @@
 }
 
 .poster-title {
-  font-size: clamp(4.3rem, 20vw, 17.5rem);
-  letter-spacing: -0.09em;
+  font-size: clamp(4.6rem, 13vw, 12rem);
+  letter-spacing: 0;
   text-shadow: 0 2px 0 rgba(127, 16, 8, 0.28);
 }
 
@@ -40,8 +40,7 @@
 
 @media (max-width: 767px) {
   .poster-title {
-    top: 40%;
-    font-size: clamp(4.1rem, 22vw, 8.2rem);
+    font-size: clamp(4rem, 22vw, 7.5rem);
   }
 }
 

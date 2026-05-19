@@ -75,7 +75,7 @@ const HomePage = () => {
         <div className="absolute inset-0 bg-[#f8f4ec]/80"></div>
 
         <div className="relative z-10 mx-auto flex min-h-screen w-full max-w-[1440px] flex-col px-8 py-10 sm:px-12 lg:px-16">
-          <header className="relative z-20 flex items-start justify-between gap-6 text-[0.68rem] font-black uppercase leading-none tracking-[-0.01em] text-[#15110f]">
+          <header className="relative z-20 flex items-start justify-between gap-6 text-[0.68rem] font-black uppercase leading-none tracking-normal text-[#15110f]">
             <div>
               <p>Vietnam 54 Ethnic Groups</p>
               <p className="mt-1 text-[#b0160b]">Digital culture archive</p>
@@ -90,48 +90,62 @@ const HomePage = () => {
             </nav>
           </header>
 
-          <div className="relative z-20 grid flex-1 items-center gap-8 py-12 lg:grid-cols-[1fr_minmax(260px,380px)_1fr] lg:py-4">
-            <div className="order-2 max-w-[300px] self-end text-left lg:order-1">
-              <p className="text-[0.78rem] font-black uppercase leading-[0.9] tracking-[-0.04em] sm:text-sm">
-                Một bản đồ văn hóa sống động của các cộng đồng trên dải đất hình chữ S.
-              </p>
-              <div className="mt-6 h-1 w-24 bg-[#b0160b]"></div>
-            </div>
+          <div className="relative z-20 grid flex-1 items-center gap-10 py-12 lg:grid-cols-[minmax(0,1fr)_minmax(340px,430px)] lg:gap-14 lg:py-8">
+            <div className="max-w-[820px]">
+              <div className="mb-6 flex flex-wrap items-center gap-3 text-[0.68rem] font-black uppercase leading-none text-[#b0160b]">
+                <span className="border-2 border-[#b0160b] px-3 py-2">54 dân tộc</span>
+                <span className="h-[2px] w-16 bg-[#b0160b]"></span>
+                <span>Digital culture archive</span>
+              </div>
 
-            <div className="order-1 lg:order-2">
-              <div className="relative mx-auto aspect-[4/5] w-full max-w-[330px] sm:max-w-[360px]">
-                <div className="absolute -inset-x-8 top-8 z-0 h-28 rotate-[-4deg] bg-[#b0160b] shadow-[0_16px_32px_rgba(176,22,11,0.2)]"></div>
-                <img
-                  src={heroPortrait}
-                  alt="Phong cảnh Việt Nam"
-                  className="relative z-10 h-full w-full object-cover grayscale-[12%] contrast-110 shadow-[0_24px_70px_rgba(21,17,15,0.28)]"
-                  onError={handleImageFallback}
-                />
-                <div className="absolute -top-8 left-1/2 z-20 w-[56%] -translate-x-1/2 bg-[#b0160b] px-5 py-4 text-center text-4xl font-black leading-none text-[#f8f4ec] shadow-[0_18px_28px_rgba(176,22,11,0.28)] sm:text-5xl">
-                  54
-                </div>
-                <div className="absolute -bottom-5 left-1/2 z-20 -translate-x-1/2 whitespace-nowrap bg-[#15110f] px-5 py-3 text-xs font-black uppercase tracking-[0.18em] text-[#f8f4ec]">
-                  Dân tộc anh em
+              <h1 className="poster-title font-black uppercase leading-[0.78] text-[#b0160b]">
+                Việt Nam
+              </h1>
+
+              <div className="mt-8 grid gap-5 border-l-4 border-[#b0160b] pl-5 md:grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)] md:items-end">
+                <p className="text-sm font-black uppercase leading-[0.95] text-[#15110f] sm:text-base">
+                  Một bản đồ văn hóa sống động của các cộng đồng trên dải đất hình chữ S.
+                </p>
+                <div className="md:text-right">
+                  <p className="text-sm font-black uppercase leading-[0.95] text-[#15110f] sm:text-base">
+                    Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng dân tộc.
+                  </p>
+                  <a
+                    href="#groups"
+                    className="mt-6 inline-flex h-11 items-center border-2 border-[#b0160b] bg-[#b0160b] px-5 text-xs font-black uppercase tracking-[0.14em] text-[#f8f4ec] transition hover:bg-transparent hover:text-[#b0160b]"
+                  >
+                    Bắt đầu
+                  </a>
                 </div>
               </div>
             </div>
 
-            <div className="order-3 max-w-[300px] justify-self-end text-right lg:self-end lg:pb-14">
-              <p className="text-[0.78rem] font-black uppercase leading-[0.9] tracking-[-0.04em] sm:text-sm">
-                Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng dân tộc.
-              </p>
-              <a
-                href="#groups"
-                className="mt-6 inline-flex h-11 items-center border-2 border-[#b0160b] bg-[#b0160b] px-5 text-xs font-black uppercase tracking-[0.14em] text-[#f8f4ec] transition hover:bg-transparent hover:text-[#b0160b]"
-              >
-                Bắt đầu
-              </a>
+            <div className="relative justify-self-center lg:justify-self-end">
+              <div className="absolute -right-5 top-8 hidden h-[82%] w-20 rotate-3 bg-[#b0160b] shadow-[0_16px_32px_rgba(176,22,11,0.2)] sm:block"></div>
+              <div className="relative w-full max-w-[380px] border-2 border-[#15110f] bg-[#f8f4ec] p-3 shadow-[0_24px_70px_rgba(21,17,15,0.2)] sm:max-w-[420px]">
+                <div className="mb-3 flex items-center justify-between text-[0.62rem] font-black uppercase leading-none text-[#15110f]">
+                  <span>Dân tộc anh em</span>
+                  <span className="text-[#b0160b]">Since 2026</span>
+                </div>
+                <div className="aspect-[4/5] overflow-hidden bg-[#15110f]">
+                  <img
+                    src={heroPortrait}
+                    alt="Phong cảnh Việt Nam"
+                    className="h-full w-full object-cover grayscale-[12%] contrast-110"
+                    onError={handleImageFallback}
+                  />
+                </div>
+                <div className="mt-3 grid grid-cols-[88px_1fr] border-2 border-[#b0160b]">
+                  <div className="bg-[#b0160b] px-4 py-3 text-center text-4xl font-black leading-none text-[#f8f4ec]">
+                    54
+                  </div>
+                  <div className="flex items-center px-4 text-xs font-black uppercase leading-none text-[#15110f]">
+                    Bản sắc, truyền thống, đoàn kết
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
-
-          <h1 className="poster-title pointer-events-none absolute left-1/2 top-1/2 z-[1] w-[92vw] -translate-x-1/2 -translate-y-1/2 text-center font-black uppercase leading-[0.75] text-[#b0160b]">
-            Việt Nam
-          </h1>
 
           <div className="relative z-20 flex items-end justify-between gap-6 text-[0.62rem] font-black uppercase leading-none text-[#15110f]">
             <p>Since 2026</p>
@@ -151,7 +165,7 @@ const HomePage = () => {
         <div className="mx-auto grid max-w-[1280px] gap-6 md:grid-cols-[0.8fr_1.2fr] md:items-end">
           <div>
             <p className="text-xs font-black uppercase tracking-[0.18em] text-[#f8f4ec]/70">Tiêu điểm</p>
-            <h2 className="mt-2 max-w-[520px] text-4xl font-black uppercase leading-[0.88] tracking-[-0.04em] sm:text-6xl">
+            <h2 className="mt-2 max-w-[520px] text-4xl font-black uppercase leading-[0.88] tracking-normal sm:text-6xl">
               Bản sắc trong từng miền đất
             </h2>
           </div>
@@ -174,7 +188,7 @@ const HomePage = () => {
                   <p className="text-[0.64rem] font-black uppercase tracking-[0.16em] text-[#b0160b] group-hover:text-[#f8f4ec]/72">
                     0{index + 1}
                   </p>
-                  <h3 className="mt-2 text-2xl font-black uppercase leading-none tracking-[-0.04em]">
+                  <h3 className="mt-2 text-2xl font-black uppercase leading-none tracking-normal">
                     {group.name}
                   </h3>
                 </div>
@@ -190,7 +204,7 @@ const HomePage = () => {
           <div className="mb-8 grid gap-6 border-y-2 border-[#b0160b] py-6 lg:grid-cols-[0.8fr_1.2fr] lg:items-end">
             <div>
               <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">Tra cứu dân tộc</p>
-              <h2 className="mt-3 text-4xl font-black uppercase leading-[0.88] tracking-[-0.04em] text-[#b0160b] sm:text-6xl">
+              <h2 className="mt-3 text-4xl font-black uppercase leading-[0.88] tracking-normal text-[#b0160b] sm:text-6xl">
                 Danh sách 54 dân tộc
               </h2>
             </div>
@@ -261,7 +275,7 @@ const HomePage = () => {
                       {String(index + 1).padStart(2, '0')}
                     </span>
                     <div className="absolute bottom-0 left-0 right-0 p-4 text-[#f8f4ec]">
-                      <h3 className="text-2xl font-black uppercase leading-none tracking-[-0.04em]">
+                      <h3 className="text-2xl font-black uppercase leading-none tracking-normal">
                         {group.name}
                       </h3>
                       <p className="mt-2 line-clamp-2 text-[0.68rem] font-bold uppercase leading-tight text-[#f8f4ec]/78">
@@ -275,7 +289,7 @@ const HomePage = () => {
           ) : (
             <div className="border-2 border-[#b0160b] bg-white px-6 py-14 text-center text-[#15110f]">
               <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">Không có kết quả</p>
-              <h3 className="mt-3 text-3xl font-black uppercase leading-none tracking-[-0.04em]">
+              <h3 className="mt-3 text-3xl font-black uppercase leading-none tracking-normal">
                 Không tìm thấy dân tộc phù hợp
               </h3>
               <button
