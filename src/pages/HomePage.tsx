@@ -24,15 +24,19 @@ const posterWords = [
 const heroYoutubeEmbedUrl =
   "https://www.youtube.com/embed/TY48IDOxLx8?autoplay=0&mute=0&loop=1&playlist=TY48IDOxLx8";
 
+const homepageImages = {
+  heroBackground:
+    "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=1600",
+  videoFallback:
+    "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=1200",
+  groupsBackground:
+    "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=1600",
+};
+
 const HomePage = () => {
   const groups = ethnicGroupsData.groups as EthnicGroup[];
   const carouselGroups = [...groups, ...groups];
-  const heroGroup = groups[0];
-  const heroBackground = heroGroup?.images?.[2] || heroGroup?.thumbnail;
-  const heroPortrait = heroGroup?.images?.[0] || heroGroup?.thumbnail;
-  const groupsBackground =
-    groups[4]?.thumbnail || groups[3]?.thumbnail || heroBackground;
-  const fallbackImage = heroBackground || heroPortrait;
+  const fallbackImage = homepageImages.heroBackground;
 
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedRegion, setSelectedRegion] = useState("all");
@@ -88,7 +92,7 @@ const HomePage = () => {
     <div className="min-h-screen bg-[#f6f2ea] text-[#15110f]">
       <section className="relative isolate min-h-screen overflow-hidden bg-[#15110f]">
         <img
-          src={heroBackground}
+          src={homepageImages.heroBackground}
           alt=""
           className="absolute inset-0 h-full w-full scale-105 object-cover opacity-58 saturate-100 contrast-105"
           aria-hidden="true"
@@ -170,7 +174,7 @@ const HomePage = () => {
                   ) : (
                     <>
                       <img
-                        src={heroPortrait}
+                        src={homepageImages.videoFallback}
                         alt="Phong cảnh Việt Nam"
                         className="h-full w-full object-cover grayscale-[12%] contrast-110"
                         onError={handleImageFallback}
@@ -260,7 +264,7 @@ const HomePage = () => {
         className="relative isolate overflow-hidden bg-[#f8f4ec] px-6 py-12 sm:px-10"
       >
         <img
-          src={groupsBackground}
+          src={homepageImages.groupsBackground}
           alt=""
           className="absolute inset-0 h-full w-full object-cover saturate-110 contrast-105"
           aria-hidden="true"
