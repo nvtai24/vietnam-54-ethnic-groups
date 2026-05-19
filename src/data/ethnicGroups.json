@@ -15,7 +15,13 @@
         "https://dttg.vnncdn.net/CKFinderJava/userfiles/images/Bai%20viet%20dan%20toc/Kinh/kinh_detail_15.JPG"
       ],
       "description": "Người Kinh là dân tộc đông nhất Việt Nam, chiếm khoảng 85% dân số cả nước. Người Kinh có nền văn hóa lâu đời, chịu ảnh hưởng sâu sắc của văn hóa Á Đông nhưng vẫn giữ được bản sắc riêng độc đáo.",
-      "history": "Người Kinh có lịch sử hình thành và phát triển hàng nghìn năm, từ thời Văn Lang - Âu Lạc, gắn liền với nền văn minh lúa nước sông Hồng.",
+      "history": {
+        "description": "Người Kinh có lịch sử hình thành và phát triển hàng nghìn năm, từ thời Văn Lang - Âu Lạc, gắn liền với nền văn minh lúa nước sông Hồng.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -81,10 +87,6 @@
         "Trọng tình nghĩa",
         "Hiếu học",
         "Yêu nước"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
       ]
     },
     {
@@ -105,7 +107,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Người Tày là dân tộc thiểu số đông nhất Việt Nam, cư trú chủ yếu ở vùng thung lũng, ven suối các tỉnh miền núi phía Bắc.",
-      "history": "Người Tày là cư dân bản địa có mặt ở Việt Nam từ rất sớm, gắn bó mật thiết với người Nùng và người Thái.",
+      "history": {
+        "description": "Người Tày là cư dân bản địa có mặt ở Việt Nam từ rất sớm, gắn bó mật thiết với người Nùng và người Thái.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -154,10 +162,6 @@
         "Hiền hòa, hiếu khách",
         "Giỏi canh tác lúa nước",
         "Văn hóa dân ca phong phú"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       ]
     },
     {
@@ -177,7 +181,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Người Thái nổi tiếng với nghệ thuật dệt thổ cẩm, kiến trúc nhà sàn và điệu múa xòe truyền thống.",
-      "history": "Người Thái di cư từ vùng Vân Nam (Trung Quốc) xuống phía Nam cách đây hàng ngàn năm.",
+      "history": {
+        "description": "Người Thái di cư từ vùng Vân Nam (Trung Quốc) xuống phía Nam cách đây hàng ngàn năm.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -230,10 +240,6 @@
         "Thanh lịch, khéo léo",
         "Giỏi dệt thổ cẩm",
         "Yêu ca múa"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
       ]
     },
     {
@@ -252,7 +258,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
       "description": "Người Mường có cùng nguồn gốc với người Kinh, nhưng sinh sống ở miền núi nên giữ được nhiều nét văn hóa cổ xưa hơn.",
-      "history": "Là cư dân bản địa lâu đời, tách ra từ khối Việt-Mường chung khoảng vài ngàn năm trước.",
+      "history": {
+        "description": "Là cư dân bản địa lâu đời, tách ra từ khối Việt-Mường chung khoảng vài ngàn năm trước.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -305,10 +317,6 @@
         "Chân chất, mộc mạc",
         "Tôn trọng thứ bậc gia đình",
         "Giàu truyền thống văn nghệ dân gian"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
       ]
     },
     {
@@ -328,7 +336,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
       "description": "Người Khmer Nam Bộ có nền văn hóa gắn liền với Phật giáo Nam tông, thể hiện rõ qua hệ thống chùa chiền độc đáo.",
-      "history": "Là những cư dân sinh sống lâu đời ở vùng đồng bằng sông Cửu Long.",
+      "history": {
+        "description": "Là những cư dân sinh sống lâu đời ở vùng đồng bằng sông Cửu Long.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -385,10 +399,6 @@
         "Sùng đạo Phật",
         "Hiền lành, cởi mở",
         "Có năng khiếu nghệ thuật, điêu khắc"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
       ]
     },
     {
@@ -408,7 +418,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
       "description": "Người Hoa tại Việt Nam chủ yếu sống ở các đô thị lớn, có truyền thống kinh doanh thương mại và tiểu thủ công nghiệp.",
-      "history": "Người Hoa di cư sang Việt Nam nhiều đợt trong lịch sử, đặc biệt từ thế kỷ 17 đến thế kỷ 20.",
+      "history": {
+        "description": "Người Hoa di cư sang Việt Nam nhiều đợt trong lịch sử, đặc biệt từ thế kỷ 17 đến thế kỷ 20.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -473,10 +489,6 @@
         "Giỏi kinh doanh",
         "Đề cao tính gia tộc, hội đồng hương",
         "Trọng chữ tín"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
       ]
     },
     {
@@ -496,7 +508,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Người Nùng có mối quan hệ gần gũi với người Tày, giỏi nghề mộc, đan lát và rèn nông cụ.",
-      "history": "Có nguồn gốc từ các nhóm cư dân sống ở khu vực biên giới Việt - Trung, di cư vào Việt Nam từ lâu đời.",
+      "history": {
+        "description": "Có nguồn gốc từ các nhóm cư dân sống ở khu vực biên giới Việt - Trung, di cư vào Việt Nam từ lâu đời.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -545,10 +563,6 @@
         "Thật thà, thẳng thắn",
         "Chăm chỉ",
         "Có tinh thần thượng võ"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       ]
     },
     {
@@ -570,7 +584,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
       "description": "Người H'Mông nổi tiếng với trang phục sặc sỡ, ruộng bậc thang kỳ vĩ và kỹ năng thổi khèn điêu luyện.",
-      "history": "Người H'Mông di cư vào miền Bắc Việt Nam khoảng 300 năm trước từ phía Bắc.",
+      "history": {
+        "description": "Người H'Mông di cư vào miền Bắc Việt Nam khoảng 300 năm trước từ phía Bắc.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -623,10 +643,6 @@
         "Độc lập, mạnh mẽ",
         "Chịu đựng gian khổ tốt",
         "Giữ gìn bản sắc văn hóa rất mạnh"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
       ]
     },
     {
@@ -646,7 +662,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Người Dao có nhiều nhóm địa phương (Dao Đỏ, Dao Tiền, Dao Quần Chẹt...) với trang phục và phong tục đa dạng. Nổi tiếng với các bài thuốc Nam bí truyền.",
-      "history": "Cũng giống người H'Mông, người Dao di cư vào Việt Nam từ các vùng phía Bắc từ thế kỷ 13 đến thế kỷ 20.",
+      "history": {
+        "description": "Cũng giống người H'Mông, người Dao di cư vào Việt Nam từ các vùng phía Bắc từ thế kỷ 13 đến thế kỷ 20.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -695,10 +717,6 @@
         "Am hiểu thảo dược",
         "Kín đáo, trầm tĩnh",
         "Trọng nghi lễ và tôn giáo"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
       ]
     },
     {
@@ -711,7 +729,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Là dân tộc bản địa có dân số đông nhất Tây Nguyên, nổi tiếng với nhà rông cao vút và nhà mồ với các bức tượng sinh động.",
-      "history": "Gia Rai là một trong những cư dân bản địa lâu đời nhất tại Tây Nguyên.",
+      "history": {
+        "description": "Gia Rai là một trong những cư dân bản địa lâu đời nhất tại Tây Nguyên.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -764,10 +788,6 @@
         "Trọng nữ quyền",
         "Tinh thần cộng đồng cao",
         "Giàu tính nghệ thuật (điêu khắc gỗ)"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       ]
     },
     {
@@ -780,7 +800,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
       "description": "Người Ê Đê nổi bật với kiến trúc nhà dài hình con thuyền, sử thi Đam San và chế độ mẫu hệ sâu sắc.",
-      "history": "Người Ê Đê thuộc nhóm ngôn ngữ Malayo-Polynesia, đã định cư ở Tây Nguyên từ thời tiền sử.",
+      "history": {
+        "description": "Người Ê Đê thuộc nhóm ngôn ngữ Malayo-Polynesia, đã định cư ở Tây Nguyên từ thời tiền sử.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -833,10 +859,6 @@
         "Phóng khoáng, cởi mở",
         "Trọng mẫu hệ",
         "Đam mê âm nhạc cồng chiêng"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
       ]
     },
     {
@@ -849,7 +871,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
       "description": "Người Ba Na là cư dân bản địa lâu đời ở Tây Nguyên, nổi tiếng với sử thi (H'mon) và kiến trúc nhà Rông.",
-      "history": "Người Ba Na cư trú tại vùng bắc Tây Nguyên và tây duyên hải miền Trung từ rất lâu đời.",
+      "history": {
+        "description": "Người Ba Na cư trú tại vùng bắc Tây Nguyên và tây duyên hải miền Trung từ rất lâu đời.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -906,10 +934,6 @@
         "Thượng võ, dũng cảm",
         "Yêu tự do",
         "Giỏi đan lát và tạc tượng"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
       ]
     },
     {
@@ -922,7 +946,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Cư trú chủ yếu ở Bắc Tây Nguyên, giỏi canh tác lúa nước trên ruộng bậc thang và rèn nông cụ.",
-      "history": "Có quan hệ nguồn gốc với các cư dân Nam Á cổ, sinh sống lâu đời ở vùng núi Ngọc Linh.",
+      "history": {
+        "description": "Có quan hệ nguồn gốc với các cư dân Nam Á cổ, sinh sống lâu đời ở vùng núi Ngọc Linh.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -979,10 +1009,6 @@
         "Đoàn kết cộng đồng",
         "Có tinh thần tự lập cao",
         "Giỏi săn bắn, rèn sắt"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
       ]
     },
     {
@@ -995,7 +1021,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
       "description": "Người Sán Chay gồm hai nhóm Cao Lan và Sán Chỉ, giỏi làm ruộng nước và có kho tàng dân ca phong phú.",
-      "history": "Di cư từ Nam Trung Quốc vào Việt Nam từ khoảng thế kỷ 17.",
+      "history": {
+        "description": "Di cư từ Nam Trung Quốc vào Việt Nam từ khoảng thế kỷ 17.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1048,10 +1080,6 @@
         "Hiền lành, chất phác",
         "Thích ca hát",
         "Tôn trọng người già"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
       ]
     },
     {
@@ -1064,7 +1092,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
       "description": "Cơ Ho là dân tộc bản địa đông nhất ở Lâm Đồng, có văn hóa cồng chiêng đặc sắc gắn liền với các buôn làng Tây Nguyên.",
-      "history": "Là cư dân thuộc nhóm ngôn ngữ Môn - Khmer đã định cư lâu đời trên cao nguyên Lang Biang.",
+      "history": {
+        "description": "Là cư dân thuộc nhóm ngôn ngữ Môn - Khmer đã định cư lâu đời trên cao nguyên Lang Biang.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1109,10 +1143,6 @@
         "Giản dị, chân thành",
         "Hòa hợp với thiên nhiên",
         "Tôn trọng chế độ mẫu hệ"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       ]
     },
     {
@@ -1132,7 +1162,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Người Chăm là hậu duệ của vương quốc Chăm Pa cổ, sở hữu nền văn hóa đa dạng, rực rỡ với các tháp Chăm cổ kính và nghệ thuật làm gốm Bàu Trúc.",
-      "history": "Từng có quốc gia Chăm Pa phát triển rực rỡ ở miền Trung Việt Nam từ thế kỷ thứ 2 đến thế kỷ 17.",
+      "history": {
+        "description": "Từng có quốc gia Chăm Pa phát triển rực rỡ ở miền Trung Việt Nam từ thế kỷ thứ 2 đến thế kỷ 17.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1181,10 +1217,6 @@
         "Tinh hoa nghệ thuật điêu khắc, kiến trúc",
         "Giỏi dệt vải, làm gốm",
         "Trọng mẫu hệ"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
       ]
     },
     {
@@ -1203,7 +1235,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Người Sán Dìu cư trú chủ yếu ở trung du miền núi phía Bắc, có kinh nghiệm trồng trọt, chăn nuôi lâu đời.",
-      "history": "Di cư sang Việt Nam từ khu vực Quảng Đông (Trung Quốc) khoảng 400 năm trước.",
+      "history": {
+        "description": "Di cư sang Việt Nam từ khu vực Quảng Đông (Trung Quốc) khoảng 400 năm trước.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1256,10 +1294,6 @@
         "Cần cù, tiết kiệm",
         "Giỏi nghề mộc, rèn",
         "Coi trọng gia phả"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
       ]
     },
     {
@@ -1272,7 +1306,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
       "description": "Người Hrê sinh sống dọc sườn Đông Trường Sơn, giỏi làm ruộng nước và dệt thổ cẩm.",
-      "history": "Là cư dân sinh sống lâu đời ở khu vực miền núi phía tây các tỉnh duyên hải Nam Trung Bộ.",
+      "history": {
+        "description": "Là cư dân sinh sống lâu đời ở khu vực miền núi phía tây các tỉnh duyên hải Nam Trung Bộ.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1325,10 +1365,6 @@
         "Mạnh mẽ, gan dạ",
         "Giỏi canh tác thủy lợi",
         "Yêu âm nhạc cồng chiêng"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       ]
     },
     {
@@ -1341,7 +1377,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
       "description": "Người Mnông nổi tiếng với nghề thuần dưỡng voi rừng và truyền thuyết về các dũng sĩ, các sử thi Ót N'rông.",
-      "history": "Cư dân bản địa định cư lâu đời trên vùng cao nguyên M'Nông.",
+      "history": {
+        "description": "Cư dân bản địa định cư lâu đời trên vùng cao nguyên M'Nông.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1394,10 +1436,6 @@
         "Can đảm, phóng khoáng",
         "Tôn trọng thiên nhiên",
         "Yêu động vật (voi)"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
       ]
     },
     {
@@ -1410,7 +1448,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Người Ra Glai có mối quan hệ gần gũi với người Chăm, chế độ mẫu hệ và cây đàn Chapi nổi tiếng.",
-      "history": "Ra Glai có nghĩa là 'người rừng', là nhóm cư dân bản địa lâu đời ở vùng nam Trung Bộ.",
+      "history": {
+        "description": "Ra Glai có nghĩa là 'người rừng', là nhóm cư dân bản địa lâu đời ở vùng nam Trung Bộ.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1455,10 +1499,6 @@
         "Sống tình cảm",
         "Yêu tự do và núi rừng",
         "Trọng mẫu hệ"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
       ]
     },
     {
@@ -1471,7 +1511,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Dân tộc Bru - Vân Kiều cư trú dọc theo dãy Trường Sơn, mang họ Hồ của Bác Hồ và có lòng yêu nước nồng nàn.",
-      "history": "Người Bru-Vân Kiều là cư dân cư trú lâu đời ở khu vực Trung Trường Sơn.",
+      "history": {
+        "description": "Người Bru-Vân Kiều là cư dân cư trú lâu đời ở khu vực Trung Trường Sơn.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1524,10 +1570,6 @@
         "Lòng trung thành cao",
         "Sống tình nghĩa",
         "Giỏi đi rừng"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
       ]
     },
     {
@@ -1540,7 +1582,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
       "description": "Người Thổ cư trú ở vùng giao thoa giữa người Việt và người Mường, có nét văn hóa pha trộn đặc sắc.",
-      "history": "Có nguồn gốc hình thành từ sự giao lưu, hòa huyết giữa các nhóm Việt cổ và Mường.",
+      "history": {
+        "description": "Có nguồn gốc hình thành từ sự giao lưu, hòa huyết giữa các nhóm Việt cổ và Mường.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1585,11 +1633,7 @@
         "housing": "Nhà sàn, gần gũi kiến trúc nhà người Thái hoặc Mường.",
         "housingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       },
-      "characteristics": ["Chất phác", "Hòa đồng", "Dễ tiếp thu văn hóa mới"],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
-      ]
+      "characteristics": ["Chất phác", "Hòa đồng", "Dễ tiếp thu văn hóa mới"]
     },
     {
       "id": "giay",
@@ -1601,7 +1645,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
       "description": "Người Giáy cư trú chủ yếu ở vùng thung lũng, giỏi trồng lúa nước và làm các món bánh truyền thống ngon miệng.",
-      "history": "Di cư từ Trung Quốc vào Việt Nam khoảng 200 năm trước.",
+      "history": {
+        "description": "Di cư từ Trung Quốc vào Việt Nam khoảng 200 năm trước.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1650,10 +1700,6 @@
         "Chăm chỉ",
         "Khéo tay hay làm",
         "Coi trọng lễ nghi gia đình"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       ]
     },
     {
@@ -1666,7 +1712,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Người Cơ Tu nổi tiếng với điệu múa Tung tung da dá, kiến trúc nhà Gươl và nghề dệt thổ cẩm cườm chì độc đáo.",
-      "history": "Sinh sống lâu đời ở vùng núi cao phía tây miền Trung Trường Sơn.",
+      "history": {
+        "description": "Sinh sống lâu đời ở vùng núi cao phía tây miền Trung Trường Sơn.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1723,10 +1775,6 @@
         "Tinh thần thượng võ",
         "Yêu rừng, bảo vệ rừng",
         "Năng khiếu nghệ thuật tạc tượng"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
       ]
     },
     {
@@ -1739,7 +1787,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Người Gié-Triêng cư trú ở vùng rừng núi hiểm trở, có tục chia của cho người chết và nhiều kiêng kỵ độc đáo.",
-      "history": "Cư dân bản địa sống lâu đời ở ngã ba biên giới Đông Dương.",
+      "history": {
+        "description": "Cư dân bản địa sống lâu đời ở ngã ba biên giới Đông Dương.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1792,10 +1846,6 @@
         "Sống đoàn kết",
         "Tôn trọng thần linh rừng núi",
         "Tính tự trị làng bản cao"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
       ]
     },
     {
@@ -1808,7 +1858,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
       "description": "Người Mạ từng có liên minh bộ lạc mạnh trên cao nguyên, giỏi nghề rèn sắt và dệt thổ cẩm.",
-      "history": "Sinh sống từ lâu đời ở khu vực nam Tây Nguyên.",
+      "history": {
+        "description": "Sinh sống từ lâu đời ở khu vực nam Tây Nguyên.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1853,10 +1909,6 @@
         "Dũng cảm, thẳng thắn",
         "Giỏi nghề dệt",
         "Gắn bó với núi rừng"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       ]
     },
     {
@@ -1869,7 +1921,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
       "description": "Người Khơ Mú có điệu múa Au eo sôi động và phong tục uống rượu cần bằng mũi rất đặc biệt.",
-      "history": "Cư dân cư trú lâu đời ở Tây Bắc Việt Nam và Bắc Lào.",
+      "history": {
+        "description": "Cư dân cư trú lâu đời ở Tây Bắc Việt Nam và Bắc Lào.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1914,10 +1972,6 @@
         "Lạc quan",
         "Yêu âm nhạc múa hát",
         "Thích sống trên sườn núi cao"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
       ]
     },
     {
@@ -1930,7 +1984,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Người Co nổi tiếng với điệu múa đấu chiêng, trồng quế trên núi và có lòng trung thành sâu sắc với Cách mạng.",
-      "history": "Cư dân bản địa sống chủ yếu ở huyện Trà Bồng (Quảng Ngãi).",
+      "history": {
+        "description": "Cư dân bản địa sống chủ yếu ở huyện Trà Bồng (Quảng Ngãi).",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -1983,10 +2043,6 @@
         "Trung thành",
         "Giỏi trồng trọt (quế)",
         "Thích múa hát, gõ chiêng"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
       ]
     },
     {
@@ -1999,7 +2055,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Người Tà Ôi nổi tiếng với dệt thổ cẩm Zèng - di sản văn hóa phi vật thể quốc gia, đính hạt cườm trắng tinh xảo.",
-      "history": "Sống lâu đời trên dải Trường Sơn, tham gia kháng chiến tích cực và tự nguyện mang họ Hồ.",
+      "history": {
+        "description": "Sống lâu đời trên dải Trường Sơn, tham gia kháng chiến tích cực và tự nguyện mang họ Hồ.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2052,10 +2114,6 @@
         "Kiên cường",
         "Thủy chung tình nghĩa",
         "Giỏi dệt thủ công"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
       ]
     },
     {
@@ -2068,7 +2126,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
       "description": "Người Chơ Ro là cư dân bản địa miền Đông Nam Bộ, trước kia sống bằng săn bắt hái lượm và làm rẫy.",
-      "history": "Thuộc nhóm cư dân Môn - Khmer sinh sống lâu đời ở vùng đồi núi thấp Đông Nam Bộ.",
+      "history": {
+        "description": "Thuộc nhóm cư dân Môn - Khmer sinh sống lâu đời ở vùng đồi núi thấp Đông Nam Bộ.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2117,10 +2181,6 @@
         "Chân thực, mộc mạc",
         "Tình làng nghĩa xóm gắn bó",
         "Thích ca múa"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
       ]
     },
     {
@@ -2133,7 +2193,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
       "description": "Người Kháng cư trú ven sông Đà, rất giỏi chế tạo thuyền độc mộc hình đuôi én.",
-      "history": "Là một trong những cư dân bản địa lâu đời nhất ở Tây Bắc.",
+      "history": {
+        "description": "Là một trong những cư dân bản địa lâu đời nhất ở Tây Bắc.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2190,10 +2256,6 @@
         "Giỏi bơi lội, vượt thác",
         "Thạo nghề đan lát",
         "Hòa hợp với sông nước"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       ]
     },
     {
@@ -2206,7 +2268,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Người Xinh Mun có tục nhai trầu quệt mép, cư trú vùng biên giới Việt-Lào đan xen với người Thái.",
-      "history": "Là cư dân sinh sống lâu đời ở vùng núi cao Tây Bắc.",
+      "history": {
+        "description": "Là cư dân sinh sống lâu đời ở vùng núi cao Tây Bắc.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2259,10 +2327,6 @@
         "Sống giản dị",
         "Chăm chỉ làm nương",
         "Nghề đan mây tre giang giỏi"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
       ]
     },
     {
@@ -2275,7 +2339,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Người Hà Nhì nổi tiếng với những ngôi nhà trình tường bằng đất hình nấm chịu rét tốt ở Y Tý và nghệ thuật làm ruộng bậc thang.",
-      "history": "Di cư từ Trung Quốc xuống vùng núi Tây Bắc Việt Nam khoảng 300 năm trước.",
+      "history": {
+        "description": "Di cư từ Trung Quốc xuống vùng núi Tây Bắc Việt Nam khoảng 300 năm trước.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2324,10 +2394,6 @@
         "Cần cù, thích ứng tốt với khí hậu lạnh",
         "Đoàn kết",
         "Thân thiện"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
       ]
     },
     {
@@ -2340,7 +2406,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
       "description": "Người Chu Ru có nghề làm gốm không dùng bàn xoay và truyền thuyết về nguồn gốc giống với người Chăm.",
-      "history": "Tách ra từ khối cộng đồng Chăm Pa cổ, di cư lên vùng cao nguyên.",
+      "history": {
+        "description": "Tách ra từ khối cộng đồng Chăm Pa cổ, di cư lên vùng cao nguyên.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2393,10 +2465,6 @@
         "Giỏi làm gốm thủ công",
         "Trọng nữ quyền",
         "Sống thanh bình"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       ]
     },
     {
@@ -2409,7 +2477,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
       "description": "Người Lào tại Việt Nam mang đậm nét văn hóa đặc trưng của nước bạn Lào, đặc biệt là lễ hội té nước và múa Lăm vông.",
-      "history": "Là bộ phận người Lào định cư tại Việt Nam qua các biến thiên lịch sử vùng biên.",
+      "history": {
+        "description": "Là bộ phận người Lào định cư tại Việt Nam qua các biến thiên lịch sử vùng biên.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2466,10 +2540,6 @@
         "Hiền hòa, vui vẻ",
         "Mến khách",
         "Thích múa hát, lễ hội"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
       ]
     },
     {
@@ -2482,7 +2552,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
       "description": "Người La Chí có tục thờ ông tổ Hoàng Vần Thùng và Tết Khu Cù Tê rất đặc sắc.",
-      "history": "Người La Chí sinh sống tập trung ở vùng núi cao biên giới phía Bắc từ rất lâu đời.",
+      "history": {
+        "description": "Người La Chí sinh sống tập trung ở vùng núi cao biên giới phía Bắc từ rất lâu đời.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2531,10 +2607,6 @@
         "Cần cù tằn tiện",
         "Tôn thờ tổ tiên",
         "Giữ gìn truyền thống chặt chẽ"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
       ]
     },
     {
@@ -2547,7 +2619,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Trước đây người La Hủ gọi là 'Xá Lá Vàng' vì sống du canh du cư trong rừng sâu, nay đã định cư lập bản.",
-      "history": "Di cư từ tỉnh Vân Nam (Trung Quốc) vào Việt Nam khoảng 2 thế kỷ trước.",
+      "history": {
+        "description": "Di cư từ tỉnh Vân Nam (Trung Quốc) vào Việt Nam khoảng 2 thế kỷ trước.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2596,10 +2674,6 @@
         "Bộc trực",
         "Dũng cảm săn bắn",
         "Thích ứng tốt với rừng rậm"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
       ]
     },
     {
@@ -2612,7 +2686,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Người La Ha nổi tiếng với lễ hội Dâng hoa măng (Pang A) cầu mong sức khỏe và chữa bệnh.",
-      "history": "Là cư dân lâu đời ở Tây Bắc, từng bị các dân tộc khác chèn ép phải ở vùng núi heo hút.",
+      "history": {
+        "description": "Là cư dân lâu đời ở Tây Bắc, từng bị các dân tộc khác chèn ép phải ở vùng núi heo hút.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2661,10 +2741,6 @@
         "Cần cù, nhẫn nại",
         "Tín ngưỡng vạn vật hữu linh",
         "Gắn bó với núi rừng"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
       ]
     },
     {
@@ -2677,7 +2753,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
       "description": "Người Pà Thẻn nổi bật với nghi lễ nhảy lửa thần bí và trang phục nữ giới màu đỏ chót rất sặc sỡ.",
-      "history": "Di cư từ Trung Quốc vào Việt Nam khoảng 200-300 năm trước.",
+      "history": {
+        "description": "Di cư từ Trung Quốc vào Việt Nam khoảng 200-300 năm trước.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2726,11 +2808,7 @@
         "housing": "Nhà sàn, nhà đất hoặc nửa sàn nửa đất tùy nơi.",
         "housingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
       },
-      "characteristics": ["Tôn trọng thầy cúng", "Gan dạ", "Giỏi dệt vải"],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
-      ]
+      "characteristics": ["Tôn trọng thầy cúng", "Gan dạ", "Giỏi dệt vải"]
     },
     {
       "id": "lu",
@@ -2742,7 +2820,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
       "description": "Người Lự nhuộm răng đen nhánh, giỏi dệt vải với hoa văn sinh động và canh tác lúa nước ven suối.",
-      "history": "Cư dân di cư từ Mường Lúm (Vân Nam) xuống Lai Châu từ thế kỷ 11.",
+      "history": {
+        "description": "Cư dân di cư từ Mường Lúm (Vân Nam) xuống Lai Châu từ thế kỷ 11.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2795,10 +2879,6 @@
         "Sạch sẽ, tươm tất",
         "Khéo tay hay làm",
         "Coi trọng nghề dệt"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
       ]
     },
     {
@@ -2811,7 +2891,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Người Ngái có nguồn gốc từ người Khách Gia (Hakka) Trung Quốc, sống xen kẽ với người Hoa nhưng có bản sắc riêng.",
-      "history": "Di cư vào Việt Nam thành nhiều đợt, cư trú chủ yếu ở trung du và ven biển phía Bắc.",
+      "history": {
+        "description": "Di cư vào Việt Nam thành nhiều đợt, cư trú chủ yếu ở trung du và ven biển phía Bắc.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2860,11 +2946,7 @@
         "housing": "Nhà đất, tường trình bằng đất sét trộn rơm rạ hoặc xây gạch mộc.",
         "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       },
-      "characteristics": ["Chịu thương chịu khó", "Đoàn kết", "Thích ca hát"],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
-      ]
+      "characteristics": ["Chịu thương chịu khó", "Đoàn kết", "Thích ca hát"]
     },
     {
       "id": "chut",
@@ -2876,7 +2958,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
       "description": "Người Chứt (nhất là nhóm Rục) từng sống trong hang đá rêu phong, chỉ mới được phát hiện và định cư từ giữa thế kỷ 20.",
-      "history": "Là những cư dân cổ trốn tránh chiến tranh và phu phen vào sâu trong hang động dãy Trường Sơn.",
+      "history": {
+        "description": "Là những cư dân cổ trốn tránh chiến tranh và phu phen vào sâu trong hang động dãy Trường Sơn.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2925,10 +3013,6 @@
         "Rụt rè, nhút nhát",
         "Kỹ năng sinh tồn trong rừng cao",
         "Chất phác"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       ]
     },
     {
@@ -2941,7 +3025,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Người Lô Lô sử dụng trống đồng cổ trong tang lễ và có trang phục thêu đắp vải tam giác rực rỡ kỳ công.",
-      "history": "Người Lô Lô từng có vương quốc cổ mạnh ở Nam Chiếu (Vân Nam), sau di cư xuống Việt Nam.",
+      "history": {
+        "description": "Người Lô Lô từng có vương quốc cổ mạnh ở Nam Chiếu (Vân Nam), sau di cư xuống Việt Nam.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -2994,10 +3084,6 @@
         "Giàu bản sắc văn hóa",
         "Tự hào dân tộc",
         "Giỏi thêu thùa"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
       ]
     },
     {
@@ -3010,7 +3096,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
       "description": "Người Mảng có tục xăm cằm đặc trưng mang ý nghĩa thẩm mỹ và trưởng thành.",
-      "history": "Cư dân bản địa sống dọc theo sông Nậm Na, đan xen với người Thái, H'Mông.",
+      "history": {
+        "description": "Cư dân bản địa sống dọc theo sông Nậm Na, đan xen với người Thái, H'Mông.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3055,15 +3147,7 @@
         "housing": "Nhà sàn mái lợp gianh sạp tre.",
         "housingImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
       },
-      "characteristics": [
-        "Hiền lành",
-        "Chịu khó",
-        "Giữ gìn tục xăm cằm cổ xưa"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
-      ]
+      "characteristics": ["Hiền lành", "Chịu khó", "Giữ gìn tục xăm cằm cổ xưa"]
     },
     {
       "id": "cong",
@@ -3075,7 +3159,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
       "description": "Người Cống có lễ tết Ngô rất đặc sắc và là dân tộc giỏi đan lát mây tre bương nhất nhì vùng Tây Bắc.",
-      "history": "Di cư từ Trung Quốc sang Việt Nam cách đây vài trăm năm, thường di chuyển dọc các con sông.",
+      "history": {
+        "description": "Di cư từ Trung Quốc sang Việt Nam cách đây vài trăm năm, thường di chuyển dọc các con sông.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3120,10 +3210,6 @@
         "Lạc quan",
         "Sống hòa thuận",
         "Thạo nghề sông nước và đan lát"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
       ]
     },
     {
@@ -3136,7 +3222,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Người Bố Y chủ yếu làm nông nghiệp, làm nhà trình tường và làm mộc rèn rất khéo léo.",
-      "history": "Có nguồn gốc từ tỉnh Quý Châu (Trung Quốc), di cư sang Việt Nam khoảng thế kỷ 19.",
+      "history": {
+        "description": "Có nguồn gốc từ tỉnh Quý Châu (Trung Quốc), di cư sang Việt Nam khoảng thế kỷ 19.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3189,11 +3281,7 @@
         "housing": "Nhà đất trình tường, mái lợp ngói máng hoặc cỏ gianh, có cấu trúc bảo vệ tốt.",
         "housingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       },
-      "characteristics": ["Cần cù tằn tiện", "Khéo tay", "Tôn trọng lễ giáo"],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
-      ]
+      "characteristics": ["Cần cù tằn tiện", "Khéo tay", "Tôn trọng lễ giáo"]
     },
     {
       "id": "colao",
@@ -3205,7 +3293,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
       "description": "Cư trú nơi những sườn núi dốc và vách đá tai mèo, nổi tiếng với kỹ năng canh tác hốc đá gieo ngô.",
-      "history": "Người Cờ Lao là một bộ phận của khối Bách Việt cổ, di cư xuống Việt Nam vào khoảng giữa thế kỷ 19.",
+      "history": {
+        "description": "Người Cờ Lao là một bộ phận của khối Bách Việt cổ, di cư xuống Việt Nam vào khoảng giữa thế kỷ 19.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3258,10 +3352,6 @@
         "Kiên cường chống chọi với tự nhiên",
         "Chăm chỉ",
         "Sống kín đáo"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       ]
     },
     {
@@ -3274,7 +3364,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Người Pu Péo là một trong những dân tộc ít người nhất, với tục cúng rừng thiêng và trang phục đắp vải màu sặc sỡ.",
-      "history": "Cư dân cư trú lâu đời ở vùng cực bắc Việt Nam (Đồng Văn, Hà Giang).",
+      "history": {
+        "description": "Cư dân cư trú lâu đời ở vùng cực bắc Việt Nam (Đồng Văn, Hà Giang).",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3319,10 +3415,6 @@
         "Giữ gìn truyền thống chặt chẽ",
         "Bảo vệ rừng",
         "Yêu hòa bình"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
       ]
     },
     {
@@ -3335,7 +3427,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
       "description": "Dân tộc ít người có phong tục nhuộm răng đen tẩm bằng cánh kiến đỏ, phụ nữ đính xu bạc đầy trước ngực áo.",
-      "history": "Di cư từ Lhasa (Tây Tạng) qua Lào rồi vào vùng Tây Bắc Việt Nam khoảng 150 năm trước.",
+      "history": {
+        "description": "Di cư từ Lhasa (Tây Tạng) qua Lào rồi vào vùng Tây Bắc Việt Nam khoảng 150 năm trước.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3380,11 +3478,7 @@
         "housing": "Nhà trệt, nhỏ bé, vách nứa, mái tranh, cửa thấp.",
         "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       },
-      "characteristics": ["Thật thà", "Hiền lành", "Hòa hợp với thiên nhiên"],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
-      ]
+      "characteristics": ["Thật thà", "Hiền lành", "Hòa hợp với thiên nhiên"]
     },
     {
       "id": "odu",
@@ -3396,7 +3490,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
       "images": [],
       "description": "Là dân tộc có số dân ít nhất Việt Nam, đang đứng trước nguy cơ mai một văn hóa và ngôn ngữ truyền thống.",
-      "history": "Người Ơ Đu từng cư trú đông đúc dọc sông Nậm Nơn, Nậm Mộ, sau bị đẩy vào rừng sâu do biến cố lịch sử.",
+      "history": {
+        "description": "Người Ơ Đu từng cư trú đông đúc dọc sông Nậm Nơn, Nậm Mộ, sau bị đẩy vào rừng sâu do biến cố lịch sử.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3445,11 +3545,7 @@
         "housing": "Nhà sàn mái tranh, trước đây thường nằm quay lưng vào núi.",
         "housingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
       },
-      "characteristics": ["Sống khép kín", "Dễ đồng hóa", "Hiền lành"],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
-      ]
+      "characteristics": ["Sống khép kín", "Dễ đồng hóa", "Hiền lành"]
     },
     {
       "id": "romam",
@@ -3461,7 +3557,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
       "images": [],
       "description": "Người Rơ Măm cư trú duy nhất tại làng Le (Kon Tum), có tục xăm mặt, cưa răng và làm nương rẫy hốc đá.",
-      "history": "Cư dân bản địa sống lâu đời ở vùng ba biên giới Việt - Lào - Campuchia.",
+      "history": {
+        "description": "Cư dân bản địa sống lâu đời ở vùng ba biên giới Việt - Lào - Campuchia.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3518,10 +3620,6 @@
         "Bảo tồn cộng đồng chặt chẽ",
         "Phóng khoáng",
         "Trọng lễ nghi tín ngưỡng"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
       ]
     },
     {
@@ -3534,7 +3632,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
       "images": [],
       "description": "Người Brâu chỉ có một làng duy nhất ở Việt Nam (làng Đắk Mế). Họ có truyền thống đánh cồng chiêng Tha rất quý giá.",
-      "history": "Cư dân từ vùng nam Lào và đông bắc Campuchia di cư sang vùng Ngọc Hồi khoảng thế kỷ 19.",
+      "history": {
+        "description": "Cư dân từ vùng nam Lào và đông bắc Campuchia di cư sang vùng Ngọc Hồi khoảng thế kỷ 19.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3583,10 +3687,6 @@
         "Tôn trọng luật tục làng",
         "Gắn bó với cồng chiêng",
         "Thật thà, dũng cảm"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
       ]
     },
     {
@@ -3599,7 +3699,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
       "images": [],
       "description": "Người Xtiêng gắn bó với rừng xanh Đông Nam Bộ, dệt thổ cẩm đẹp và có tinh thần tự lực cao.",
-      "history": "Cư dân bản địa lâu đời ở vùng bán bình nguyên Đông Nam Bộ, là chủ nhân văn hóa cồng chiêng Nam Tây Nguyên.",
+      "history": {
+        "description": "Cư dân bản địa lâu đời ở vùng bán bình nguyên Đông Nam Bộ, là chủ nhân văn hóa cồng chiêng Nam Tây Nguyên.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3652,11 +3758,7 @@
         "housing": "Nhà sàn hoặc nhà trệt tùy nhóm, cửa ra vào thấp, ít cửa sổ.",
         "housingImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
       },
-      "characteristics": ["Tự lập", "Gan dạ", "Tôn trọng các trưởng lão làng"],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
-      ]
+      "characteristics": ["Tự lập", "Gan dạ", "Tôn trọng các trưởng lão làng"]
     },
     {
       "id": "phula",
@@ -3668,7 +3770,13 @@
       "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
       "images": [],
       "description": "Người Phù Lá có nghệ thuật trang trí trang phục bằng hạt cườm sinh động, giỏ mây đan cài hai mặt tinh xảo.",
-      "history": "Một bộ phận di cư từ Vân Nam (Trung Quốc) xuống Tây Bắc Việt Nam.",
+      "history": {
+        "description": "Một bộ phận di cư từ Vân Nam (Trung Quốc) xuống Tây Bắc Việt Nam.",
+        "imageUrls": [
+          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        ]
+      },
       "culture": {
         "festivals": [
           {
@@ -3721,10 +3829,6 @@
         "Hiền lành",
         "Chăm chỉ",
         "Khéo tay trong dệt và đan lát"
-      ],
-      "historyImages": [
-        "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
       ]
     }
   ],

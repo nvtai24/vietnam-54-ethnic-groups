@@ -50,7 +50,7 @@ const DetailPage = () => {
 
   const fallbackImage = allImages[0];
   const heroImage = allImages[currentImageIndex] || fallbackImage;
-  const historyImages = group.historyImages;
+  const historyImageUrls = group.history.imageUrls;
   const clothingImage = group.culture.clothingImage;
   const housingImage = group.culture.housingImage;
   const galleryImages = allImages.slice(0, 6);
@@ -244,20 +244,20 @@ const DetailPage = () => {
               {detailPage.historySection.title}
             </h2>
             <p className="mt-7 max-w-[760px] text-base font-bold leading-7">
-              {group.history}
+              {group.history.description}
             </p>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-[0.8fr_1.2fr]">
             <img
-              src={historyImages[0]}
+              src={historyImageUrls[0]}
               alt=""
               className="aspect-[4/5] w-full object-cover contrast-105 sm:mt-12"
               aria-hidden="true"
               onError={handleImageFallback}
             />
             <img
-              src={historyImages[1]}
+              src={historyImageUrls[1]}
               alt=""
               className="aspect-[4/3] w-full object-cover contrast-105"
               aria-hidden="true"

@@ -67,9 +67,9 @@ export function validateEthnicGroup(group: EthnicGroup): ValidationError[] {
     });
   }
 
-  if (!group.history || group.history.trim() === '') {
+  if (!group.history || !group.history.description || group.history.description.trim() === '') {
     errors.push({
-      field: 'history',
+      field: 'history.description',
       message: 'Lịch sử không được để trống',
       ethnicGroupId: group.id
     });
@@ -171,17 +171,17 @@ export function validateEthnicGroup(group: EthnicGroup): ValidationError[] {
     });
   }
 
-  if (!group.historyImages || group.historyImages.length !== 2) {
+  if (!group.history || !group.history.imageUrls || group.history.imageUrls.length !== 2) {
     errors.push({
-      field: 'historyImages',
+      field: 'history.imageUrls',
       message: 'Lịch sử cần đúng 2 ảnh tư liệu',
       ethnicGroupId: group.id
     });
   } else {
-    group.historyImages.forEach((img, index) => {
+    group.history.imageUrls.forEach((img, index) => {
       if (!urlPattern.test(img)) {
         errors.push({
-          field: `historyImages[${index}]`,
+          field: `history.imageUrls[${index}]`,
           message: `URL ảnh lịch sử thứ ${index + 1} không hợp lệ`,
           ethnicGroupId: group.id
         });

@@ -10,6 +10,11 @@ export interface CultureActivity {
   imageUrl: string;
 }
 
+export interface HistoryInfo {
+  description: string; // Nội dung lịch sử
+  imageUrls: string[]; // Tốt nhất gồm 2 ảnh tư liệu lịch sử
+}
+
 export interface EthnicGroup {
   id: string;
   name: string;
@@ -24,8 +29,7 @@ export interface EthnicGroup {
   
   // Thông tin chi tiết
   description: string; // Mô tả tổng quan
-  history: string; // Lịch sử
-  historyImages: string[]; // 2 ảnh tư liệu lịch sử
+  history: HistoryInfo; // Lịch sử
   culture: {
     festivals: CultureActivity[]; // Lễ hội
     customs: CultureActivity[]; // Phong tục tập quán
