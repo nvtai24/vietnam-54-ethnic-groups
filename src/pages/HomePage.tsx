@@ -225,7 +225,6 @@ const HomePage = () => {
             <div className="ethnic-carousel-track flex w-max gap-3">
               {carouselGroups.map((group, index) => {
                 const isDuplicate = index >= groups.length;
-                const groupNumber = (index % groups.length) + 1;
 
                 return (
                   <Link
@@ -244,10 +243,7 @@ const HomePage = () => {
                       />
                     </div>
                     <div className="p-4">
-                      <p className="text-[0.64rem] font-black uppercase tracking-[0.16em] text-[#b0160b] group-hover:text-[#f8f4ec]/72">
-                        {String(groupNumber).padStart(2, "0")}
-                      </p>
-                      <h3 className="mt-2 text-2xl font-black uppercase leading-none tracking-normal">
+                      <h3 className="text-2xl font-black uppercase leading-none tracking-normal">
                         {group.name}
                       </h3>
                     </div>
@@ -336,7 +332,7 @@ const HomePage = () => {
 
           {filteredGroups.length > 0 ? (
             <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6">
-              {filteredGroups.map((group, index) => (
+              {filteredGroups.map((group) => (
                 <Link
                   key={group.id}
                   to={`/dan-toc/${group.id}`}
@@ -350,9 +346,6 @@ const HomePage = () => {
                       onError={handleImageFallback}
                     />
                     <div className="absolute inset-0 bg-[linear-gradient(180deg,transparent_35%,rgba(21,17,15,0.72)_100%)]"></div>
-                    <span className="absolute left-3 top-3 bg-[#b0160b] px-2 py-1 text-[0.62rem] font-black text-[#f8f4ec]">
-                      {String(index + 1).padStart(2, "0")}
-                    </span>
                     <div className="absolute bottom-0 left-0 right-0 p-4 text-[#f8f4ec]">
                       <h3 className="text-2xl font-black uppercase leading-none tracking-normal">
                         {group.name}
