@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,600..900;1,600..900&display=swap");
 @import "tailwindcss";
 
 @theme {
@@ -5,6 +6,35 @@
   --color-primary-dark: #7f1008;
   --color-paper: #f8f4ec;
   --color-ink: #15110f;
+  --font-traditional: "Noto Serif", Georgia, "Times New Roman", serif;
+}
+
+html {
+  font-family: var(--font-traditional);
+}
+
+body {
+  font-family: var(--font-traditional);
+  font-optical-sizing: auto;
+}
+
+h1,
+h2,
+h3,
+.poster-title {
+  font-family: var(--font-traditional);
+  letter-spacing: 0;
+  line-height: 1.08 !important;
+  text-wrap: balance;
+  word-spacing: 0.04em;
+}
+
+.poster-title {
+  line-height: 1 !important;
+}
+
+.uppercase {
+  letter-spacing: 0;
 }
 
 @keyframes poster-marquee-scroll {
