@@ -88,6 +88,18 @@
         "Trọng tình nghĩa",
         "Hiếu học",
         "Yêu nước"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống người Kinh",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Tìm hiểu về văn hóa, phong tục tập quán của người Kinh"
+        },
+        {
+          "title": "Lễ hội Tết Nguyên Đán",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá lễ hội Tết truyền thống của người Việt"
+        }
       ]
     },
     {
@@ -163,6 +175,13 @@
         "Hiền hòa, hiếu khách",
         "Giỏi canh tác lúa nước",
         "Văn hóa dân ca phong phú"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -241,6 +260,13 @@
         "Thanh lịch, khéo léo",
         "Giỏi dệt thổ cẩm",
         "Yêu ca múa"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -318,6 +344,13 @@
         "Chân chất, mộc mạc",
         "Tôn trọng thứ bậc gia đình",
         "Giàu truyền thống văn nghệ dân gian"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -400,6 +433,13 @@
         "Sùng đạo Phật",
         "Hiền lành, cởi mở",
         "Có năng khiếu nghệ thuật, điêu khắc"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -490,6 +530,13 @@
         "Giỏi kinh doanh",
         "Đề cao tính gia tộc, hội đồng hương",
         "Trọng chữ tín"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -564,6 +611,13 @@
         "Thật thà, thẳng thắn",
         "Chăm chỉ",
         "Có tinh thần thượng võ"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -644,6 +698,13 @@
         "Độc lập, mạnh mẽ",
         "Chịu đựng gian khổ tốt",
         "Giữ gìn bản sắc văn hóa rất mạnh"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -718,6 +779,13 @@
         "Am hiểu thảo dược",
         "Kín đáo, trầm tĩnh",
         "Trọng nghi lễ và tôn giáo"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -789,6 +857,13 @@
         "Trọng nữ quyền",
         "Tinh thần cộng đồng cao",
         "Giàu tính nghệ thuật (điêu khắc gỗ)"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -860,6 +935,13 @@
         "Phóng khoáng, cởi mở",
         "Trọng mẫu hệ",
         "Đam mê âm nhạc cồng chiêng"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -935,6 +1017,13 @@
         "Thượng võ, dũng cảm",
         "Yêu tự do",
         "Giỏi đan lát và tạc tượng"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1010,6 +1099,13 @@
         "Đoàn kết cộng đồng",
         "Có tinh thần tự lập cao",
         "Giỏi săn bắn, rèn sắt"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1081,6 +1177,13 @@
         "Hiền lành, chất phác",
         "Thích ca hát",
         "Tôn trọng người già"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1144,6 +1247,13 @@
         "Giản dị, chân thành",
         "Hòa hợp với thiên nhiên",
         "Tôn trọng chế độ mẫu hệ"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1218,6 +1328,13 @@
         "Tinh hoa nghệ thuật điêu khắc, kiến trúc",
         "Giỏi dệt vải, làm gốm",
         "Trọng mẫu hệ"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1295,6 +1412,13 @@
         "Cần cù, tiết kiệm",
         "Giỏi nghề mộc, rèn",
         "Coi trọng gia phả"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1366,6 +1490,13 @@
         "Mạnh mẽ, gan dạ",
         "Giỏi canh tác thủy lợi",
         "Yêu âm nhạc cồng chiêng"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1437,6 +1568,13 @@
         "Can đảm, phóng khoáng",
         "Tôn trọng thiên nhiên",
         "Yêu động vật (voi)"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1500,6 +1638,13 @@
         "Sống tình cảm",
         "Yêu tự do và núi rừng",
         "Trọng mẫu hệ"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1571,6 +1716,13 @@
         "Lòng trung thành cao",
         "Sống tình nghĩa",
         "Giỏi đi rừng"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1701,6 +1853,13 @@
         "Chăm chỉ",
         "Khéo tay hay làm",
         "Coi trọng lễ nghi gia đình"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1776,6 +1935,13 @@
         "Tinh thần thượng võ",
         "Yêu rừng, bảo vệ rừng",
         "Năng khiếu nghệ thuật tạc tượng"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1847,6 +2013,13 @@
         "Sống đoàn kết",
         "Tôn trọng thần linh rừng núi",
         "Tính tự trị làng bản cao"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1910,6 +2083,13 @@
         "Dũng cảm, thẳng thắn",
         "Giỏi nghề dệt",
         "Gắn bó với núi rừng"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -1973,6 +2153,13 @@
         "Lạc quan",
         "Yêu âm nhạc múa hát",
         "Thích sống trên sườn núi cao"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2044,6 +2231,13 @@
         "Trung thành",
         "Giỏi trồng trọt (quế)",
         "Thích múa hát, gõ chiêng"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2115,6 +2309,13 @@
         "Kiên cường",
         "Thủy chung tình nghĩa",
         "Giỏi dệt thủ công"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2182,6 +2383,13 @@
         "Chân thực, mộc mạc",
         "Tình làng nghĩa xóm gắn bó",
         "Thích ca múa"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2257,6 +2465,13 @@
         "Giỏi bơi lội, vượt thác",
         "Thạo nghề đan lát",
         "Hòa hợp với sông nước"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2328,6 +2543,13 @@
         "Sống giản dị",
         "Chăm chỉ làm nương",
         "Nghề đan mây tre giang giỏi"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2395,6 +2617,13 @@
         "Cần cù, thích ứng tốt với khí hậu lạnh",
         "Đoàn kết",
         "Thân thiện"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2466,6 +2695,13 @@
         "Giỏi làm gốm thủ công",
         "Trọng nữ quyền",
         "Sống thanh bình"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2541,6 +2777,13 @@
         "Hiền hòa, vui vẻ",
         "Mến khách",
         "Thích múa hát, lễ hội"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2608,6 +2851,13 @@
         "Cần cù tằn tiện",
         "Tôn thờ tổ tiên",
         "Giữ gìn truyền thống chặt chẽ"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2675,6 +2925,13 @@
         "Bộc trực",
         "Dũng cảm săn bắn",
         "Thích ứng tốt với rừng rậm"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2742,6 +2999,13 @@
         "Cần cù, nhẫn nại",
         "Tín ngưỡng vạn vật hữu linh",
         "Gắn bó với núi rừng"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -2880,6 +3144,13 @@
         "Sạch sẽ, tươm tất",
         "Khéo tay hay làm",
         "Coi trọng nghề dệt"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -3014,6 +3285,13 @@
         "Rụt rè, nhút nhát",
         "Kỹ năng sinh tồn trong rừng cao",
         "Chất phác"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -3085,6 +3363,13 @@
         "Giàu bản sắc văn hóa",
         "Tự hào dân tộc",
         "Giỏi thêu thùa"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -3211,6 +3496,13 @@
         "Lạc quan",
         "Sống hòa thuận",
         "Thạo nghề sông nước và đan lát"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -3353,6 +3645,13 @@
         "Kiên cường chống chọi với tự nhiên",
         "Chăm chỉ",
         "Sống kín đáo"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -3416,6 +3715,13 @@
         "Giữ gìn truyền thống chặt chẽ",
         "Bảo vệ rừng",
         "Yêu hòa bình"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -3621,6 +3927,13 @@
         "Bảo tồn cộng đồng chặt chẽ",
         "Phóng khoáng",
         "Trọng lễ nghi tín ngưỡng"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -3688,6 +4001,13 @@
         "Tôn trọng luật tục làng",
         "Gắn bó với cồng chiêng",
         "Thật thà, dũng cảm"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     },
     {
@@ -3830,6 +4150,13 @@
         "Hiền lành",
         "Chăm chỉ",
         "Khéo tay trong dệt và đan lát"
+      ],
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
       ]
     }
   ],
