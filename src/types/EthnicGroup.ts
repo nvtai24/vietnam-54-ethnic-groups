@@ -17,6 +17,7 @@ export interface HistoryInfo {
 
 export interface EthnicGroup {
   id: string;
+  orderNo: number; // Số thứ tự sắp xếp
   name: string;
   otherNames?: string[]; // Tên gọi khác
   population: number;
