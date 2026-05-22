@@ -342,7 +342,7 @@ const HomePage = () => {
                   to={`/dan-toc/${group.id}`}
                   className="group bg-white text-[#15110f] shadow-[0_10px_26px_rgba(21,17,15,0.08)] transition hover:-translate-y-1 hover:shadow-[0_18px_34px_rgba(176,22,11,0.2)] focus:outline-none focus-visible:ring-4 focus-visible:ring-[#b0160b]/25"
                 >
-                  <div className="relative aspect-[3/4] overflow-hidden bg-[#15110f]">
+                  <div className="relative aspect-square overflow-hidden bg-[#15110f]">
                     <img
                       src={group.thumbnail}
                       alt={group.name}
@@ -350,14 +350,14 @@ const HomePage = () => {
                       onError={handleImageFallback}
                     />
                     <div className="absolute inset-0 bg-[linear-gradient(180deg,transparent_35%,rgba(21,17,15,0.72)_100%)]"></div>
-                    <div className="absolute bottom-0 left-0 right-0 p-4 text-[#f8f4ec]">
+                    {/* <div className="absolute bottom-0 left-0 right-0 p-4 text-[#f8f4ec]">
                       <h3 className="text-2xl font-black uppercase leading-none tracking-normal">
                         {group.name}
                       </h3>
                       <p className="mt-2 line-clamp-2 text-[0.68rem] font-bold uppercase leading-tight text-[#f8f4ec]/78">
                         {group.regions[0]}
                       </p>
-                    </div>
+                    </div> */}
                   </div>
                 </Link>
               ))}
