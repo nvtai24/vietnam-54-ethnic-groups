@@ -34,7 +34,7 @@ const homepageImages = {
 };
 
 const HomePage = () => {
-  const groups = ethnicGroupsData.groups as EthnicGroup[];
+  const groups = (ethnicGroupsData.groups as EthnicGroup[]).sort((a, b) => a.orderNo - b.orderNo);
   const carouselGroups = [...groups, ...groups];
   const fallbackImage = homepageImages.heroBackground;
 
