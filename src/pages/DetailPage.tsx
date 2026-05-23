@@ -1,4 +1,4 @@
-import { useMemo, useState, type SyntheticEvent } from "react";
+import { useMemo, useState, useEffect, type SyntheticEvent } from "react";
 import { Link, useParams } from "react-router-dom";
 import ethnicGroupsData from "../data/ethnicGroups.json";
 import type { EthnicGroupsData } from "../types/EthnicGroup";
@@ -15,6 +15,30 @@ const DetailPage = () => {
     image: string;
     section: string;
   } | null>(null);
+
+  const [activeMedia, setActiveMedia] = useState<{
+    type: "video" | "music";
+    title: string;
+    url: string;
+    description: string;
+  } | null>(null);
+
+  useEffect(() => {
+    setCurrentImageIndex(0);
+    setHoveredLifeImage(null);
+    if (group) {
+      const defaultVideo =
+        group.videos && group.videos.length > 0
+          ? group.videos[0]
+          : detailPage.mediaSection.defaultVideo;
+      setActiveMedia({
+        type: "video",
+        title: defaultVideo.title,
+        url: defaultVideo.url,
+        description: defaultVideo.description,
+      });
+    }
+  }, [id, group, detailPage]);
 
   const detailImages = useMemo(() => {
     if (!group) {
@@ -473,25 +497,126 @@ const DetailPage = () => {
             </p>
           </div>
 
-          <article className="mt-10 overflow-hidden border-2 border-[#15110f] bg-[#f8f4ec] text-[#15110f]">
-            <div className="relative aspect-video overflow-hidden bg-[#15110f]">
-              <iframe
-                src={videosToShow[0].url}
-                title={videosToShow[0].title}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-                className="absolute inset-0 h-full w-full"
-              ></iframe>
+          <div className="mt-10 grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(320px,0.6fr)]">
+            {/* Cột hiển thị media đang phát */}
+            {activeMedia && (
+              <article className="overflow-hidden border-2 border-[#15110f] bg-[#f8f4ec] text-[#15110f] shadow-[8px_8px_0px_rgba(21,17,15,1)]">
+                <div className="relative aspect-video overflow-hidden bg-[#15110f]">
+                  <iframe
+                    key={activeMedia.url}
+                    src={activeMedia.url}
+                    title={activeMedia.title}
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                    className="absolute inset-0 h-full w-full"
+                  ></iframe>
+                </div>
+                <div className="p-5 border-t-2 border-[#15110f]">
+                  <span className={`inline-block text-[0.62rem] font-black uppercase tracking-[0.12em] px-2 py-1 mb-2 border ${
+                    activeMedia.type === "video" 
+                      ? "border-[#b0160b] bg-[#b0160b] text-[#f8f4ec]" 
+                      : "border-[#15110f] bg-[#15110f] text-[#f8f4ec]"
+                  }`}>
+                    {activeMedia.type === "video" ? "Thước phim tư liệu" : "Âm nhạc truyền thống"}
+                  </span>
+                  <h3 className="text-xl font-black uppercase leading-tight tracking-[0.04em]">
+                    {activeMedia.title}
+                  </h3>
+                  <p className="mt-3 text-sm font-bold leading-6 text-[#15110f]/70">
+                    {activeMedia.description}
+                  </p>
+                </div>
+              </article>
+            )}
+
+            {/* Cột danh sách phát */}
+            <div className="flex flex-col gap-6">
+              {/* Danh sách Video */}
+              <div>
+                <h4 className="text-xs font-black uppercase tracking-[0.14em] text-[#b0160b] mb-3 flex items-center gap-2">
+                  <span className="inline-block w-2.5 h-2.5 rounded-full bg-[#b0160b]"></span>
+                  Thước phim tư liệu
+                </h4>
+                <div className="flex flex-col gap-2">
+                  {videosToShow.map((item, index) => {
+                    const isSelected = activeMedia?.type === "video" && activeMedia.url === item.url;
+                    return (
+                      <button
+                        key={`video-${index}`}
+                        onClick={() => setActiveMedia({
+                          type: "video",
+                          title: item.title,
+                          url: item.url,
+                          description: item.description
+                        })}
+                        className={`w-full text-left p-3 border-2 transition-all flex items-start gap-3 ${
+                          isSelected
+                            ? "bg-[#b0160b] text-[#f8f4ec] border-[#b0160b] translate-x-1"
+                            : "bg-[#f8f4ec] text-[#15110f] border-[#b0160b]/20 hover:border-[#b0160b] hover:bg-[#b0160b]/5"
+                        }`}
+                      >
+                        <svg className="w-5 h-5 shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                        <div>
+                          <p className="text-xs font-black uppercase leading-tight tracking-[0.02em] line-clamp-2">
+                            {item.title}
+                          </p>
+                          <p className={`text-[0.68rem] mt-1 font-bold line-clamp-1 ${isSelected ? "text-[#f8f4ec]/80" : "text-[#15110f]/60"}`}>
+                            {item.description}
+                          </p>
+                        </div>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+
+              {/* Danh sách Nhạc (chỉ hiển thị nếu dân tộc đó có dữ liệu music) */}
+              {group.music && group.music.length > 0 && (
+                <div>
+                  <h4 className="text-xs font-black uppercase tracking-[0.14em] text-[#b0160b] mb-3 flex items-center gap-2">
+                    <span className="inline-block w-2.5 h-2.5 rounded-full bg-[#b0160b]"></span>
+                    Âm nhạc truyền thống
+                  </h4>
+                  <div className="flex flex-col gap-2">
+                    {group.music.map((item, index) => {
+                      const isSelected = activeMedia?.type === "music" && activeMedia.url === item.url;
+                      return (
+                        <button
+                          key={`music-${index}`}
+                          onClick={() => setActiveMedia({
+                            type: "music",
+                            title: item.title,
+                            url: item.url,
+                            description: item.description
+                          })}
+                          className={`w-full text-left p-3 border-2 transition-all flex items-start gap-3 ${
+                            isSelected
+                              ? "bg-[#b0160b] text-[#f8f4ec] border-[#b0160b] translate-x-1"
+                              : "bg-[#f8f4ec] text-[#15110f] border-[#b0160b]/20 hover:border-[#b0160b] hover:bg-[#b0160b]/5"
+                          }`}
+                        >
+                          <svg className="w-5 h-5 shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3" />
+                          </svg>
+                          <div>
+                            <p className="text-xs font-black uppercase leading-tight tracking-[0.02em] line-clamp-2">
+                              {item.title}
+                            </p>
+                            <p className={`text-[0.68rem] mt-1 font-bold line-clamp-1 ${isSelected ? "text-[#f8f4ec]/80" : "text-[#15110f]/60"}`}>
+                              {item.description}
+                            </p>
+                          </div>
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
             </div>
-            <div className="p-5">
-              <h3 className="text-xl font-black uppercase leading-tight tracking-[0.04em]">
-                {videosToShow[0].title}
-              </h3>
-              <p className="mt-3 text-sm font-bold leading-6 text-[#15110f]/70">
-                {videosToShow[0].description}
-              </p>
-            </div>
-          </article>
+          </div>
         </div>
       </section>
 
