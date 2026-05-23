@@ -17,6 +17,7 @@ export interface HistoryInfo {
 
 export interface EthnicGroup {
   id: string;
+  orderNo: number; // Số thứ tự sắp xếp
   name: string;
   otherNames?: string[]; // Tên gọi khác
   population: number;
@@ -42,7 +43,8 @@ export interface EthnicGroup {
   
   // Media
   music?: MediaItem[];
-  videoUrl?: string; // YouTube embed URL
+  
+  videos?: MediaItem[]; // YouTube embed URL
   
   // Đặc điểm nhận dạng
   characteristics: string[];
@@ -96,7 +98,7 @@ export interface DetailPageCopy {
     eyebrow: string;
     title: string;
     description: string;
-    defaultVideoUrl: string;
+    defaultVideo: MediaItem;
   };
   actions: {
     backHome: string;

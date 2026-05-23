@@ -26,7 +26,9 @@ const heroYoutubeEmbedUrl =
 
 const homepageImages = {
   heroBackground:
-    "https://bcp.cdnchinhphu.vn/334894974524682240/2023/10/10/cacdantoc-16969037990481671125584.jpg",
+    // "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/486972708_957258559896882_1352296246954997528_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeHuDyembE6FaTbnum64nLg-HSIB7f7DIFkdIgHt_sMgWQXuMgHipjPOZDZVPyC2e7l8qvaWtm9Hoork-E3ay7Gk&_nc_ohc=ZUgr_qMnh6YQ7kNvwHdymmh&_nc_oc=AdpVkJfzSDrxX80RtPDqHiU9VMtijoGIm7NKV62NiSOlx5smmCOnQict3GiknTAqllE&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&_nc_gid=ufSiFwqwGEZucS4Ep_-wPQ&_nc_ss=7a2a8&oh=00_Af53BZTp1bMMt8w-m5mutNKkSQ2NTqtUZGBXcNPambvHeA&oe=6A170E79",
+    // "/Gemini_Generated_Image_u3xtl0u3xtl0u3xt.png",
+    "/ChatGPT Image May 23, 2026, 11_10_55 AM.png",
   videoFallback:
     "https://www.kidsup.net/wp-content/uploads/2025/09/cac-dan-toc-tren-dat-nuoc-viet-nam.jpg",
   groupsBackground:
@@ -34,7 +36,7 @@ const homepageImages = {
 };
 
 const HomePage = () => {
-  const groups = ethnicGroupsData.groups as EthnicGroup[];
+  const groups = (ethnicGroupsData.groups as EthnicGroup[]).sort((a, b) => a.orderNo - b.orderNo);
   const carouselGroups = [...groups, ...groups];
   const fallbackImage = homepageImages.heroBackground;
 
@@ -136,12 +138,12 @@ const HomePage = () => {
               </h1>
 
               <div className="mt-8 grid gap-5 border-l-4 border-[#b0160b] pl-5 md:grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)] md:items-end">
-                <p className="text-sm font-black uppercase leading-[0.95] text-[#15110f] sm:text-base">
+                <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base">
                   Một bản đồ văn hóa sống động của các cộng đồng trên dải đất
                   hình chữ S.
                 </p>
                 <div className="md:text-right">
-                  <p className="text-sm font-black uppercase leading-[0.95] text-[#15110f] sm:text-base">
+                  <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base">
                     Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng
                     dân tộc.
                   </p>
@@ -342,7 +344,7 @@ const HomePage = () => {
                   to={`/dan-toc/${group.id}`}
                   className="group bg-white text-[#15110f] shadow-[0_10px_26px_rgba(21,17,15,0.08)] transition hover:-translate-y-1 hover:shadow-[0_18px_34px_rgba(176,22,11,0.2)] focus:outline-none focus-visible:ring-4 focus-visible:ring-[#b0160b]/25"
                 >
-                  <div className="relative aspect-[3/4] overflow-hidden bg-[#15110f]">
+                  <div className="relative aspect-square overflow-hidden bg-[#15110f]">
                     <img
                       src={group.thumbnail}
                       alt={group.name}
@@ -350,14 +352,14 @@ const HomePage = () => {
                       onError={handleImageFallback}
                     />
                     <div className="absolute inset-0 bg-[linear-gradient(180deg,transparent_35%,rgba(21,17,15,0.72)_100%)]"></div>
-                    <div className="absolute bottom-0 left-0 right-0 p-4 text-[#f8f4ec]">
+                    {/* <div className="absolute bottom-0 left-0 right-0 p-4 text-[#f8f4ec]">
                       <h3 className="text-2xl font-black uppercase leading-none tracking-normal">
                         {group.name}
                       </h3>
                       <p className="mt-2 line-clamp-2 text-[0.68rem] font-bold uppercase leading-tight text-[#f8f4ec]/78">
                         {group.regions[0]}
                       </p>
-                    </div>
+                    </div> */}
                   </div>
                 </Link>
               ))}

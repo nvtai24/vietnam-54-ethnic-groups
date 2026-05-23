@@ -2,6 +2,7 @@
   "groups": [
     {
       "id": "kinh",
+      "orderNo": 1,
       "name": "Kinh",
       "otherNames": [
         "Việt"
@@ -11,7 +12,7 @@
         "Toàn quốc, tập trung đông ở vùng đồng bằng, ven biển và các đô thị"
       ],
       "language": "Tiếng Việt",
-      "thumbnail": "https://media.baoquangninh.vn/upload/image/202502/medium/2310385_1thieu_nu_kinh_trong_trang_phuc_ao_dai_18150305.jpg",
+      "thumbnail": "https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/540417361_1073549098267827_7697229140014734706_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeH3MNrYnlbJGw2vQGJLs2ZP21iPbZj8GNHbWI9tmPwY0ab9Gah8BKlHQv_ZceDtaJC2hqaeevfxFrlOyyItknvv&_nc_ohc=ItNFclJl6LsQ7kNvwFKxgGS&_nc_oc=Adq0Qwqena7b4PHQXV2nk9-oD2Jl5eIUF--VEXKjT3Wj7TniEZZcSFQYnyomlglI9mc&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=tcs5yN8PmNIaDAep7qm07w&_nc_ss=7a2a8&oh=00_Af4qBaXsSV4_hVcyOILAKN7YBuN0zUyaLxpddBA0FWtclg&oe=6A15CBCC",
       "images": [
         "https://nghiencuulichsu.com/wp-content/uploads/2013/05/nguoi-kinh-o-trung-quoc.jpg",
         "https://www.kidsup.net/wp-content/uploads/2025/09/cac-dan-toc-tren-dat-nuoc-viet-nam.jpg",
@@ -91,10 +92,34 @@
         "Hiếu học",
         "Yêu nước"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống người Kinh",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu về văn hóa, phong tục tập quán của người Kinh"
+        },
+        {
+          "title": "Lễ hội Tết Nguyên Đán",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá lễ hội Tết truyền thống của người Việt"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca Quan họ Bắc Ninh - Bèo dạt mây trôi",
+          "url": "https://www.youtube.com/embed/S2H_kR7G0kM",
+          "description": "Bèo dạt mây trôi là một bài dân ca Quan họ Bắc Ninh thể hiện tình cảm chân thành, sâu lắng của người dân Việt."
+        },
+        {
+          "title": "Đờn ca tài tử Nam Bộ",
+          "url": "https://www.youtube.com/embed/S3_Jq0W6mxs",
+          "description": "Nghệ thuật đờn ca tài tử đặc trưng của vùng sông nước Nam Bộ, di sản văn hóa phi vật thể của nhân loại."
+        }
+      ]
     },
     {
       "id": "tay",
+      "orderNo": 2,
       "name": "Tày",
       "otherNames": [
         "Thổ",
@@ -113,7 +138,7 @@
         "Lào Cai"
       ],
       "language": "Tiếng Tày (ngữ hệ Tày-Thái)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/536270962_1073551101600960_5559361163122572502_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=M787kJTxqKkQ7kNvwFAdrvF&_nc_oc=AdrUKO2H5K4A9hb1MXJzwnlPVEPndo6p5p-eJmepSJXGhFaJP2-rCDINeo95jxhx4Aw&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=iN1BhHLnNnSvzFo_pRkYSQ&_nc_ss=7b2a8&oh=00_Af4n1im-P_tj-2Vw9NGUpP6frX1Q7rM88KfG9XstCCsXBQ&oe=6A15F436",
       "images": [],
       "description": "Người Tày là dân tộc thiểu số đông nhất Việt Nam, cư trú chủ yếu ở vùng thung lũng, ven suối các tỉnh miền núi phía Bắc.",
       "history": {
@@ -172,10 +197,29 @@
         "Giỏi canh tác lúa nước",
         "Văn hóa dân ca phong phú"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hát Then Đàn Tính truyền thống",
+          "url": "https://www.youtube.com/embed/Rk4y637X5Qc",
+          "description": "Hát Then cổ truyền kết hợp với Đàn Tính, nhạc cụ độc đáo của người Tày."
+        },
+        {
+          "title": "Hòa tấu Đàn Tính - Âm vang núi rừng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Âm thanh thanh tao của Đàn Tính thể hiện vẻ đẹp thiên nhiên vùng cao sơn cước."
+        }
+      ]
     },
     {
       "id": "thai",
+      "orderNo": 3,
       "name": "Thái",
       "otherNames": [
         "Táy",
@@ -192,7 +236,7 @@
         "Nghệ An"
       ],
       "language": "Tiếng Thái (ngữ hệ Tày-Thái)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540613496_1073551044934299_6887533771478842802_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=u2oG1AKMbu4Q7kNvwGq02Ur&_nc_oc=AdqoNDO0q4zTPFy0tr6LjF962UjbfA-uC8od5snpyMSIWJfMPy8WqfEZk6O5o_7gDO0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=B8kLwuW1TgflsFqZxRArJA&_nc_ss=7b2a8&oh=00_Af6pqoIWSJHPR1WouglxRlPY_DMBFK0hrtO5MxyCIo3J3Q&oe=6A15EE0D",
       "images": [],
       "description": "Người Thái nổi tiếng với nghệ thuật dệt thổ cẩm, kiến trúc nhà sàn và điệu múa xòe truyền thống.",
       "history": {
@@ -255,10 +299,29 @@
         "Giỏi dệt thổ cẩm",
         "Yêu ca múa"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca Thái - Inh lả ơi",
+          "url": "https://www.youtube.com/embed/mGjT4B37D28",
+          "description": "Bài dân ca Tây Bắc quen thuộc thể hiện lòng hiếu khách và nét đẹp văn hóa người Thái."
+        },
+        {
+          "title": "Khắp Thái cổ truyền",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Điệu hát đối đáp trữ tình sâu lắng trong các dịp lễ hội của dân tộc Thái."
+        }
+      ]
     },
     {
       "id": "muong",
+      "orderNo": 4,
       "name": "Mường",
       "otherNames": [
         "Mol",
@@ -274,7 +337,7 @@
         "Hà Nội (Ba Vì)"
       ],
       "language": "Tiếng Mường (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/542756321_1073550531601017_5670771808055452094_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=_kW0hry5SgwQ7kNvwEiVC61&_nc_oc=AdreDlSeUi88owyS6_th_pwz6AOti1bBJGW7vmFfFoEj5vAYrvferEmd4iSj9-WOZZ4&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=TEcWR3Lb7FbM_1hnxeBX9w&_nc_ss=7b2a8&oh=00_Af7cy2roXMbHOM7B9MWJB1hIz1UvSpO2OMT_03KaS3GsvA&oe=6A15FE49",
       "images": [],
       "description": "Người Mường có cùng nguồn gốc với người Kinh, nhưng sinh sống ở miền núi nên giữ được nhiều nét văn hóa cổ xưa hơn.",
       "history": {
@@ -337,10 +400,29 @@
         "Tôn trọng thứ bậc gia đình",
         "Giàu truyền thống văn nghệ dân gian"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Mường",
+          "url": "https://www.youtube.com/embed/iA1xWl4z6kU",
+          "description": "Cồng chiêng là nhạc cụ linh thiêng, biểu tượng văn hóa lâu đời của người Mường."
+        },
+        {
+          "title": "Hát Đang Mường",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Thể loại dân ca nghi lễ, giao duyên độc đáo của người Mường."
+        }
+      ]
     },
     {
       "id": "khmer",
+      "orderNo": 6,
       "name": "Khmer",
       "otherNames": [
         "Khmer Nam Bộ",
@@ -356,7 +438,7 @@
         "Cà Mau"
       ],
       "language": "Tiếng Khmer (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540990630_1073550914934312_7646554292734668563_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=m6A9_IW5PfEQ7kNvwHhZf7y&_nc_oc=AdrJKIlsuEzvJvImfMGismElXCxJO1HmRdDT9Vo-tw-ZSx87FBVMMU_JthnGgwm78ig&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=Y1zc2pEwPNmsr_elksPpxw&_nc_ss=7b2a8&oh=00_Af45cDErtjLLSLKlbodKD5FSGN1xQw38UANoaauuCU7ZEQ&oe=6A15FDE4",
       "images": [],
       "description": "Người Khmer Nam Bộ có nền văn hóa gắn liền với Phật giáo Nam tông, thể hiện rõ qua hệ thống chùa chiền độc đáo.",
       "history": {
@@ -423,10 +505,29 @@
         "Hiền lành, cởi mở",
         "Có năng khiếu nghệ thuật, điêu khắc"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dàn nhạc Ngũ âm (Pinpeat) cổ truyền",
+          "url": "https://www.youtube.com/embed/N-0_U4eJ1G4",
+          "description": "Dàn nhạc ngũ âm đặc trưng biểu diễn trong các dịp đại lễ tại chùa Khmer."
+        },
+        {
+          "title": "Nhạc múa Lâm Thôn (Romvong)",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Điệu múa vòng tròn truyền thống vui tươi, gắn kết cộng đồng người Khmer."
+        }
+      ]
     },
     {
       "id": "hoa",
+      "orderNo": 9,
       "name": "Hoa",
       "otherNames": [
         "Hán",
@@ -444,7 +545,7 @@
         "Bình Dương"
       ],
       "language": "Tiếng Hán (các phương ngữ: Quảng Đông, Phúc Kiến, Triều Châu...)",
-      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541990081_1073550948267642_8635293302090286179_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=tUn3zjGR5wAQ7kNvwGXTKZL&_nc_oc=AdrxHIpQQLRAm4Ammx4CYjCjHRQrf1RWgRYqnzlLH5nlXg4mrmTrDy3aM0SS3vCgXls&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=V67I_ou18dpgPj5QdkMFlQ&_nc_ss=7b2a8&oh=00_Af6B3brCU7J61EtaEMw7bz-z3BhUb9GPtK2fUAFV5vIuzg&oe=6A15F75D",
       "images": [],
       "description": "Người Hoa tại Việt Nam chủ yếu sống ở các đô thị lớn, có truyền thống kinh doanh thương mại và tiểu thủ công nghiệp.",
       "history": {
@@ -519,10 +620,29 @@
         "Đề cao tính gia tộc, hội đồng hương",
         "Trọng chữ tín"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Đàn Tranh và Đàn Nhị",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Sự kết hợp tinh tế giữa âm thanh réo rắt của Đàn Tranh và âm điệu trầm bổng của Đàn Nhị."
+        },
+        {
+          "title": "Nhạc múa Lân Sư Rồng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Nhạc cụ gõ sôi động biểu diễn trong các dịp Tết và lễ hội truyền thống người Hoa."
+        }
+      ]
     },
     {
       "id": "nung",
+      "orderNo": 7,
       "name": "Nùng",
       "otherNames": [
         "Nùng Xuồng",
@@ -540,7 +660,7 @@
         "Đắk Lắk"
       ],
       "language": "Tiếng Nùng (ngữ hệ Tày-Thái)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540329648_1073551131600957_182783554328537053_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=WYHPd5hnGAIQ7kNvwEbCZec&_nc_oc=AdovYBvt90XauEO-kYkojPRO71Si6gnTJqc3oGaS15G8wxjfQU_JI7q1733lAbO1CGo&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=6zrjUf-aZA7Jwc3Dt9QxXA&_nc_ss=7b2a8&oh=00_Af4GLN_wavPC02PDVxp61nB3iF5FsHWF9TW4kaW8Xu0GKQ&oe=6A15F6F3",
       "images": [],
       "description": "Người Nùng có mối quan hệ gần gũi với người Tày, giỏi nghề mộc, đan lát và rèn nông cụ.",
       "history": {
@@ -599,10 +719,24 @@
         "Chăm chỉ",
         "Có tinh thần thượng võ"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hát Sli truyền thống của người Nùng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Làn điệu dân ca đối đáp không nhạc đệm, thể hiện tâm tình mộc mạc."
+        }
+      ]
     },
     {
       "id": "hmong",
+      "orderNo": 5,
       "name": "H'Mông",
       "otherNames": [
         "Mông",
@@ -621,7 +755,7 @@
         "Đắk Lắk"
       ],
       "language": "Tiếng H'Mông (ngữ hệ H'Mông - Dao)",
-      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/543060510_1073550114934392_4949719968174761156_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=uW1Y2f-K-eAQ7kNvwHQahBu&_nc_oc=Adrv8saO0x9yEFi5YR95RrSn4zizaWFR6yVf-nXJQFwRFiTJd4J8UC-Yrm_EPlIRTcQ&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=OAWx-r_m10qQIOZJ5DS3Hg&_nc_ss=7b2a8&oh=00_Af5vfv84-v3mKbTItehViuXUdEJIJJ4qqgo0Skux0ofXDQ&oe=6A15F09B",
       "images": [],
       "description": "Người H'Mông nổi tiếng với trang phục sặc sỡ, ruộng bậc thang kỳ vĩ và kỹ năng thổi khèn điêu luyện.",
       "history": {
@@ -684,10 +818,29 @@
         "Chịu đựng gian khổ tốt",
         "Giữ gìn bản sắc văn hóa rất mạnh"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Độc tấu Khèn Mông gọi bạn",
+          "url": "https://www.youtube.com/embed/Vptc24-J3B8",
+          "description": "Tiếng khèn là linh hồn văn hóa H'Mông, dùng để tỏ tình và giao lưu bè bạn."
+        },
+        {
+          "title": "Độc tấu Sáo Mông truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Âm thanh sáo Mông da diết, vang vọng khắp núi rừng Tây Bắc."
+        }
+      ]
     },
     {
       "id": "dao",
+      "orderNo": 8,
       "name": "Dao",
       "otherNames": [
         "Mán",
@@ -706,7 +859,7 @@
         "Lai Châu"
       ],
       "language": "Tiếng Dao (ngữ hệ H'Mông - Dao)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/541639339_1073550224934381_377953197478521140_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=U03D99sDaJ8Q7kNvwG-FRXW&_nc_oc=AdqRN5JNQjjlKg4cklX6LWwErtf2LQHTs4e3c9gJJihl3vSF5z4lm34o6HsNJf9DOSE&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=sk_g3RXLfKFCxiAPw_UOOA&_nc_ss=7b2a8&oh=00_Af5Fw05J73fY0gmDDd-5SI0BhP-yzTBJvU7Ef-0p-6EI-A&oe=6A15F4F8",
       "images": [],
       "description": "Người Dao có nhiều nhóm địa phương (Dao Đỏ, Dao Tiền, Dao Quần Chẹt...) với trang phục và phong tục đa dạng. Nổi tiếng với các bài thuốc Nam bí truyền.",
       "history": {
@@ -765,10 +918,24 @@
         "Kín đáo, trầm tĩnh",
         "Trọng nghi lễ và tôn giáo"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hát Páo dung của người Dao",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Làn điệu dân ca sinh hoạt, giao duyên có ý nghĩa to lớn trong đời sống tinh thần người Dao."
+        }
+      ]
     },
     {
       "id": "giarai",
+      "orderNo": 10,
       "name": "Gia Rai",
       "otherNames": [
         "Jarai",
@@ -782,7 +949,7 @@
         "Đắk Lắk"
       ],
       "language": "Tiếng Gia Rai (ngữ hệ Nam Đảo)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/540491047_1073550861600984_286595324562604687_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=p2v7zfi2KC8Q7kNvwFFnYdU&_nc_oc=AdoSNF-5Mp2PQCObGr5OYpd8PLarYQtJz7Rzwx16A_PojfcYX0TEmMBsFpakQqNJ-7o&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=rNfO4SjE1JbCcqCgSTHhAg&_nc_ss=7b2a8&oh=00_Af52Ufha2nF7egGmpSov8WND7vWvedvJnddie_9bkCBU5g&oe=6A161A56",
       "images": [],
       "description": "Là dân tộc bản địa có dân số đông nhất Tây Nguyên, nổi tiếng với nhà rông cao vút và nhà mồ với các bức tượng sinh động.",
       "history": {
@@ -845,10 +1012,29 @@
         "Tinh thần cộng đồng cao",
         "Giàu tính nghệ thuật (điêu khắc gỗ)"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
+          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
+          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Gia Rai, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Độc tấu Đàn T'rưng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Gia Rai."
+        }
+      ]
     },
     {
       "id": "ede",
+      "orderNo": 11,
       "name": "Ê Đê",
       "otherNames": [
         "Rhade",
@@ -863,7 +1049,7 @@
         "Khánh Hòa"
       ],
       "language": "Tiếng Ê Đê (ngữ hệ Nam Đảo)",
-      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541109081_1073550961600974_1988735277485627441_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=XFDkaq-nHX0Q7kNvwHvUMPW&_nc_oc=AdqLOMnzwPkPgbEdBgaweCHeKQLZaKB9HVjLw_H-BunGjgiIXAs7CuZQyv_HcJTLjG4&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=OAQXW-MwPZG09-MSzEdS6w&_nc_ss=7b2a8&oh=00_Af5rNKBatMTOzy-QGr-AA8ISkG3Htt3QKkrxdD-lfNNtXw&oe=6A16036B",
       "images": [],
       "description": "Người Ê Đê nổi bật với kiến trúc nhà dài hình con thuyền, sử thi Đam San và chế độ mẫu hệ sâu sắc.",
       "history": {
@@ -926,10 +1112,29 @@
         "Trọng mẫu hệ",
         "Đam mê âm nhạc cồng chiêng"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
+          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
+          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Ê Đê, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Độc tấu Đàn T'rưng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Ê Đê."
+        }
+      ]
     },
     {
       "id": "bana",
+      "orderNo": 12,
       "name": "Ba Na",
       "otherNames": [
         "Bahnar",
@@ -945,7 +1150,7 @@
         "Phú Yên"
       ],
       "language": "Tiếng Ba Na (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/541780819_1073550844934319_3080239885151947354_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=p50JTcQLtxgQ7kNvwFkuf9e&_nc_oc=Adq3WH8lH-giOCrMqtSTin5Djz3hB1q9VwlS4Ry6-Dmok0eaEpnmQYMjLj8SrUZdkA0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=eK6pvfOZxj96xy_QGohdGA&_nc_ss=7b2a8&oh=00_Af596PmRBIWo8z2pPpC5D2vpqv1NG--Q4KgRwOF3DX7znw&oe=6A15E995",
       "images": [],
       "description": "Người Ba Na là cư dân bản địa lâu đời ở Tây Nguyên, nổi tiếng với sử thi (H'mon) và kiến trúc nhà Rông.",
       "history": {
@@ -1012,10 +1217,29 @@
         "Yêu tự do",
         "Giỏi đan lát và tạc tượng"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
+          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
+          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Ba Na, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Độc tấu Đàn T'rưng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Ba Na."
+        }
+      ]
     },
     {
       "id": "xodang",
+      "orderNo": 13,
       "name": "Xơ Đăng",
       "otherNames": [
         "Sedang",
@@ -1030,7 +1254,7 @@
         "Quảng Ngãi"
       ],
       "language": "Tiếng Xơ Đăng (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/536270130_1073550251601045_3643254525470973074_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6TysHoik1ugQ7kNvwHO0jDC&_nc_oc=Adp_a6pAmwytMQKbQ4YNFWeAGRLeXYVVd4FgZLO8LtOk0OpaZmknP7SHNZg3DuJkss8&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=-JHusk1kAK9v-53abTApyQ&_nc_ss=7b2a8&oh=00_Af445QfG2gNmRQ2HYC6tWO5dzJIYN2ThE4m0-BN6jV8QgQ&oe=6A160962",
       "images": [],
       "description": "Cư trú chủ yếu ở Bắc Tây Nguyên, giỏi canh tác lúa nước trên ruộng bậc thang và rèn nông cụ.",
       "history": {
@@ -1097,10 +1321,29 @@
         "Có tinh thần tự lập cao",
         "Giỏi săn bắn, rèn sắt"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
+          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
+          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Xơ Đăng, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Độc tấu Đàn T'rưng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Xơ Đăng."
+        }
+      ]
     },
     {
       "id": "sanchay",
+      "orderNo": 14,
       "name": "Sán Chay",
       "otherNames": [
         "Cao Lan",
@@ -1115,7 +1358,7 @@
         "Quảng Ninh"
       ],
       "language": "Tiếng Sán Chay (nhóm ngôn ngữ Tày-Thái đối với Cao Lan, Hán đối với Sán Chỉ)",
-      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540517962_1073550981600972_7958988566784448877_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=kTQ48Xsg2m4Q7kNvwE4pGER&_nc_oc=AdqhC2Kg_kwNiSkncsdtITm95pJ-lyUJA0Np8_pLirLnwmJ9Wv1i4e1kSFQ3ygISkRg&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=vR1HXPK_9d-eg52WddvQuA&_nc_ss=7b2a8&oh=00_Af6WVH-cLYfik5pcfO4MUEGmCSFQ7VcRd4L5XVzvpZLfOQ&oe=6A15ED7C",
       "images": [],
       "description": "Người Sán Chay gồm hai nhóm Cao Lan và Sán Chỉ, giỏi làm ruộng nước và có kho tàng dân ca phong phú.",
       "history": {
@@ -1178,10 +1421,29 @@
         "Thích ca hát",
         "Tôn trọng người già"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Sán Chay",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Sán Chay."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Sán Chay",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Sán Chay."
+        }
+      ]
     },
     {
       "id": "coho",
+      "orderNo": 15,
       "name": "Cơ Ho",
       "otherNames": [
         "K'ho",
@@ -1197,7 +1459,7 @@
         "Đồng Nai"
       ],
       "language": "Tiếng Cơ Ho (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540682507_1073551061600964_8791821676399137466_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=LMUMalU2-DQQ7kNvwExdUxK&_nc_oc=Adot8_fMUpvAsnCGtGMwcxWGXhTSK7hHlJAIDoS_42ravO62ysjDplAL6jZBCyeRg_8&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=ZFOng4Uk0wD1wzPkC7A4sw&_nc_ss=7b2a8&oh=00_Af4NN8A48dgJ2tXbvR_9LupViX-QvlF7EGsb6i-P8jTxbQ&oe=6A15FF42",
       "images": [],
       "description": "Cơ Ho là dân tộc bản địa đông nhất ở Lâm Đồng, có văn hóa cồng chiêng đặc sắc gắn liền với các buôn làng Tây Nguyên.",
       "history": {
@@ -1252,10 +1514,29 @@
         "Hòa hợp với thiên nhiên",
         "Tôn trọng chế độ mẫu hệ"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
+          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
+          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Cơ Ho, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Độc tấu Đàn T'rưng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Cơ Ho."
+        }
+      ]
     },
     {
       "id": "cham",
+      "orderNo": 17,
       "name": "Chăm",
       "otherNames": [
         "Chàm",
@@ -1272,7 +1553,7 @@
         "Phú Yên"
       ],
       "language": "Tiếng Chăm (ngữ hệ Nam Đảo)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540993578_1073550898267647_8207193951597354113_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=him9eSMvp4oQ7kNvwEtgW1P&_nc_oc=AdqXs6lc5DfUhC9Qxtq5bQvQwaRXzEonPc7ydQCCaq8cmWKlehIN0x7KRVplY7ricPA&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=FisoNll3BU54JtfQPdg9lA&_nc_ss=7b2a8&oh=00_Af6DRaEpzJOdfDHpkHQBqgd--HeIFJtVcrys4xBGWRcM3w&oe=6A15F743",
       "images": [],
       "description": "Người Chăm là hậu duệ của vương quốc Chăm Pa cổ, sở hữu nền văn hóa đa dạng, rực rỡ với các tháp Chăm cổ kính và nghệ thuật làm gốm Bàu Trúc.",
       "history": {
@@ -1331,10 +1612,29 @@
         "Giỏi dệt vải, làm gốm",
         "Trọng mẫu hệ"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Nhạc lễ hội Katê Chăm",
+          "url": "https://www.youtube.com/embed/uW24N5340yA",
+          "description": "Âm nhạc rộn rã đón chào năm mới của đồng bào Chăm tại tháp cổ linh thiêng."
+        },
+        {
+          "title": "Hòa tấu Trống Paranưng và Kèn Saranai",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Sự hòa quyện nhịp nhàng giữa trống vỗ Paranưng và tiếng kèn Saranai réo rắt."
+        }
+      ]
     },
     {
       "id": "sandiu",
+      "orderNo": 16,
       "name": "Sán Dìu",
       "otherNames": [
         "Sán Déo",
@@ -1350,7 +1650,7 @@
         "Tuyên Quang"
       ],
       "language": "Tiếng Sán Dìu (nhóm ngôn ngữ Hán)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540706583_1073550954934308_7816985635335182291_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=96BQBwO_xTQQ7kNvwEk8j0u&_nc_oc=AdpvdD7pAxTdWPvIhOmlQlw8bG_AEV-9EVNxCJiveofd8ErECNo0IDxhaYZ3yoHc7jo&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=yDWZ4q-BrX7C5s2xW9JkKg&_nc_ss=7b2a8&oh=00_Af6hCCCrzWAJQQF72C8H4Y4p1HZ1QUuWCXRp-J5hWIOodg&oe=6A16088B",
       "images": [],
       "description": "Người Sán Dìu cư trú chủ yếu ở trung du miền núi phía Bắc, có kinh nghiệm trồng trọt, chăn nuôi lâu đời.",
       "history": {
@@ -1413,10 +1713,29 @@
         "Giỏi nghề mộc, rèn",
         "Coi trọng gia phả"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Sán Dìu",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Sán Dìu."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Sán Dìu",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Sán Dìu."
+        }
+      ]
     },
     {
       "id": "hre",
+      "orderNo": 18,
       "name": "Hrê",
       "otherNames": [
         "Mọi đá vách",
@@ -1429,7 +1748,7 @@
         "Bình Định"
       ],
       "language": "Tiếng Hrê (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540791414_1073551094934294_2827142796751510530_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=7h5ijbBZCYkQ7kNvwEcB7Sx&_nc_oc=AdpvysLcwYXfZK-r7Uh5YickNJJr1nNQg182VN0iz9TVp2YC73ayPlI1D2LXYgPpsr4&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=VuiK_XNlI6XvkTfIcqDFag&_nc_ss=7b2a8&oh=00_Af7ogHGgf1OhInlHmokIHf7caPI0NMF4vvcl1-ZcKOdEog&oe=6A160AD2",
       "images": [],
       "description": "Người Hrê sinh sống dọc sườn Đông Trường Sơn, giỏi làm ruộng nước và dệt thổ cẩm.",
       "history": {
@@ -1492,16 +1811,35 @@
         "Giỏi canh tác thủy lợi",
         "Yêu âm nhạc cồng chiêng"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Hrê",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Hrê."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Hrê",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Hrê."
+        }
+      ]
     },
     {
       "id": "mnong",
+      "orderNo": 20,
       "name": "Mnông",
       "otherNames": [
         "Pnông",
         "Nông",
-        "Mnông Pré",
-        "ĐiPri"
+        "Preh",
+        "Bu Đâng"
       ],
       "population": 127334,
       "regions": [
@@ -1511,14 +1849,14 @@
         "Bình Phước"
       ],
       "language": "Tiếng Mnông (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541117099_1073551051600965_3006572068000475070_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Uag73ib67loQ7kNvwFmAFC9&_nc_oc=AdqtnqTstsbCaSbvv79R8O3Hoy8USZZlCX3wSZsRG319ZryKCJ84lEsGLruE9uBntoA&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=J7l8s4qbdVDB_KUZ89Wnmg&_nc_ss=7b2a8&oh=00_Af4EAVp1YOHpR_ycNTHoaIuhVNgwLF9F4PiXsEvrS1fRNw&oe=6A15E8CB",
       "images": [],
       "description": "Người Mnông nổi tiếng với nghề thuần dưỡng voi rừng và truyền thuyết về các dũng sĩ, các sử thi Ót N'rông.",
       "history": {
         "description": "Cư dân bản địa định cư lâu đời trên vùng cao nguyên M'Nông.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+          "https://media.thanhtra.com.vn/public/data/images/0/2021/11/06/huytuong/4.jpg?w=1600",
+          "https://cdnphoto.dantri.com.vn/NCdsK_4KC-Dtj04eciWm3zJeMoM=/thumb_w/990/2021/09/01/01092021nguoi-mang-tran-tro-de-buon-lang-cach-mang-thoat-ngheoduong-phongdocx-1630475863914.jpeg"
         ]
       },
       "culture": {
@@ -1551,7 +1889,7 @@
           }
         ],
         "clothing": "Nam đóng khố, nữ quấn váy vắt chéo qua vai. Vải chàm đen điểm hoa văn đỏ rực.",
-        "clothingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+        "clothingImage": "https://imagevietnam.vnanet.vn//MediaUpload/Org/2022/08/26/1726-10-41-14.jpg",
         "cuisine": [
           {
             "name": "Canh thụt",
@@ -1567,17 +1905,36 @@
           }
         ],
         "housing": "Nhà trệt hoặc nhà sàn thấp, vách trát bùn nhào rơm hoặc đan phên tre.",
-        "housingImage": "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        "housingImage": "https://vov4.vov.vn/sites/default/files/styles/large_watermark/public/2023-06/z4405576565569_81561a7d40c6e3604f294a520f272995.jpg"
       },
       "characteristics": [
         "Can đảm, phóng khoáng",
         "Tôn trọng thiên nhiên",
         "Yêu động vật (voi)"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/DsJ2yxvaPKM",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
+          "url": "https://www.youtube.com/embed/lEVaEt-lfeY",
+          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Mnông, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Độc tấu Đàn T'rưng",
+          "url": "https://www.youtube.com/embed/fRMGQ9q-Wsk",
+          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Mnông."
+        }
+      ]
     },
     {
       "id": "raglai",
+      "orderNo": 19,
       "name": "Ra Glai",
       "otherNames": [
         "Raglai",
@@ -1592,21 +1949,22 @@
         "Lâm Đồng"
       ],
       "language": "Tiếng Ra Glai (ngữ hệ Nam Đảo)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/541788402_1073550924934311_159609343159412049_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=zuJ-DUOtcW0Q7kNvwGhkweu&_nc_oc=Adqlx4y0XNe1odKqLc4KYggCnivLnHpjd3rT_aIpwW4rddx8vLhMOgz7RKyijauwgk0&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=n23yIt5Kz0GSqVvj73IgKA&_nc_ss=7b2a8&oh=00_Af6fvRz7VR-31uWvjTRw-eAsTU16oL_D_JcpI-CL6WPgAA&oe=6A160FA1",
       "images": [],
       "description": "Người Ra Glai có mối quan hệ gần gũi với người Chăm, chế độ mẫu hệ và cây đàn Chapi nổi tiếng.",
       "history": {
         "description": "Ra Glai có nghĩa là 'người rừng', là nhóm cư dân bản địa lâu đời ở vùng nam Trung Bộ.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+          "https://360nomad.org/wp-content/uploads/2021/06/Ra-Glai-ethnic-group-Vietnam-Alden-Anderson.jpg",
+          "https://ati.net.vn/wp-content/uploads/2023/06/am-thuc-dan-toc-raglai.jpg"
+          
         ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ bỏ mả",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20b%E1%BB%8F%20m%E1%BA%A3%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://www.vme.org.vn/content/uploads/cms/2024/06/20/raglai1.png"
           },
           {
             "name": "Lễ ăn mừng lúa mới",
@@ -1624,7 +1982,7 @@
           }
         ],
         "clothing": "Mặc quần áo vải thô dệt thủ công màu đen nhạt, điểm dải băng đỏ.",
-        "clothingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+        "clothingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBeVP35Pz_H51cRuryBo8N3oPeiGp5LEaeQ&s",
         "cuisine": [
           {
             "name": "Cơm lam ống nứa",
@@ -1640,17 +1998,36 @@
           }
         ],
         "housing": "Nhà sàn, mái tranh, vách nứa, thường cất trên sườn đồi.",
-        "housingImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        "housingImage": "https://vovworld.vn/sites/default/files/world/Uploaded/thanhduc/2015_07_06/6346d58ce70773101b3180052e9ddc0d.jpg"
       },
       "characteristics": [
         "Sống tình cảm",
         "Yêu tự do và núi rừng",
         "Trọng mẫu hệ"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/lr_hE1_5iHk",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
+          "url": "https://www.youtube.com/embed/CzrZHRZtNjM",
+          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Ra Glai, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Đêm hội Ra Glai",
+          "url": "https://www.youtube.com/embed/WiA3ykw5QM8",
+          "description": "Âm thanh trong trẻo của dân tộc Ra Glai."
+        }
+      ]
     },
     {
       "id": "bruvankieu",
+      "orderNo": 22,
       "name": "Bru - Vân Kiều",
       "otherNames": [
         "Bru",
@@ -1665,14 +2042,14 @@
         "Đắk Lắk"
       ],
       "language": "Tiếng Bru - Vân Kiều (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536267956_1073551068267630_6703952735465748583_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6UJN6YspEHgQ7kNvwEUa584&_nc_oc=Adr3-plyIildwU9tnAWHx2CemEoQf-7R-WaJcn81ZjY9TiqRJtMU_Ci6BikQqlrDGY4&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=vsWqtWQ8cAiPxvtZ2ujAEQ&_nc_ss=7b2a8&oh=00_Af6VSadB4GACKiDezgmLg_-fkmnVajKBv9s163PJGqgmwA&oe=6A160C9B",
       "images": [],
       "description": "Dân tộc Bru - Vân Kiều cư trú dọc theo dãy Trường Sơn, mang họ Hồ của Bác Hồ và có lòng yêu nước nồng nàn.",
       "history": {
         "description": "Người Bru-Vân Kiều là cư dân cư trú lâu đời ở khu vực Trung Trường Sơn.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+          "https://holylandvietnamstudies.com/wp-content/uploads/2020/06/bruvankieu-dancing-holylandvietnamstudies.com_.jpg",
+          "https://special.nhandan.vn/bru-van-kieu-minority-group/assets/4zZjtUhxgu/4-2000x1390.jpg"
         ]
       },
       "culture": {
@@ -1701,7 +2078,7 @@
           }
         ],
         "clothing": "Nữ mặc áo xẻ ngực, váy màu đen/chàm; nam đóng khố, cởi trần hoặc mặc áo cánh.",
-        "clothingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+        "clothingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMgdji2qrxPT1jWVyjLlUsb8sqmUcU4urP4g&s",
         "cuisine": [
           {
             "name": "Cơm nếp",
@@ -1721,17 +2098,36 @@
           }
         ],
         "housing": "Nhà sàn nhỏ hình khum khum như mai rùa.",
-        "housingImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        "housingImage": "https://vietnamhoc.net/wp-content/uploads/2020/06/bruvankieu-nhasan-vietnamhoc.net_.jpg"
       },
       "characteristics": [
         "Lòng trung thành cao",
         "Sống tình nghĩa",
         "Giỏi đi rừng"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/cYnMNBu_auA",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Điệu Oát",
+          "url": "https://www.youtube.com/embed/WdrDmBPMUxg",
+          "description": "Không gian âm nhạc oát của đồng bào Bru - Vân Kiều, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Độc tấu Khèn",
+          "url": "https://www.youtube.com/embed/Goa1Kyyz6kg",
+          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Bru - Vân Kiều."
+        }
+      ]
     },
     {
       "id": "tho",
+      "orderNo": 23,
       "name": "Thổ",
       "otherNames": [
         "Kẹo",
@@ -1746,14 +2142,14 @@
         "Thanh Hóa"
       ],
       "language": "Tiếng Thổ (ngữ hệ Nam Á, cùng nhóm Việt-Mường)",
-      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/541660682_1073549841601086_372441228483807640_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=plG6FWf53hIQ7kNvwET42Of&_nc_oc=AdrzqdW2a0BwSVs9gmVyyrZb9KqjwDMmZcnALYVPtAowzEx30hh47Q9CvFacaeFPmYQ&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=bN8lkl6-5gpx0QWlO-d8kQ&_nc_ss=7b2a8&oh=00_Af6Spit_d2W3ITiXbjAuLcOXdNopY8rsVZH5ZQVlYlTEEg&oe=6A15FDBF",
       "images": [],
       "description": "Người Thổ cư trú ở vùng giao thoa giữa người Việt và người Mường, có nét văn hóa pha trộn đặc sắc.",
       "history": {
         "description": "Có nguồn gốc hình thành từ sự giao lưu, hòa huyết giữa các nhóm Việt cổ và Mường.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+          "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf849cd557cb6f3fd6b5b0c2b71dee43fd3c7b2cf6d2ee3310e976d289b9591f751d50786887d610ec51982fee64e037465/tho-4496.jpg.webp",
+          "https://vietnamhoc.net/wp-content/uploads/2020/09/gat-hai-traylua-vietnamhoc.net_.jpg"
         ]
       },
       "culture": {
@@ -1778,7 +2174,7 @@
           }
         ],
         "clothing": "Phụ nữ mua váy của người Thái, áo cánh giống người Việt. Không có nghề dệt.",
-        "clothingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+        "clothingImage": "https://vanhoavaphattrien.vn/zoom-share/1200x630/uploads/images/blog/nguyendanhhoa/2021/06/14/dan-toc-thai-nghe-an-235235-1623675801.jpg",
         "cuisine": [
           {
             "name": "Ốc luộc",
@@ -1798,17 +2194,29 @@
           }
         ],
         "housing": "Nhà sàn, gần gũi kiến trúc nhà người Thái hoặc Mường.",
-        "housingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+        "housingImage": "https://vietnamhoc.net/wp-content/uploads/2020/09/dantoc-tho-nhasan-vietnamhoc.net_.jpg"
       },
       "characteristics": [
         "Chất phác",
         "Hòa đồng",
         "Dễ tiếp thu văn hóa mới"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Thổ",
+          "url": "https://www.youtube.com/embed/MjH9HIRipos",
+          "description": "Các làn điệu hát gẹo, hát đối lưu truyền qua nhiều thế hệ của người Thổ."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Thổ",
+          "url": "https://www.youtube.com/embed/PcGWx4f4Wys",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Thổ."
+        }
+      ]
     },
     {
       "id": "giay",
+      "orderNo": 26,
       "name": "Giáy",
       "otherNames": [
         "Nhắng",
@@ -1824,14 +2232,14 @@
         "Cao Bằng"
       ],
       "language": "Tiếng Giáy (ngữ hệ Tày-Thái)",
-      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/539247040_1073550724934331_7255742890453281826_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=mF203gj7bjIQ7kNvwHEhKg2&_nc_oc=AdoOMrRzrtEPkXiUEJ0T9J9gAQknE2angADEvzVvy9s6wiNY6EZ9Cocdp7jAHm988Qg&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=clXyS2bKAryVsE6O3rGIwg&_nc_ss=7b2a8&oh=00_Af7N_vhFSIhSZLFA_UJWXYdiH0VrawwxuOMFRgHkqEKh2A&oe=6A160543",
       "images": [],
       "description": "Người Giáy cư trú chủ yếu ở vùng thung lũng, giỏi trồng lúa nước và làm các món bánh truyền thống ngon miệng.",
       "history": {
         "description": "Di cư từ Trung Quốc vào Việt Nam khoảng 200 năm trước.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
-          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+          "https://i.ytimg.com/vi/QfZOIvlatRg/maxresdefault.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis-5Vn-uZsEpOZk5i5EFR3oUwNXNJVlGmwV0FDsTKxXd3fGwIzGIn19s2WQg_MsJGJ-tbpfGE9Li9IRfm6WSeA713dhMGP0lOrgAqeWKVMzAmb3GxMMHQ2xrRAruZGkeypj0ByX_jWJVY-/s1600/Nguoi+Giay+001.jpg"
         ]
       },
       "culture": {
@@ -1856,7 +2264,7 @@
           }
         ],
         "clothing": "Phụ nữ mặc áo xẻ nát, cài cúc vải sườn phải, viền vải khác màu, mặc quần lụa đen.",
-        "clothingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+        "clothingImage": "https://vovworld.vn/sites/default/files/world/Uploaded/thuyha/2015_03_16/giay4.jpg",
         "cuisine": [
           {
             "name": "Khẩu nhục",
@@ -1876,17 +2284,36 @@
           }
         ],
         "housing": "Nhà trệt hoặc nhà sàn tùy địa hình, bàn thờ tổ tiên đặt ở gian giữa trang trọng.",
-        "housingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+        "housingImage": "https://thegioidisan.vn/assets/media/2017/thang%207/nguoi-giay1.jpg"
       },
       "characteristics": [
         "Chăm chỉ",
         "Khéo tay hay làm",
         "Coi trọng lễ nghi gia đình"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/4SZmSrHnlwQ",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Giáy",
+          "url": "https://www.youtube.com/embed/YU4JKNgXJow",
+          "description": "Các làn điệu cổ truyền phươn gioa duyen, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Giáy."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Giáy",
+          "url": "https://www.youtube.com/embed/b8d-AjuJuPs",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Giáy."
+        }
+      ]
     },
     {
       "id": "cotu",
+      "orderNo": 25,
       "name": "Cơ Tu",
       "otherNames": [
         "Ca Tu",
@@ -1900,14 +2327,14 @@
         "Thừa Thiên Huế"
       ],
       "language": "Tiếng Cơ Tu (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540691854_1073551124934291_4373169761924569988_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6R061M8lOtEQ7kNvwFU6nxJ&_nc_oc=Adr-zpfo6PedDvPNxpjn6_x97xbwfeNVUwNv1CCZsRjZMZvC6GMRMLRF8fg-8VU-wwQ&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=niRVv5CO4RYAQWw6qt1p5w&_nc_ss=7b2a8&oh=00_Af6Dc1tqYLHrJyPCax3pbI-byGQVgSdZYcvUMZxgaz0VTw&oe=6A15FDBD",
       "images": [],
       "description": "Người Cơ Tu nổi tiếng với điệu múa Tung tung da dá, kiến trúc nhà Gươl và nghề dệt thổ cẩm cườm chì độc đáo.",
       "history": {
         "description": "Sinh sống lâu đời ở vùng núi cao phía tây miền Trung Trường Sơn.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
-          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+          "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf82a57d054b036666873d8399f28c4cd09f64395412dfec67ebe90e8f569e2a8d01c54df466ebf3f768240528a8ea49be4/cotu3-8006.jpg.webp",
+          "https://vnn.1cdn.vn/2022/08/15/uploads-2022-th-c3-a1ng-208-ng-c3-a0y_15-ka-co-tu-1.jpg"
         ]
       },
       "culture": {
@@ -1940,7 +2367,7 @@
           }
         ],
         "clothing": "Thổ cẩm đen sọc đỏ, đính hạt cườm chì hoa văn hình thoi. Nam đóng khố xỏ lá, nữ mặc váy ống.",
-        "clothingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+        "clothingImage": "https://imagevietnam.vnanet.vn//MediaUpload/Org/2024/11/29/1829-19-36-58.jpg",
         "cuisine": [
           {
             "name": "Cơm lam",
@@ -1960,18 +2387,37 @@
           }
         ],
         "housing": "Mỗi làng có một nhà Gươl to ở chính giữa để sinh hoạt cộng đồng, chạm khắc gỗ công phu.",
-        "housingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        "housingImage": "https://cdnmedia.baotintuc.vn/2015/08/19/21/31/A1.jpg"
       },
       "characteristics": [
         "Tinh thần thượng võ",
         "Yêu rừng, bảo vệ rừng",
         "Năng khiếu nghệ thuật tạc tượng"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/I5km70hCrmE",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Cơ Tu",
+          "url": "https://www.youtube.com/embed/F0m4sl1Q2II",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Cơ Tu."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Cơ Tu",
+          "url": "https://www.youtube.com/embed/4WqEQl_nRUo",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Cơ Tu."
+        }
+      ]
     },
     {
       "id": "gietrieng",
-      "name": "Gié - Triêng",
+      "orderNo": 27,
+      "name": "Giẻ - Triêng",
       "otherNames": [
         "Đoàn",
         "Xôi",
@@ -1982,15 +2428,15 @@
         "Kon Tum",
         "Quảng Nam"
       ],
-      "language": "Tiếng Gié - Triêng (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "language": "Tiếng Giẻ - Triêng (ngữ hệ Nam Á)",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/542759118_1073551008267636_6741247840120278749_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=XEC1KFI69kcQ7kNvwGsLG25&_nc_oc=AdovaNKfl_VBPzXdMrySVYIzl8q8HyNPYG-TufkKpgaLnBv2sTv_ygPdnE6ZugCx7vs&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=Qrg9oM1G4ncIyZuB9BW1gg&_nc_ss=7b2a8&oh=00_Af6b20BPgyJRPbqmYNYQd3WlavEC6n9IyCl7_qpc14jVZg&oe=6A160FF8",
       "images": [],
-      "description": "Người Gié-Triêng cư trú ở vùng rừng núi hiểm trở, có tục chia của cho người chết và nhiều kiêng kỵ độc đáo.",
+      "description": "Người Giẻ-Triêng cư trú ở vùng rừng núi hiểm trở, có tục chia của cho người chết và nhiều kiêng kỵ độc đáo.",
       "history": {
         "description": "Cư dân bản địa sống lâu đời ở ngã ba biên giới Đông Dương.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+          "https://dotchuoinon.com/wp-content/uploads/2015/04/gt_trang-phe1bba5c-dc3a2n-te1bb99c-gic3a9-tric3aang1.jpg",
+          "https://storage.baoquangngai.vn//NGOCDUC/2025/11/18_11_2025/ANH_VIDEO_NGOC_DUC/831691966_188535543_dsc01227.jpg"
         ]
       },
       "culture": {
@@ -2019,7 +2465,7 @@
           }
         ],
         "clothing": "Nam đóng khố, cởi trần; nữ mặc váy quấn dài, áo xẻ ngực. Đeo nhiều vòng tay, vòng cổ hạt cườm.",
-        "clothingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+        "clothingImage": "https://cly.1cdn.vn/2024/12/02/nha-rong-truyen-thong-cua-nguoi-gie-trieng-mang-net-kien-truc-doc-dao-thu-hut-du-khach.jpg",
         "cuisine": [
           {
             "name": "Thịt nướng đá",
@@ -2039,17 +2485,36 @@
           }
         ],
         "housing": "Nhà sàn dài bằng tre nứa. Kiến trúc nhà rông mái dốc, sàn nhà cao.",
-        "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        "housingImage": "https://vov4.vov.vn/sites/default/files/styles/large_watermark/public/2024-05/dscn4714_20240526190819.jpg"
       },
       "characteristics": [
         "Sống đoàn kết",
         "Tôn trọng thần linh rừng núi",
         "Tính tự trị làng bản cao"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/j0JQ2G1UIi4",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Giẻ - Triêng",
+          "url": "https://www.youtube.com/embed/rDpAm6weDsk",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Giẻ - Triêng."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Giẻ - Triêng",
+          "url": "https://www.youtube.com/embed/kGREzz7etvQ",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Giẻ - Triêng."
+        }
+      ]
     },
     {
       "id": "ma",
+      "orderNo": 29,
       "name": "Mạ",
       "otherNames": [
         "Châu Mạ",
@@ -2063,14 +2528,14 @@
         "Đắk Nông"
       ],
       "language": "Tiếng Mạ (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540232314_1073555708267166_3086681498886652348_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Bb80C2ieA7AQ7kNvwFXYrVP&_nc_oc=AdrhtrHgYYYh_--ctgJZr03fdwijKs_KwZojQ4UN3IU23dDq9kc-fhMZhmm0YHM1-wo&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=QDp641eyqTunLkh1tMyzLw&_nc_ss=7b2a8&oh=00_Af76CDIJtgjmlTwI86zLPE4wxpq2GcfG3336FV2mkJxOyg&oe=6A161648",
       "images": [],
       "description": "Người Mạ từng có liên minh bộ lạc mạnh trên cao nguyên, giỏi nghề rèn sắt và dệt thổ cẩm.",
       "history": {
         "description": "Sinh sống từ lâu đời ở khu vực nam Tây Nguyên.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+          "https://www.thuviendongnai.gov.vn/_layouts/LacVietBIO/fckUpload/2018-3/trang-phuc-cua-dan-toc-ma1332018_145616.jpg",
+          "https://dantocmiennui-media.baotintuc.vn/images/5c0c54f95c9777a45a8f5910a7a986a5bba0b9b46313a688299c9f6e40b1ba38ee9394ccc8d7f5ab0b777613b3ac3bbb747fca6f5e84a99830ba065aec437e42/ma.jpg.webp"
         ]
       },
       "culture": {
@@ -2095,7 +2560,7 @@
           }
         ],
         "clothing": "Nam đóng khố, nữ mặc váy quấn. Thổ cẩm người Mạ rất đẹp, có tua rua và hoa văn tinh xảo.",
-        "clothingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+        "clothingImage": "https://cdnmedia.baotintuc.vn/2016/04/29/22/06/nha-6.jpg",
         "cuisine": [
           {
             "name": "Cơm nương nướng",
@@ -2111,17 +2576,36 @@
           }
         ],
         "housing": "Nhà sàn dài, cửa ra vào ở hai đầu hồi. Trong nhà có nhiều bếp lửa.",
-        "housingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        "housingImage": "https://file.hstatic.net/200000774833/article/do_vang_ngay_quoc_khanh_cuu_chien_binh_viet_nam_poster-6_6ea4c4774fb141668605a9c288794016.png"
       },
       "characteristics": [
         "Dũng cảm, thẳng thắn",
         "Giỏi nghề dệt",
         "Gắn bó với núi rừng"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/2DgGxoxTu9g",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca người Mạ",
+          "url": "https://www.youtube.com/embed/510tFZj7S-I",
+          "description": "Không gian ca hát độc đáo của người Mạ với những làn điệu truyền thống đậm chất núi rừng."
+        },
+        {
+          "title": "Độc tấu nhạc cụ người Mạ",
+          "url": "https://www.youtube.com/embed/PQqoST9KufA",
+          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Mạ."
+        }
+      ]
     },
     {
       "id": "khomu",
+      "orderNo": 24,
       "name": "Khơ Mú",
       "otherNames": [
         "Xá Cẩu",
@@ -2136,14 +2620,14 @@
         "Lai Châu"
       ],
       "language": "Tiếng Khơ Mú (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542040374_1073551021600968_7412301712093398879_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=GpfIxw3Hv7UQ7kNvwFLOLtM&_nc_oc=AdqQoluPeP2zhI5BJuBC8Us4rlLv5Znla2HWowJs1B3DOIX2921R7qRRt33T18KPvn4&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=Mq0ROz6GkFAQx7DZoIWt_Q&_nc_ss=7b2a8&oh=00_Af6w1gkgQq4ELo-JkPFgYURpPs7LHiEDoD_OtEhdxzirqQ&oe=6A160922",
       "images": [],
       "description": "Người Khơ Mú có điệu múa Au eo sôi động và phong tục uống rượu cần bằng mũi rất đặc biệt.",
       "history": {
         "description": "Cư dân cư trú lâu đời ở Tây Bắc Việt Nam và Bắc Lào.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+          "https://media-cdn-v2.laodong.vn/storage/newsportal/2025/9/16/1575380/Theu-Khan-Pieu-10-2.jpg",
+          "https://file3.qdnd.vn/data/images/0/2023/09/10/tranhang/kho%20mu%202.jpg"
         ]
       },
       "culture": {
@@ -2172,7 +2656,7 @@
           }
         ],
         "clothing": "Mặc trang phục tương tự người Thái đen nhưng cách đội khăn và trang sức có phần khác biệt.",
-        "clothingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+        "clothingImage": "https://files.bdttg.gov.vn/contentfolder/ubdt/source_files/2015/11/04/16132586_kh%C6%A1%20m%C3%BA_15-11-04.jpg",
         "cuisine": [
           {
             "name": "Các món nướng, xôi, rượu cần",
@@ -2184,17 +2668,36 @@
           }
         ],
         "housing": "Nhà sàn mái tranh, trước đây thường du canh du cư nên làm nhà tạm, nay đã định canh định cư.",
-        "housingImage": "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        "housingImage": "https://media.baosonla.org.vn/Uploads/Images/ujncioej.jpg"
       },
       "characteristics": [
         "Lạc quan",
         "Yêu âm nhạc múa hát",
         "Thích sống trên sườn núi cao"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/YfHHKFqFHzw",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Khơ Mú",
+          "url": "https://www.youtube.com/embed/uKuPjn96C4w",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Khơ Mú."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Khơ Mú",
+          "url": "https://www.youtube.com/embed/wNCDeLs8aKI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Khơ Mú."
+        }
+      ]
     },
     {
       "id": "co",
+      "orderNo": 30,
       "name": "Co",
       "otherNames": [
         "Cùa",
@@ -2207,14 +2710,14 @@
         "Quảng Nam"
       ],
       "language": "Tiếng Co (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/541740708_1073555748267162_7238045396952793248_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZHfTapUNhH4Q7kNvwFrWUOQ&_nc_oc=AdpQUVKwzhilDHeQDFJd69JBYiOw4ndKBHCtWJPe4uP8JYW9PlYEFbwGzAYPjWNvLhQ&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=KGJH-FynDqqt21ECeQ46mw&_nc_ss=7b2a8&oh=00_Af7STykaf0EgsthwYlDWOKn9mCuYCzEdCUoxWU0G-MIyng&oe=6A15E9AF",
       "images": [],
       "description": "Người Co nổi tiếng với điệu múa đấu chiêng, trồng quế trên núi và có lòng trung thành sâu sắc với Cách mạng.",
       "history": {
         "description": "Cư dân bản địa sống chủ yếu ở huyện Trà Bồng (Quảng Ngãi).",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+          "https://vietnamtourism.vn/imguploads/tourist/2014/VNDatNuocConNguoi/01Khaiquatchung/03Dancu/09DantocCo.jpg",
+          "https://vnn.1cdn.vn/2023/04/09/anh-1-cac-nghe-nhan-dan-toc-cor-huyen-tra-bong-thi-tai-dau-chieng-doi-trong-le-hoi-van-hoa-dan-toc-cor-tai-bac-tra-my-sua.jpg"
         ]
       },
       "culture": {
@@ -2243,7 +2746,7 @@
           }
         ],
         "clothing": "Nữ mặc váy ống màu đen điểm hoa văn viền, ở trần (xưa) hoặc mặc áo ngắn. Nam đóng khố.",
-        "clothingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+        "clothingImage": "https://cdn-i2.congthuong.vn/stores/news_dataimages/2022/112022/08/16/5-copy20221108161605.jpg?rt=20221108161808",
         "cuisine": [
           {
             "name": "Thịt trâu luộc",
@@ -2263,17 +2766,36 @@
           }
         ],
         "housing": "Trước đây ở nhà sàn dài, cả làng sống chung trong 1-2 nóc nhà. Ngày nay ở nhà ngắn riêng biệt.",
-        "housingImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        "housingImage": "https://image.baoquangngai.vn//data/062023/n1_20230603145445.jpg"
       },
       "characteristics": [
         "Trung thành",
         "Giỏi trồng trọt (quế)",
         "Thích múa hát, gõ chiêng"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/b5JI6liic0M",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Làn điệu múa cổ truyền dân tộc Co",
+          "url": "https://www.youtube.com/embed/kF3h5yQGtuM",
+          "description": "Các làn điệu cổ truyền kađtáo lưu truyền qua nhiều thế hệ của người Co."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Co",
+          "url": "https://www.youtube.com/embed/dLkZerPd7gI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Co."
+        }
+      ]
     },
     {
       "id": "taoi",
+      "orderNo": 28,
       "name": "Tà Ôi",
       "otherNames": [
         "Pa Cô",
@@ -2285,14 +2807,14 @@
         "Quảng Trị"
       ],
       "language": "Tiếng Tà Ôi (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542656546_1073643181591752_7141826958279780312_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=eggs--xHhLMQ7kNvwHTgeWj&_nc_oc=AdqjL7iHcCARdWaIwN4BO37ZhlIAtrfDReu6Jgh95y2WE3mzvsG8c2RDGTVLpOfxIBk&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=f5EQQrseBhKwD8tPZq7oQQ&_nc_ss=7b2a8&oh=00_Af6yCmoAUuKnf1gnt7e4QIpfoVpTybHz9B7-BD64cYQPDQ&oe=6A15F098",
       "images": [],
       "description": "Người Tà Ôi nổi tiếng với dệt thổ cẩm Zèng - di sản văn hóa phi vật thể quốc gia, đính hạt cườm trắng tinh xảo.",
       "history": {
         "description": "Sống lâu đời trên dải Trường Sơn, tham gia kháng chiến tích cực và tự nguyện mang họ Hồ.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+          "https://dantocmiennui-media.baotintuc.vn/images/5c0c54f95c9777a45a8f5910a7a986a52e951568afe1311fc12ebc3f56f3d2eaa9f5111660bebf1559bce70592c09dc48c20e37aa240dc92a31ea7ae43aa093610c9743011ec31e6f7b9710ee1966c91/tet-co-truyen-cua-nguoi-ta-oi-2-1.jpg.webp",
+          "https://iced.edu.vn/wp-content/uploads/2023/04/dan-toc-Ta-Oi.jpg"
         ]
       },
       "culture": {
@@ -2321,7 +2843,7 @@
           }
         ],
         "clothing": "Trang phục thổ cẩm Zèng rất đặc trưng, hạt cườm đính vào sợi sợi chỉ trước khi dệt.",
-        "clothingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+        "clothingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3IBUfIMP-tCTPa5fy7-AHqmP9f0uhV_jeww&s",
         "cuisine": [
           {
             "name": "Bánh a quát",
@@ -2340,18 +2862,37 @@
             "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
           }
         ],
-        "housing": "Nhà sàn dài bằng gỗ, tre. Chính giữa nhà là nơi tiếp khách và đặt bàn thờ.",
-        "housingImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        "housing": "Nhà sàn tròn thon. Mang yếu tố tròn đầy, kiên cố, vững chãi.",
+        "housingImage": "https://farm4.staticflickr.com/3827/13850644334_b267441eae.jpg?w=900"
       },
       "characteristics": [
         "Kiên cường",
         "Thủy chung tình nghĩa",
         "Giỏi dệt thủ công"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/Xi37EtDEwHE",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Tà Ôi",
+          "url": "https://www.youtube.com/embed/1l9y7YY69XI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Tà Ôi."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Tà Ôi",
+          "url": "https://www.youtube.com/embed/Cja9trklejQ",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Tà Ôi."
+        }
+      ]
     },
     {
       "id": "choro",
+      "orderNo": 31,
       "name": "Chơ Ro",
       "otherNames": [
         "Đơ-Ro",
@@ -2364,14 +2905,14 @@
         "Bình Thuận"
       ],
       "language": "Tiếng Chơ Ro (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540307637_1073555621600508_2433407633850497280_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=GY47GDsxxOgQ7kNvwFFtBzi&_nc_oc=AdqtyJ3Aq9nOaTVn7i2E9QUEap7nkFJj71NHxXPRK4Ug8pLHU4pQLe_9vx0T4TjzjVA&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=r6-hW2XCUF5i9a_3l8avZg&_nc_ss=7b2a8&oh=00_Af5wpZoMXUogIfUveEKSzfqwE1gVTjESS0nD4CaoKmQP4w&oe=6A15E78A",
       "images": [],
       "description": "Người Chơ Ro là cư dân bản địa miền Đông Nam Bộ, trước kia sống bằng săn bắt hái lượm và làm rẫy.",
       "history": {
         "description": "Thuộc nhóm cư dân Môn - Khmer sinh sống lâu đời ở vùng đồi núi thấp Đông Nam Bộ.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+          "https://ttdn.vn/Uploads/Images/2024/9/30/25/choro2.jpg",
+          "https://vnn.1cdn.vn/thumbs/1200x630/2022/07/12/uploads-2022-th-c3-a1ng-207-ng-c3-a0y_12-ng-c3-82n-z3561266945896_505aa88fcc628eb988406dee16e88c62.jpg"
         ]
       },
       "culture": {
@@ -2396,7 +2937,7 @@
           }
         ],
         "clothing": "Trước đây nam đóng khố, nữ quấn váy vấp, nay chủ yếu mặc đồ giống người Kinh.",
-        "clothingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+        "clothingImage": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/f1/2017/1/11/17-49-42_trng-18.jpg",
         "cuisine": [
           {
             "name": "Cơm lam",
@@ -2416,17 +2957,36 @@
           }
         ],
         "housing": "Trước kia ở nhà sàn, nay phần lớn chuyển sang ở nhà trệt.",
-        "housingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+        "housingImage": "https://file.hstatic.net/200000774833/collection/7d798223-0d04-4fb7-a24d-a926f5a316c0_1a329226f7f24e7ca5800ee1bec64469.jpeg"
       },
       "characteristics": [
         "Chân thực, mộc mạc",
         "Tình làng nghĩa xóm gắn bó",
         "Thích ca múa"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/VpW1Mz5tc6Q",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Dân tộc Chơ Ro",
+          "url": "https://www.youtube.com/embed/dlORKpmS3yo",
+          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Chơ Ro, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Độc đáo nhạc cụ dân tộc ",
+          "url": "https://www.youtube.com/embed/AWwnJuDdySc",
+          "description": "Những âm hưởng di sản về nhạc cụ được hun đúc, bảo tồn từ dân tộc Chơ Ro."
+        }
+      ]
     },
     {
       "id": "khang",
+      "orderNo": 36,
       "name": "Kháng",
       "otherNames": [
         "Xá Khao",
@@ -2440,14 +3000,14 @@
         "Lai Châu"
       ],
       "language": "Tiếng Kháng (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/542757153_1073553531600717_3329517426697411967_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZGHRfWaD9XQQ7kNvwFZHFxS&_nc_oc=Adq3sCuxda2rS_he8D7pjyZQuFrqi6RgnZJAgTgNRg9nDzyGr44AbqvX1VVndGXUXOs&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=vn-I6j6mOmAApCPS8LjQIw&_nc_ss=7b2a8&oh=00_Af4kn_Jl4zuvpQc1-0ASyxYVlF82cYIWPUDCt-7hEPd7-A&oe=6A15F41A",
       "images": [],
       "description": "Người Kháng cư trú ven sông Đà, rất giỏi chế tạo thuyền độc mộc hình đuôi én.",
       "history": {
         "description": "Là một trong những cư dân bản địa lâu đời nhất ở Tây Bắc.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
-          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+          "https://imgnvsk.vnanet.vn/MediaUpload/Content/2024/02/28/dan-toc-khang28-14-4-26.jpeg",
+          "https://media.baosonla.org.vn/public/hieupt/2024-11-05/51(1).jpg"
         ]
       },
       "culture": {
@@ -2480,7 +3040,7 @@
           }
         ],
         "clothing": "Trang phục mượn của người Thái, nữ mặc áo cóm, váy đen.",
-        "clothingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+        "clothingImage": "https://dantocmiennui-media.baotintuc.vn/images/5c0c54f95c9777a45a8f5910a7a986a526ba685326c215ababd1c9df41fd66046ed8b28e45190cc040820f6a7252ba63/nha1-1.jpg.webp",
         "cuisine": [
           {
             "name": "Cá suối nướng úp",
@@ -2500,17 +3060,36 @@
           }
         ],
         "housing": "Nhà sàn, làm theo hình thuyền độc mộc, mái uốn cong.",
-        "housingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+        "housingImage": "https://thegioidisan.vn/assets/media/2017/nh%202017/dantockhang-3.JPG"
       },
       "characteristics": [
         "Giỏi bơi lội, vượt thác",
         "Thạo nghề đan lát",
         "Hòa hợp với sông nước"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/58GGHFCqeTM",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Kháng",
+          "url": "https://www.youtube.com/embed/n_KjwMlArWA",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Kháng."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Kháng",
+          "url": "https://www.youtube.com/embed/6JSw7l_j2_4",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Kháng."
+        }
+      ]
     },
     {
       "id": "xinhmun",
+      "orderNo": 32,
       "name": "Xinh Mun",
       "otherNames": [
         "Puộc",
@@ -2522,14 +3101,14 @@
         "Điện Biên"
       ],
       "language": "Tiếng Xinh Mun (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/536270933_1073554418267295_2954176678657217444_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Dus44a48BigQ7kNvwH3UsQI&_nc_oc=Adr77hRT6I4gWWWHEPReRrg2zfkI8l9K6LoozHlPzW3bJEDxQBZhQraUjr6wSqhIJ5I&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=04yCefx4Byhd67_0qYVo3g&_nc_ss=7b2a8&oh=00_Af6Rx67tWXVp9W4BRvfdslm7ZKXMJuUoqkThC3zIs-bxcg&oe=6A15E979",
       "images": [],
       "description": "Người Xinh Mun có tục nhai trầu quệt mép, cư trú vùng biên giới Việt-Lào đan xen với người Thái.",
       "history": {
         "description": "Là cư dân sinh sống lâu đời ở vùng núi cao Tây Bắc.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
-          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+          "https://vietnamhoc.net/wp-content/uploads/2020/09/dantoc-xinhmun-lehoi-vietnamhoc.net-sep.jpg",
+          "https://media.baosonla.org.vn/public/hieupt/2024-11-13/23(1).jpg"
         ]
       },
       "culture": {
@@ -2558,7 +3137,7 @@
           }
         ],
         "clothing": "Mặc giống người Thái đen. Phụ nữ mặc áo cóm bó sát, váy dài.",
-        "clothingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+        "clothingImage": "https://vietnamhoc.net/wp-content/uploads/2020/09/nha-dantoc.xinhmun-vietnamhoc.net_.jpg",
         "cuisine": [
           {
             "name": "Xôi nếp",
@@ -2578,17 +3157,36 @@
           }
         ],
         "housing": "Nhà sàn, mái hình mai rùa hoặc mái bằng, cấu trúc giống người Thái.",
-        "housingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        "housingImage": "https://media.baosonla.org.vn/Uploads/Images/hqfsnal4.jpg"
       },
       "characteristics": [
         "Sống giản dị",
         "Chăm chỉ làm nương",
         "Nghề đan mây tre giang giỏi"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/V4jr6ZKAzPw",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Lễ hội Mường A ma dân tộc Xinh Mun",
+          "url": "https://www.youtube.com/embed/9A3KJj0NK18",
+          "description": "Khi mùa màng đã thu hoạch xong và năm đó được mùa"
+        },
+        {
+          "title": "Nghi lễ mượng ma người Xinh Mun",
+          "url": "https://www.youtube.com/embed/oUH_1rKWmJc",
+          "description": "Yếu tố truyền thống  cầu cho nhân dân bản khỏe mạnh, mưa thuận gió hòa, mùa màng tươi tốt, bội thu."
+        }
+      ]
     },
     {
       "id": "hanhi",
+      "orderNo": 33,
       "name": "Hà Nhì",
       "otherNames": [
         "U Ní",
@@ -2601,14 +3199,14 @@
         "Điện Biên"
       ],
       "language": "Tiếng Hà Nhì (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540947791_1073555661600504_3432539582096111337_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=yijsmwZhyaIQ7kNvwE-NPY0&_nc_oc=Adoxg3svXba7bRX59z3cjqzEnkm2-DN1ByVjyxKsZ_rgtWImhJ0PET5zX83uF1m8FqA&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=Db6X_0wM10MZ8kYmn9s4bA&_nc_ss=7b2a8&oh=00_Af4ijkRwn4EUMFMmPLiC7KY2bSrmDeuV3Ocf9q2osrpS5A&oe=6A15E7EE",
       "images": [],
       "description": "Người Hà Nhì nổi tiếng với những ngôi nhà trình tường bằng đất hình nấm chịu rét tốt ở Y Tý và nghệ thuật làm ruộng bậc thang.",
       "history": {
         "description": "Di cư từ Trung Quốc xuống vùng núi Tây Bắc Việt Nam khoảng 300 năm trước.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+          "https://imgnvsk.vnanet.vn/MediaUpload/Content/2024/02/28/ha-nhi-128-13-11-23.jpg",
+          "https://baolaichau.vn/uploaded/post/2024/11/18/1-2%20(2)_1731895325115.jpg"
         ]
       },
       "culture": {
@@ -2637,7 +3235,7 @@
           }
         ],
         "clothing": "Hà Nhì Đen (Lào Cai) mặc đồ đen thêu hoa văn chỉ đỏ, Hà Nhì Hoa (Lai Châu) mặc sặc sỡ hơn, đội mũ đính tua rua đỏ.",
-        "clothingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+        "clothingImage": "https://vovworld.vn/sites/default/files/world/Uploaded/lechien/2016_04_18/ha%20Nhi.jpg",
         "cuisine": [
           {
             "name": "Bia Hà Nhì",
@@ -2653,17 +3251,36 @@
           }
         ],
         "housing": "Nhà trình tường bằng đất sét dày 40-50cm, mái lợp gianh hình chóp nhọn như cây nấm.",
-        "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        "housingImage": "https://file.hstatic.net/200000774833/collection/efd197b1-5323-4f31-b209-17bb0c9416b7_fd9ea3374a5f46d2b15f4e5c16e06d80.jpeg"
       },
       "characteristics": [
         "Cần cù, thích ứng tốt với khí hậu lạnh",
         "Đoàn kết",
         "Thân thiện"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống Tết cổ truyền",
+          "url": "https://www.youtube.com/embed/fGsaCQAOwgU",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Hà Nhì",
+          "url": "https://www.youtube.com/embed/CvYOWXOl9Po",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình hát Tinh Xa lưu truyền qua nhiều thế hệ của người Hà Nhì."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Hà Nhì",
+          "url": "https://www.youtube.com/embed/jh6paQbBhio",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Hà Nhì."
+        }
+      ]
     },
     {
       "id": "churu",
+      "orderNo": 34,
       "name": "Chu Ru",
       "otherNames": [
         "Chơ Ru",
@@ -2676,14 +3293,14 @@
         "Ninh Thuận"
       ],
       "language": "Tiếng Chu Ru (ngữ hệ Nam Đảo)",
-      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536273897_1073555518267185_7354724255490945522_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=QovoLx5ioj8Q7kNvwH2VXxz&_nc_oc=AdoiTW6UN6y5Sk6jksvV3J41RUNt2VcXQ77w_WVc9l6zYiDfLEl0cOYolkCcy9oS8-c&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=3viCb_51Yp1sJWDYzjXOAg&_nc_ss=7b2a8&oh=00_Af6or8ggZhAwYcoPfq1_z3TQTExqwoLxA1fZm3Q-_h_wiQ&oe=6A161942",
       "images": [],
       "description": "Người Chu Ru có nghề làm gốm không dùng bàn xoay và truyền thuyết về nguồn gốc giống với người Chăm.",
       "history": {
         "description": "Tách ra từ khối cộng đồng Chăm Pa cổ, di cư lên vùng cao nguyên.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+          "https://dotchuoinon.files.wordpress.com/2015/03/churu_c491b.jpg",
+          "https://cdn.realtech.com.vn/uploads/gostay/news/348/tuc-bat-chong-cua-nguoi-chu-ru.jpg"
         ]
       },
       "culture": {
@@ -2712,7 +3329,7 @@
           }
         ],
         "clothing": "Nam giới quấn khố, áo cổ tròn; nữ mặc váy quấn màu chàm, áo ngắn cài nút giữa.",
-        "clothingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+        "clothingImage": "https://file3.qdnd.vn/data/images/0/2023/08/31/vudinhdong/anh%202.jpg?dpi=150&quality=100&w=870",
         "cuisine": [
           {
             "name": "Cơm lam",
@@ -2732,17 +3349,36 @@
           }
         ],
         "housing": "Nhà trệt hoặc nhà sàn thấp, vách phên tre, mái cỏ tranh.",
-        "housingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        "housingImage": "https://product.hstatic.net/200000774833/product/67ff41d0-00f4-4f09-970e-d68dccb49d26_b3e0ada2e6284b8098795efca2cc3a30_master.jpeg"
       },
       "characteristics": [
         "Giỏi làm gốm thủ công",
         "Trọng nữ quyền",
         "Sống thanh bình"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/XGXAaJRt0v8",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Dân tộc Chơ Ru",
+          "url": "https://www.youtube.com/embed/Zk-VS6j-DkA",
+          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Chu Ru, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Nghề làm bạc truyền thống của người Chu Ru",
+          "url": "https://www.youtube.com/embed/lDi59sYTlDQ",
+          "description": "Nghề làm nhẫn cưới độc, lạ của dân tộc Churu: Khuôn nhẫn nhất định phải nhúng qua...phân trâu."
+        }
+      ]
     },
     {
       "id": "lao",
+      "orderNo": 35,
       "name": "Lào",
       "otherNames": [
         "Phu Thay",
@@ -2756,14 +3392,14 @@
         "Sơn La"
       ],
       "language": "Tiếng Lào (ngữ hệ Tày-Thái)",
-      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542761334_1073555644933839_3334031265799722011_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=iK6mIDCxK2YQ7kNvwFHdj-c&_nc_oc=Ado1QlWi43z1stYirYvoP0QGF8NjSiTBUfArB_Wx7VoZKiy-ikO5swwOPpUNNM9uqco&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=kHMEFofXVi2GSdSbYBYVEQ&_nc_ss=7b2a8&oh=00_Af5WauxfhW9cWYgcMHuYpr9bBAdwzL1K4P63DlMD0ts52Q&oe=6A16139F",
       "images": [],
       "description": "Người Lào tại Việt Nam mang đậm nét văn hóa đặc trưng của nước bạn Lào, đặc biệt là lễ hội té nước và múa Lăm vông.",
       "history": {
         "description": "Là bộ phận người Lào định cư tại Việt Nam qua các biến thiên lịch sử vùng biên.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+          "https://pbgdpl.laichau.gov.vn/uploads/news/2021_09/ggf.jpg",
+          "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf870e96b1864c5a9b18ced0da8ba52fc5f75f177c25572420bb64c1189c73d148314fc84a06081097bf6e84c7b6f08e037/lao-dat.jpg.webp"
         ]
       },
       "culture": {
@@ -2792,7 +3428,7 @@
           }
         ],
         "clothing": "Phụ nữ mặc váy ống (xỉn) dệt hoa văn ở gấu, áo cánh chui đầu xẻ ngực, quấn khăn chéo vai.",
-        "clothingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+        "clothingImage": "https://imagevietnam.vnanet.vn//MediaUpload/Org/2024/08/15/115-11-20-26.jpg",
         "cuisine": [
           {
             "name": "Xôi nếp",
@@ -2816,17 +3452,36 @@
           }
         ],
         "housing": "Nhà sàn cao, rộng, hai mái dốc, thường có chóp nhọn.",
-        "housingImage": "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        "housingImage": "https://mic.mediacdn.vn/Upload_Moi/2023_02_vn/20230710-duy9.jpg"
       },
       "characteristics": [
         "Hiền hòa, vui vẻ",
         "Mến khách",
         "Thích múa hát, lễ hội"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/aPMcwvf9CTk",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Vui chơi lễ hội dân tộc Lào",
+          "url": "https://www.youtube.com/embed/_Jx5NpXRrHM",
+          "description": "Trải nghiệm giao lưu và quảng bá truyền thống dân tộc Lào tại Việt Nam"
+        },
+        {
+          "title": "Đám cưới truyền thống người Lào",
+          "url": "https://www.youtube.com/embed/EGWV-0nAg44",
+          "description": "LỄ ĐÓN DÂU CỦA NGƯỜI LÀO VUI NHƯ LỄ HÔI TÉ NƯỚC TẠI NÀ TĂM"
+        }
+      ]
     },
     {
       "id": "lachi",
+      "orderNo": 36,
       "name": "La Chí",
       "otherNames": [
         "Thổ Đen",
@@ -2839,14 +3494,14 @@
         "Lào Cai"
       ],
       "language": "Tiếng La Chí (ngữ hệ Ka Đai)",
-      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/536268022_1073555544933849_6102906788363654392_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=sYbl1Ldu_b0Q7kNvwEXLrEg&_nc_oc=Adon-PKS-U8dLWbx2ScggDFgLkB4dP_reWpMTT7iGKssKbSCJenQwVdJYCAKhDXrDqA&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=uecto7WSsrLJO28BUNWi9w&_nc_ss=7b2a8&oh=00_Af7oX0vtHFZvMI_vbY--7ct6Z8siaMHg5vidCDceikQ3fA&oe=6A15F23D",
       "images": [],
       "description": "Người La Chí có tục thờ ông tổ Hoàng Vần Thùng và Tết Khu Cù Tê rất đặc sắc.",
       "history": {
         "description": "Người La Chí sinh sống tập trung ở vùng núi cao biên giới phía Bắc từ rất lâu đời.",
         "imageUrls": [
-          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+          "https://files.bdttg.gov.vn/contentfolder/ubdt/source_files/2015/11/04/10261937_ng%C6%B0%E1%BB%9Di%20la%20ch%C3%AD_15-11-04.jpg",
+          "https://danviet.ex-cdn.com/files/f1/296231569849192448/2023/8/6/base64-16913468656131711389662.png"
         ]
       },
       "culture": {
@@ -2871,7 +3526,7 @@
           }
         ],
         "clothing": "Nam mặc áo cánh chui đầu xẻ ngực cài cúc; nữ mặc quần ống rộng, áo xẻ nách dài, thường nhuộm chàm đen.",
-        "clothingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+        "clothingImage": "https://dotchuoinon.com/wp-content/uploads/2015/04/lc_ngc3b4i-nhc3a0-ce1bba7a-ngc6b0e1bb9di-la-chc3ad-te1baa1i-lc3a0ng-vc483n-hc3b3a.jpg",
         "cuisine": [
           {
             "name": "Thịt lợn hun khói",
@@ -2891,17 +3546,36 @@
           }
         ],
         "housing": "Nhà sàn bằng gỗ, vách nứa, mái tranh. Gian giữa để bàn thờ tổ tiên.",
-        "housingImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        "housingImage": "https://file.hstatic.net/200000774833/collection/dscf1371_641e6176d78c4cb2bd27ab0718f01121.jpeg"
       },
       "characteristics": [
         "Cần cù tằn tiện",
         "Tôn thờ tổ tiên",
         "Giữ gìn truyền thống chặt chẽ"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/yHFkLXVB8C4",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc La Chí",
+          "url": "https://www.youtube.com/embed/4ytUxdHNVYI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người La Chí."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người La Chí",
+          "url": "https://www.youtube.com/embed/04xPSkEMzKw",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc La Chí."
+        }
+      ]
     },
     {
       "id": "lahu",
+      "orderNo": 39,
       "name": "La Hủ",
       "otherNames": [
         "Xá Lá Vàng",
@@ -2913,7 +3587,7 @@
         "Lai Châu"
       ],
       "language": "Tiếng La Hủ (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540721666_1073555768267160_5765844644370442436_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=7UhiNEgasHwQ7kNvwH_X-OC&_nc_oc=AdoscaSwHZW7sq6h0T3DlsZ1J_U5K_bhSssb8fs2ri0eTYgumOmWEb6daYexA9CtzQE&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=3fmg9mb4tyMWaZYc_BeKTw&_nc_ss=7b2a8&oh=00_Af6KE3Qv81VbF19fBpxw3M0KTp_qm1T4jc3SWv5bOri7bA&oe=6A160996",
       "images": [],
       "description": "Trước đây người La Hủ gọi là 'Xá Lá Vàng' vì sống du canh du cư trong rừng sâu, nay đã định cư lập bản.",
       "history": {
@@ -2972,10 +3646,29 @@
         "Dũng cảm săn bắn",
         "Thích ứng tốt với rừng rậm"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc La Hủ",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người La Hủ."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người La Hủ",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc La Hủ."
+        }
+      ]
     },
     {
       "id": "laha",
+      "orderNo": 40,
       "name": "La Ha",
       "otherNames": [
         "Xá Khao",
@@ -2988,7 +3681,7 @@
         "Lào Cai"
       ],
       "language": "Tiếng La Ha (ngữ hệ Ka Đai)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540401899_1073555138267223_5561851604498443419_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=hJ2GVdpViRcQ7kNvwFgl1Bn&_nc_oc=AdrSicg6zuYuIi-sHsxa0dQtNXH8rOOSOFeSZVU2PUdqys9hijBNIJjndpzVxbzc4pA&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=GGFfOr4p6dDjtZqZbeHlBA&_nc_ss=7b2a8&oh=00_Af5C4VlVq1iB3tKQedmZANFeoAZLMu_zOyIQTEHYZNV4MA&oe=6A161AF2",
       "images": [],
       "description": "Người La Ha nổi tiếng với lễ hội Dâng hoa măng (Pang A) cầu mong sức khỏe và chữa bệnh.",
       "history": {
@@ -3047,10 +3740,29 @@
         "Tín ngưỡng vạn vật hữu linh",
         "Gắn bó với núi rừng"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc La Ha",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người La Ha."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người La Ha",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc La Ha."
+        }
+      ]
     },
     {
       "id": "pathen",
+      "orderNo": 41,
       "name": "Pà Thẻn",
       "otherNames": [
         "Mèo Lai",
@@ -3062,7 +3774,7 @@
         "Tuyên Quang"
       ],
       "language": "Tiếng Pà Thẻn (ngữ hệ H'Mông - Dao)",
-      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/539252885_1073555614933842_508052794805542271_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=oSKRPEJAiToQ7kNvwFEKsPS&_nc_oc=Adqtz8essRTbkWjH-ol31LNPRN5gQXsaKj2knRJYcGrCAaQPo2b3U6LTQn2PgSKE-e0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=C0V9NYkJ9rVyGa6quE9Ptg&_nc_ss=7b2a8&oh=00_Af4vXgvbqyZOxzCcf3WFzBDFX3yhmEh3JQffZeZ3N_sfnQ&oe=6A15F29D",
       "images": [],
       "description": "Người Pà Thẻn nổi bật với nghi lễ nhảy lửa thần bí và trang phục nữ giới màu đỏ chót rất sặc sỡ.",
       "history": {
@@ -3125,10 +3837,22 @@
         "Gan dạ",
         "Giỏi dệt vải"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Pà Thẻn",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Pà Thẻn."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Pà Thẻn",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Pà Thẻn."
+        }
+      ]
     },
     {
       "id": "lu",
+      "orderNo": 43,
       "name": "Lự",
       "otherNames": [
         "Lự Đen",
@@ -3140,7 +3864,7 @@
         "Lai Châu"
       ],
       "language": "Tiếng Lự (ngữ hệ Tày-Thái)",
-      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540694688_1073555741600496_5427533160692059677_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=73EF0UVdzOwQ7kNvwHX2-I-&_nc_oc=Adq8H09rZ5bgCOgxNwdd5OvGsqPskthlV7X8cVIKmlYgBpMz3hcdmhlLruypCWqyoI8&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=vXRBJrWDXr14nojrpQ5IXg&_nc_ss=7b2a8&oh=00_Af5FKw5FBt_Xa92mgbDm1t77QH5xQDDqPX70xGpXXgzo5w&oe=6A1611CD",
       "images": [],
       "description": "Người Lự nhuộm răng đen nhánh, giỏi dệt vải với hoa văn sinh động và canh tác lúa nước ven suối.",
       "history": {
@@ -3203,10 +3927,29 @@
         "Khéo tay hay làm",
         "Coi trọng nghề dệt"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Lự",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Lự."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Lự",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Lự."
+        }
+      ]
     },
     {
       "id": "ngai",
+      "orderNo": 49,
       "name": "Ngái",
       "otherNames": [
         "Sán Ngái",
@@ -3221,7 +3964,7 @@
         "Tuyên Quang"
       ],
       "language": "Tiếng Ngái (thuộc hệ ngôn ngữ Hán - Tạng)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536272982_1073553728267364_4886541577598366062_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=JUpmi0UZMVgQ7kNvwG22159&_nc_oc=AdqhrXsfIbYVIoXtgwMr1eOZkkMEeMyn_WGmbLdIuJkKRy54Vj1K9n_1hsQ8RLKk7nE&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=HC-kxt_UACkwCXQKpdpr3g&_nc_ss=7b2a8&oh=00_Af5Bil4lw5XovngpJoq3jL44NQCvYvp7VVSIRLgwRqUCHw&oe=6A15FBAD",
       "images": [],
       "description": "Người Ngái có nguồn gốc từ người Khách Gia (Hakka) Trung Quốc, sống xen kẽ với người Hoa nhưng có bản sắc riêng.",
       "history": {
@@ -3284,10 +4027,22 @@
         "Đoàn kết",
         "Thích ca hát"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Ngái",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Ngái."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Ngái",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Ngái."
+        }
+      ]
     },
     {
       "id": "chut",
+      "orderNo": 42,
       "name": "Chứt",
       "otherNames": [
         "Rục",
@@ -3300,7 +4055,7 @@
         "Quảng Bình"
       ],
       "language": "Tiếng Chứt (ngữ hệ Nam Á, nhóm Việt - Mường)",
-      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540218676_1073555568267180_3667752769522128653_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=oUogKQhH6yUQ7kNvwF8-Fyi&_nc_oc=AdrrOBT6znld0SQowN9_AzRu4VcfA_d23avnybpm9wnuxKRoKrfkiKbncwvYT--Nh58&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=5wiaHLQSPj60qjEJ_8VlcA&_nc_ss=7b2a8&oh=00_Af5jXEoyFUmvu6onlJUo7sU9pKOS78IQ0d0OIm4gAmPcOw&oe=6A1602B5",
       "images": [],
       "description": "Người Chứt (nhất là nhóm Rục) từng sống trong hang đá rêu phong, chỉ mới được phát hiện và định cư từ giữa thế kỷ 20.",
       "history": {
@@ -3359,10 +4114,29 @@
         "Kỹ năng sinh tồn trong rừng cao",
         "Chất phác"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Chứt",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Chứt."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Chứt",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Chứt."
+        }
+      ]
     },
     {
       "id": "lolo",
+      "orderNo": 44,
       "name": "Lô Lô",
       "otherNames": [
         "Mùn Di",
@@ -3377,7 +4151,7 @@
         "Lai Châu"
       ],
       "language": "Tiếng Lô Lô (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540594224_1073555678267169_8881891095719564812_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=DIg0WlygvMkQ7kNvwF0Mxf-&_nc_oc=Adrdte4Wq7QbDPF12tKbxhnzW0V3SsXUSrpL12zeIloarikvcrN247Vw24NEt_-wwD8&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=CUtN5flVSy2orrMVXSJ3OA&_nc_ss=7b2a8&oh=00_Af6DNmyUNOZswPA1xxY_QHd2lgCuODWPju6xBVcRvatjjQ&oe=6A15EF21",
       "images": [],
       "description": "Người Lô Lô sử dụng trống đồng cổ trong tang lễ và có trang phục thêu đắp vải tam giác rực rỡ kỳ công.",
       "history": {
@@ -3440,10 +4214,29 @@
         "Tự hào dân tộc",
         "Giỏi thêu thùa"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Lô Lô",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Lô Lô."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Lô Lô",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Lô Lô."
+        }
+      ]
     },
     {
       "id": "mang",
+      "orderNo": 45,
       "name": "Mảng",
       "otherNames": [
         "Mảng Ư",
@@ -3456,7 +4249,7 @@
         "Điện Biên"
       ],
       "language": "Tiếng Mảng (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540768512_1073554714933932_5819082030882368618_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Y7r2kusQtJcQ7kNvwGlhHRi&_nc_oc=Adq7Mz5QOmMalnoNDBiNh_79CCj8TzSxCE7nsfXCT0ZmuJ9MaAilUyyIzQleZssX89E&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=txejazNosPd_M5nIljFYIQ&_nc_ss=7b2a8&oh=00_Af4k5lT_gdfgGArUZyN_VvrXdj3dZprrQluv4urpC-yDIA&oe=6A161BA7",
       "images": [],
       "description": "Người Mảng có tục xăm cằm đặc trưng mang ý nghĩa thẩm mỹ và trưởng thành.",
       "history": {
@@ -3515,10 +4308,22 @@
         "Chịu khó",
         "Giữ gìn tục xăm cằm cổ xưa"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Mảng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Mảng."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Mảng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Mảng."
+        }
+      ]
     },
     {
       "id": "cong",
+      "orderNo": 48,
       "name": "Cống",
       "otherNames": [
         "Xắm Khống",
@@ -3530,7 +4335,7 @@
         "Điện Biên"
       ],
       "language": "Tiếng Cống (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540163283_1073555778267159_3290601736680667909_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=CNYFNbHsKrMQ7kNvwG7BmXb&_nc_oc=Ado8lzaJ7kp8uOb5GrU-cs3pa_UHzEUm74VHtCzvEorbh1Gequ8AtXqGtJDOzXRTdHw&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=01rwD3_SjNRex_bxOzlXog&_nc_ss=7b2a8&oh=00_Af6pt8JDihy127Z2QJLg08n9kPH3hId5ZejcyLFKMkAoBw&oe=6A160BC2",
       "images": [],
       "description": "Người Cống có lễ tết Ngô rất đặc sắc và là dân tộc giỏi đan lát mây tre bương nhất nhì vùng Tây Bắc.",
       "history": {
@@ -3585,10 +4390,29 @@
         "Sống hòa thuận",
         "Thạo nghề sông nước và đan lát"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Cống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Cống."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Cống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Cống."
+        }
+      ]
     },
     {
       "id": "boy",
+      "orderNo": 47,
       "name": "Bố Y",
       "otherNames": [
         "Chủng Chá",
@@ -3602,7 +4426,7 @@
         "Yên Bái"
       ],
       "language": "Tiếng Bố Y (ngữ hệ Ka Đai)",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/539397124_1073555504933853_7903230571792711980_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=D-rE0nevNw8Q7kNvwGVgqDX&_nc_oc=AdrhdQ7gkVfMFC8kg9mGnHAOnGLuNZw7UOir97R02oPl0VSC4BLEEk7xNWdE_gpYnhk&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=bsNYAuUa7sQpqMk3VXoh2A&_nc_ss=7b2a8&oh=00_Af5DhRElQhhph56WpZzT5WLRo1sj64US5aEBG_AukN9W1g&oe=6A160BE8",
       "images": [],
       "description": "Người Bố Y chủ yếu làm nông nghiệp, làm nhà trình tường và làm mộc rèn rất khéo léo.",
       "history": {
@@ -3669,10 +4493,22 @@
         "Khéo tay",
         "Tôn trọng lễ giáo"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Bố Y",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Bố Y."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Bố Y",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Bố Y."
+        }
+      ]
     },
     {
       "id": "colao",
+      "orderNo": 46,
       "name": "Cờ Lao",
       "otherNames": [
         "Klau",
@@ -3685,7 +4521,7 @@
         "Yên Bái"
       ],
       "language": "Tiếng Cờ Lao (ngữ hệ Ka Đai)",
-      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/539579410_1073554408267296_6027175855306375227_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=-BMOB21w8moQ7kNvwHUaAFC&_nc_oc=AdpPIzaJzVKgboXIQ7iJ_dQ9roz9gYDrX3H1SvdgiZk-gdhw8C4hpJMtktrfkaWT5Mk&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=g3HolmthSkNQW1ttX5_cdw&_nc_ss=7b2a8&oh=00_Af7C4emOM62R3mQRLp0vyHdeqwMJmmos7o0TndyIef5UrQ&oe=6A15FB0A",
       "images": [],
       "description": "Cư trú nơi những sườn núi dốc và vách đá tai mèo, nổi tiếng với kỹ năng canh tác hốc đá gieo ngô.",
       "history": {
@@ -3748,10 +4584,29 @@
         "Chăm chỉ",
         "Sống kín đáo"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Cờ Lao",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Cờ Lao."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Cờ Lao",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Cờ Lao."
+        }
+      ]
     },
     {
       "id": "pupeo",
+      "orderNo": 51,
       "name": "Pu Péo",
       "otherNames": [
         "Ka Bẻo",
@@ -3763,7 +4618,7 @@
         "Hà Giang"
       ],
       "language": "Tiếng Pu Péo (ngữ hệ Ka Đai)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/540506990_1073555398267197_6036112289563785796_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=DQP3VZHXnBgQ7kNvwEf7IWP&_nc_oc=AdrV2nK1eoP1fHY2S4PJ9e7FSQJbFWP-5m2htFAIjRwGKiK8GK9oPwWWG44Lyc0XcNc&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=iTQ_CuUoXP10QWUBBNzlFw&_nc_ss=7b2a8&oh=00_Af7UQjRpI1UMvVIuEKEVEqV70hrh-xRYY11np9nPaBOheg&oe=6A15FAF4",
       "images": [],
       "description": "Người Pu Péo là một trong những dân tộc ít người nhất, với tục cúng rừng thiêng và trang phục đắp vải màu sặc sỡ.",
       "history": {
@@ -3818,10 +4673,29 @@
         "Bảo vệ rừng",
         "Yêu hòa bình"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Pu Péo",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Pu Péo."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Pu Péo",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Pu Péo."
+        }
+      ]
     },
     {
       "id": "sila",
+      "orderNo": 50,
       "name": "Si La",
       "otherNames": [
         "Cú Dề Xừ",
@@ -3833,7 +4707,7 @@
         "Điện Biên"
       ],
       "language": "Tiếng Si La (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540519557_1073554934933910_2345132444430674836_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=M-d_1ynipFEQ7kNvwFPwydV&_nc_oc=Ado0icbnVBbVcalIgjQwsNsqKONFBIi7aXFmphan4RZDsKuPkBah9NG1YoW0zCXQl9Q&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=eJjpt16br_aMvPhR7ZTv7Q&_nc_ss=7b2a8&oh=00_Af41UoOIV3kL0QS8yBmCts3aZHOPuBmsZo92DrzbdFUHsw&oe=6A15F8F1",
       "images": [],
       "description": "Dân tộc ít người có phong tục nhuộm răng đen tẩm bằng cánh kiến đỏ, phụ nữ đính xu bạc đầy trước ngực áo.",
       "history": {
@@ -3892,10 +4766,22 @@
         "Hiền lành",
         "Hòa hợp với thiên nhiên"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Si La",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Si La."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Si La",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Si La."
+        }
+      ]
     },
     {
       "id": "odu",
+      "orderNo": 54,
       "name": "Ơ Đu",
       "otherNames": [
         "Tày Hạt",
@@ -3906,7 +4792,7 @@
         "Nghệ An"
       ],
       "language": "Tiếng Ơ Đu (ngữ hệ Nam Á) - Nay chủ yếu nói tiếng Khơ Mú hoặc Thái",
-      "thumbnail": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540964568_1073554578267279_9169848179293654942_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=gKkLFTTD9VYQ7kNvwHRAWvV&_nc_oc=AdqC43OMhyJDj2naUE1KktKUTk7o8LSTy0dIIXXpMrRIIqhYMmOAQvENkaMHm42yiRs&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=svkv55UKLzt_1UkIoswOuA&_nc_ss=7b2a8&oh=00_Af6GX3BSdc1wEupvFhS3aa29M96gF6Sc_Q1ipS14NWYasQ&oe=6A160023",
       "images": [],
       "description": "Là dân tộc có số dân ít nhất Việt Nam, đang đứng trước nguy cơ mai một văn hóa và ngôn ngữ truyền thống.",
       "history": {
@@ -3969,10 +4855,22 @@
         "Dễ đồng hóa",
         "Hiền lành"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Ơ Đu",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Ơ Đu."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Ơ Đu",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Ơ Đu."
+        }
+      ]
     },
     {
       "id": "romam",
+      "orderNo": 52,
       "name": "Rơ Măm",
       "otherNames": [
         "Rong Mam"
@@ -3982,7 +4880,7 @@
         "Kon Tum"
       ],
       "language": "Tiếng Rơ Măm (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540589495_1073555701600500_9199702526155125452_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=zSrLNCDw6OUQ7kNvwHIHjAp&_nc_oc=AdqHgr5byTufnih-FPOiwW73Qv9zo85f3y17JtN5pJazdzVDTSDLACT8A9eZUnOb7xE&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=ykf-ju07uXo8iHNPnL9ptQ&_nc_ss=7b2a8&oh=00_Af7AtZvbBEUYTyiLnC1hSBO_MoXfcAz8Y1Rqneq6XwZh2w&oe=6A15EEDE",
       "images": [],
       "description": "Người Rơ Măm cư trú duy nhất tại làng Le (Kon Tum), có tục xăm mặt, cưa răng và làm nương rẫy hốc đá.",
       "history": {
@@ -4049,10 +4947,29 @@
         "Phóng khoáng",
         "Trọng lễ nghi tín ngưỡng"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Rơ Măm",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Rơ Măm."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Rơ Măm",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Rơ Măm."
+        }
+      ]
     },
     {
       "id": "brau",
+      "orderNo": 53,
       "name": "Brâu",
       "otherNames": [
         "Brao",
@@ -4063,7 +4980,7 @@
         "Kon Tum"
       ],
       "language": "Tiếng Brâu (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540692356_1073555368267200_8431722915880646244_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=YwIPcytn-F4Q7kNvwFZ5vpB&_nc_oc=AdoYFEmnYK80iJXUbNNyHYSlY4ny_-8V06OhtAeWtsgaA4UOBzeoufVucGmm-in_4-Q&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=_I7CuEEYg8mkKfpv7gAYlg&_nc_ss=7b2a8&oh=00_Af5yTrsumSXEjzEcRSjLXdUASlQzaHOk5jr8s-xX46DDtw&oe=6A15FCC1",
       "images": [],
       "description": "Người Brâu chỉ có một làng duy nhất ở Việt Nam (làng Đắk Mế). Họ có truyền thống đánh cồng chiêng Tha rất quý giá.",
       "history": {
@@ -4122,10 +5039,29 @@
         "Gắn bó với cồng chiêng",
         "Thật thà, dũng cảm"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Brâu",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Brâu."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Brâu",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Brâu."
+        }
+      ]
     },
     {
       "id": "xtieng",
+      "orderNo": 21,
       "name": "Xtiêng",
       "otherNames": [
         "Xa Điêng",
@@ -4139,7 +5075,7 @@
         "Đồng Nai"
       ],
       "language": "Tiếng Xtiêng (ngữ hệ Nam Á)",
-      "thumbnail": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/539925388_1073550968267640_6155595176305917767_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZFu8cfFJytwQ7kNvwEgLoWS&_nc_oc=Adr9p5w_fZTSSLkC2NMQUK8CS6kfpZU7jiN8As_6gSH8f2MLDzsoxoND-KfM38aQVkY&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=JLZQ2HSgdI_PTvFMClEl1g&_nc_ss=7b2a8&oh=00_Af4YiNCGSaqnBi-QkjHIb7rjV3WMKvUqrzMhFQ56r61r7Q&oe=6A16093C",
       "images": [],
       "description": "Người Xtiêng gắn bó với rừng xanh Đông Nam Bộ, dệt thổ cẩm đẹp và có tinh thần tự lực cao.",
       "history": {
@@ -4206,10 +5142,22 @@
         "Gan dạ",
         "Tôn trọng các trưởng lão làng"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "music": [
+        {
+          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
+          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
+          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Xtiêng, Kiệt tác truyền khẩu phi vật thể nhân loại."
+        },
+        {
+          "title": "Độc tấu Đàn T'rưng",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Xtiêng."
+        }
+      ]
     },
     {
       "id": "phula",
+      "orderNo": 38,
       "name": "Phù Lá",
       "otherNames": [
         "Xá Phó",
@@ -4224,7 +5172,7 @@
         "Hà Giang"
       ],
       "language": "Tiếng Phù Lá (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540903570_1073553984934005_8090647307573750101_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ithbsLUwYw0Q7kNvwFuhflZ&_nc_oc=AdqOlEZo4RAC0Irf-pSU7lGJEeBSMOEqTmLEtCyiWA3dNQj0Y1Ex3e7YWqsVaP_UG58&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=klEBnWf6PcxK4A0PfhEJGA&_nc_ss=7b2a8&oh=00_Af5V32Z1YuEuAVfMW_xcYRnjbEpWJ4_H8AnlwwA_4oUjdQ&oe=6A16115C",
       "images": [],
       "description": "Người Phù Lá có nghệ thuật trang trí trang phục bằng hạt cườm sinh động, giỏ mây đan cài hai mặt tinh xảo.",
       "history": {
@@ -4287,7 +5235,25 @@
         "Chăm chỉ",
         "Khéo tay trong dệt và đan lát"
       ],
-      "videoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "videos": [
+        {
+          "title": "Văn hóa truyền thống",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Khám phá văn hóa truyền thống độc đáo"
+        }
+      ],
+      "music": [
+        {
+          "title": "Dân ca cổ truyền dân tộc Phù Lá",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Phù Lá."
+        },
+        {
+          "title": "Nhạc cụ truyền thống người Phù Lá",
+          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Phù Lá."
+        }
+      ]
     }
   ],
   "detailPage": {
@@ -4338,7 +5304,11 @@
       "eyebrow": "Video tư liệu",
       "title": "Sắc màu văn hóa",
       "description": "Một đoạn video tư liệu giúp người xem cảm nhận rõ hơn về đời sống, trang phục và không gian văn hóa của cộng đồng.",
-      "defaultVideoUrl": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1"
+      "defaultVideo": {
+        "title": "Tư liệu văn hóa 54 dân tộc Việt Nam",
+        "url": "https://www.youtube.com/embed/U81DXgr7fUU?rel=0&modestbranding=1",
+        "description": "Một góc nhìn tổng quan về đời sống, trang phục và bản sắc của các cộng đồng dân tộc Việt Nam."
+      }
     },
     "actions": {
       "backHome": "Quay về trang chủ"
