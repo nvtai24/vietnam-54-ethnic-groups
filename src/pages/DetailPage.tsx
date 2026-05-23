@@ -153,13 +153,13 @@ const DetailPage = () => {
               </h1>
 
               {group.otherNames && group.otherNames.length > 0 && (
-                <p className="mt-5 max-w-[640px] text-sm font-black uppercase leading-tight text-[#15110f]">
+                <p className="mt-5 max-w-[640px] text-sm font-bold leading-tight text-[#15110f]">
                   {detailPage.hero.otherNamesLabel}:{" "}
                   {group.otherNames.join(", ")}
                 </p>
               )}
 
-              <p className="mt-7 max-w-[680px] text-lg font-black uppercase leading-tight text-[#15110f] sm:text-2xl">
+              <p className="mt-7 max-w-[680px] text-lg font-bold leading-[1.5] text-[#15110f] sm:text-xl">
                 {group.description}
               </p>
 
@@ -172,7 +172,7 @@ const DetailPage = () => {
                     <p className="text-[0.62rem] font-black uppercase tracking-[0.16em] text-[#b0160b]">
                       {label}
                     </p>
-                    <p className="mt-3 text-sm font-black uppercase leading-tight">
+                    <p className="mt-3 text-xs font-bold leading-[1.3]">
                       {value}
                     </p>
                   </div>
@@ -252,7 +252,7 @@ const DetailPage = () => {
             <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
               {detailPage.historySection.eyebrow}
             </p>
-            <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] text-[#b0160b] sm:text-7xl">
+            <h2 className="mt-3 text-3xl font-black uppercase leading-[0.88] tracking-[0.05em] text-[#b0160b] sm:text-4xl">
               {detailPage.historySection.title}
             </h2>
             <p className="mt-7 max-w-[760px] text-base font-bold leading-7">
@@ -303,7 +303,7 @@ const DetailPage = () => {
             <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
               {detailPage.materialCultureSection.eyebrow}
             </p>
-            <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] text-[#b0160b] sm:text-7xl">
+            <h2 className="mt-3 text-3xl font-black uppercase leading-[0.88] tracking-[0.05em] text-[#b0160b] sm:text-4xl">
               {detailPage.materialCultureSection.title}
             </h2>
             <div className="mt-8 grid gap-4">
@@ -312,7 +312,7 @@ const DetailPage = () => {
                   key={title}
                   className="border-l-4 border-[#b0160b] bg-[#f8f4ec] px-5 py-4"
                 >
-                  <h3 className="text-2xl font-black uppercase leading-none">
+                  <h3 className="text-xl font-black uppercase leading-none tracking-[0.04em]">
                     {title}
                   </h3>
                   <p className="mt-3 text-sm font-bold leading-6">{text}</p>
@@ -330,7 +330,7 @@ const DetailPage = () => {
               <p className="text-xs font-black uppercase tracking-[0.18em] text-[#f8f4ec]/72">
                 {detailPage.lifeSection.eyebrow}
               </p>
-              <h2 className="mt-3 text-3xl font-black uppercase leading-tight sm:text-5xl">
+              <h2 className="mt-3 text-3xl font-black uppercase leading-tight tracking-[0.05em] sm:text-4xl">
                 {detailPage.lifeSection.title}
               </h2>
             </div>
@@ -375,7 +375,7 @@ const DetailPage = () => {
                         : "border-[#b0160b]"
                     }`}
                   >
-                    <h3 className="text-3xl font-black uppercase leading-none">
+                    <h3 className="text-xl font-black uppercase leading-none tracking-[0.04em]">
                       {sectionTitle}
                     </h3>
                   </div>
@@ -439,7 +439,7 @@ const DetailPage = () => {
             <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
               {detailPage.identitySection.eyebrow}
             </p>
-            <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] text-[#b0160b] sm:text-7xl">
+            <h2 className="mt-3 text-3xl font-black uppercase leading-[0.88] tracking-[0.05em] text-[#b0160b] sm:text-4xl">
               {detailPage.identitySection.title}
             </h2>
           </div>
@@ -447,7 +447,7 @@ const DetailPage = () => {
           <div className="grid gap-3 sm:grid-cols-2">
             {group.characteristics.map((char) => (
               <div key={char} className="border-2 border-[#15110f] bg-[#f8f4ec] p-5">
-                <p className="text-xl font-black uppercase leading-tight">
+                <p className="text-xl font-bold leading-tight">
                   {char}
                 </p>
               </div>
@@ -464,7 +464,7 @@ const DetailPage = () => {
               <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b0160b]">
                 {detailPage.mediaSection.eyebrow}
               </p>
-              <h2 className="mt-3 text-5xl font-black uppercase leading-[0.88] text-[#b0160b] sm:text-7xl">
+              <h2 className="mt-3 text-3xl font-black uppercase leading-[0.88] tracking-[0.05em] text-[#b0160b] sm:text-4xl">
                 {detailPage.mediaSection.title}
               </h2>
             </div>
@@ -484,7 +484,7 @@ const DetailPage = () => {
               ></iframe>
             </div>
             <div className="p-5">
-              <h3 className="text-2xl font-black uppercase leading-tight">
+              <h3 className="text-xl font-black uppercase leading-tight tracking-[0.04em]">
                 {videosToShow[0].title}
               </h3>
               <p className="mt-3 text-sm font-bold leading-6 text-[#15110f]/70">

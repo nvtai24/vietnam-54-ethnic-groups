@@ -136,12 +136,12 @@ const HomePage = () => {
               </h1>
 
               <div className="mt-8 grid gap-5 border-l-4 border-[#b0160b] pl-5 md:grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)] md:items-end">
-                <p className="text-sm font-black uppercase leading-[0.95] text-[#15110f] sm:text-base">
+                <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base">
                   Một bản đồ văn hóa sống động của các cộng đồng trên dải đất
                   hình chữ S.
                 </p>
                 <div className="md:text-right">
-                  <p className="text-sm font-black uppercase leading-[0.95] text-[#15110f] sm:text-base">
+                  <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base">
                     Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng
                     dân tộc.
                   </p>
