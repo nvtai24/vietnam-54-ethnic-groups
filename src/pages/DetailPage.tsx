@@ -21,6 +21,7 @@ const DetailPage = () => {
     title: string;
     url: string;
     description: string;
+    index?: number;
   } | null>(null);
 
   useEffect(() => {
@@ -36,6 +37,7 @@ const DetailPage = () => {
         title: defaultVideo.title,
         url: defaultVideo.url,
         description: defaultVideo.description,
+        index: 0,
       });
     }
   }, [id, group, detailPage]);
@@ -539,7 +541,7 @@ const DetailPage = () => {
                 </h4>
                 <div className="flex flex-col gap-2">
                   {videosToShow.map((item, index) => {
-                    const isSelected = activeMedia?.type === "video" && activeMedia.url === item.url;
+                    const isSelected = activeMedia?.type === "video" && activeMedia.index === index;
                     return (
                       <button
                         key={`video-${index}`}
@@ -547,7 +549,8 @@ const DetailPage = () => {
                           type: "video",
                           title: item.title,
                           url: item.url,
-                          description: item.description
+                          description: item.description,
+                          index: index,
                         })}
                         className={`w-full text-left p-3 border-2 transition-all flex items-start gap-3 ${
                           isSelected
@@ -582,7 +585,7 @@ const DetailPage = () => {
                   </h4>
                   <div className="flex flex-col gap-2">
                     {group.music.map((item, index) => {
-                      const isSelected = activeMedia?.type === "music" && activeMedia.url === item.url;
+                      const isSelected = activeMedia?.type === "music" && activeMedia.index === index;
                       return (
                         <button
                           key={`music-${index}`}
@@ -590,7 +593,8 @@ const DetailPage = () => {
                             type: "music",
                             title: item.title,
                             url: item.url,
-                            description: item.description
+                            description: item.description,
+                            index: index,
                           })}
                           className={`w-full text-left p-3 border-2 transition-all flex items-start gap-3 ${
                             isSelected
