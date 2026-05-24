@@ -391,7 +391,7 @@ const HomePage = () => {
 
       <footer className="border-t-2 border-[#b0160b] bg-[#f8f4ec] px-6 py-8 text-center text-[#15110f] sm:px-10">
         <p className="text-xs font-black uppercase tracking-[0.14em]">
-          © 2026 - Sản phẩm sáng tạo môn Chủ nghĩa Khoa học Xã hội
+          © 2026 - Sản phẩm sáng tạo môn Chủ nghĩa Xã hội Khoa học
         </p>
       </footer>
     </div>
