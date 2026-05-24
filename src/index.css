@@ -152,3 +152,50 @@ h3,
     animation-duration: 220s;
   }
 }
+
+/* Mouse scroll animation */
+.scroll-down-mouse {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scroll-down-mouse-body {
+  width: 24px;
+  height: 38px;
+  border: 2.5px solid #f8f4ec;
+  border-radius: 12px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding-top: 6px;
+}
+
+.scroll-down-mouse-wheel {
+  width: 3px;
+  height: 8px;
+  background-color: #f8f4ec;
+  border-radius: 2px;
+  animation: scroll-wheel 1.8s ease-in-out infinite;
+}
+
+@keyframes scroll-wheel {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  50% {
+    opacity: 0.5;
+    transform: translateY(12px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scroll-down-mouse-wheel {
+    animation: none;
+  }
+}

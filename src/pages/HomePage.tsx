@@ -137,23 +137,15 @@ const HomePage = () => {
                 Việt Nam
               </h1>
 
-              <div className="mt-8 grid gap-5 border-l-4 border-[#b0160b] pl-5 md:grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)] md:items-end">
+              <div className="mt-8 grid gap-5 border-l-4 border-[#b0160b] pl-5 md:grid-cols-2">
                 <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base">
                   Một bản đồ văn hóa sống động của các cộng đồng trên dải đất
                   hình chữ S.
                 </p>
-                <div className="md:text-right">
-                  <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base">
-                    Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng
-                    dân tộc.
-                  </p>
-                  <a
-                    href="#groups"
-                    className="mt-6 inline-flex h-11 items-center border-2 border-[#b0160b] bg-[#b0160b] px-5 text-xs font-black uppercase tracking-[0.14em] text-[#f8f4ec] transition hover:bg-transparent hover:text-[#b0160b]"
-                  >
-                    Bắt đầu
-                  </a>
-                </div>
+                <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base md:text-right">
+                  Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng
+                  dân tộc.
+                </p>
               </div>
             </div>
 
@@ -206,6 +198,19 @@ const HomePage = () => {
             <p>Since 2026</p>
             <p>vietnam-54ethnic-groups</p>
           </div>
+
+          {/* Scroll mouse icon - centered on screen */}
+          <a
+            href="#groups"
+            className="absolute left-1/2 bottom-12 z-30 -translate-x-1/2 transition hover:opacity-70"
+            aria-label="Cuộn xuống để khám phá"
+          >
+            <div className="scroll-down-mouse">
+              <div className="scroll-down-mouse-body">
+                <span className="scroll-down-mouse-wheel"></span>
+              </div>
+            </div>
+          </a>
         </div>
       </section>
 
