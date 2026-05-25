@@ -1850,12 +1850,12 @@
       ],
       "language": "Tiếng Mnông (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541117099_1073551051600965_3006572068000475070_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Uag73ib67loQ7kNvwFmAFC9&_nc_oc=AdqtnqTstsbCaSbvv79R8O3Hoy8USZZlCX3wSZsRG319ZryKCJ84lEsGLruE9uBntoA&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=J7l8s4qbdVDB_KUZ89Wnmg&_nc_ss=7b2a8&oh=00_Af4EAVp1YOHpR_ycNTHoaIuhVNgwLF9F4PiXsEvrS1fRNw&oe=6A15E8CB",
-      "images": [],
+      "images": ["https://vnn.1cdn.vn/2025/04/28/uploads-2025-thang-4-ngay-28-anh-4-hinh-2-mnong.jpg","https://dotchuoinon.com/wp-content/uploads/2015/04/mnong4.jpg", "https://cdnmedia.baotintuc.vn/2016/01/09/17/47/mnong-5.jpg", "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2023/10/22/dac-sac-le-hoi-ket-nghia-buon-lang-cua-nguoi-mnong11-16979609820181061329930.jpg", "https://dulichvn.org.vn/nhaptin/uploads/images/trangphucmnong.jpg", "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/082023/09/10/2-copy20230809103905.jpg?rt=20230809104124"],
       "description": "Người Mnông nổi tiếng với nghề thuần dưỡng voi rừng và truyền thuyết về các dũng sĩ, các sử thi Ót N'rông.",
       "history": {
         "description": "Cư dân bản địa định cư lâu đời trên vùng cao nguyên M'Nông.",
         "imageUrls": [
-          "https://media.thanhtra.com.vn/public/data/images/0/2021/11/06/huytuong/4.jpg?w=1600",
+          "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/082023/09/10/1-copy20230809103904.jpg?rt=20230809103923",
           "https://cdnphoto.dantri.com.vn/NCdsK_4KC-Dtj04eciWm3zJeMoM=/thumb_w/990/2021/09/01/01092021nguoi-mang-tran-tro-de-buon-lang-cach-mang-thoat-ngheoduong-phongdocx-1630475863914.jpeg"
         ]
       },
@@ -1863,29 +1863,29 @@
         "festivals": [
           {
             "name": "Lễ đâm trâu",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20%C4%91%C3%A2m%20tr%C3%A2u%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://cdn3.ivivu.com/2022/10/le-hoi-dam-trau-ivivu.jpg"
           },
           {
             "name": "Lễ mừng lúa mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20m%E1%BB%ABng%20l%C3%BAa%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://daknong.1cdn.vn/2022/06/21/baodaknong.org.vn-database-image-2022-06-21-_3863-vh-1.jpg"
           },
           {
             "name": "Lễ hội cúng bến nước",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20b%E1%BA%BFn%20n%C6%B0%E1%BB%9Bc%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://daknong.1cdn.vn/2024/12/11/z6119315838066_4342ff509b9e4f552603eef8965dbaf4(1).jpg"
           }
         ],
         "customs": [
           {
             "name": "Chế độ mẫu hệ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20m%E1%BA%ABu%20h%E1%BB%87%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/082023/09/10/1-copy20230809103904.jpg?rt=20230809103923"
           },
           {
             "name": "Thuần dưỡng voi",
-            "imageUrl": "https://source.unsplash.com/900x700/?Thu%E1%BA%A7n%20d%C6%B0%E1%BB%A1ng%20voi%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://daklakmuseum.vn/baotangdaklak/imgs/174244143624811.jpeg"
           },
           {
             "name": "Sử thi Ót N'rông",
-            "imageUrl": "https://source.unsplash.com/900x700/?S%E1%BB%AD%20thi%20%C3%93t%20N'r%C3%B4ng%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://daknong.1cdn.vn/2022/05/06/baodaknong.org.vn-database-image-2022-05-06-_vh.jpg"
           }
         ],
         "clothing": "Nam đóng khố, nữ quấn váy vắt chéo qua vai. Vải chàm đen điểm hoa văn đỏ rực.",
@@ -1893,15 +1893,15 @@
         "cuisine": [
           {
             "name": "Canh thụt",
-            "imageUrl": "https://source.unsplash.com/900x700/?Canh%20th%E1%BB%A5t%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://cdnv2.tgdd.vn/mwg-static/common/Common/canh-thut.jpg"
           },
           {
             "name": "Cà đắng nấu mẻ",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A0%20%C4%91%E1%BA%AFng%20n%E1%BA%A5u%20m%E1%BA%BB%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/canh-ca-dang-ca-kho-thumbnail.jpg"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://daknong.1cdn.vn/2022/11/04/baodaknong.org.vn-database-image-2022-11-04-_3963-vh-4.jpg"
           }
         ],
         "housing": "Nhà trệt hoặc nhà sàn thấp, vách trát bùn nhào rơm hoặc đan phên tre.",
@@ -1950,7 +1950,12 @@
       ],
       "language": "Tiếng Ra Glai (ngữ hệ Nam Đảo)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/541788402_1073550924934311_159609343159412049_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=zuJ-DUOtcW0Q7kNvwGhkweu&_nc_oc=Adqlx4y0XNe1odKqLc4KYggCnivLnHpjd3rT_aIpwW4rddx8vLhMOgz7RKyijauwgk0&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=n23yIt5Kz0GSqVvj73IgKA&_nc_ss=7b2a8&oh=00_Af6fvRz7VR-31uWvjTRw-eAsTU16oL_D_JcpI-CL6WPgAA&oe=6A160FA1",
-      "images": [],
+      "images": ["https://phunuvietnam.mediacdn.vn/179072216278405120/2025/8/26/anh1-1756184089128278188047.jpg","https://baokhanhhoa.vn/CMSImage/Resources/Uploaded/tbtdaduyet/1/raglai-2-2022-08-12-18-14.jpg",
+      "https://danviet.ex-cdn.com/files/f1/upload/3-2015/images/2015-07-16/1437003683-raglai-2nto-2013-08-29-18-26.jpg",
+      "https://cdn.diaocthongthai.com/2020/12/dan-toc-ra-glai.jpg",
+      "https://thegioidisan.vn/assets/media/Ra-Glai2.JPG",
+      "https://trekking-camping.com/wp-content/uploads/2020/09/mi-khch-ung-ru-cn-1024x645.jpg"
+      ],
       "description": "Người Ra Glai có mối quan hệ gần gũi với người Chăm, chế độ mẫu hệ và cây đàn Chapi nổi tiếng.",
       "history": {
         "description": "Ra Glai có nghĩa là 'người rừng', là nhóm cư dân bản địa lâu đời ở vùng nam Trung Bộ.",
@@ -1964,21 +1969,21 @@
         "festivals": [
           {
             "name": "Lễ bỏ mả",
-            "imageUrl": "https://www.vme.org.vn/content/uploads/cms/2024/06/20/raglai1.png"
+            "imageUrl": "https://media.thanhtra.com.vn/public/data/images/0/2021/10/30/huytuong/anh-2-1.jpg?w=1319"
           },
           {
             "name": "Lễ ăn mừng lúa mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20%C4%83n%20m%E1%BB%ABng%20l%C3%BAa%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://static-images.vanhoanghethuat.vn/datasite///201807/BAI_VIET_20350/IMG_8576.JPG?width=0&s=hofvmaFfX06GUZbihnKbYQ"
           }
         ],
         "customs": [
           {
             "name": "Chế độ mẫu hệ tuyệt đối",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20m%E1%BA%ABu%20h%E1%BB%87%20tuy%E1%BB%87t%20%C4%91%E1%BB%91i%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2018/11/30/GIALAI-lecuoi1-JPG-3867-1543576722.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=U5ZRN1uE_SbZytgTtPN3YA"
           },
           {
             "name": "Đàn Chapi, Mã la (một loại cồng chiêng)",
-            "imageUrl": "https://source.unsplash.com/900x700/?%C4%90%C3%A0n%20Chapi%2C%20M%C3%A3%20la%20(m%E1%BB%99t%20lo%E1%BA%A1i%20c%E1%BB%93ng%20chi%C3%AAng)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2021/01/01/Dan-Chapi-cung-ken-bau-va-sau-7812-8030-1609490030.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=UhD7aMHKUl9SfarnPkDGVA"
           }
         ],
         "clothing": "Mặc quần áo vải thô dệt thủ công màu đen nhạt, điểm dải băng đỏ.",
@@ -1986,15 +1991,15 @@
         "cuisine": [
           {
             "name": "Cơm lam ống nứa",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20lam%20%E1%BB%91ng%20n%E1%BB%A9a%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://vietfood.org.vn/wp-content/uploads/2022/03/comlam3.jpg"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2021/12/31/990395/Un-Ruou-Can.jpg"
           },
           {
             "name": "Thịt lợn đen nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20l%E1%BB%A3n%20%C4%91en%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://shoptaybac.com/wp-content/uploads/2025/04/Thit-lon-nuong-than-hoa-thom-ngon-dac-trung-1.png"
           }
         ],
         "housing": "Nhà sàn, mái tranh, vách nứa, thường cất trên sườn đồi.",
@@ -2043,7 +2048,12 @@
       ],
       "language": "Tiếng Bru - Vân Kiều (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536267956_1073551068267630_6703952735465748583_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6UJN6YspEHgQ7kNvwEUa584&_nc_oc=Adr3-plyIildwU9tnAWHx2CemEoQf-7R-WaJcn81ZjY9TiqRJtMU_Ci6BikQqlrDGY4&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=vsWqtWQ8cAiPxvtZ2ujAEQ&_nc_ss=7b2a8&oh=00_Af6VSadB4GACKiDezgmLg_-fkmnVajKBv9s163PJGqgmwA&oe=6A160C9B",
-      "images": [],
+      "images": ["https://ttdn.vn/Uploads/Images/2024/3/10/5/7734-7-3-10-3.9.jpg",
+      "https://ati.net.vn/wp-content/uploads/2023/05/dan-toc-bru-van-kieu-1.jpg",
+      "https://toquoc.mediacdn.vn/280518851207290880/2024/2/24/chu-tich-nuoc-vo-van-thuong-tham-du-le-hoi-tria-lua-cua-dong-bao-dan-toc-bru-van-kieu-6-17087670727671424222201.jpg",
+      "https://quocphongthudo.com.vn/upload/2001606/20200730/f7ac95a724b55f844a1c68da09587a643_14_.JPG",
+      "https://thegioidisan.vn/assets/media/2016/Thang%204/0642016/van-kieu1.jpg",
+      "https://ati.net.vn/wp-content/uploads/2023/05/dan-toc-bru-van-kieu.jpg"],
       "description": "Dân tộc Bru - Vân Kiều cư trú dọc theo dãy Trường Sơn, mang họ Hồ của Bác Hồ và có lòng yêu nước nồng nàn.",
       "history": {
         "description": "Người Bru-Vân Kiều là cư dân cư trú lâu đời ở khu vực Trung Trường Sơn.",
@@ -2056,25 +2066,25 @@
         "festivals": [
           {
             "name": "Lễ hội đập trống (Maccoong)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20%C4%91%E1%BA%ADp%20tr%E1%BB%91ng%20(Maccoong)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/022023/07/10/c137a739-fcf4-4b01-9204-72294a9f7efd20230207100752.jpg?rt=20230207100755"
           },
           {
             "name": "Lễ mừng lúa mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20m%E1%BB%ABng%20l%C3%BAa%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://quangbinhtravel.vn/wp-content/uploads/2024/09/mung-com-moi1.jpg"
           }
         ],
         "customs": [
           {
             "name": "Mang họ Hồ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Mang%20h%E1%BB%8D%20H%E1%BB%93%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://thanhnien.mediacdn.vn/Uploaded/minhnguyet/2022_06_11/nguoi-van-kieu1-4414.jpg"
           },
           {
             "name": "Cúng thần núi, thần nước",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%BAng%20th%E1%BA%A7n%20n%C3%BAi%2C%20th%E1%BA%A7n%20n%C6%B0%E1%BB%9Bc%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cdnphoto.dantri.com.vn/YhtExu48nfPB2bzJQNsBldEICck=/thumb_w/1920/2023/12/02/le-hoi-tria-lua-5-1701478370162.jpg"
           },
           {
             "name": "Tục nối dây (em trai lấy chị dâu góa)",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20n%E1%BB%91i%20d%C3%A2y%20(em%20trai%20l%E1%BA%A5y%20ch%E1%BB%8B%20d%C3%A2u%20g%C3%B3a)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://vnn.1cdn.vn/thumbs/1200x630/2025/10/17/uploads-2025-thang-10-ngay-16-root33-anh-12t34.jpg"
           }
         ],
         "clothing": "Nữ mặc áo xẻ ngực, váy màu đen/chàm; nam đóng khố, cởi trần hoặc mặc áo cánh.",
@@ -2082,19 +2092,19 @@
         "cuisine": [
           {
             "name": "Cơm nếp",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20n%E1%BA%BFp%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://cdn.nbtv.vn/upload/news/6_2022/am_30_20172729062022.jpg"
           },
           {
             "name": "Thịt nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://afamilycdn.com/150157425591193600/2025/5/4/avatar1746366257074-17463662610661872858063.jpg"
           },
           {
             "name": "Cá suối nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A1%20su%E1%BB%91i%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoj9uQRoDHezWU4zPua_4KIe4oDUMgsfUTXw&s"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/490952491_122164200656549782_1651172904777533628_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YijDrww92TQQ7kNvwHX6tsr&_nc_oc=Adq77OyhHMBegutiyrryNdpfEvso1QX55uhgVfxPGh4hruIhnm-6h60RG8RVfdxj0Bs&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&_nc_gid=GnUXCJ2MKwb3T4ahuZLG7g&_nc_ss=7a2a8&oh=00_Af7yGzzpLLLAepj-QAEXWFwzuaBrad7apFa_l9ciRQHrmg&oe=6A1A2B36"
           }
         ],
         "housing": "Nhà sàn nhỏ hình khum khum như mai rùa.",
@@ -2143,7 +2153,12 @@
       ],
       "language": "Tiếng Thổ (ngữ hệ Nam Á, cùng nhóm Việt-Mường)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/541660682_1073549841601086_372441228483807640_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=plG6FWf53hIQ7kNvwET42Of&_nc_oc=AdrzqdW2a0BwSVs9gmVyyrZb9KqjwDMmZcnALYVPtAowzEx30hh47Q9CvFacaeFPmYQ&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=bN8lkl6-5gpx0QWlO-d8kQ&_nc_ss=7b2a8&oh=00_Af6Spit_d2W3ITiXbjAuLcOXdNopY8rsVZH5ZQVlYlTEEg&oe=6A15FDBF",
-      "images": [],
+      "images": ["https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/032024/den6_20240324133623.jpg", 
+      "https://bvhttdl.gov.vn/uploads/2025/12/16/610869/1376670931794003.jpg",
+      "https://vnn.1cdn.vn/2021/09/30/uploads-2021-th-c3-a1ng-209-ng-c3-a0y_30-anh-34530387_728793510624524_208201421596655616_n.jpg", 
+      "https://media.nghean24h.vn/thumb_x480x250/2018/4/19/27/87-1524109316.jpg",
+      "https://cdnmedia.baotintuc.vn/Upload/c2tvplmdloSDblsn03qN2Q/files/2024/10/17/van-hoa-cong-chieng-nghe-an-17102024a.jpg",
+      "https://vietnamtourism.vn/imguploads/tourist/2014/VNDatNuocConNguoi/01Khaiquatchung/03Dancu/49Dantoctho.jpg"],
       "description": "Người Thổ cư trú ở vùng giao thoa giữa người Việt và người Mường, có nét văn hóa pha trộn đặc sắc.",
       "history": {
         "description": "Có nguồn gốc hình thành từ sự giao lưu, hòa huyết giữa các nhóm Việt cổ và Mường.",
@@ -2156,21 +2171,21 @@
         "festivals": [
           {
             "name": "Lễ bốc mả",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20b%E1%BB%91c%20m%E1%BA%A3%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://vanhoatinnguong.vn/Uploads/images/le-boc-mo1.jpg"
           },
           {
             "name": "Tết Nguyên Đán",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Nguy%C3%AAn%20%C4%90%C3%A1n%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://cly.1cdn.vn/2024/01/24/217d2112129t2678l5-3a.jpg"
           }
         ],
         "customs": [
           {
             "name": "Cúng ma nhà",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%BAng%20ma%20nh%C3%A0%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cly.1cdn.vn/2023/12/13/anh-1(1).jpg"
           },
           {
             "name": "Ngủ âm (nam nữ chưa vợ chồng ngủ tập thể để tìm hiểu)",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ng%E1%BB%A7%20%C3%A2m%20(nam%20n%E1%BB%AF%20ch%C6%B0a%20v%E1%BB%A3%20ch%E1%BB%93ng%20ng%E1%BB%A7%20t%E1%BA%ADp%20th%E1%BB%83%20%C4%91%E1%BB%83%20t%C3%ACm%20hi%E1%BB%83u)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cdn-i.doisongphapluat.com.vn/397/2015/3/4/anh%20tu%20lieu%20(2).jpg"
           }
         ],
         "clothing": "Phụ nữ mua váy của người Thái, áo cánh giống người Việt. Không có nghề dệt.",
@@ -2178,19 +2193,19 @@
         "cuisine": [
           {
             "name": "Ốc luộc",
-            "imageUrl": "https://source.unsplash.com/900x700/?%E1%BB%90c%20lu%E1%BB%99c%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://danviet.ex-cdn.com/files/f1/2020/12/28/1608967160-b3ac42194476a7a5c20a5b7ce99db222-1609144348062-16091443492241458932155.jpg"
           },
           {
             "name": "Rau đồ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Rau%20%C4%91%E1%BB%93%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://file3.qdnd.vn/data/images/14/2022/08/03/lienviet/screen%20shot%202022-08-03%20at%2015%2000%2022.png?dpi=150&quality=100&w=870"
           },
           {
             "name": "Thịt rừng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20r%E1%BB%ABng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://dulichlaichau.vn/mypicture/images/Nm2024/Thng5Trang/2-am-thuc.jpg"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://baothainguyen.vn/file/oldimage/baothainguyen/UserFiles/image/can(1).jpg"
           }
         ],
         "housing": "Nhà sàn, gần gũi kiến trúc nhà người Thái hoặc Mường.",
@@ -2233,7 +2248,11 @@
       ],
       "language": "Tiếng Giáy (ngữ hệ Tày-Thái)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/539247040_1073550724934331_7255742890453281826_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=mF203gj7bjIQ7kNvwHEhKg2&_nc_oc=AdoOMrRzrtEPkXiUEJ0T9J9gAQknE2angADEvzVvy9s6wiNY6EZ9Cocdp7jAHm988Qg&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=clXyS2bKAryVsE6O3rGIwg&_nc_ss=7b2a8&oh=00_Af7N_vhFSIhSZLFA_UJWXYdiH0VrawwxuOMFRgHkqEKh2A&oe=6A160543",
-      "images": [],
+      "images": ["https://vov4.vov.vn/sites/default/files/styles/large/public/2023-03/01.jpg", "https://icdn.dantri.com.vn/thumb_w/960/2019/07/20/xao-xuyen-net-dep-sac-nuoc-huong-troidocx-1563631475561.jpeg", 
+      "https://files.bdttg.gov.vn/contentfolder/ubdt/source_files/2015/11/04/15481171_ng%C6%B0%E1%BB%9Di%20gi%C3%A1y_15-11-04.jpg", 
+      "https://file3.qdnd.vn/data/images/0/2023/10/30/upload_1021/huong%20giay%20sa%20pa%201.jpeg",
+      "https://i.ytimg.com/vi/x0v4cfA6Eyc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwbaaNhibFRSXfWs88wEfV_5wVpQ",
+      "https://vanhoavaphattrien.vn/uploads/images/2021/07/18/dan-toc-giay-1626567431.jpg"],
       "description": "Người Giáy cư trú chủ yếu ở vùng thung lũng, giỏi trồng lúa nước và làm các món bánh truyền thống ngon miệng.",
       "history": {
         "description": "Di cư từ Trung Quốc vào Việt Nam khoảng 200 năm trước.",
@@ -2246,21 +2265,21 @@
         "festivals": [
           {
             "name": "Lễ hội Roóng Poọc (Xuống đồng)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20Ro%C3%B3ng%20Po%E1%BB%8Dc%20(Xu%E1%BB%91ng%20%C4%91%E1%BB%93ng)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://mia.vn/media/uploads/blog-du-lich/dac-sac-le-hoi-roong-pooc-sapa-cua-dong-bao-nguoi-giay-1623736143.jpg"
           }
         ],
         "customs": [
           {
             "name": "Tôn kính tổ tiên",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%C3%B4n%20k%C3%ADnh%20t%E1%BB%95%20ti%C3%AAn%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cdn-i2.congthuong.vn/stores/news_dataimages/mt_thanhlong/082022/03/10/f4d2eba23e530d9b81c2b323a1bcc5cc.jpg?rt=20220803105217"
           },
           {
             "name": "Cấm ăn thịt chó, thịt trâu trong các dịp lễ tết",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%E1%BA%A5m%20%C4%83n%20th%E1%BB%8Bt%20ch%C3%B3%2C%20th%E1%BB%8Bt%20tr%C3%A2u%20trong%20c%C3%A1c%20d%E1%BB%8Bp%20l%E1%BB%85%20t%E1%BA%BFt%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cdnmedia.tinmoi.vn/resize_1200x630/upload/tranhao/2022/01/26/con-vat-khong-nen-an-thit-vao-ngay-tet-tranh-qua-bao-ap-xuong-dau-soc-nhat-co-luon-nghe-ly-do-ai-cung-rung-minh1643170533.png"
           },
           {
             "name": "Hát vươn (hát giao duyên)",
-            "imageUrl": "https://source.unsplash.com/900x700/?H%C3%A1t%20v%C6%B0%C6%A1n%20(h%C3%A1t%20giao%20duy%C3%AAn)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://baohagiang.vn/file/dataimages/201701/original/images1341210_1.jpg"
           }
         ],
         "clothing": "Phụ nữ mặc áo xẻ nát, cài cúc vải sườn phải, viền vải khác màu, mặc quần lụa đen.",
@@ -2268,19 +2287,19 @@
         "cuisine": [
           {
             "name": "Khẩu nhục",
-            "imageUrl": "https://source.unsplash.com/900x700/?Kh%E1%BA%A9u%20nh%E1%BB%A5c%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://suckhoedoisong.qltns.mediacdn.vn/zoom/600_315/324455921873985536/2023/8/31/khau-nhuc-4-16934786478081403220107-17-0-423-650-crop-169347865414910113207.jpg"
           },
           {
             "name": "Bánh rợm",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%A1nh%20r%E1%BB%A3m%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://doingoailaocai.vn/storage/3756/banh-rom-cua-nguoi-giay.jpg"
           },
           {
             "name": "Phở chua",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ph%E1%BB%9F%20chua%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://uploads.nguoidothi.net.vn/content/c07296bb-37b9-46f2-ad8e-650a736e60c7.jpg"
           },
           {
             "name": "Mèn mén",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%A8n%20m%C3%A9n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://media-cdn-v2.laodong.vn/storage/newsportal/2024/9/17/1395759/Men-Men-5.jpg"
           }
         ],
         "housing": "Nhà trệt hoặc nhà sàn tùy địa hình, bàn thờ tổ tiên đặt ở gian giữa trang trọng.",
@@ -2328,42 +2347,49 @@
       ],
       "language": "Tiếng Cơ Tu (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540691854_1073551124934291_4373169761924569988_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6R061M8lOtEQ7kNvwFU6nxJ&_nc_oc=Adr-zpfo6PedDvPNxpjn6_x97xbwfeNVUwNv1CCZsRjZMZvC6GMRMLRF8fg-8VU-wwQ&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=niRVv5CO4RYAQWw6qt1p5w&_nc_ss=7b2a8&oh=00_Af6Dc1tqYLHrJyPCax3pbI-byGQVgSdZYcvUMZxgaz0VTw&oe=6A15FDBD",
-      "images": [],
+      "images": ["https://i.ytimg.com/vi/datX8YuMmQk/maxresdefault.jpg","https://files.bdttg.gov.vn/contentfolder/ubdt/source_files/2015/11/04/10261148_nguoi%20co%20tu_15-11-04.jpg",
+      
+      "https://vnn.1cdn.vn/2022/08/15/uploads-2022-th-c3-a1ng-208-ng-c3-a0y_15-ka-co-tu-1.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUsWp6ic-RONbRtesgPHDJ582yULra6DTQMw&s", 
+      "https://media.baovanhoa.vn/zoom/1000/uploaded/nghiemthanh/2025_12_17/21_WYXJ.JPG",
+      
+      "https://thanhnien.mediacdn.vn/Uploaded/minhnguyet/2022_10_19/nguoi-co-tu-1723.jpg"
+    ],
       "description": "Người Cơ Tu nổi tiếng với điệu múa Tung tung da dá, kiến trúc nhà Gươl và nghề dệt thổ cẩm cườm chì độc đáo.",
       "history": {
         "description": "Sinh sống lâu đời ở vùng núi cao phía tây miền Trung Trường Sơn.",
         "imageUrls": [
           "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf82a57d054b036666873d8399f28c4cd09f64395412dfec67ebe90e8f569e2a8d01c54df466ebf3f768240528a8ea49be4/cotu3-8006.jpg.webp",
-          "https://vnn.1cdn.vn/2022/08/15/uploads-2022-th-c3-a1ng-208-ng-c3-a0y_15-ka-co-tu-1.jpg"
+          "https://images2.thanhnien.vn/528068263637045248/2024/11/29/chan-trang-3-ol-173289547823640921207.jpg"
         ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ đâm trâu",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20%C4%91%C3%A2m%20tr%C3%A2u%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://cdn2.tuoitre.vn/thumb_w/1200/tto/i/s626/2017/02/09/0cd8a971.jpg"
           },
           {
             "name": "Lễ mừng lúa mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20m%E1%BB%ABng%20l%C3%BAa%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://vovworld.vn/sites/default/files/world/Uploaded/lanphuong/2023_11_02/smdt1_TUVK.jpg"
           },
           {
             "name": "Lễ tạ ơn rừng",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20t%E1%BA%A1%20%C6%A1n%20r%E1%BB%ABng%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://images.dantoctongiao.vn/uploads/2026/Thang-4/Ngay-6/1767379948343/le-hoi-khai-nam-ta-on-rung-6.jpg"
           }
         ],
         "customs": [
           {
             "name": "Điệu múa Tung tung (nam) và Da dá (nữ)",
-            "imageUrl": "https://source.unsplash.com/900x700/?%C4%90i%E1%BB%87u%20m%C3%BAa%20Tung%20tung%20(nam)%20v%C3%A0%20Da%20d%C3%A1%20(n%E1%BB%AF)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://danangfantasticity.com/wp-content/uploads/2025/11/1-2-1024x576.jpg"
           },
           {
             "name": "Tượng gỗ nhà mồ",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%C6%B0%E1%BB%A3ng%20g%E1%BB%97%20nh%C3%A0%20m%E1%BB%93%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://icdn.dantri.com.vn/k:3c7bda0e22/2015/10/03/7-1443881925602/doc-dao-tuong-nha-mo-cua-dong-bao-cotu.jpg"
           },
           {
             "name": "Chế độ phụ hệ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20ph%E1%BB%A5%20h%E1%BB%87%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://vietnamtourism.vn/imguploads/tourist/2014/VNDatNuocConNguoi/01Khaiquatchung/03Dancu/Cacdantoc/12DantocCtu.jpg"
           }
         ],
         "clothing": "Thổ cẩm đen sọc đỏ, đính hạt cườm chì hoa văn hình thoi. Nam đóng khố xỏ lá, nữ mặc váy ống.",
@@ -2371,19 +2397,19 @@
         "cuisine": [
           {
             "name": "Cơm lam",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20lam%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://icdn.dantri.com.vn/mZ4CmU0ghSWg7wdoD7ro/Image/2014/01/2-19a43.png"
           },
           {
             "name": "Cá nướng ống tre",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A1%20n%C6%B0%E1%BB%9Bng%20%E1%BB%91ng%20tre%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://imagevietnam.vnanet.vn//MediaUpload/Org/2024/07/11/411-11-29-31.jpg"
           },
           {
             "name": "Thịt trâu hun khói",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20tr%C3%A2u%20hun%20kh%C3%B3i%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://media.vov.vn/sites/default/files/styles/large/public/2023-01/thit_trau_bo_gac_bep_da_duoc_xoi_chin_de_nguoi.jpg"
           },
           {
             "name": "Rượu Tà vạt (rượu đoác)",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20T%C3%A0%20v%E1%BA%A1t%20(r%C6%B0%E1%BB%A3u%20%C4%91o%C3%A1c)%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://doanhnghiepkinhtexanh.vn/uploads/images/2024/07/24/nguoi-co-tu-nau-ruou-tavak-4-1721785128.jpg"
           }
         ],
         "housing": "Mỗi làng có một nhà Gươl to ở chính giữa để sinh hoạt cộng đồng, chạm khắc gỗ công phu.",
@@ -2430,7 +2456,11 @@
       ],
       "language": "Tiếng Giẻ - Triêng (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/542759118_1073551008267636_6741247840120278749_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=XEC1KFI69kcQ7kNvwGsLG25&_nc_oc=AdovaNKfl_VBPzXdMrySVYIzl8q8HyNPYG-TufkKpgaLnBv2sTv_ygPdnE6ZugCx7vs&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=Qrg9oM1G4ncIyZuB9BW1gg&_nc_ss=7b2a8&oh=00_Af6b20BPgyJRPbqmYNYQd3WlavEC6n9IyCl7_qpc14jVZg&oe=6A160FF8",
-      "images": [],
+      "images": ["https://ttdn.vn/Uploads/Images/2024/5/31/25/gietrieng1.jpg","https://dotchuoinon.com/wp-content/uploads/2015/04/gt_sc6a1n-ne1bbaf-gic3a9-tric3aang-nhc3b3m-tric3aang-de1bb87t-the1bb95-ce1baa9m.jpg",
+      "https://dotchuoinon.com/wp-content/uploads/2015/04/gt_c491inh-tc3bat-loe1baa1i-nhe1baa1c-ce1bba5-cc3b3-ngue1bb93n-ge1bb91c-xue1baa5t-xe1bba9-vc3a0-cc3a1ch-trc3acnh-die1bb85n-c491e1bb99c-c491c3a1o.jpg", 
+      "https://vov4.vov.vn/sites/default/files/styles/large_watermark/public/2024-05/dscn4661_20240526191151.jpg", 
+      "https://bvhttdl.mediacdn.vn/291773308735864832/2025/11/4/unknown-17622453645041794929897.jpeg", 
+      "https://image.baoquangngai.vn///NGOCDUC/2025/11/18_11_2025/ANH_VIDEO_NGOC_DUC/338213852_235283823_dsc01201.jpg"],
       "description": "Người Giẻ-Triêng cư trú ở vùng rừng núi hiểm trở, có tục chia của cho người chết và nhiều kiêng kỵ độc đáo.",
       "history": {
         "description": "Cư dân bản địa sống lâu đời ở ngã ba biên giới Đông Dương.",
@@ -2443,25 +2473,25 @@
         "festivals": [
           {
             "name": "Lễ cúng lúa mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20l%C3%BAa%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://vanhoavaphattrien.vn/zoom-share/1200x630/uploads/images/2025/12/06/z7299440175688-0245facabce6629da8632b631213d04f-1765036448.jpg"
           },
           {
             "name": "Lễ đâm trâu",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20%C4%91%C3%A2m%20tr%C3%A2u%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://media.baoquangninh.vn/dataimages/201108/original/images607086_a.jpg"
           }
         ],
         "customs": [
           {
             "name": "Cô gái cõng củi tạ lỗi nhà trai khi cưới",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%B4%20g%C3%A1i%20c%C3%B5ng%20c%E1%BB%A7i%20t%E1%BA%A1%20l%E1%BB%97i%20nh%C3%A0%20trai%20khi%20c%C6%B0%E1%BB%9Bi%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2024/6/24/dac-sac-tuc-cui-hua-hon-trong-cuoi-hoi-cua-nguoi-gie-trieng-8-17192048559352077848934.jpg"
           },
           {
             "name": "Tục chia của cho người chết",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20chia%20c%E1%BB%A7a%20cho%20ng%C6%B0%E1%BB%9Di%20ch%E1%BA%BFt%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://vnn.1cdn.vn/2021/06/13/uploads-2021-th-c3-a1ng-206-ng-c3-a0y_13-gi-e1-ba-bb-20trieng-nguoi-gie-trieng-voi-phong-tuc-dinh-tro-va-nem-xoi-len-mai-nha-588760.jpg"
           },
           {
             "name": "Trọng vai trò của ông cậu",
-            "imageUrl": "https://source.unsplash.com/900x700/?Tr%E1%BB%8Dng%20vai%20tr%C3%B2%20c%E1%BB%A7a%20%C3%B4ng%20c%E1%BA%ADu%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://media.baovanhoa.vn/zoom/1000/uploaded/nghiemthanh/2025_06_02/3_vfcs.jpg"
           }
         ],
         "clothing": "Nam đóng khố, cởi trần; nữ mặc váy quấn dài, áo xẻ ngực. Đeo nhiều vòng tay, vòng cổ hạt cườm.",
@@ -2469,19 +2499,19 @@
         "cuisine": [
           {
             "name": "Thịt nướng đá",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20n%C6%B0%E1%BB%9Bng%20%C4%91%C3%A1%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://static-images.vanhoanghethuat.vn/datasite///201807/BAI_VIET_17475/Am_thuc_doan_Kon_Tum_5598%20(1).JPG?width=0&s=OyuUhQtvMS-yyENEwXj9YQ"
           },
           {
             "name": "Canh thụt",
-            "imageUrl": "https://source.unsplash.com/900x700/?Canh%20th%E1%BB%A5t%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://i.ytimg.com/vi/ZHWivDguaK8/maxresdefault.jpg"
           },
           {
             "name": "Rượu đoác",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20%C4%91o%C3%A1c%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://baoquocte.vn/stores/news_dataimages/2026/022026/19/18/anh3-1770553581998204240089720260219180457.jpg"
           },
           {
             "name": "Cơm ống tre",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20%E1%BB%91ng%20tre%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFH9_03KF3jG4FyM08zE0pAkdeJCfiWoBmtw&s"
           }
         ],
         "housing": "Nhà sàn dài bằng tre nứa. Kiến trúc nhà rông mái dốc, sàn nhà cao.",
@@ -2529,7 +2559,8 @@
       ],
       "language": "Tiếng Mạ (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540232314_1073555708267166_3086681498886652348_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Bb80C2ieA7AQ7kNvwFXYrVP&_nc_oc=AdrhtrHgYYYh_--ctgJZr03fdwijKs_KwZojQ4UN3IU23dDq9kc-fhMZhmm0YHM1-wo&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=QDp641eyqTunLkh1tMyzLw&_nc_ss=7b2a8&oh=00_Af76CDIJtgjmlTwI86zLPE4wxpq2GcfG3336FV2mkJxOyg&oe=6A161648",
-      "images": [],
+      "images": ["https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/042023/22/18/1-copy20230422183034.jpg?rt=20230422183051", "https://dantocmiennui-media.baotintuc.vn/images/5c0c54f95c9777a45a8f5910a7a986a5bba0b9b46313a688299c9f6e40b1ba38ee9394ccc8d7f5ab0b777613b3ac3bbb747fca6f5e84a99830ba065aec437e42/ma.jpg.webp",
+      "https://cly.1cdn.vn/2024/02/29/anh-bai-chau-ma-bi-an-mot-toc-nguoi-2.jpg", "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/042023/22/18/8-copy20230422183040.jpg?rt=20230422183415", "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/042023/22/18/3-copy20230422183036.jpg?rt=20230422183200", "https://media.baovanhoa.vn/zoom/600_500/Portals/0/EasyGalleryImages/1/62285/1.JPG"],
       "description": "Người Mạ từng có liên minh bộ lạc mạnh trên cao nguyên, giỏi nghề rèn sắt và dệt thổ cẩm.",
       "history": {
         "description": "Sinh sống từ lâu đời ở khu vực nam Tây Nguyên.",
@@ -2542,21 +2573,21 @@
         "festivals": [
           {
             "name": "Lễ cúng thần lúa (Yang Wer)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20th%E1%BA%A7n%20l%C3%BAa%20(Yang%20Wer)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://cdnmedia.baotintuc.vn/2015/06/05/21/30/anh-1.jpg"
           }
         ],
         "customs": [
           {
             "name": "Cà răng căng tai (ngày xưa)",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A0%20r%C4%83ng%20c%C4%83ng%20tai%20(ng%C3%A0y%20x%C6%B0a)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://tuoitre.vn/ca-rang-cang-tai-547486.htm"
           },
           {
             "name": "Thờ đa thần",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%9D%20%C4%91a%20th%E1%BA%A7n%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://nguoiduatin.mediacdn.vn/thumb_w/642/84137818385850368/2024/12/25/base64-1735123677655144063994.jpeg"
           },
           {
             "name": "Nhạc cụ cồng chiêng, khèn bầu",
-            "imageUrl": "https://source.unsplash.com/900x700/?Nh%E1%BA%A1c%20c%E1%BB%A5%20c%E1%BB%93ng%20chi%C3%AAng%2C%20kh%C3%A8n%20b%E1%BA%A7u%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cly.1cdn.vn/2024/02/02/398-202402021428391.jpg"
           }
         ],
         "clothing": "Nam đóng khố, nữ mặc váy quấn. Thổ cẩm người Mạ rất đẹp, có tua rua và hoa văn tinh xảo.",
@@ -2564,15 +2595,15 @@
         "cuisine": [
           {
             "name": "Cơm nương nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20n%C6%B0%C6%A1ng%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://vcdn1-dulich.vnecdn.net/2016/11/08/1-com-lam-3421-1478604627.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=sK88UmWYzdclbWCiz7fxGQ"
           },
           {
             "name": "Thịt lợn rừng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20l%E1%BB%A3n%20r%E1%BB%ABng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/heo-rung-hap-tia-to-thumbnail-1.jpg"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://www.vangdanh.com/wp-content/uploads/2024/04/ruou-can-dac-san-avatar-2.jpg.webp"
           }
         ],
         "housing": "Nhà sàn dài, cửa ra vào ở hai đầu hồi. Trong nhà có nhiều bếp lửa.",
@@ -2621,7 +2652,11 @@
       ],
       "language": "Tiếng Khơ Mú (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542040374_1073551021600968_7412301712093398879_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=GpfIxw3Hv7UQ7kNvwFLOLtM&_nc_oc=AdqQoluPeP2zhI5BJuBC8Us4rlLv5Znla2HWowJs1B3DOIX2921R7qRRt33T18KPvn4&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=Mq0ROz6GkFAQx7DZoIWt_Q&_nc_ss=7b2a8&oh=00_Af6w1gkgQq4ELo-JkPFgYURpPs7LHiEDoD_OtEhdxzirqQ&oe=6A160922",
-      "images": [],
+      "images": ["https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/042023/07/15/2-copy20230407154726.jpg?rt=20230407154802", "https://static.mattran.org.vn/Uploaded/buidoanhung/2021_02_05/5_2_kmh-1_KBLC.jpg",
+            "https://file3.qdnd.vn/data/images/0/2023/09/10/tranhang/kho-mu%203.jpg?dpi=150&quality=100&w=870", 
+      "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/042023/07/15/4-copy20230407154728.jpg?rt=20230407154900",
+      "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2025/4/13/nguoi-kho-mu-ve-thu-do-tai-hien-le-cung-ma-ban-linh-thieng-2-17445269486101455809135.jpg",
+      "https://media.baovanhoa.vn/zoom/800_600/Portals/0/EasyGalleryImages/1/47590/IMG_0079.jpg"],
       "description": "Người Khơ Mú có điệu múa Au eo sôi động và phong tục uống rượu cần bằng mũi rất đặc biệt.",
       "history": {
         "description": "Cư dân cư trú lâu đời ở Tây Bắc Việt Nam và Bắc Lào.",
@@ -2634,25 +2669,25 @@
         "festivals": [
           {
             "name": "Lễ hội cầu mưa",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20c%E1%BA%A7u%20m%C6%B0a%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://suckhoedoisong.qltns.mediacdn.vn/Images/duylinh/2016/09/02/004.JPG"
           },
           {
             "name": "Lễ mừng cơm mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20m%E1%BB%ABng%20c%C6%A1m%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-09/cung_voi_le_mung_com_moi_nghe_thu_cong_may_tre_dan_cung_duoc_dong_bao_kho_mu_duy_tri_den_ngay_nay_nhu_mot_tin_nguong_khong_de_mai_mot.jpg"
           }
         ],
         "customs": [
           {
             "name": "Thờ ma nhà, ma trời",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%9D%20ma%20nh%C3%A0%2C%20ma%20tr%E1%BB%9Di%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cly.1cdn.vn/2023/12/18/img_5583.jpg"
           },
           {
             "name": "Tục ở rể 3-5 năm",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20%E1%BB%9F%20r%E1%BB%83%203-5%20n%C4%83m%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://bna.1cdn.vn/2014/02/14/uploaded-dataimages-201402-original-_images928818_c_nh_l_m_l__t_i_m_t___m_c__i_ng__i_kh__m____b_n_p_ng_c__moong__l__ng_minh___t__ng_d__ng_.jpg"
           },
           {
             "name": "Múa mâm, múa đao",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%BAa%20m%C3%A2m%2C%20m%C3%BAa%20%C4%91ao%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://vnn.1cdn.vn/2024/07/19/uploads-2024-thang-7-ngay-18-bang-ngan-hinh-201t39.jpg"
           }
         ],
         "clothing": "Mặc trang phục tương tự người Thái đen nhưng cách đội khăn và trang sức có phần khác biệt.",
@@ -2660,11 +2695,11 @@
         "cuisine": [
           {
             "name": "Các món nướng, xôi, rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A1c%20m%C3%B3n%20n%C6%B0%E1%BB%9Bng%2C%20x%C3%B4i%2C%20r%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://vietnamtourism.vn/imguploads/news/2016/T12/amthuc18.jpg"
           },
           {
             "name": "Món ăn pha nhiều gia vị cay, chua, đắng",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%B3n%20%C4%83n%20pha%20nhi%E1%BB%81u%20gia%20v%E1%BB%8B%20cay%2C%20chua%2C%20%C4%91%E1%BA%AFng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://c.dhcn.vn/img/mobile/d-vhds.baothanhhoa.vn/news/2323/177d4093824t44500l0.webp?r=676"
           }
         ],
         "housing": "Nhà sàn mái tranh, trước đây thường du canh du cư nên làm nhà tạm, nay đã định canh định cư.",
@@ -2711,7 +2746,11 @@
       ],
       "language": "Tiếng Co (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/541740708_1073555748267162_7238045396952793248_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZHfTapUNhH4Q7kNvwFrWUOQ&_nc_oc=AdpQUVKwzhilDHeQDFJd69JBYiOw4ndKBHCtWJPe4uP8JYW9PlYEFbwGzAYPjWNvLhQ&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=KGJH-FynDqqt21ECeQ46mw&_nc_ss=7b2a8&oh=00_Af7STykaf0EgsthwYlDWOKn9mCuYCzEdCUoxWU0G-MIyng&oe=6A15E9AF",
-      "images": [],
+      "images": ["https://dddn.1cdn.vn/2024/03/25/thegioianh.diendandoanhnghiep.vn-wp-content-uploads-2024-03-_1-copy202403250837521.jpg",
+      "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf8ca4519cc84de2393d3f40c1497116154eb42aa175ef82fa2ee972ba5e9b76d3a5d5d7f494a6dbe90d0c2c0a358e4d9ad5cfacd5ee898d181029010948d9846a0/cor15-6920.jpg.webp", "https://image.baoquangngai.vn//PHUONGDUNG/2025/06/06_06_2025/ANH_BAO_IN/234375885_262525446_559231376_ca-dao-3.jpg",
+      "https://dotchuoinon.files.wordpress.com/2015/03/co38.jpg",
+      "https://media.baovanhoa.vn/zoom/600_400/Portals/0/EasyGalleryImages/1/64652/z4439419209238_dfee3714ea2a56a60daed2699f63cbb3.jpg",
+      "https://hoilhpn.org.vn/documents/20182/9268128/16_Oct_2024_063444_GMT14_Oct_2024_082713_GMTz5666748761739_004ace3fa295287c5a63e68f9eac4758.jpg/89915442-e8b9-4766-a37c-86bdef9da760"],
       "description": "Người Co nổi tiếng với điệu múa đấu chiêng, trồng quế trên núi và có lòng trung thành sâu sắc với Cách mạng.",
       "history": {
         "description": "Cư dân bản địa sống chủ yếu ở huyện Trà Bồng (Quảng Ngãi).",
@@ -2724,25 +2763,25 @@
         "festivals": [
           {
             "name": "Lễ đâm trâu tạ ơn thần linh",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20%C4%91%C3%A2m%20tr%C3%A2u%20t%E1%BA%A1%20%C6%A1n%20th%E1%BA%A7n%20linh%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://cdn-i2.congthuong.vn/stores/news_dataimages/2022/092022/11/16/3-copy20220911160110.jpg?rt=20220911160239"
           },
           {
             "name": "Lễ hội ăn lúa mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20%C4%83n%20l%C3%BAa%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://i.ex-cdn.com/nongnghiepmoitruong.vn/files/content/2023/10/20/screenshot_1697683827-095043_938-093621.jpeg"
           }
         ],
         "customs": [
           {
             "name": "Đấu chiêng",
-            "imageUrl": "https://source.unsplash.com/900x700/?%C4%90%E1%BA%A5u%20chi%C3%AAng%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://vnn.1cdn.vn/2023/04/09/anh-1-cac-nghe-nhan-dan-toc-cor-huyen-tra-bong-thi-tai-dau-chieng-doi-trong-le-hoi-van-hoa-dan-toc-cor-tai-bac-tra-my-sua.jpg"
           },
           {
             "name": "Tôn thờ thần lúa",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%C3%B4n%20th%E1%BB%9D%20th%E1%BA%A7n%20l%C3%BAa%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2023/01/10/a-gia-a-bon-2-9030-1673363947.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=62EJ5M0DsqqXcK09qcgGLg"
           },
           {
             "name": "Chế độ phụ hệ nhưng rất tôn trọng nữ giới",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20ph%E1%BB%A5%20h%E1%BB%87%20nh%C6%B0ng%20r%E1%BA%A5t%20t%C3%B4n%20tr%E1%BB%8Dng%20n%E1%BB%AF%20gi%E1%BB%9Bi%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHAIN1ZVeGmGVI7lFsXKw0TLRo4Tdryk3c6A&s"
           }
         ],
         "clothing": "Nữ mặc váy ống màu đen điểm hoa văn viền, ở trần (xưa) hoặc mặc áo ngắn. Nam đóng khố.",
@@ -2750,19 +2789,19 @@
         "cuisine": [
           {
             "name": "Thịt trâu luộc",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20tr%C3%A2u%20lu%E1%BB%99c%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://nuocmamlangchaixua.com/wp-content/uploads/2025/12/cach-lam-mon-thit-trau-luoc-nuoc-mam-3.jpeg"
           },
           {
             "name": "Cơm nếp rẫy",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20n%E1%BA%BFp%20r%E1%BA%ABy%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://images.vietnamtourism.gov.vn/vn//images/2022/thang_11/1911.tet_nga_ra_-_qngai_3.jpg"
           },
           {
             "name": "Trầu cau",
-            "imageUrl": "https://source.unsplash.com/900x700/?Tr%E1%BA%A7u%20cau%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://storage.baoquangngai.vn/data/dataimages/202209/original/images2479204_AT2.jpg"
           },
           {
             "name": "Trà quế",
-            "imageUrl": "https://source.unsplash.com/900x700/?Tr%C3%A0%20qu%E1%BA%BF%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://static.tuoitre.vn/tto/i/s626/2013/11/05/meMBUicS.jpg"
           }
         ],
         "housing": "Trước đây ở nhà sàn dài, cả làng sống chung trong 1-2 nóc nhà. Ngày nay ở nhà ngắn riêng biệt.",
@@ -2808,7 +2847,12 @@
       ],
       "language": "Tiếng Tà Ôi (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542656546_1073643181591752_7141826958279780312_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=eggs--xHhLMQ7kNvwHTgeWj&_nc_oc=AdqjL7iHcCARdWaIwN4BO37ZhlIAtrfDReu6Jgh95y2WE3mzvsG8c2RDGTVLpOfxIBk&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=f5EQQrseBhKwD8tPZq7oQQ&_nc_ss=7b2a8&oh=00_Af6yCmoAUuKnf1gnt7e4QIpfoVpTybHz9B7-BD64cYQPDQ&oe=6A15F098",
-      "images": [],
+      "images": ["https://vov4.vov.vn/sites/default/files/styles/large_watermark/public/2023-05/z4386006428899_553d519dba7f7e87612bdf1718fd7e4a.jpg",
+      "https://vov4.vov.vn/sites/default/files/styles/large_watermark/public/2023-05/z4385999555592_47f6b622aeb70d1f9021b6f8c87eb64b.jpg",
+      "https://ati.net.vn/wp-content/uploads/2023/05/Hon-nhan-dan-toc-ta-oi.jpg",
+      "https://imagevietnam.vnanet.vn/Upload/2019/8/15/1508201911064416-4_resize.JPG",
+      "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf8ca4519cc84de2393d3f40c1497116154eb42aa175ef82fa2ee972ba5e9b76d3a810ec98a9198228ea21753ff7176f038c2381094306107c33e4c998a37d06158/ta-oi10-594.jpg.webp",
+      "https://media.baovanhoa.vn/zoom/800_600/Portals/0/EasyGalleryImages/1/47465/VM-BVH-22.jpg"],
       "description": "Người Tà Ôi nổi tiếng với dệt thổ cẩm Zèng - di sản văn hóa phi vật thể quốc gia, đính hạt cườm trắng tinh xảo.",
       "history": {
         "description": "Sống lâu đời trên dải Trường Sơn, tham gia kháng chiến tích cực và tự nguyện mang họ Hồ.",
@@ -2821,25 +2865,21 @@
         "festivals": [
           {
             "name": "Lễ hội A Riêu Ping (bốc mả)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20A%20Ri%C3%AAu%20Ping%20(b%E1%BB%91c%20m%E1%BA%A3)%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
-            "name": "Lễ A Riêu Car (đâm trâu)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20A%20Ri%C3%AAu%20Car%20(%C4%91%C3%A2m%20tr%C3%A2u)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://cdn2.tuoitre.vn/zoom/700_700/471584752817336320/2023/11/13/base64-1699871424340648308532-70-0-1117-2000-crop-16998714499682036956916.png"
           }
         ],
         "customs": [
           {
             "name": "Dệt Zèng",
-            "imageUrl": "https://source.unsplash.com/900x700/?D%E1%BB%87t%20Z%C3%A8ng%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://phunuvietnam.mediacdn.vn/thumb_w/1098/179072216278405120/2023/11/12/img2831-16997707340201773909462-83-0-1333-2000-crop-1699770925847743255464.jpg"
           },
           {
             "name": "Làng bản có rào tre phòng thủ",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%C3%A0ng%20b%E1%BA%A3n%20c%C3%B3%20r%C3%A0o%20tre%20ph%C3%B2ng%20th%E1%BB%A7%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://lh3.googleusercontent.com/proxy/W6ATpcj4etO4U_ipcvqkH8l9v7c8JNPFF3YoHKVI3FEqT8u89OmdQSYUZLreWdbQUFNZKiYWdheV8JUqWewPGgcfJPYabywIleVkon5bxii7lZMzoWwcSEOJGuMI"
           },
           {
             "name": "Chế độ phụ hệ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20ph%E1%BB%A5%20h%E1%BB%87%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://imagevietnam.vnanet.vn/Upload/2019/8/15/1508201911064416-4_resize.JPG"
           }
         ],
         "clothing": "Trang phục thổ cẩm Zèng rất đặc trưng, hạt cườm đính vào sợi sợi chỉ trước khi dệt.",
@@ -2847,19 +2887,19 @@
         "cuisine": [
           {
             "name": "Bánh a quát",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%A1nh%20a%20qu%C3%A1t%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://vnn.1cdn.vn/thumbs/1200x630/2020/12/23/uploads-2020-th-c3-a1ng_12-ng-c3-a0y_23-banh-20sung-20trau-td-4.jpg"
           },
           {
             "name": "Thịt lợn nướng ống tre",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20l%E1%BB%A3n%20n%C6%B0%E1%BB%9Bng%20%E1%BB%91ng%20tre%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://baovinhlong.com.vn/file/e7837c027f6ecd14017ffa4e5f2a0e34/dataimages/202104/original/images2360114_1.JPG"
           },
           {
             "name": "Cơm lam",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20lam%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://kinhtevadubao.vn/stores/news_dataimages/kinhtevadubaovn/102019/29/15/1572263332-news-1519520210326204605.5356490.jpg"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://www.vangdanh.com/wp-content/uploads/2024/04/ruou-can-dac-san-avatar-3.jpg.webp"
           }
         ],
         "housing": "Nhà sàn tròn thon. Mang yếu tố tròn đầy, kiên cố, vững chãi.",
@@ -2906,7 +2946,12 @@
       ],
       "language": "Tiếng Chơ Ro (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540307637_1073555621600508_2433407633850497280_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=GY47GDsxxOgQ7kNvwFFtBzi&_nc_oc=AdqtyJ3Aq9nOaTVn7i2E9QUEap7nkFJj71NHxXPRK4Ug8pLHU4pQLe_9vx0T4TjzjVA&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=r6-hW2XCUF5i9a_3l8avZg&_nc_ss=7b2a8&oh=00_Af5wpZoMXUogIfUveEKSzfqwE1gVTjESS0nD4CaoKmQP4w&oe=6A15E78A",
-      "images": [],
+      "images": ["https://vietnamhoc.net/wp-content/uploads/2020/06/choro-thieunu-vietnamhoc.net_-800x480.jpg",
+      "https://images.vietnamtourism.gov.vn/vn//images/2024/thang_12/cho_ro_2.jpg",
+      "https://vov2.vov.vn/sites/default/files/styles/large_watermark/public/2025-01/dang_le-ok.jpg", 
+      "https://dttg.vnncdn.net/CKFinderJava/userfiles/images/Bai%20viet%20dan%20toc/Choro/choro_detail_2.jpg",
+      "https://dotchuoinon.com/wp-content/uploads/2015/03/choro10.jpg", 
+      "https://cdn.diaocthongthai.com/2023/02/ChoRo_Ethnic_Stamp.jpg"],
       "description": "Người Chơ Ro là cư dân bản địa miền Đông Nam Bộ, trước kia sống bằng săn bắt hái lượm và làm rẫy.",
       "history": {
         "description": "Thuộc nhóm cư dân Môn - Khmer sinh sống lâu đời ở vùng đồi núi thấp Đông Nam Bộ.",
@@ -2919,21 +2964,21 @@
         "festivals": [
           {
             "name": "Lễ cúng Thần Rừng (Sa Yang Va)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20Th%E1%BA%A7n%20R%E1%BB%ABng%20(Sa%20Yang%20Va)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://media.vov.vn/sites/default/files/styles/large/public/2025-01/dang_le-ok.jpg"
           }
         ],
         "customs": [
           {
             "name": "Tôn giáo đa thần",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%C3%B4n%20gi%C3%A1o%20%C4%91a%20th%E1%BA%A7n%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://images.vietnamtourism.gov.vn/vn/images/2024/thang_12/cho_ro_4.jpg"
           },
           {
             "name": "Nhạc cụ cồng chiêng, đàn tre",
-            "imageUrl": "https://source.unsplash.com/900x700/?Nh%E1%BA%A1c%20c%E1%BB%A5%20c%E1%BB%93ng%20chi%C3%AAng%2C%20%C4%91%C3%A0n%20tre%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://imagevietnam.vnanet.vn//MediaUpload/Org/2022/05/27/lythinhien527-10-11-20.jpg"
           },
           {
             "name": "Nam nữ bình quyền, phụ nữ có vai trò lớn",
-            "imageUrl": "https://source.unsplash.com/900x700/?Nam%20n%E1%BB%AF%20b%C3%ACnh%20quy%E1%BB%81n%2C%20ph%E1%BB%A5%20n%E1%BB%AF%20c%C3%B3%20vai%20tr%C3%B2%20l%E1%BB%9Bn%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cly.1cdn.vn/2024/01/30/mua-yeu-thuong-cua-nguoi-cho-ro-giua-rung-cat-tien-1-.jpg"
           }
         ],
         "clothing": "Trước đây nam đóng khố, nữ quấn váy vấp, nay chủ yếu mặc đồ giống người Kinh.",
@@ -2941,19 +2986,19 @@
         "cuisine": [
           {
             "name": "Cơm lam",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20lam%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://maichauhideaway.com/Data/Sites/1/media/tin-tuc/%E1%BA%A3nh-b%C3%A0i-vi%E1%BA%BFt/t102024/com-lam-mai-chau/c%C6%A1m-lam-mai-chau-5.jpg"
           },
           {
             "name": "Canh bồi",
-            "imageUrl": "https://source.unsplash.com/900x700/?Canh%20b%E1%BB%93i%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://lh6.googleusercontent.com/proxy/WjvMEGnIbZuWFcCoWh7xJH7Mih08coYt-bKLPjVvCPP9M64qDjSldbItAB8kv_bNaAzfZ0jaVBWVYZStEaMvEfsn6dyymJ2xrim66EuZwZbtdKRM_Wo5f-dEnvxLq5UvjOHB75J3dzjb5auJZmkGzsuQykcMXBLWag"
           },
           {
             "name": "Thịt lợn lai rừng nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20l%E1%BB%A3n%20lai%20r%E1%BB%ABng%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://file.hstatic.net/1000275435/file/thit-heo-rung-nuong_90d6369ad9bd4efb8794d4b7d65ef870_grande.jpg"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://thegioidisan.vn/assets/media/2018/anh%203.jpg"
           }
         ],
         "housing": "Trước kia ở nhà sàn, nay phần lớn chuyển sang ở nhà trệt.",
@@ -3001,7 +3046,12 @@
       ],
       "language": "Tiếng Kháng (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/542757153_1073553531600717_3329517426697411967_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZGHRfWaD9XQQ7kNvwFZHFxS&_nc_oc=Adq3sCuxda2rS_he8D7pjyZQuFrqi6RgnZJAgTgNRg9nDzyGr44AbqvX1VVndGXUXOs&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=vn-I6j6mOmAApCPS8LjQIw&_nc_ss=7b2a8&oh=00_Af4kn_Jl4zuvpQc1-0ASyxYVlF82cYIWPUDCt-7hEPd7-A&oe=6A15F41A",
-      "images": [],
+      "images": ["https://thinhvuongvietnam.com/Content/UploadFiles/EditorFiles/images/2025/Quy1/dan-toc-khang-304012025104604.png", 
+      "https://cdn.diaocthongthai.com/2023/02/Khang_Ethnic_Stamp.jpg",
+      "https://media.baosonla.org.vn/public/hieupt/2024-11-05/50.jpg",
+      "https://taybacsensetravel.com/view/at_tim-hieu-dieu-mua-truyen-thong-cua-nguoi-khang-tai-tay-bac_dc4dfbce590ec2b5d9f9945f0c5fbb81.jpg",
+      "https://thuexemaylaocai.com/wp-content/uploads/2017/11/nguoi-khang-lao-cai.jpg",
+      "https://file3.qdnd.vn/data/images/0/2023/02/19/phucthang/dan%20toc%20khang%205.jpg?dpi=150&quality=100&w=870"],
       "description": "Người Kháng cư trú ven sông Đà, rất giỏi chế tạo thuyền độc mộc hình đuôi én.",
       "history": {
         "description": "Là một trong những cư dân bản địa lâu đời nhất ở Tây Bắc.",
@@ -3014,29 +3064,29 @@
         "festivals": [
           {
             "name": "Lễ cúng bản",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20b%E1%BA%A3n%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://file3.qdnd.vn/data/images/0/2023/02/19/phucthang/dan%20toc%20khang%202.jpg?dpi=150&quality=100&w=870"
           },
           {
             "name": "Lễ lên nhà mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20l%C3%AAn%20nh%C3%A0%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://file3.qdnd.vn/data/images/0/2023/02/19/phucthang/dan%20toc%20khang%201.jpg?dpi=150&quality=100&w=870"
           },
           {
             "name": "Tết Xíp xí",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20X%C3%ADp%20x%C3%AD%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://vov4.vov.vn/sites/default/files/styles/large_watermark/public/2024-08/z5723968553291_aca056895a98be1414c58a2d960bc913.jpg"
           }
         ],
         "customs": [
           {
             "name": "Uống rượu cần bằng mũi",
-            "imageUrl": "https://source.unsplash.com/900x700/?U%E1%BB%91ng%20r%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20b%E1%BA%B1ng%20m%C5%A9i%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://ruouquy.com.vn/images/upload/images/69.jpg"
           },
           {
             "name": "Ngủ thăm (trước đây)",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ng%E1%BB%A7%20th%C4%83m%20(tr%C6%B0%E1%BB%9Bc%20%C4%91%C3%A2y)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://maichauhideaway.com/Data/Sites/1/media/tin-tuc/%E1%BA%A3nh-b%C3%A0i-vi%E1%BA%BFt/t62025/ngu-tham/ngu-tham-22.jpg"
           },
           {
             "name": "Tục đẽo thuyền độc mộc",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20%C4%91%E1%BA%BDo%20thuy%E1%BB%81n%20%C4%91%E1%BB%99c%20m%E1%BB%99c%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://image.giacngo.vn/w770/Uploaded/2026/qdhwqmrnd/2021_04_29/11-9816.jpg.webp"
           }
         ],
         "clothing": "Trang phục mượn của người Thái, nữ mặc áo cóm, váy đen.",
@@ -3044,19 +3094,19 @@
         "cuisine": [
           {
             "name": "Cá suối nướng úp",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A1%20su%E1%BB%91i%20n%C6%B0%E1%BB%9Bng%20%C3%BAp%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://dulichsuoigiang.com/wp-content/uploads/2016/10/kham-pha-mon-ca-nuong-pa-pinh-top-cua-nguoi-thai-tay-bac-5-1024x601.jpg"
           },
           {
             "name": "Măng chua",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C4%83ng%20chua%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://baovanhoa.vn/am-thuc/mang-chua-mon-an-doc-dao-cua-nguoi-thai-vung-cao-tay-bac-85789.html"
           },
           {
             "name": "Cơm nếp đồ",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20n%E1%BA%BFp%20%C4%91%E1%BB%93%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://images.vietnamtourism.gov.vn/vn//images/2023/thang_10/1110.gao_nep_vung_cao_4.jpg"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://maichauhideaway.com/Data/Sites/1/News/353/ruou-can-muong-vang-6.jpg"
           }
         ],
         "housing": "Nhà sàn, làm theo hình thuyền độc mộc, mái uốn cong.",
@@ -3102,7 +3152,13 @@
       ],
       "language": "Tiếng Xinh Mun (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/536270933_1073554418267295_2954176678657217444_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Dus44a48BigQ7kNvwH3UsQI&_nc_oc=Adr77hRT6I4gWWWHEPReRrg2zfkI8l9K6LoozHlPzW3bJEDxQBZhQraUjr6wSqhIJ5I&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=04yCefx4Byhd67_0qYVo3g&_nc_ss=7b2a8&oh=00_Af6Rx67tWXVp9W4BRvfdslm7ZKXMJuUoqkThC3zIs-bxcg&oe=6A15E979",
-      "images": [],
+      "images": ["https://mia.vn/media/uploads/blog-du-lich/dan-toc-xinh-mun-net-dep-dan-toc-thieu-so-vung-nui-tay-bac-01-1645546452.jpg",
+      "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf8ca4519cc84de2393d3f40c1497116154eb42aa175ef82fa2ee972ba5e9b76d3a6509ebd0a09b2ff18608d618501ec5d7f4bc513c1fc7d947b4b5e53ba098b75e/xinh-mun-184.jpg.webp",
+      "https://mia.vn/media/uploads/blog-du-lich/dan-toc-xinh-mun-net-dep-dan-toc-thieu-so-vung-nui-tay-bac-05-1645546462.jpg",
+      "https://media.baosonla.org.vn/public/hieupt/2024-11-13/23(1).jpg",
+      "https://vov4.vov.vn/sites/default/files/styles/large_watermark/public/2023-09/img20190817145913.jpg",
+      "https://www.vwu.vn/documents/20182/5289496/11_May_2023_103640_GMTthocam_xinmun.jpg/0d872a90-914e-4d98-bdfe-7455adbf1709"
+    ],
       "description": "Người Xinh Mun có tục nhai trầu quệt mép, cư trú vùng biên giới Việt-Lào đan xen với người Thái.",
       "history": {
         "description": "Là cư dân sinh sống lâu đời ở vùng núi cao Tây Bắc.",
@@ -3115,25 +3171,21 @@
         "festivals": [
           {
             "name": "Lễ cúng bản",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20b%E1%BA%A3n%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://imgchinhsachcuocsong.vnanet.vn/MediaUpload/Org/2024/03/17/083537-vna_potal_van_hoa_soi_duong_le_sa_tip_-_net_van_hoa_doc_dao_cua_dan_toc_xinh_mun_son_la_stand.jpg"
           },
           {
             "name": "Lễ Mương A Ma (Cầu sức khỏe)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20M%C6%B0%C6%A1ng%20A%20Ma%20(C%E1%BA%A7u%20s%E1%BB%A9c%20kh%E1%BB%8Fe)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://vov2.vov.vn/sites/default/files/styles/large_watermark/public/2025-08/20250502_090951.jpg"
           }
         ],
         "customs": [
           {
             "name": "Tục ở rể",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20%E1%BB%9F%20r%E1%BB%83%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
-            "name": "Nhai trầu",
-            "imageUrl": "https://source.unsplash.com/900x700/?Nhai%20tr%E1%BA%A7u%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://i.ex-cdn.com/nongnghiepmoitruong.vn/files/f1/Image/2013/11/5/05112013163027_1.JPG"
           },
           {
             "name": "Thích ca hát giao duyên",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%C3%ADch%20ca%20h%C3%A1t%20giao%20duy%C3%AAn%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://dotchuoinon.com/wp-content/uploads/2015/05/xm_ngc6b0e1bb9di-che1bba7-trc3ac-le1bb85-he1bb99i-lc3a0-nhe1bbafng-the1baa7y-mo-trong-be1baa3n.jpg"
           }
         ],
         "clothing": "Mặc giống người Thái đen. Phụ nữ mặc áo cóm bó sát, váy dài.",
@@ -3141,19 +3193,15 @@
         "cuisine": [
           {
             "name": "Xôi nếp",
-            "imageUrl": "https://source.unsplash.com/900x700/?X%C3%B4i%20n%E1%BA%BFp%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://cdn.daidoanket.vn/w1200/uploaded/images/2025/09/08/950b2894-ebf4-4d6b-abc5-f377735db86b.jpg"
           },
           {
             "name": "Thịt hun khói",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20hun%20kh%C3%B3i%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Măng chua",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C4%83ng%20chua%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://dulichlaichau.vn//mypicture/images/2013/Thit%20treo%20gac%20bep.jpg"
           },
           {
             "name": "Nộm hoa chuối rừng",
-            "imageUrl": "https://source.unsplash.com/900x700/?N%E1%BB%99m%20hoa%20chu%E1%BB%91i%20r%E1%BB%ABng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://static.tuoitre.vn/tto/i/s626/2012/10/29/tfG9WUT1.jpg"
           }
         ],
         "housing": "Nhà sàn, mái hình mai rùa hoặc mái bằng, cấu trúc giống người Thái.",
@@ -3200,7 +3248,13 @@
       ],
       "language": "Tiếng Hà Nhì (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540947791_1073555661600504_3432539582096111337_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=yijsmwZhyaIQ7kNvwE-NPY0&_nc_oc=Adoxg3svXba7bRX59z3cjqzEnkm2-DN1ByVjyxKsZ_rgtWImhJ0PET5zX83uF1m8FqA&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=Db6X_0wM10MZ8kYmn9s4bA&_nc_ss=7b2a8&oh=00_Af4ijkRwn4EUMFMmPLiC7KY2bSrmDeuV3Ocf9q2osrpS5A&oe=6A15E7EE",
-      "images": [],
+      "images": ["https://cdn.eva.vn/upload/2-2023/images/2023-04-19/1--2--1681890092-52-width800height550.jpg",
+      "https://hoilhpn.org.vn/documents/20182/1823217/small_15648.jpg/641c6dbc-4332-4f86-a646-0abe14cc56a5",
+      "https://ttdn.vn/Uploads/Images/2023/7/24/3/hanhi1.jpg",
+      "https://svhttdl.dienbien.gov.vn/portal/Photos/2021-11-12/Nguoi-Ha-Nhi_R9xzX2disUeumyvj.jpg",
+      "https://vnn.1cdn.vn/2022/10/13/uploads-2022-th-c3-a1ng_10-ng-c3-a0y_13-ng-c3-82n-z3796940538884_648e8f42ed29156c26e6e9d40d4936e0.jpg",
+      "https://ttdn.vn/Uploads/Images/2023/7/10/5/7980.jpg"
+      ],
       "description": "Người Hà Nhì nổi tiếng với những ngôi nhà trình tường bằng đất hình nấm chịu rét tốt ở Y Tý và nghệ thuật làm ruộng bậc thang.",
       "history": {
         "description": "Di cư từ Trung Quốc xuống vùng núi Tây Bắc Việt Nam khoảng 300 năm trước.",
@@ -3213,25 +3267,25 @@
         "festivals": [
           {
             "name": "Lễ hội Khô Già Già (Cầu mùa)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20Kh%C3%B4%20Gi%C3%A0%20Gi%C3%A0%20(C%E1%BA%A7u%20m%C3%B9a)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://vnn.1cdn.vn/thumbs/1200x630/2024/07/06/uploads-2024-thang-7-ngay-5-thuan-kho-20gia-20gia3a.jpg"
           },
           {
             "name": "Tết Thiếu nhi (Gạ Ma Do)",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Thi%E1%BA%BFu%20nhi%20(G%E1%BA%A1%20Ma%20Do)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://photo-cms-vovworld.zadn.vn/cw730/uploaded/vovworld/qjhmn/2022_02_17/vov5_a7_uzcu.jpg"
           }
         ],
         "customs": [
           {
             "name": "Nhà trình tường đất",
-            "imageUrl": "https://source.unsplash.com/900x700/?Nh%C3%A0%20tr%C3%ACnh%20t%C6%B0%E1%BB%9Dng%20%C4%91%E1%BA%A5t%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJDZCwqwMwhBcLT-JF2hBA-5PNvuFFtG8QA&s"
           },
           {
             "name": "Nam giới giỏi đan lát",
-            "imageUrl": "https://source.unsplash.com/900x700/?Nam%20gi%E1%BB%9Bi%20gi%E1%BB%8Fi%20%C4%91an%20l%C3%A1t%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://vnn.1cdn.vn/2021/09/05/uploads-2021-th-c3-a1ng-209-ng-c3-a0y-205-c3-81nh-anh-201_1.jpg"
           },
           {
             "name": "Múa xòe Hà Nhì",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%BAa%20x%C3%B2e%20H%C3%A0%20Nh%C3%AC%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2024/3/16/ngam-ve-dep-tuyet-voi-cua-cac-co-gai-ha-nhi-trong-dieu-mua-dan-gian-13-1710564239496892541044.jpg"
           }
         ],
         "clothing": "Hà Nhì Đen (Lào Cai) mặc đồ đen thêu hoa văn chỉ đỏ, Hà Nhì Hoa (Lai Châu) mặc sặc sỡ hơn, đội mũ đính tua rua đỏ.",
@@ -3239,15 +3293,11 @@
         "cuisine": [
           {
             "name": "Bia Hà Nhì",
-            "imageUrl": "https://source.unsplash.com/900x700/?Bia%20H%C3%A0%20Nh%C3%AC%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://vnn-imgs-f.vgcloud.vn/2020/09/04/10/bia-ha-nhi-3.jpg?width=0&s=SXg9BpFPm7PGi-FKyh8SZA"
           },
           {
             "name": "Bánh trôi",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%A1nh%20tr%C3%B4i%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Thịt lợn treo gác bếp",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20l%E1%BB%A3n%20treo%20g%C3%A1c%20b%E1%BA%BFp%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://image.bnews.vn/MediaUpload/Org/2019/01/15/090530_len-cuc-tay-to-quoc-vui-tet-co-nhe-cha-cua-dan-toc-ha-nhi-o-dien-bien.jpg"
           }
         ],
         "housing": "Nhà trình tường bằng đất sét dày 40-50cm, mái lợp gianh hình chóp nhọn như cây nấm.",
@@ -3294,7 +3344,13 @@
       ],
       "language": "Tiếng Chu Ru (ngữ hệ Nam Đảo)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536273897_1073555518267185_7354724255490945522_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=QovoLx5ioj8Q7kNvwH2VXxz&_nc_oc=AdoiTW6UN6y5Sk6jksvV3J41RUNt2VcXQ77w_WVc9l6zYiDfLEl0cOYolkCcy9oS8-c&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=3viCb_51Yp1sJWDYzjXOAg&_nc_ss=7b2a8&oh=00_Af6or8ggZhAwYcoPfq1_z3TQTExqwoLxA1fZm3Q-_h_wiQ&oe=6A161942",
-      "images": [],
+      "images": ["https://vnn.1cdn.vn/2021/08/13/uploads-2021-th-c3-a1ng-208-ng-c3-a0y_13-c3-81nh-churu_mc3baa-truye1bb81n-the1bb91ng.jpg",
+      "https://imgnvsk.vnanet.vn/MediaUpload/Medium/2024/02/26/churu-492926-16-26-32.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjth6kHusagwUdFGL7ioNaAiiAOLx2qZpc-dS3yKgq3YSjqTLDJT88lDiABF57gddO6ULLKNB5srGx8pSt_PVIbrmgQgs2JL8DzBB7G23w-ORGHadiPNIfWDO9OKcg5CJ2qbFD4zv7HaRat/s1600/Van+hoa+Chu+Ru+002.jpg",
+      "https://cdn.realtech.com.vn/uploads/gostay/news/348/tuc-bat-chong-cua-nguoi-chu-ru.jpg",
+      "https://trekking-camping.com/wp-content/uploads/2020/09/churu_c491bb-1024x683.jpg",
+      "https://toquoc.mediacdn.vn/2019/4/4/4-15543900459831858405078.jpg"
+      ],
       "description": "Người Chu Ru có nghề làm gốm không dùng bàn xoay và truyền thuyết về nguồn gốc giống với người Chăm.",
       "history": {
         "description": "Tách ra từ khối cộng đồng Chăm Pa cổ, di cư lên vùng cao nguyên.",
@@ -3307,25 +3363,21 @@
         "festivals": [
           {
             "name": "Lễ cúng bến nước",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20b%E1%BA%BFn%20n%C6%B0%E1%BB%9Bc%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://buulong.com.vn/wp-content/uploads/2026/02/le-cung-ben-nuoc.jpg"
           },
           {
             "name": "Lễ cúng thần nông nghiệp (Bơ-mung)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20th%E1%BA%A7n%20n%C3%B4ng%20nghi%E1%BB%87p%20(B%C6%A1-mung)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://dulichdalatsense.com/view/at_le-hoi-cung-than-bo-mung-cua-nguoi-churu_5f704ee0a81f0ef0145cf3119427ce4e.jpg"
           }
         ],
         "customs": [
           {
-            "name": "Chế độ mẫu hệ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20m%E1%BA%ABu%20h%E1%BB%87%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
             "name": "Cô gái chủ động đi hỏi chồng",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%B4%20g%C3%A1i%20ch%E1%BB%A7%20%C4%91%E1%BB%99ng%20%C4%91i%20h%E1%BB%8Fi%20ch%E1%BB%93ng%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cdn.realtech.com.vn/uploads/gostay/news/348/xem-nguoi-chu-ru-bat-chong.jpg"
           },
           {
             "name": "Thợ rèn và làm gốm giỏi",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%A3%20r%C3%A8n%20v%C3%A0%20l%C3%A0m%20g%E1%BB%91m%20gi%E1%BB%8Fi%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf8100d5e5968924085d718f35f2a27fdd80975951cd31420697f22ad77fc47d0d4c33f245e867906187941565fe2c87580/tn12.jpg.webp"
           }
         ],
         "clothing": "Nam giới quấn khố, áo cổ tròn; nữ mặc váy quấn màu chàm, áo ngắn cài nút giữa.",
@@ -3393,7 +3445,13 @@
       ],
       "language": "Tiếng Lào (ngữ hệ Tày-Thái)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542761334_1073555644933839_3334031265799722011_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=iK6mIDCxK2YQ7kNvwFHdj-c&_nc_oc=Ado1QlWi43z1stYirYvoP0QGF8NjSiTBUfArB_Wx7VoZKiy-ikO5swwOPpUNNM9uqco&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=kHMEFofXVi2GSdSbYBYVEQ&_nc_ss=7b2a8&oh=00_Af5WauxfhW9cWYgcMHuYpr9bBAdwzL1K4P63DlMD0ts52Q&oe=6A16139F",
-      "images": [],
+      "images": ["https://imgnvsk.vnanet.vn/MediaUpload/Content/2024/03/03/lao13-12-21-42.jpg",
+      "https://imagevietnam.vnanet.vn//MediaUpload/Org/2024/08/15/415-11-23-10.jpg",
+      "https://laichau.dcs.vn/uploads/news/2018_07/dt-lao.jpg",
+      "https://phunuvietnam.mediacdn.vn/179072216278405120/2024/11/23/z6061078770759294d2e2364f700c469943ebe396cf3e8-17323404079491237583926.jpg",
+      "https://ttdn.vn/Uploads/Images/2023/11/1/5/6247-.jpg",
+      "https://baolaichau.vn/uploaded/post/2023/04/24/002_1682309341223.jpg"
+    ],
       "description": "Người Lào tại Việt Nam mang đậm nét văn hóa đặc trưng của nước bạn Lào, đặc biệt là lễ hội té nước và múa Lăm vông.",
       "history": {
         "description": "Là bộ phận người Lào định cư tại Việt Nam qua các biến thiên lịch sử vùng biên.",
@@ -3406,25 +3464,21 @@
         "festivals": [
           {
             "name": "Lễ hội té nước (Bun Pi Mày)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20t%C3%A9%20n%C6%B0%E1%BB%9Bc%20(Bun%20Pi%20M%C3%A0y)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://file3.qdnd.vn/data/images/0/2024/04/14/upload_2164/anh-1.jpg"
           },
           {
             "name": "Lễ Khẩu xé",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20Kh%E1%BA%A9u%20x%C3%A9%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://media.baovanhoa.vn/zoom/1000/Uploaded/nguyenviethung/2025_10_08/1_ADGE.jpg"
           }
         ],
         "customs": [
           {
-            "name": "Tín ngưỡng Phật giáo tiểu thừa",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%C3%ADn%20ng%C6%B0%E1%BB%A1ng%20Ph%E1%BA%ADt%20gi%C3%A1o%20ti%E1%BB%83u%20th%E1%BB%ABa%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
             "name": "Múa Lăm vông",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%BAa%20L%C4%83m%20v%C3%B4ng%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://tptravel.com.vn/data/media/1850/images/z(1).jpg"
           },
           {
             "name": "Tục buộc chỉ cổ tay",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20bu%E1%BB%99c%20ch%E1%BB%89%20c%E1%BB%95%20tay%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://nguonluc.com.vn/uploads/images/2022/04/16/tuc-le-buoc-chi-tay-la-mot-net-van-hoa-doc-dao-cua-nguoi-lao12-1650078828.jpg"
           }
         ],
         "clothing": "Phụ nữ mặc váy ống (xỉn) dệt hoa văn ở gấu, áo cánh chui đầu xẻ ngực, quấn khăn chéo vai.",
@@ -3495,7 +3549,13 @@
       ],
       "language": "Tiếng La Chí (ngữ hệ Ka Đai)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/536268022_1073555544933849_6102906788363654392_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=sYbl1Ldu_b0Q7kNvwEXLrEg&_nc_oc=Adon-PKS-U8dLWbx2ScggDFgLkB4dP_reWpMTT7iGKssKbSCJenQwVdJYCAKhDXrDqA&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=uecto7WSsrLJO28BUNWi9w&_nc_ss=7b2a8&oh=00_Af7oX0vtHFZvMI_vbY--7ct6Z8siaMHg5vidCDceikQ3fA&oe=6A15F23D",
-      "images": [],
+      "images": ["https://imgnvsk.vnanet.vn/MediaUpload/Medium/2024/03/03/lachi-5843-11-21-41.jpg",
+      "https://www.vwu.vn/documents/1809139/0/lachi2.jpg/7ba84c57-dec0-4062-bee0-9170cc2427d1?t=1604382292566",
+      "https://dttg.vnncdn.net/CKFinderJava/userfiles/images/Bai%20viet%20dan%20toc/Lachi/lachi_detail_7.JPG",
+      "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2023/9/30/dan-toc-la-chi-1696046566938833698873.jpg",
+      "https://baohagiang.vn/file/dataimages/201608/original/images1312483__TK_DA_LAY__2_thieu_nu_dan_toc_la_chi_trong_ngay_tet_khu_cu_te_Nphuong.jpg",
+      "https://dantocmiennui-media.baotintuc.vn/images/5c0c54f95c9777a45a8f5910a7a986a506ce3a358a14808bed98ddf6cee3be44365f03d63f2259847b3d36178b234241ff1e11fd3c5c52738c6db724d536b99385bbde8a2990ebaa15c8c1f8e60abfa8/img_20200612142611.jpg.webp"
+    ],
       "description": "Người La Chí có tục thờ ông tổ Hoàng Vần Thùng và Tết Khu Cù Tê rất đặc sắc.",
       "history": {
         "description": "Người La Chí sinh sống tập trung ở vùng núi cao biên giới phía Bắc từ rất lâu đời.",
@@ -3508,41 +3568,33 @@
         "festivals": [
           {
             "name": "Tết Khu Cù Tê (Tháng 7 âm lịch)",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Khu%20C%C3%B9%20T%C3%AA%20(Th%C3%A1ng%207%20%C3%A2m%20l%E1%BB%8Bch)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://daknong.1cdn.vn/2022/11/03/caonguyendaknong.baodaknong.org.vn-uploads-image-2022-11-03-_baoanh531-29.jpg"
           }
         ],
         "customs": [
           {
             "name": "Trồng bông dệt vải",
-            "imageUrl": "https://source.unsplash.com/900x700/?Tr%E1%BB%93ng%20b%C3%B4ng%20d%E1%BB%87t%20v%E1%BA%A3i%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
-            "name": "Tín ngưỡng thờ cúng tổ tiên là trên hết",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%C3%ADn%20ng%C6%B0%E1%BB%A1ng%20th%E1%BB%9D%20c%C3%BAng%20t%E1%BB%95%20ti%C3%AAn%20l%C3%A0%20tr%C3%AAn%20h%E1%BA%BFt%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://cdnmedia.baotintuc.vn/2016/10/20/00/04/La-Chi-3.jpg"
           },
           {
             "name": "Tục nhuộm răng đen",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20nhu%E1%BB%99m%20r%C4%83ng%20%C4%91en%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://dulichlaichau.vn/mypicture/images/Nm2024/Thng5Trang/Anh-1.jpg"
           }
         ],
         "clothing": "Nam mặc áo cánh chui đầu xẻ ngực cài cúc; nữ mặc quần ống rộng, áo xẻ nách dài, thường nhuộm chàm đen.",
         "clothingImage": "https://dotchuoinon.com/wp-content/uploads/2015/04/lc_ngc3b4i-nhc3a0-ce1bba7a-ngc6b0e1bb9di-la-chc3ad-te1baa1i-lc3a0ng-vc483n-hc3b3a.jpg",
         "cuisine": [
           {
-            "name": "Thịt lợn hun khói",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20l%E1%BB%A3n%20hun%20kh%C3%B3i%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
             "name": "Chuột núi nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Chu%E1%BB%99t%20n%C3%BAi%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://danviet.ex-cdn.com/files/f1/296231569849192448/2022/6/3/ve-ha-giang-nho-thuong-thuc-dac-san-thit-chuot-la-chi-khien-bao-nguoi-khoc-thet-1642949073-1654243609444-1654243610471936196135.jpg"
           },
           {
             "name": "Xôi màu",
-            "imageUrl": "https://source.unsplash.com/900x700/?X%C3%B4i%20m%C3%A0u%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://media.baosonla.org.vn/Uploads/Image2021/i5bpcpp4.jpg"
           },
           {
             "name": "Rượu hoẵng",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20ho%E1%BA%B5ng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://poliva.vn/wp-content/uploads/2020/03/ruou-hoang-2.jpg"
           }
         ],
         "housing": "Nhà sàn bằng gỗ, vách nứa, mái tranh. Gian giữa để bàn thờ tổ tiên.",
