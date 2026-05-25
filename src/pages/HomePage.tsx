@@ -26,7 +26,9 @@ const heroYoutubeEmbedUrl =
 
 const homepageImages = {
   heroBackground:
-    "https://bcp.cdnchinhphu.vn/334894974524682240/2023/10/10/cacdantoc-16969037990481671125584.jpg",
+    // "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/486972708_957258559896882_1352296246954997528_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeHuDyembE6FaTbnum64nLg-HSIB7f7DIFkdIgHt_sMgWQXuMgHipjPOZDZVPyC2e7l8qvaWtm9Hoork-E3ay7Gk&_nc_ohc=ZUgr_qMnh6YQ7kNvwHdymmh&_nc_oc=AdpVkJfzSDrxX80RtPDqHiU9VMtijoGIm7NKV62NiSOlx5smmCOnQict3GiknTAqllE&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&_nc_gid=ufSiFwqwGEZucS4Ep_-wPQ&_nc_ss=7a2a8&oh=00_Af53BZTp1bMMt8w-m5mutNKkSQ2NTqtUZGBXcNPambvHeA&oe=6A170E79",
+    // "/Gemini_Generated_Image_u3xtl0u3xtl0u3xt.png",
+    "/ChatGPT Image May 23, 2026, 11_10_55 AM.png",
   videoFallback:
     "https://www.kidsup.net/wp-content/uploads/2025/09/cac-dan-toc-tren-dat-nuoc-viet-nam.jpg",
   groupsBackground:
@@ -135,23 +137,15 @@ const HomePage = () => {
                 Việt Nam
               </h1>
 
-              <div className="mt-8 grid gap-5 border-l-4 border-[#b0160b] pl-5 md:grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)] md:items-end">
-                <p className="text-sm font-black uppercase leading-[0.95] text-[#15110f] sm:text-base">
+              <div className="mt-8 grid gap-5 border-l-4 border-[#b0160b] pl-5 md:grid-cols-2">
+                <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base">
                   Một bản đồ văn hóa sống động của các cộng đồng trên dải đất
                   hình chữ S.
                 </p>
-                <div className="md:text-right">
-                  <p className="text-sm font-black uppercase leading-[0.95] text-[#15110f] sm:text-base">
-                    Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng
-                    dân tộc.
-                  </p>
-                  <a
-                    href="#groups"
-                    className="mt-6 inline-flex h-11 items-center border-2 border-[#b0160b] bg-[#b0160b] px-5 text-xs font-black uppercase tracking-[0.14em] text-[#f8f4ec] transition hover:bg-transparent hover:text-[#b0160b]"
-                  >
-                    Bắt đầu
-                  </a>
-                </div>
+                <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base md:text-right">
+                  Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng
+                  dân tộc.
+                </p>
               </div>
             </div>
 
@@ -204,6 +198,19 @@ const HomePage = () => {
             <p>Since 2026</p>
             <p>vietnam-54ethnic-groups</p>
           </div>
+
+          {/* Scroll mouse icon - centered on screen */}
+          <a
+            href="#groups"
+            className="absolute left-1/2 bottom-12 z-30 -translate-x-1/2 transition hover:opacity-70"
+            aria-label="Cuộn xuống để khám phá"
+          >
+            <div className="scroll-down-mouse">
+              <div className="scroll-down-mouse-body">
+                <span className="scroll-down-mouse-wheel"></span>
+              </div>
+            </div>
+          </a>
         </div>
       </section>
 
@@ -382,9 +389,22 @@ const HomePage = () => {
         </div>
       </section>
 
+      <section className="bg-[#f8f4ec] px-6 py-12 sm:px-10">
+        <div className="mx-auto max-w-[1280px]">
+          <div className="flex justify-center">
+            <img
+              src="/spst.png"
+              alt="Sản phẩm sáng tạo"
+              className="max-w-full h-auto"
+              onError={handleImageFallback}
+            />
+          </div>
+        </div>
+      </section>
+
       <footer className="border-t-2 border-[#b0160b] bg-[#f8f4ec] px-6 py-8 text-center text-[#15110f] sm:px-10">
         <p className="text-xs font-black uppercase tracking-[0.14em]">
-          © 2026 - Sản phẩm sáng tạo môn Chủ nghĩa Khoa học Xã hội
+          © 2026 - Sản phẩm sáng tạo môn Chủ nghĩa Xã hội Khoa học
         </p>
       </footer>
     </div>
