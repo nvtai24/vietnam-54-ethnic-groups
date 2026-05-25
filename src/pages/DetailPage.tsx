@@ -21,23 +21,18 @@ const DetailPage = () => {
     title: string;
     url: string;
     description: string;
-    index?: number;
   } | null>(null);
 
   useEffect(() => {
     setCurrentImageIndex(0);
     setHoveredLifeImage(null);
     if (group) {
-      const defaultVideo =
-        group.videos && group.videos.length > 0
-          ? group.videos[0]
-          : detailPage.mediaSection.defaultVideo;
+      const firstVideo = group.videos?.[0];
       setActiveMedia({
         type: "video",
-        title: defaultVideo.title,
-        url: defaultVideo.url,
-        description: defaultVideo.description,
-        index: 0,
+        title: firstVideo?.title ?? detailPage.mediaSection.title,
+        url: firstVideo?.url ?? detailPage.mediaSection.defaultVideoUrl,
+        description: firstVideo?.description ?? detailPage.mediaSection.description,
       });
     }
   }, [id, group, detailPage]);
@@ -83,10 +78,7 @@ const DetailPage = () => {
   const housingImage = group.culture.housingImage;
   const galleryImages = detailImages.slice(0, 6);
   const hasGallery = detailImages.length > 1;
-  const videosToShow =
-    group.videos && group.videos.length > 0
-      ? group.videos
-      : [detailPage.mediaSection.defaultVideo];
+  const videosToShow = group.videos ?? [];
 
   const infoStats = [
     [
@@ -541,7 +533,7 @@ const DetailPage = () => {
                 </h4>
                 <div className="flex flex-col gap-2">
                   {videosToShow.map((item, index) => {
-                    const isSelected = activeMedia?.type === "video" && activeMedia.index === index;
+                    const isSelected = activeMedia?.type === "video" && activeMedia.url === item.url;
                     return (
                       <button
                         key={`video-${index}`}
@@ -549,8 +541,7 @@ const DetailPage = () => {
                           type: "video",
                           title: item.title,
                           url: item.url,
-                          description: item.description,
-                          index: index,
+                          description: item.description
                         })}
                         className={`w-full text-left p-3 border-2 transition-all flex items-start gap-3 ${
                           isSelected
@@ -585,7 +576,7 @@ const DetailPage = () => {
                   </h4>
                   <div className="flex flex-col gap-2">
                     {group.music.map((item, index) => {
-                      const isSelected = activeMedia?.type === "music" && activeMedia.index === index;
+                      const isSelected = activeMedia?.type === "music" && activeMedia.url === item.url;
                       return (
                         <button
                           key={`music-${index}`}
@@ -593,8 +584,7 @@ const DetailPage = () => {
                             type: "music",
                             title: item.title,
                             url: item.url,
-                            description: item.description,
-                            index: index,
+                            description: item.description
                           })}
                           className={`w-full text-left p-3 border-2 transition-all flex items-start gap-3 ${
                             isSelected
