@@ -42,6 +42,7 @@ export interface EthnicGroup {
   };
   
   // Media
+  videos?: MediaItem[];
   music?: MediaItem[];
   
   videos?: MediaItem[]; // YouTube embed URL
