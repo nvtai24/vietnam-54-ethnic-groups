@@ -253,7 +253,7 @@ export function validateEthnicGroup(group: EthnicGroup): ValidationError[] {
     });
   }
 
-  // Validate video URLs
+  // Validate videos array
   if (group.videos) {
     group.videos.forEach((video, index) => {
       if (!video.title || video.title.trim() === '') {
@@ -267,6 +267,13 @@ export function validateEthnicGroup(group: EthnicGroup): ValidationError[] {
         errors.push({
           field: `videos[${index}].url`,
           message: `URL video thứ ${index + 1} không hợp lệ`,
+          ethnicGroupId: group.id
+        });
+      }
+      if (!video.description || video.description.trim() === '') {
+        errors.push({
+          field: `videos[${index}].description`,
+          message: `Mô tả video thứ ${index + 1} không được để trống`,
           ethnicGroupId: group.id
         });
       }

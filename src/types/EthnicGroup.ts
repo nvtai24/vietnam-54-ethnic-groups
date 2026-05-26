@@ -43,8 +43,7 @@ export interface EthnicGroup {
   
   // Media
   music?: MediaItem[];
-  
-  videos?: MediaItem[]; // YouTube embed URL
+  videos?: MediaItem[];
   
   // Đặc điểm nhận dạng
   characteristics: string[];

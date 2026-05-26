@@ -27,15 +27,12 @@ const DetailPage = () => {
     setCurrentImageIndex(0);
     setHoveredLifeImage(null);
     if (group) {
-      const defaultVideo =
-        group.videos && group.videos.length > 0
-          ? group.videos[0]
-          : detailPage.mediaSection.defaultVideo;
+      const firstVideo = group.videos?.[0];
       setActiveMedia({
         type: "video",
-        title: defaultVideo.title,
-        url: defaultVideo.url,
-        description: defaultVideo.description,
+        title: firstVideo?.title ?? detailPage.mediaSection.defaultVideo.title,
+        url: firstVideo?.url ?? detailPage.mediaSection.defaultVideo.url,
+        description: firstVideo?.description ?? detailPage.mediaSection.defaultVideo.description,
       });
     }
   }, [id, group, detailPage]);
@@ -81,10 +78,7 @@ const DetailPage = () => {
   const housingImage = group.culture.housingImage;
   const galleryImages = detailImages.slice(0, 6);
   const hasGallery = detailImages.length > 1;
-  const videosToShow =
-    group.videos && group.videos.length > 0
-      ? group.videos
-      : [detailPage.mediaSection.defaultVideo];
+  const videosToShow = group.videos ?? [];
 
   const infoStats = [
     [

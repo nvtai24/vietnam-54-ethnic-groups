@@ -206,6 +206,19 @@ const HomePage = () => {
             <p>Since 2026</p>
             <p>vietnam-54ethnic-groups</p>
           </div>
+
+          {/* Scroll mouse icon - centered on screen */}
+          <a
+            href="#groups"
+            className="absolute left-1/2 bottom-12 z-30 -translate-x-1/2 transition hover:opacity-70"
+            aria-label="Cuộn xuống để khám phá"
+          >
+            <div className="scroll-down-mouse">
+              <div className="scroll-down-mouse-body">
+                <span className="scroll-down-mouse-wheel"></span>
+              </div>
+            </div>
+          </a>
         </div>
       </section>
 
@@ -384,9 +397,22 @@ const HomePage = () => {
         </div>
       </section>
 
+      <section className="bg-[#f8f4ec] px-6 py-12 sm:px-10">
+        <div className="mx-auto max-w-[1280px]">
+          <div className="flex justify-center">
+            <img
+              src="/spst.png"
+              alt="Sản phẩm sáng tạo"
+              className="max-w-full h-auto"
+              onError={handleImageFallback}
+            />
+          </div>
+        </div>
+      </section>
+
       <footer className="border-t-2 border-[#b0160b] bg-[#f8f4ec] px-6 py-8 text-center text-[#15110f] sm:px-10">
         <p className="text-xs font-black uppercase tracking-[0.14em]">
-          © 2026 - Sản phẩm sáng tạo môn Chủ nghĩa Khoa học Xã hội
+          © 2026 - Sản phẩm sáng tạo môn Chủ nghĩa Xã hội Khoa học
         </p>
       </footer>
     </div>
