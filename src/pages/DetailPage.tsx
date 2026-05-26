@@ -30,9 +30,9 @@ const DetailPage = () => {
       const firstVideo = group.videos?.[0];
       setActiveMedia({
         type: "video",
-        title: firstVideo?.title ?? detailPage.mediaSection.title,
-        url: firstVideo?.url ?? detailPage.mediaSection.defaultVideoUrl,
-        description: firstVideo?.description ?? detailPage.mediaSection.description,
+        title: firstVideo?.title ?? detailPage.mediaSection.defaultVideo.title,
+        url: firstVideo?.url ?? detailPage.mediaSection.defaultVideo.url,
+        description: firstVideo?.description ?? detailPage.mediaSection.defaultVideo.description,
       });
     }
   }, [id, group, detailPage]);
