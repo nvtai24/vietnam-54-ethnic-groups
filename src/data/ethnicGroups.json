@@ -4,9 +4,7 @@
       "id": "kinh",
       "orderNo": 1,
       "name": "Kinh",
-      "otherNames": [
-        "Việt"
-      ],
+      "otherNames": ["Việt"],
       "population": 82085826,
       "regions": [
         "Khắp lãnh thổ Việt Nam, tập trung đông nhất tại các vùng đồng bằng, ven biển (duyên hải) và các trung tâm đô thị lớn"
@@ -103,24 +101,13 @@
           "description": ""
         }
       ],
-      "characteristics": [
-        "Cần cù",
-        "nhân hậu",
-        "yêu nước",
-        "Đoàn kết"
-      ]
+      "characteristics": ["Cần cù", "nhân hậu", "yêu nước", "Đoàn kết"]
     },
     {
       "id": "tay",
       "orderNo": 2,
       "name": "Tày",
-      "otherNames": [
-        "Thổ",
-        "Ngạn",
-        "Phén",
-        "Thu Lao",
-        "Pa Dí"
-      ],
+      "otherNames": ["Thổ", "Ngạn", "Phén", "Thu Lao", "Pa Dí"],
       "population": 1845492,
       "regions": [
         "Cao Bằng",
@@ -139,73 +126,82 @@
       "description": "Dân tộc Tày là dân tộc thiểu số đông dân nhất Việt Nam, chủ yếu sống ở vùng Đông Bắc. Họ có nền văn hóa lâu đời với màu áo chàm đặc trưng, hát Then, và lễ hội Lồng Tồng (xuống đồng). Ẩm thực nổi tiếng với các món chua, xôi nếp và phong tục tập quán chú trọng thờ cúng tổ tiên, hiếu khách.",
       "history": {
         "description": "Người Tày có mặt ở Việt Nam từ rất sớm, từ cuối thiên niên kỷ thứ nhất trước Công nguyên và là một trong những chủ nhân đầu tiên của nước Việt cổ.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://media.baoquangninh.vn/upload/image/202206/medium/1977490_nghe_nhan_uu_tu_luong_thiem_phu_o_thi_tran_binh_lieu_la_nguoi_che_tac_rat_nhieu_dan_tinh_11465507.jpg",
+          "http://vannghetuyenquang.vn/media/images/2024/08/NCa.JPG"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ hội Lồng Tồng (Xuống đồng)",
-            "imageUrl": ""
+            "imageUrl": "https://dulichhobabe.com/UserFiles/image/long-tong.jpg"
           },
           {
             "name": "Nghi lễ Hát Then",
-            "imageUrl": ""
+            "imageUrl": "https://baochauelec.com/cdn/images/hat-then-la-gi-1.jpg"
           }
         ],
         "customs": [
           {
             "name": "Thờ cúng tổ tiên, bà mụ, Phật Bà",
-            "imageUrl": ""
+            "imageUrl": "https://media.baocaobang.vn/upload/image/202311/thumbnail/112217_mot_nghi_le_trong_dam_tang_cua_nguoi_tay_anh_minh_anh_20502229.jpg"
           },
           {
             "name": "Chúc tết nhà ngoại",
-            "imageUrl": ""
+            "imageUrl": "https://hnm.1cdn.vn/2024/02/22/nguoi-tay.jpg"
           },
           {
             "name": "Tập quán đập lúa trên máng gỗ",
-            "imageUrl": ""
+            "imageUrl": "https://suckhoedoisong.qltns.mediacdn.vn/zoom/600_315/324455921873985536/2025/11/9/nguoi-tay-bac-son-thi-gat-dap-lua-co-truyen-duoi-chan-na-lay-12-17626518715071938941586-47-0-1155-1772-crop-1762651878706677790083.jpg"
           }
         ],
         "clothing": "Quần áo màu chàm",
-        "clothingImage": "",
+        "clothingImage": "https://media.baocaobang.vn/upload/image/202504/medium/135381_trang_phuc_phu_nu_dan_toc_tay_16553609.jpg",
         "cuisine": [
           {
             "name": "Thịt trâu/lợn xào măng chua",
-            "imageUrl": ""
+            "imageUrl": "https://thanhnien.mediacdn.vn/Uploaded/congthang/2017_04_24/mang4_UKJO.jpg"
           },
           {
             "name": "Cá ruộng ướp chua",
-            "imageUrl": ""
+            "imageUrl": "https://images.baoangiang.com.vn/image/fckeditor/upload/2022/20220116/images/cho-ca-va-la-cam-do-thai-nho-roi-tron-eu-1642208941710368920116-16422093631741578399035.jpg"
           },
           {
             "name": "Xôi nếp (Khau nặm)",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXLga_GACLkn4VKIsL6rMR98ZovNgQ-zX4Q&s"
           },
           {
             "name": "Bánh chưng",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGK2n7EEbjCflVxrJU5j8FU_bDXmnKREIE-A&s"
           },
           {
             "name": "Bánh khảo",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHR80lUy_i9CAp2HqTL8oYqMQcbt7rcIsmQ&s"
           },
           {
             "name": "Khẩu sli",
-            "imageUrl": ""
+            "imageUrl": "https://baothainguyen.vn/file/oldimage/baothainguyen/UserFiles/image/img3435.jpg"
           }
         ],
         "housing": "Nhà sàn truyền thống 4 mái",
-        "housingImage": ""
+        "housingImage": "https://ashui.com/wp-content/uploads/2025/12/kien-truc-Bac-Giang-4.jpg"
       },
       "music": [
         {
           "title": "Tuyên Quang quê nọong",
-          "url": "",
+          "url": "https://www.youtube.com/embed/AhJ-zvyvZzc",
           "description": "Bài hát Tuyên Quang quê nọong (Tuyên Quang quê em) là một tác phẩm then mới đặc sắc, ca ngợi vẻ đẹp thiên nhiên, con người và văn hóa đậm đà bản sắc của dân tộc Tày tại tỉnh Tuyên Quang."
         }
       ],
-      "videos": [],
-      "characteristics": []
+      "videos": [
+        {
+          "title": "Dân ca dân tộc Tày",
+          "url": "https://www.youtube.com/embed/hIeOev5Qebc",
+          "description": "Hát Lượn Cọi Giao Duyên – Dân ca dân tộc Tày"
+        }
+      ],
+      "characteristics": ["Vải chàm", "Khăn mỏ quạ", "Vòng bạc", "Hát Then"]
     },
     {
       "id": "thai",
@@ -237,91 +233,84 @@
       ],
       "language": "Tiếng Thái (Nhóm ngôn ngữ Tày - Thái, ngữ hệ Thái – Kađai)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540613496_1073551044934299_6887533771478842802_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=u2oG1AKMbu4Q7kNvwGq02Ur&_nc_oc=AdqoNDO0q4zTPFy0tr6LjF962UjbfA-uC8od5snpyMSIWJfMPy8WqfEZk6O5o_7gDO0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=B8kLwuW1TgflsFqZxRArJA&_nc_ss=7b2a8&oh=00_Af6pqoIWSJHPR1WouglxRlPY_DMBFK0hrtO5MxyCIo3J3Q&oe=6A15EE0D",
-      "images": [],
+      "images": [
+        "https://hoilhpn.org.vn/documents/20182/5288968/11_May_2023_092346_GMTmuongsang_SL.png/874bd9e8-f1ea-49e8-b5eb-45932a1e5ec9"
+      ],
       "description": "Là dân tộc thiểu số đông dân thứ hai tại Việt Nam với bề dày lịch sử cư trú lâu đời tại vùng bồn địa Tây Bắc. Người Thái nổi tiếng với nền văn hóa sông nước đặc sắc, chữ viết cổ phong phú, các điệu múa Xòe di sản và trang phục áo cóm khăn Piêu mang tính biểu tượng thẩm mỹ cao.",
       "history": {
         "description": "Người Thái có cội nguồn ở vùng Đông Nam Á lục địa, tổ tiên xa xưa của người Thái có mặt ở Việt Nam từ rất sớm.\nNgười Thái ở Việt Nam được nhìn nhận là một cộng đồng tộc người với nhiều nhóm địa phương. Nguồn gốc cũng như sự có mặt của họ ở Việt Nam không hoàn toàn giống nhau. Theo các nhà dân tộc học, người Thái ở Việt Nam có hai nhóm chính: Thái Trắng và Thái Đen.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://danviet.ex-cdn.com/files/f1/thumb_w/650/2020/5/28/1029-1590638837644711342086.jpg",
+          "https://dotchuoinon.files.wordpress.com/2015/05/thai_thc3a1i-c491en-ce1bb95.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ cúng thần đất, núi, nước và linh hồn người",
-            "imageUrl": ""
+            "imageUrl": "https://nguoiduatin.mediacdn.vn/media/nguyen-anh-ngoc/2019/03/31/558536942683457407726143915913617261723648n.jpg"
           },
           {
             "name": "Lễ đón nhà mới",
-            "imageUrl": ""
-          },
-          {
-            "name": "Cúng tổ tiên",
-            "imageUrl": ""
+            "imageUrl": "https://i.ytimg.com/vi/ZXRt0dTD-wI/maxresdefault.jpg"
           },
           {
             "name": "Lễ hội Nàng Han",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2024/03/27/uploads-2024-thang-3-ngay-25-anh-untitled-20folder-203-3.jpg"
           },
           {
             "name": "Lễ hội Xên bản Xên mường",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2022/05/18/uploads-2022-th-c3-a1ng-205-ng-c3-a0y_18-anh-tim-hieu-le-hoi-xen-muong-cua-dong-bao-thai-muong-lo-o-yen-bai-01-1646139981.jpg"
           }
         ],
         "customs": [
           {
-            "name": "Tổ chức xã hội theo bản mường (phìa tạo)",
-            "imageUrl": ""
-          },
-          {
             "name": "Tục ở rể",
-            "imageUrl": ""
-          },
-          {
-            "name": "Lễ tang có bước Pông và Xống",
-            "imageUrl": ""
+            "imageUrl": "https://danviet.ex-cdn.com/files/f1/296231569849192448/2023/5/23/base64-1684812027867268430697.png"
           },
           {
             "name": "Tục làm vía",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2021/07/15/uploads-2021-th-c3-a1ng-207-ng-c3-a0y_15-lam-20via-bna_image_6376452_1232020.jpg"
           }
         ],
         "clothing": "Áo cánh ngắn đính khuy bạc, Váy vải thâm hình ống, Khăn Piêu (Nữ); Quần cắt thắt lưng, Áo cánh xẻ ngực (Nam).",
-        "clothingImage": "",
+        "clothingImage": "https://bizweb.dktcdn.net/thumb/1024x1024/100/489/974/products/avatar-1700108529032.jpg?v=1700108585173",
         "cuisine": [
           {
             "name": "Xôi nếp, Cơm gạo tẻ",
-            "imageUrl": ""
+            "imageUrl": "https://dulichmocchau.com/uploads/news/2018_03/xoingusac1.jpg"
           },
           {
             "name": "Các món nướng, lùi, đồ, sấy, mắm thính, nộm thịt tươi (lạp, cỏi)",
-            "imageUrl": ""
+            "imageUrl": "https://media.sonlatv.vn/upload/image/202204/thumbnail/6486_Doc-dao-mon-Lap-cua-dan-toc-Thai.jpg"
           },
           {
             "name": "Nước chấm Chéo",
-            "imageUrl": ""
+            "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2017/03/23/cach-lam-chamcheo-7564-1490237700.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=rll4lrNij3fxG1l5ka7Wlw"
           },
           {
             "name": "Nặm pịa",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQ9_1i26Gm55VvscXwjWAC8OleaUblx_w9A&s"
           },
           {
             "name": "Rượu cần, Rượu cất",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNmp5xvGugctyHdNsR_PJPlaifXqgMhkpXQ&s"
           }
         ],
         "housing": "Nhà sàn (mái khum hình mai rùa hoặc 4 mái)",
-        "housingImage": ""
+        "housingImage": "https://maichau.ecolodge.asia/ckfinder/userfiles/images/nha-san-nguoi-thai-dac-sac-3.jpg"
       },
       "music": [
         {
           "title": "Xòe Thái",
-          "url": "",
+          "url": "https://www.youtube.com/embed/P_zk3y7MUDI",
           "description": "Xòe vòng - một di sản văn hóa, một niềm tự hào của người Thái. Trích \"Xòe Thái - tinh hoa dân tộc\" trong Chương trình Khai mạc Lễ hội văn hóa du lịch Mường Lò năm 2019!"
         }
       ],
       "videos": [
         {
           "title": "Nét độc đáo văn hóa dân tộc Thái ở Lai Châu",
-          "url": "",
+          "url": "https://www.youtube.com/embed/a0DhN9u_Xkc",
           "description": ""
         }
       ],
@@ -331,12 +320,7 @@
       "id": "muong",
       "orderNo": 4,
       "name": "Mường",
-      "otherNames": [
-        "Mol",
-        "Mual",
-        "Mul",
-        "Mon"
-      ],
+      "otherNames": ["Mol", "Mual", "Mul", "Mon"],
       "population": 1452095,
       "regions": [
         "Hòa Bình",
@@ -348,69 +332,86 @@
       ],
       "language": "Tiếng Mường (Nhóm ngôn ngữ Việt-Mường, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/542756321_1073550531601017_5670771808055452094_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=_kW0hry5SgwQ7kNvwEiVC61&_nc_oc=AdreDlSeUi88owyS6_th_pwz6AOti1bBJGW7vmFfFoEj5vAYrvferEmd4iSj9-WOZZ4&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=TEcWR3Lb7FbM_1hnxeBX9w&_nc_ss=7b2a8&oh=00_Af7cy2roXMbHOM7B9MWJB1hIz1UvSpO2OMT_03KaS3GsvA&oe=6A15FE49",
-      "images": [],
+      "images": [
+        "https://cdn3891.cdn4s7.io.vn/media/caravan-tay-bac-mua-lua-chin_1/muong2.jpg"
+      ],
       "description": "Người Mường là một trong những dân tộc lâu đời ở Việt Nam, sinh sống chủ yếu tại các tỉnh miền núi và trung du phía Bắc như Hòa Bình, Thanh Hóa và Phú Thọ. Họ có quan hệ gần gũi với người Kinh về ngôn ngữ và văn hóa nhưng vẫn giữ được nhiều bản sắc riêng. Người Mường sinh hoạt theo Bon (làng) – đơn vị cộng đồng gắn kết nhiều thế hệ, nhấn mạnh tinh thần đoàn kết và hợp tác trong lao động, lễ nghi và đời sống tinh thần.",
       "history": {
         "description": "Người Mường là cư dân bản địa, sinh sống lâu đời ở nước ta, có cùng nguồn gốc với người Việt cổ và đã tạo dựng được một nền văn hóa phong phú, giàu bản sắc tộc người.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://scontent.fhan18-1.fna.fbcdn.net/v/t1.6435-9/59718225_708685286213475_5397438190602682368_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=vrrfX-XUyfgQ7kNvwFMlGHH&_nc_oc=Adra8f6g1Ezq0hA4SA3xtcFJkTOXUgHLAr4Kw4qeqayf2zKZx2S3N0ZN6R9vsvI--VE&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&_nc_gid=dR4glk6dVRMpS_69qQqbyg&_nc_ss=7b2a8&oh=00_Af5ynJltkF5v27a9OzqaC2mirQJufG7zHdpZNkBP8RUz-w&oe=6A3C93BD",
+          "https://nghiencuulichsu.com/wp-content/uploads/2017/11/hc6b0c6a1ng-kc3bd-phc3b4to.jpg?w=474"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ Khai Hạ",
-            "imageUrl": ""
+            "imageUrl": "https://files.bdttg.gov.vn/ContentFolder/ecm/source_files/2022/07/28/14231861_28.7-T%C3%A2n%20L%E1%BA%A1c_22-07-28.jpg"
           },
           {
             "name": "Lễ hội Cầu An Cho Bản Mường (Xên Bản - Xên Mường)",
-            "imageUrl": ""
+            "imageUrl": "https://dulichthuduc.com.vn/vnt_upload/news/MIEN-BAC/hoa-binh/le_hoi_cau_an_ban_muong_thu_duc_travel3.jpg"
           },
           {
             "name": "Lễ hội Cơm Mới (Lễ Mừng Lúa Mới)",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2022/11/05/uploads-2022-th-c3-a1ng_11-ng-c3-a0y-204-oanh-111d4142713t9947l9-z3851366587074-b1853.jpg"
           }
         ],
         "customs": [
           {
             "name": "Thờ cúng tổ tiên, thần núi, thần sông, thần đất",
-            "imageUrl": ""
+            "imageUrl": "https://nghiencuulichsu.com/wp-content/uploads/2016/11/tuccungda.jpg"
           },
           {
             "name": "Sinh hoạt cộng đồng theo Bon (làng)",
-            "imageUrl": ""
+            "imageUrl": "https://maichauhideaway.com/Data/Sites/1/News/424/ng%C6%B0%E1%BB%9Di-m%C6%B0%E1%BB%9Dng-s%E1%BB%91ng-%E1%BB%9F-%C4%91%C3%A2u-(3).png"
           },
           {
             "name": "Tín ngưỡng Mo Mường",
-            "imageUrl": ""
+            "imageUrl": "https://cdn.tuoitrethudo.vn/stores/news_dataimages/2023/082023/04/17/ba-bi-320230804171133.jpg?rt=20230804171211"
           }
         ],
         "clothing": "Áo dài đến eo/áo chùng, yếm thổ cẩm (Nữ); Áo ngắn cổ tròn, quần vải mộc thô ống rộng (Nam)",
-        "clothingImage": "",
+        "clothingImage": "https://file.hstatic.net/200000503583/file/trang-phuc-dan-toc-muong-6_7fb41ec65c8542dbbc5b84f584c399d7.jpg",
         "cuisine": [
           {
             "name": "Cơm lam",
-            "imageUrl": ""
+            "imageUrl": "https://comlammuongdong.net/wp-content/uploads/2023/05/Com-lam-2-1024x649.jpg"
           },
           {
             "name": "Rau xôi",
-            "imageUrl": ""
+            "imageUrl": "https://images.baoangiang.com.vn/image/fckeditor/upload/2023/20231103/images/117d3141833t2840l4-2023-10-31-10-05-img.jpg"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4zBwErVMaZF6aIgekAzqPRKkAA9xhTl2Hg&s"
           }
         ],
         "housing": "Nhà sàn truyền thống (bằng gỗ, tre, nứa, lợp cọ/tranh)",
-        "housingImage": ""
+        "housingImage": "https://kienviet.net/wp-content/uploads/2013/03/nhasan.jpg"
       },
       "music": [
         {
           "title": "Đập nàng Khọt",
-          "url": "",
+          "url": "https://www.youtube.com/embed/bAhjGf3QiAw",
           "description": "\"Đập nàng Khọt\" là 1 ca khúc dân ca với lời Mường cổ"
         }
       ],
-      "videos": [],
-      "characteristics": []
+      "videos": [
+        {
+          "title": "Khám Phá Nguồn Gốc, Cuộc Sống Và Văn Hóa Đặc Sắc Của Dân Tộc Mường Tại Việt Nam",
+          "url": "https://www.youtube.com/embed/4vgdPEeHhtY",
+          "description": "Dân tộc Mường là một trong những cộng đồng dân tộc thiểu số lớn ở Việt Nam, sinh sống chủ yếu tại các tỉnh Hòa Bình, Thanh Hóa, Phú Thọ, Sơn La... Người Mường có mối quan hệ gần gũi với người Kinh cả về ngôn ngữ, tập quán và đời sống nhưng vẫn giữ gìn được bản sắc văn hóa riêng biệt, đậm đà và giàu bản sắc."
+        }
+      ],
+      "characteristics": [
+        "Áo bướm",
+        "Váy cạp Tày",
+        "Váy chít",
+        "Khăn thắt eo",
+        "Khăn đội đầu trắng"
+      ]
     },
     {
       "id": "khmer",
@@ -432,75 +433,86 @@
       ],
       "language": "Tiếng Khmer (Nhóm Môn-Khmer, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540990630_1073550914934312_7646554292734668563_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=m6A9_IW5PfEQ7kNvwHhZf7y&_nc_oc=AdrJKIlsuEzvJvImfMGismElXCxJO1HmRdDT9Vo-tw-ZSx87FBVMMU_JthnGgwm78ig&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=Y1zc2pEwPNmsr_elksPpxw&_nc_ss=7b2a8&oh=00_Af45cDErtjLLSLKlbodKD5FSGN1xQw38UANoaauuCU7ZEQ&oe=6A15FDE4",
-      "images": [],
+      "images": [
+        "https://file3.qdnd.vn/data/images/0/2023/05/07/thuthuytv/1%203.jpg?dpi=150&quality=100&w=870"
+      ],
       "description": "Người Khmer (hay người Khmer Krom) tại Việt Nam là một trong 54 dân tộc anh em, sinh sống tập trung lâu đời tại khu vực Tây Nam Bộ. Họ sở hữu nền văn hóa bản địa độc đáo, gắn liền với hệ thống tín ngưỡng Phật giáo Nam Tông và phương thức canh tác nông nghiệp trù phú.",
       "history": {
         "description": "Nhiều nghiên cứu đã khẳng định người Khơ-me ở nước ta là hậu duệ của các di dân từ Lục Chân Lạp - tiền thân của nhà nước Campuchia ngày nay. Họ di cư sang khu vực này theo nhiều đợt và do nhiều nguyên nhân khác nhau. Cùng với người Việt và người Hoa, người Khơ-me là một trong những nhóm cư dân có mặt sớm nhất ở đồng bằng sông Cửu Long.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://nghiencuulichsu.com/wp-content/uploads/2017/02/tuc-di-tu-cua-nguoi-khome1.jpg",
+          "https://media.baobinhphuoc.com.vn/upload/news//11_2022/quang_ba_van_hoa_truyen_thong_cua_dong_bao_dan_toc_khmer_nam_bo_18454006112022.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Tết Chôl Chnăm Thmây (Mừng năm mới)",
-            "imageUrl": ""
+            "imageUrl": "https://storage-phatsuonline-v2.sgp1.digitaloceanspaces.com/files/2025/04/5e0c3340-c924-4510-86aa-32823e924dba-crop.JPEG"
           },
           {
             "name": "Lễ Sene Đôn Ta (Cúng ông bà)",
-            "imageUrl": ""
+            "imageUrl": "https://media.vov.vn/uploaded/cizotokek8ly8uzveukg/2019_09_23/vov__1__grio.jpg"
           },
           {
             "name": "Lễ hội Ok Om Bok (Cúng trăng)",
-            "imageUrl": ""
+            "imageUrl": "https://cly.1cdn.vn/2023/11/12/anh-2.jpg"
           }
         ],
         "customs": [
           {
             "name": "Tín ngưỡng bản địa giao thoa Phật giáo Nam Tông",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03aez7o82SJkYsNKqUlKtrrJNTMic07XTdg&s"
           },
           {
             "name": "Chùa là trung tâm văn hóa, tín ngưỡng và giáo dục",
-            "imageUrl": ""
+            "imageUrl": "https://ttdn.vn/Uploads/Images/2024/9/12/25/khmer1.jpg"
           }
         ],
         "clothing": "Áo tầm-vông, xà-rông, khăn rằn, váy som-pốt hôl (Nữ); Áo bà ba, quần lụa đen, xà-rông, khăn Kăl-xinh (Nam)",
-        "clothingImage": "",
+        "clothingImage": "https://vov4.vov.vn/sites/default/files/styles/large/public/2023-09/trang_phuc_khmer_9a.jpg",
         "cuisine": [
           {
             "name": "Mắm bò hóc",
-            "imageUrl": ""
+            "imageUrl": "https://cdn.tgdd.vn/2021/04/content/8-800x450-8.jpg"
           },
           {
             "name": "Bún nước lèo",
-            "imageUrl": ""
+            "imageUrl": "https://baovinhlong.com.vn/file/e7837c027f6ecd14017ffa4e5f2a0e34/dataimages/202105/original/images2372440_1.jpg"
           },
           {
             "name": "Cốm dẹp",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_8aEeeiQ0jF_gBiwQF0kCxBWbQyQyGR0O2Q&s"
           },
           {
             "name": "Bánh truyền thống Khmer",
-            "imageUrl": ""
+            "imageUrl": "https://media-cdn-v2.laodong.vn/storage/newsportal/2025/1/26/1455277/Ca-Tum-Banh-Gay-Thuo.JPG"
           }
         ],
         "housing": "Nhà sàn truyền thống và nhà trệt nền đất",
-        "housingImage": ""
+        "housingImage": "https://ati.net.vn/wp-content/uploads/2023/06/nha-o-dan-toc-khmer.jpg"
       },
-      "music": [],
-      "videos": [],
+      "music": [
+        {
+          "title": "Nhạc Skor Thum của người Khmer Kiên Giang",
+          "url": "https://www.youtube.com/embed/elJSdPaIyBs?si=k2bbYiOTsN0BQLyD",
+          "description": ""
+        }
+      ],
+      "videos": [
+        {
+          "title": "DI SẢN VĂN HÓA NGƯỜI KHMER",
+          "url": "https://www.youtube.com/embed/Puzo0kJkbKY?si=et_KNY1Ua83CB7J6",
+          "description": ""
+        }
+      ],
       "characteristics": []
     },
     {
       "id": "hoa",
       "orderNo": 9,
       "name": "Hoa",
-      "otherNames": [
-        "Hán",
-        "Tàu",
-        "Khách",
-        "Minh Hương",
-        "Người Thanh"
-      ],
+      "otherNames": ["Hán", "Tàu", "Khách", "Minh Hương", "Người Thanh"],
       "population": 749466,
       "regions": [
         "TP. Hồ Chí Minh",
@@ -512,73 +524,90 @@
       ],
       "language": "Các phương ngữ Trung Quốc (Quảng Đông, Triều Châu, Phúc Kiến, Hẹ, Hải Nam)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541990081_1073550948267642_8635293302090286179_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=tUn3zjGR5wAQ7kNvwGXTKZL&_nc_oc=AdrxHIpQQLRAm4Ammx4CYjCjHRQrf1RWgRYqnzlLH5nlXg4mrmTrDy3aM0SS3vCgXls&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=V67I_ou18dpgPj5QdkMFlQ&_nc_ss=7b2a8&oh=00_Af6B3brCU7J61EtaEMw7bz-z3BhUb9GPtK2fUAFV5vIuzg&oe=6A15F75D",
-      "images": [],
+      "images": [
+        "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf84dae6de83dc1ee6eca05cb74e29b84bafd4f8633718156bc0ec3420423a18f3a098b716d6de611c2832864fcc9d3bc677b0854adb711e1fa486d03a34e4f90ef/e36112608773402d1962.jpg.webp"
+      ],
       "description": "Dân tộc Hoa (người Hoa) là một trong 54 dân tộc tại Việt Nam, di cư từ Trung Quốc vào qua nhiều thế kỷ, tập trung đông tại các đô thị lớn. Họ nổi bật với truyền thống kinh doanh, văn hóa ẩm thực tinh tế, tín ngưỡng đa dạng và các lễ hội rực rỡ sắc màu, góp phần làm phong phú nền văn hóa Việt Nam.",
       "history": {
         "description": "Người Hoa di cư đến Việt Nam vào những thời điểm khác nhau từ thế kỷ XVI, và sau này vào cuối thời Minh, đầu thời Thanh, kéo dài cho đến nửa đầu thế kỷ XX.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://upload.wikimedia.org/wikipedia/vi/c/c7/LaoKay_famille_chinoise.jpg",
+          "https://hinhanhvietnam.com/wp-content/uploads/2014/09/Cholon_une_famille_chinoise_1906.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Tết Nguyên Đán",
-            "imageUrl": ""
+            "imageUrl": "https://imgnvsk.vnanet.vn/MediaUpload/Content/2024/02/28/dan-toc-hoa28-13-39-52.jpg"
           },
           {
             "name": "Tết Nguyên Tiêu (Rằm tháng Giêng)",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2022/02/16/uploads-2022-th-c3-a1ng-202-ng-c3-a0y_16-nguyentieu-02.jpg"
           },
           {
             "name": "Tết Trung Thu",
-            "imageUrl": ""
+            "imageUrl": "https://banhkinhdo.vn/wp-content/uploads/2019/04/T%E1%BA%BFt-trung-thu-c%E1%BB%A7a-ng%C6%B0%E1%BB%9Di-Hoa.jpg"
           },
           {
             "name": "Lễ Bà Thiên Hậu",
-            "imageUrl": ""
+            "imageUrl": "https://mia.vn/media/uploads/blog-du-lich/le-via-ba-thien-hau-va-net-van-hoa-cua-nguoi-hoa-o-can-tho-8-1649201730.jpg"
           }
         ],
         "customs": [
           {
             "name": "Thờ cúng tổ tiên, Thần Bếp, Thổ Địa, Thần Tài",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELV6jAzSoJN4NsD0kgLi2ystcwGtuc5FfsQ&s"
           },
           {
             "name": "Thờ Quan Công, Bà Thiên Hậu, Ông Bổn, Quan Âm",
-            "imageUrl": ""
+            "imageUrl": "https://vietnamesecommunity.wordpress.com/wp-content/uploads/2018/01/quancong.jpg?w=812"
           },
           {
             "name": "Lễ cưới/tang truyền thống phức tạp",
-            "imageUrl": ""
+            "imageUrl": "https://cafefcdn.com/203337114487263232/2022/10/29/photo-13-1667002867630756304030.jpg"
           }
         ],
         "clothing": "Áo sườn xám (xường xám), áo bà ba kiểu Hoa",
-        "clothingImage": "",
+        "clothingImage": "https://tiengtrung.com/wp-content/uploads/2020/11/suon-xam-tinh-hoa-van-hoa-cua-trung-quoc-095426.jpg",
         "cuisine": [
           {
             "name": "Mì, hủ tiếu, hoành thánh",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVy9shVhDwhkL6RtN6wAiDzqAuTipcqMw3sg&s"
           },
           {
             "name": "Bánh bao, xíu mại",
-            "imageUrl": ""
+            "imageUrl": "https://baocamau.vn/image/ckeditor/2025/20251204/images/banh-2.jpg"
           },
           {
             "name": "Các món xào, hấp, tiềm (hầm)",
-            "imageUrl": ""
+            "imageUrl": "https://cdn.tgdd.vn/Files/2020/11/18/1307638/nhung-mon-an-dac-trung-cua-nguoi-hoa-dip-tet-o-viet-nam-202011181610439535.jpg"
           }
         ],
         "housing": "Nhà gạch kết cấu ba gian truyền thống, chú trọng phong thủy",
-        "housingImage": ""
+        "housingImage": "https://phuongnam.vanhoavaphattrien.vn/uploads/images/012018//news_1543910371.gif"
       },
       "music": [
         {
           "title": "Đóa hoa xuân",
-          "url": "",
+          "url": "https://www.youtube.com/embed/RyrMmjVBY1s",
           "description": "Đóa hoa xuân là một tiết mục nghệ thuật đặc sắc, thường được biểu diễn trong không gian văn hóa cộng đồng, đặc biệt là vào dịp Tết Nguyên đán. Sự kết hợp giữa giọng hát khỏe khoắn, truyền cảm cùng vũ đạo uyển chuyển tạo nên một bức tranh xuân sống động, tươi mới."
         }
       ],
-      "videos": [],
-      "characteristics": []
+      "videos": [
+        {
+          "title": "Dân tộc Hoa",
+          "url": "https://www.youtube.com/embed/sHZnxygcHIs",
+          "description": ""
+        }
+      ],
+      "characteristics": [
+        "Áo xường xám",
+        "Áo sườn xám",
+        "Áo đường trang",
+        "Áo cổ tàu",
+        "Giày thêu hoa"
+      ]
     },
     {
       "id": "nung",
@@ -608,84 +637,95 @@
       ],
       "language": "Nhóm ngôn ngữ Tày - Thái, ngữ hệ Thái – Kađai",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540329648_1073551131600957_182783554328537053_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=WYHPd5hnGAIQ7kNvwEbCZec&_nc_oc=AdovYBvt90XauEO-kYkojPRO71Si6gnTJqc3oGaS15G8wxjfQU_JI7q1733lAbO1CGo&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=6zrjUf-aZA7Jwc3Dt9QxXA&_nc_ss=7b2a8&oh=00_Af4GLN_wavPC02PDVxp61nB3iF5FsHWF9TW4kaW8Xu0GKQ&oe=6A15F6F3",
-      "images": [],
+      "images": [
+        "https://redsvn.net/wp-content/uploads/2017/12/Nguoi-Nung.jpg"
+      ],
       "description": "Dân tộc Nùng là một trong những tộc người năng động, có dân số đông ở Việt Nam, sinh sống phần lớn ở các tỉnh miền núi phía bắc, có mối quan hệ giao thoa văn hóa chặt chẽ với người Tày. Người Nùng sở hữu thế mạnh truyền thống về kinh tế mậu biên, nghề rèn đúc thủ công kiệt xuất tại Phúc Sen (Cao Bằng) và di sản nghệ thuật hát Then, hát Sli vang danh.",
       "history": {
         "description": "Phần lớn tổ tiên người Nùng di cư từ vùng Quảng Tây (Trung Quốc) sang Việt Nam cách đây khoảng 200 - 300 năm.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://farm8.staticflickr.com/7454/13970628394_ac7d095b54_z.jpg?w=900?w=1000",
+          "https://scontent.fhan18-1.fna.fbcdn.net/v/t1.6435-9/164472033_728386671134919_6267432668253947396_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zifa0u_lb2QQ7kNvwEZm1ba&_nc_oc=AdrfGnCYCj5CIwLy4MffoR5tsAvPEbXmt5oeecq-vC-3kmxgRZ4TX7WA21zb14jL_rA&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&_nc_gid=juNFjvFC3_OMs7Zxa2ikcw&_nc_ss=7b2a8&oh=00_Af4RLYZl0Uk7l-2aD_DBAGCVH4WjAyENW9EfjhnXGFD2sA&oe=6A3C9458"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ hội lùng tùng (xuống đồng)",
-            "imageUrl": ""
+            "imageUrl": "https://cdn.xanhsm.com/2025/03/4ee83007-le-hoi-long-tong-1.jpg"
           },
           {
             "name": "Lễ hội cầu mùa",
-            "imageUrl": ""
+            "imageUrl": "https://cdnmedia.baotintuc.vn/2015/04/10/21/27/image005.jpg"
           },
           {
             "name": "Tết Nguyên đán và tết cuối tháng Giêng",
-            "imageUrl": ""
+            "imageUrl": "https://gotrangtri.vn/wp-content/uploads/2018/12/hat-l%C6%B0%E1%BB%A3n-copy.jpg"
           }
         ],
         "customs": [
           {
             "name": "Tín ngưỡng đa thần, thờ cúng tổ tiên ba đời",
-            "imageUrl": ""
+            "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCVY26R0ujpHdiohcFKWtfW1j0yBU8FbQoVhn31xDTPKoAo_gv8Eg_bw2f3wUEnhxSZCU5qFgG86JW5FIO-nglo9gVPYHJyPHwRx-0_-Mfg89HEU4Ai3-vOi5n7iiGiv_vV9CK3U7l-iMb/s640/vanhoadantocnung+012.jpg"
           },
           {
             "name": "Ảnh hưởng của Tam giáo (Phật, Khổng, Đạo)",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2023/11/30/uploads-2023-thuan-11-a3.jpg"
           },
           {
             "name": "Hệ thống thầy cúng: Tào, Mo, Pựt, Then",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2021/07/27/uploads-2021-th-c3-a1ng-207-ng-c3-a0y_26-thay-20tao-e1-ba-a2nh-201_-20th-e1-ba-a7y-20t-c3-a0o-20t-e1-bb-95-20ch-e1-bb-a9c-20l-e1-bb-85-20tang-20_-20-e1-ba-a3nh-20n-c3-b4ng-20v-c4-83n-20t-e1-bb-9bi.jpg"
           }
         ],
         "clothing": "Áo cổ đứng xẻ ngực (Nam); Áo năm thân cài cúc nách phải, khăn chít mỏ quạ (Nữ); Vải thô nhuộm chàm ít hoa văn",
-        "clothingImage": "",
+        "clothingImage": "https://media.baocaobang.vn/upload/image/202305/thumbnail/104496_trangphuc_nung_an_1_23181804.jpg",
         "cuisine": [
           {
             "name": "Xôi màu, xôi trám đen, xôi trứng kiến",
-            "imageUrl": ""
+            "imageUrl": "https://scontent.iocvnpt.com/resources/portal/Images/CBG/diemntcbg/anh_xoi_tram_786118727.jpg"
           },
           {
             "name": "Bánh cao quyển, cao xằng, bánh ngải",
-            "imageUrl": ""
+            "imageUrl": "https://media.baocaobang.vn/upload/image/201805/medium/37066_IMG_5508.jpg"
           },
           {
             "name": "Gà trống thiến, bánh chưng dài",
-            "imageUrl": ""
+            "imageUrl": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/02_2020/banh-chung-cua-nguoi-dan-toc-vung-cao-lang-son-4.jpg"
           },
           {
             "name": "Lợn quay nhồi lá mắc mật",
-            "imageUrl": ""
+            "imageUrl": "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/092023/05/18/220230905182705.jpg?rt=20230905182802"
           }
         ],
         "housing": "Nhà sàn 3 tầng lợp ngói máng hoặc nhà trình tường đất",
-        "housingImage": ""
+        "housingImage": "https://thegioidisan.vn/assets/media/2018/THang%207/%E1%BA%A2nh%203.%20B%E1%BA%A3n%20nh%C3%A0%20tr%C3%ACnh%20t%C6%B0%E1%BB%9Dng%2C%20%E1%BA%A3nh%20D%C6%B0%C6%A1ng%20C%C3%B4ng%20Bao.jpg"
       },
-      "music": [],
-      "videos": [
+      "music": [
         {
-          "title": "Nét đẹp trong phong tục cưới hỏi của dân tộc Nùng",
-          "url": "",
+          "title": "Hát nùng giọng hát chuẩn đúng bản sắc dân tộc nùng",
+          "url": "https://www.youtube.com/embed/Iv9epqLtGqk",
           "description": ""
         }
       ],
-      "characteristics": []
+      "videos": [
+        {
+          "title": "Nét đẹp trong phong tục cưới hỏi của dân tộc Nùng",
+          "url": "https://www.youtube.com/embed/GVFX0hzUS54",
+          "description": "Lễ cưới hỏi của người Nùng ở tỉnh Lạng Sơn luôn có sức hấp dẫn không chỉ đối với đồng bào dân tộc Nùng, vốn chiếm hơn 40% dân số tỉnh này mà còn là phong tục thu hút sự quan tâm của những dân tộc anh em khác trên vùng cao các tỉnh phía Bắc."
+        }
+      ],
+      "characteristics": [
+        "Hát Then Nùng",
+        "Đàn Tính",
+        "Hát Lượn Nùng",
+        "Múa sư tử mèo"
+      ]
     },
     {
       "id": "hmong",
       "orderNo": 5,
       "name": "H'Mông",
-      "otherNames": [
-        "Hmông Trắng",
-        "Hmông Đen",
-        "Hmông Xanh",
-        "Hmông Hoa"
-      ],
+      "otherNames": ["Hmông Trắng", "Hmông Đen", "Hmông Xanh", "Hmông Hoa"],
       "population": 1393547,
       "regions": [
         "Hà Giang",
@@ -704,17 +744,22 @@
       ],
       "language": "Hệ ngôn ngữ H'Mông - Dao",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/543060510_1073550114934392_4949719968174761156_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=uW1Y2f-K-eAQ7kNvwHQahBu&_nc_oc=Adrv8saO0x9yEFi5YR95RrSn4zizaWFR6yVf-nXJQFwRFiTJd4J8UC-Yrm_EPlIRTcQ&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=OAWx-r_m10qQIOZJ5DS3Hg&_nc_ss=7b2a8&oh=00_Af5vfv84-v3mKbTItehViuXUdEJIJJ4qqgo0Skux0ofXDQ&oe=6A15F09B",
-      "images": [],
+      "images": [
+        "https://danviet.ex-cdn.com/files/f1/296231569849192448/2023/2/9/redsvn-mick-palarczik-05-1675942974749-1675942975739318737665.jpg"
+      ],
       "description": "Người H'Mông là một dân tộc thiểu số sinh sống chủ yếu ở các vùng núi cao Tây Bắc Việt Nam, gồm các tỉnh như Hà Giang, Lào Cai, Lai Châu, Sơn La, Điện Biên. Người H'Mông có nguồn gốc lâu đời, cư trú tập trung ở các khu vực đồi núi, thường sống thành từng bản, từng dòng họ, với các phong tục tập quán gắn liền với nương rẫy và đời sống cộng đồng.",
       "history": {
         "description": "Cách nay khoảng 4-5 nghìn năm, hai tộc người Hmông và Dao cùng bị người Hán đẩy ra khỏi vùng đất Tam Miêu ở Trung Quốc, phải chịu các cuộc binh chiến và thiên di kéo dài hàng nghìn năm. Vào cuối thế kỷ XVII đầu thế kỷ XVIII, họ bắt đầu thiên di vào vùng Đông Nam Á.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://scontent.fhan18-1.fna.fbcdn.net/v/t1.6435-9/38894741_1764888260262026_3736841359651241984_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=qse6k-_q9iAQ7kNvwF9x4XN&_nc_oc=AdpM0F7fsNK6rm2BxQKBk6vjgp060EAjmRMnPK72ftycFwPjAYZYkXDdXiWEDMKUxzI&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AMQEuARoUfjTrWwRoyPqvQ&_nc_ss=7b2a8&oh=00_Af7k-HRYPslEOdx6NtJNEsPwOoZiRhQO_6BggKqpf-PISg&oe=6A3C9F31",
+          "https://eholiday.vn/wp-content/uploads/2021/07/doc-dao-net-van-hoa-cua-nguoi-hmong-tai-sapa-1.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ hội Gầu Tào",
-            "imageUrl": ""
+            "imageUrl": "https://cdn-images.vtv.vn/2020/10/7/le-hoi-gau-tao-thegioidisan-16020349207181108840401.jpg"
           },
           {
             "name": "Lễ hội cầu mùa",
@@ -722,55 +767,63 @@
           },
           {
             "name": "Tết H'Mông",
-            "imageUrl": ""
+            "imageUrl": "https://cdn.giaoducthoidai.vn/images/b4508baace0d9fe4c8bbd296e259642eae2a4b2d6a489a7d8bfbc173b7630e4fd124f7a5d47fda9906b899e47caa72e1cb27f35e17c65de3caf2e4eab12e32d8/10-1-1315.jpg.webp"
           }
         ],
         "customs": [
           {
-            "name": "Thờ ông Trời",
-            "imageUrl": ""
-          },
-          {
             "name": "Quan niệm vạn vật hữu linh",
-            "imageUrl": ""
+            "imageUrl": "https://redsvn.net/wp-content/uploads/2021/08/1200px-Wietnam2C_Sapa2C_StrC3B3j_ludowy_trzech_kobiet.jpg"
           },
           {
             "name": "Thờ cúng tổ tiên",
-            "imageUrl": ""
+            "imageUrl": "https://cdnmedia.baotintuc.vn/2016/04/06/23/54/4-IMG7286.jpg"
           }
         ],
         "clothing": "Váy thổ cẩm sặc sỡ, áo cộc tay, khăn piêu, trang sức bạc (Nữ); Áo cánh ngắn, quần tối màu (Nam)",
-        "clothingImage": "",
+        "clothingImage": "https://file.hstatic.net/200000503583/file/trang-phuc-dan-toc-mong-6_cb845153a28a4de289a633915a1f0c3b.jpg",
         "cuisine": [
           {
             "name": "Mèn mén (bột ngô đồ)",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3ow0Btz22zLMeBoCKOwrZF6Ce7MebEY52w&s"
           },
           {
             "name": "Bánh bột ngô, bánh gạo",
-            "imageUrl": ""
+            "imageUrl": "https://media.baocaobang.vn/upload/image/201307/medium/17001_banh%20ngo2.jpg"
           },
           {
             "name": "Rượu ngô, rượu gạo",
-            "imageUrl": ""
+            "imageUrl": "https://mia.vn/media/uploads/blog-du-lich/Ruou-ngo-Bac-Ha-Tinh-hoa-am-thuc-noi-cao-nguyen-trang-Lao-Cai-3-1622336580.jpg"
           },
           {
             "name": "Thắng cố",
-            "imageUrl": ""
+            "imageUrl": "https://cly.1cdn.vn/2021/06/29/dantoctongiao.congly.vn-upload-content_img-2021-0629-_thang-co-mon-an-dac-san-cua-nui-rung-tay-bac_anh_1.jpg"
           }
         ],
         "housing": "Nhà sàn, nhà gỗ lợp tranh, nhà trình tường đất",
-        "housingImage": ""
+        "housingImage": "https://bizweb.dktcdn.net/100/006/093/files/bs-nha-trinh-tuong-1.jpg?v=1473157762426"
       },
       "music": [
         {
           "title": "Xuân Về Trên Bản H'Mông",
-          "url": "",
+          "url": "https://www.youtube.com/embed/UipzJ0rb4Gs",
           "description": "Tiếng sáo gợi nhớ đến khung cảnh thiên nhiên hùng vĩ, cuộc sống sinh hoạt nơi nương rẫy và tinh thần cộng đồng H’Mông được hòa quyện trong giai điệu"
         }
       ],
-      "videos": [],
-      "characteristics": []
+      "videos": [
+        {
+          "title": "Người Miêu (HMông) - Lịch Sử Của Một Dân Tộc Lưu Vong",
+          "url": "https://www.youtube.com/embed/fob388IRm90",
+          "description": "Sắc tộc Hmong, hay còn gọi là Miêu tộc hoặc người Mèo, ước tính hiện có khoảng hơn 6 triệu dân trên thế giới, sinh sống chủ yếu ở Trung quốc và rải rác ở các nước Việt, Lào, Thái, Miến điện và Hoa Kỳ. Họ có lịch sử lâu đời và hùng tráng nhưng lại kém may mắn để rồi suy vong mà trở thành một sắc tộc miền núi. Người Trung hoa xưa phân biệt sắc tộc Hmong ra làm hai loại: loại đã thuần và loại hoang.Nhiều nhà sử học đồng ý rằng trong thời cổ đại giống Hmong xuất phát từ châu  u, di dân dần đến vùng đồng khô Siberia rồi mới đến định cư ở lưu vực sông Hoàng Hà vài ngàn năm trước. Số phận dân Hmong bắt đầu gắn liền với sử Trung quốc có thể vào khoảng từ năm 3000 trước CN đến năm 1200 trước CN.Khoảng năm 2700 trước CN những di dân từ Siberia đã di chuyển và định cư tại lưu vực sông Hoàng hà ở vùng thượng Hà nam. Cũng có nhiều truyền thuyết nói đến sự hùng mạnh của Miêu tộc. Theo người Hoa thì Hiên Viên đã tìm cách tiêu diệt Xi Vưu là tù trưởng của Miêu tộc để chiếm miền lưu vực Hoàng Hà. Sau khi toàn thắng, Hiên Viên lên ngôi xưng là Hoàng đế mở đầu thời Ngũ đế.Tuy Hoàng đế chỉ là một nhân vật huyền thoại của người Tàu nhưng phần nào đã nói lên được sự xung đột giữa 2 dân tộc Hoa – Miêu đã xảy ra rất sớm và kéo dài suốt lịch sử Trung quốc."
+        }
+      ],
+      "characteristics": [
+        "Váy xòe xếp ly",
+        "Vải lanh",
+        "Áo xẻ ngực",
+        "Thắt lưng vải",
+        "Xà cạp"
+      ]
     },
     {
       "id": "dao",
@@ -794,158 +847,185 @@
       ],
       "language": "Hệ ngôn ngữ H'Mông - Dao",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/541639339_1073550224934381_377953197478521140_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=U03D99sDaJ8Q7kNvwG-FRXW&_nc_oc=AdqRN5JNQjjlKg4cklX6LWwErtf2LQHTs4e3c9gJJihl3vSF5z4lm34o6HsNJf9DOSE&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=sk_g3RXLfKFCxiAPw_UOOA&_nc_ss=7b2a8&oh=00_Af5Fw05J73fY0gmDDd-5SI0BhP-yzTBJvU7Ef-0p-6EI-A&oe=6A15F4F8",
-      "images": [],
+      "images": [
+        "https://cdn.baolaocai.vn/images/463974ce6d97d8cb8df387bbe715721ba55fab73fc22a03d0e5e6d06fcff08fdad548e768d09685db79e7f753f2e8676a265e2c2b29ed8b17f6a024713d5b909ec0d39a0fc80e771bd58592a08b6bcab1183adc067c3cedb15526e3e974386e0/1-trang-phuc-dao.jpg.webp"
+      ],
       "description": "Người Dao là một trong 54 dân tộc thiểu số tại Việt Nam (hơn 890.000 người, sinh chủ yếu ở vùng miền núi phía Bắc). Họ có nguồn gốc di cư từ Trung Quốc và nổi bật với nền văn hóa đa dạng, nhiều nhóm nhánh, hệ thống chữ viết cổ (chữ Nho), cùng các nghi lễ độc đáo như Tết nhảy hay cấp sắc.",
       "history": {
         "description": "Người Dao có nguồn gốc từ Trung Quốc, việc chuyển cư sang Việt Nam kéo dài suốt từ thế kỷ XII, XIII cho đến nửa đầu thế kỷ XX.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/516735113_24551562874428533_5003357530776753948_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=q-DtRTCE5aYQ7kNvwER1Uar&_nc_oc=AdptTSnYgEIKvZ2Ql1SGfXfG6NDrIK-Oym3zxmkO3tjXH9fEl4QeiGb4PPyWclYGcyY&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&_nc_gid=9E8O2lveMEs8Af9MuB5KOA&_nc_ss=7b2a8&oh=00_Af7KEWJ_origJLxu0N_AwC7Qoza8UapYMZz2nMjE14GcWg&oe=6A1B2C2D",
+          "https://www.vme.org.vn/content/uploads/cms/2024/06/19/dao1.png"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ Cấp Sắc (Lễ Tủ Cải)",
-            "imageUrl": ""
+            "imageUrl": "https://thegioidisan.vn/assets/media/2016/Thang%207/Le%20Tu%20cai.jpg"
           },
           {
             "name": "Lễ Nhảy Lửa",
-            "imageUrl": ""
+            "imageUrl": "https://imagevietnam.vnanet.vn/Upload/2019/10/14/14102019090312769vna_potal_tuyen_quang_trinh_dien_nhay_lua_cua_dan_toc_dao_do_094047584_4126176.jpg"
           },
           {
             "name": "Lễ hội Bàn Vương",
-            "imageUrl": ""
+            "imageUrl": "https://baohagiang.vn/file/4028eaa4679b32c401679c0c74382a7e/4028eaa57d592b24017d5a5e979736bf/082022/22_20220826153302.jpg"
           },
           {
             "name": "Lễ Cầu Mùa (Lễ Chầu Nhẩn)",
-            "imageUrl": ""
+            "imageUrl": "https://bazantravel.com/cdn/medias/uploads/29/29980-le-hoi-cau-mua-dan-toc-dao-670x446.jpg"
           },
           {
             "name": "Lễ Púng Hiéng",
-            "imageUrl": ""
+            "imageUrl": "https://media.baosonla.org.vn/public/hieupt/2024-10-07/22.jpg"
           }
         ],
         "customs": [
           {
             "name": "Tín ngưỡng thờ Bàn Hồ (Bàn Vương)",
-            "imageUrl": ""
+            "imageUrl": "https://baotanglichsu.vn/DataFiles/asset/upload/thang_12_nam_2017/le_cung_ban_vuong_tuc_tin_nguong_tho_cho_cua_nguoi_dao/3.jpg"
           },
           {
             "name": "Phong tục chạm bạc và nhuộm chàm truyền thống",
-            "imageUrl": ""
+            "imageUrl": "https://mic.mediacdn.vn/Upload_Moi/2022_english/4-dao-do.png"
           }
         ],
         "clothing": "Áo dài, yếm, xà cạp, khăn đội đầu cầu kỳ thêu 5 màu cơ bản (Nữ)",
-        "clothingImage": "",
+        "clothingImage": "https://file.hstatic.net/200000503583/file/trang-phuc-dan-toc-dao-1_631430330deb4afeafe155425d827aa6.jpg",
         "cuisine": [
           {
             "name": "Thịt lợn cắp nách",
-            "imageUrl": ""
+            "imageUrl": "https://thittraugacbep.com.vn/wp-content/uploads/2024/10/lon-cap-nach-1.jpg"
           },
           {
             "name": "Bánh chưng đen",
-            "imageUrl": ""
+            "imageUrl": "https://img.thuonghieusanpham.vn/img/TAPCHI_THSP/news_dataimages/2024/022024/03/14/in_article/120240203144508.jpg?rt=20240203144519"
           },
           {
             "name": "Xôi ngũ sắc",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQIRuL5pAfTkR3otcK_I96NSnyRplyGTMktw&s"
           },
           {
             "name": "Thịt lợn muối chua",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIAb6BqZKdW7ldMnfI3yPnjrz69Khtv-A9Q&s"
           },
           {
             "name": "Canh gà nấu rượu bâu",
-            "imageUrl": ""
+            "imageUrl": "https://bizweb.dktcdn.net/100/006/093/files/canh-ga-ruou-bau-yen-tu.jpg?v=1571974256431"
           }
         ],
         "housing": "Nhà đất (trệt), nhà sàn và nhà nửa sàn nửa đất",
-        "housingImage": ""
+        "housingImage": "https://maichauhideaway.com/Data/Sites/1/media/tin-tuc/%E1%BA%A3nh-b%C3%A0i-vi%E1%BA%BFt/t62025/nha-cua-nguoi-dao/nha-cua-nguoi-dao-2.jpg"
       },
-      "music": [],
-      "videos": [],
-      "characteristics": []
+      "music": [
+        {
+          "title": "Ca nhạc dân tộc Dao",
+          "url": "https://www.youtube.com/embed/xHMPjKbsXa8",
+          "description": ""
+        }
+      ],
+      "videos": [
+        {
+          "title": "MÚA CHUÔNG DÂN TỘC DAO",
+          "url": "https://www.youtube.com/embed/QM1G3iFCJuo",
+          "description": ""
+        }
+      ],
+      "characteristics": [
+        "Áo dài năm thân",
+        "Yếm thêu",
+        "Khăn đội đầu màu đỏ",
+        "Mũi sừng"
+      ]
     },
     {
       "id": "giarai",
       "orderNo": 10,
       "name": "Gia Rai",
-      "otherNames": [
-        "Jrai",
-        "Giơ Ray",
-        "Chơ Ray"
-      ],
+      "otherNames": ["Jrai", "Giơ Ray", "Chơ Ray"],
       "population": 513930,
-      "regions": [
-        "Gia Lai",
-        "Kon Tum",
-        "Đắk Lắk"
-      ],
+      "regions": ["Gia Lai", "Kon Tum", "Đắk Lắk"],
       "language": "Nhóm ngôn ngữ Mã Lai - Đa Đảo",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/540491047_1073550861600984_286595324562604687_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=p2v7zfi2KC8Q7kNvwFFnYdU&_nc_oc=AdoSNF-5Mp2PQCObGr5OYpd8PLarYQtJz7Rzwx16A_PojfcYX0TEmMBsFpakQqNJ-7o&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=rNfO4SjE1JbCcqCgSTHhAg&_nc_ss=7b2a8&oh=00_Af52Ufha2nF7egGmpSov8WND7vWvedvJnddie_9bkCBU5g&oe=6A161A56",
-      "images": [],
+      "images": [
+        "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/4/12/base64-17444447342431532046756.jpeg"
+      ],
       "description": "Dân tộc Gia Rai (Jrai) là một trong những cư dân bản địa lâu đời nhất tại Tây Nguyên, Việt Nam, với dân số trên 40 vạn người, tập trung chủ yếu ở tỉnh Gia Lai (90%), Kon Tum và Đắk Lắk. Họ thuộc nhóm ngôn ngữ Mã Lai-Đa Đảo, nổi tiếng với nền văn hóa mẫu hệ đặc trưng, phong tục nhà dài, văn hóa cồng chiêng và lễ bỏ mả.",
       "history": {
         "description": "Dân tộc Gia Rai là một trong những cư dân sớm sinh tụ ở vùng núi Tây Nguyên, lan sang một phần đất Campuchia. Trong xã hội Gia Rai xưa đã có Pơtaoia (Vua Nước) và Pơtaopui (Vua Lửa) chuyên cúng trời, đất, cầu mưa thuận gió hòa.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://www.dulichvietnam.com.vn/data/dac-san-dan-toc-gia-rai-1.jpg",
+          "https://vietnamhoc.net/wp-content/uploads/2020/07/le-boma-nguoi-giarai-vietnamhoc.net_-800x480.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ bỏ mả (Pơ Thi)",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2023/03/01/uploads-2023-th-c3-a1ng-202-ng-c3-a0y_20-anh-1-20gl.jpg"
           },
           {
             "name": "Lễ cúng Giọt nước (Yang Ia)",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2021/02/22/uploads-2021-th-c3-a1ng-202-ng-c3-a0y_19-jralai-e1-ba-a2nh-203.png"
           },
           {
             "name": "Lễ mừng lúa mới (Khoi Yang Pơh Pơi)",
-            "imageUrl": ""
+            "imageUrl": "https://media.tapchimythuat.vn/2025/11/Le-mung-lua-moi-3.jpg"
           },
           {
             "name": "Lễ cầu mưa (Hơ Jan)",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SOxYgJtqd9xlqpGEvcfwb4R0QG_jA552jw&s"
           }
         ],
         "customs": [
           {
             "name": "Phụ nữ chủ động đi hỏi chồng, chế độ mẫu hệ",
-            "imageUrl": ""
-          },
-          {
-            "name": "Chôn chung huyệt cùng họ mẹ",
-            "imageUrl": ""
+            "imageUrl": "https://dulichtaynguyen.org/view/at_ngac-nhien-tuc-bat-chong-cua-nguoi-tay-nguyen_616dd639bae4bf486ca33dff880cac0c.jpg"
           },
           {
             "name": "Tín ngưỡng thờ đa thần (Yang): thần rừng, núi, bến nước",
-            "imageUrl": ""
+            "imageUrl": "https://file3.qdnd.vn/data/images/0/2023/04/08/thuthuytv/1%202%2010.jpg?dpi=150&quality=100&w=870"
           }
         ],
         "clothing": "Áo chui đầu, quấn khố (Nam); Áo chui đầu, váy quấn dài (Nữ); Tông màu đen/đỏ, trang trí thổ cẩm",
-        "clothingImage": "",
+        "clothingImage": "https://taybac.tv/wp-content/uploads/2023/12/Gia-rai-4-600.jpg",
         "cuisine": [
           {
             "name": "Cơm lam & Gà nướng",
-            "imageUrl": ""
+            "imageUrl": "https://suckhoedoisong.qltns.mediacdn.vn/Images/hadao/2021/03/25/1%20(1).jpg"
           },
           {
             "name": "Lá mì (lá sắn) xào",
-            "imageUrl": ""
+            "imageUrl": "https://file.huengaynay.vn/data2/image/fckeditor/upload/2016/20161207/images/la-san1.jpg"
           },
           {
             "name": "Muối cá/Muối ớt, muối kiến vàng",
-            "imageUrl": ""
+            "imageUrl": "https://danviet.ex-cdn.com/files/f1/296231569849192448/2022/2/22/2704450068438343196801138941056933936942001n-1643965882612878290058-1645478385560-16454783860621489735927.jpg"
           },
           {
             "name": "Măng rừng (măng chua, măng luộc)",
-            "imageUrl": ""
+            "imageUrl": "https://nld.mediacdn.vn/ciLAynugSRwE6T2fSjAC53Ycccccc/Image/2012/01/images626619mang1_645e8.gif"
           }
         ],
         "housing": "Nhà sàn truyền thống và nhà rông",
-        "housingImage": ""
+        "housingImage": "https://i1-dulich.vnecdn.net/2015/10/15/151013132042-central-vietnam-4-9305-9921-1444874840.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=n83zjHqlSJ6faD40PeHmCw"
       },
-      "music": [],
-      "videos": [],
-      "characteristics": []
+      "music": [
+        {
+          "title": "Bài hát dân tộc gia rai",
+          "url": "https://www.youtube.com/embed/5HCJJUFHPlg?si=MgfFLaqInoCiL3sz",
+          "description": ""
+        }
+      ],
+      "videos": [
+        {
+          "title": "Nét văn hóa đặc sắc trong đám cưới của người Gia Rai",
+          "url": "https://www.youtube.com/embed/d0XdVcZP0ag",
+          "description": ""
+        }
+      ],
+      "characteristics": ["Áo chui đầu", "Váy tấm", "Khố", "Hoa văn sọc dọc"]
     },
     {
       "id": "ede",
@@ -966,109 +1046,102 @@
         "Bih"
       ],
       "population": 398671,
-      "regions": [
-        "Đắk Lắk",
-        "Gia Lai",
-        "Phú Yên",
-        "Khánh Hòa"
-      ],
+      "regions": ["Đắk Lắk", "Gia Lai", "Phú Yên", "Khánh Hòa"],
       "language": "Nhóm ngôn ngữ Malayô-Pôlinêxia, ngữ hệ Nam Đảo",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541109081_1073550961600974_1988735277485627441_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=XFDkaq-nHX0Q7kNvwHvUMPW&_nc_oc=AdqLOMnzwPkPgbEdBgaweCHeKQLZaKB9HVjLw_H-BunGjgiIXAs7CuZQyv_HcJTLjG4&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=OAQXW-MwPZG09-MSzEdS6w&_nc_ss=7b2a8&oh=00_Af5rNKBatMTOzy-QGr-AA8ISkG3Htt3QKkrxdD-lfNNtXw&oe=6A16036B",
-      "images": [],
+      "images": [
+        "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/042023/14/11/1-copy20230414113645.jpg?rt=20230414113705"
+      ],
       "description": "Một trong những tộc người bản địa có lịch sử lâu đời và hùng mạnh nhất vùng đất đỏ Tây Nguyên. Người Ê Đê đến nay vẫn lưu giữ vẹn nguyên cấu trúc xã hội mẫu hệ truyền thống đậm nét, không gian kiến trúc nhà sàn dài hình thuyền độc đáo và kho tàng sử thi hát kể (Khan) vô giá.",
       "history": {
         "description": "Người Ê-đê là cư dân có mặt lâu đời ở miền trung-Tây Nguyên. Dấu vết về nguồn gốc hải đảo của dân tộc Ê-đê đã được phản ánh từ các sử thi và nghệ thuật kiến trúc, tạo hình dân gian. Cho đến nay, cộng đồng Ê-đê vẫn tồn tại những truyền thống đậm nét mẫu hệ ở nước ta.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/250899647_282310733902317_3892726967549895243_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-sqyVR_5zmsQ7kNvwFDbQyW&_nc_oc=Adr-fPgOU8ujv-9krJmREw0G_KSdoGm67dkI3B2G9sUVPdd_nmm0CVR5Pf7odMoXdP4&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&_nc_gid=2-KVVrBgqeyJaeioDWgcdg&_nc_ss=7b2a8&oh=00_Af7-5ykzdN5y8X18LX6gcQFsJnl1Ei7hLwkTjxOmXiNF0A&oe=6A1B196A",
+          "https://ati.net.vn/wp-content/uploads/2023/06/le-tet-dan-toc-ede.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ ăn mừng cơm mới (hmạ ngắt)",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsop_nEfOND5C51x_Lj8mPDI07CTXSg120UA&s"
           },
           {
             "name": "Lễ mừng vụ mùa bội thu (mnăm thun)",
-            "imageUrl": ""
+            "imageUrl": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2022-11/mung_mua_3.jpg"
           },
           {
             "name": "Lễ bỏ mả",
-            "imageUrl": ""
-          },
-          {
-            "name": "Lễ cầu phúc và mừng sức khỏe",
-            "imageUrl": ""
+            "imageUrl": "https://dulichthuduc.com.vn/vnt_upload/news/NAM-TRUNG-BO/phu-yen/le_hoi_bo_ma_phu_yen_thu_duc_travel1.jpg"
           },
           {
             "name": "Lễ cầu mưa",
-            "imageUrl": ""
+            "imageUrl": "https://vov2.vov.vn/sites/default/files/images/Cau%20mua%20E%20de.jpg"
           }
         ],
         "customs": [
           {
             "name": "Gia đình mẫu hệ, phụ nữ đi hỏi chồng, cư trú nhà vợ",
-            "imageUrl": ""
+            "imageUrl": "https://media1.nguoiduatin.vn/media/trinh-thi-tho/2023/11/18/anh-12.jpg"
           },
           {
             "name": "Đơn vị cư trú là làng (buôn), đứng đầu là Chủ bến nước",
-            "imageUrl": ""
+            "imageUrl": "https://lapphap.vn/Upload/1_118.jpg"
           },
           {
             "name": "Tục nối dòng (chuê nuê)",
-            "imageUrl": ""
-          },
-          {
-            "name": "Tục ăn trầu cau, cà răng - căng tai, nhuộm răng đen",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2021/07/18/uploads-2021-th-c3-a1ng-207-ng-c3-a0y-2018-4.jpg"
           },
           {
             "name": "Thờ Đấng sáng tạo Aê Ðiê, Aê Ðu, thần đất, thần lúa",
-            "imageUrl": ""
+            "imageUrl": "https://www.daklak.city/uploads/files/2020/06/09/tin-nguong-cua-nguoi-e-de.jpg"
           }
         ],
         "clothing": "Váy tấm dài đến gót, áo ngắn chui đầu (Nữ); Đóng khố, áo cánh ngắn chui đầu (Nam); Trang sức chuỗi hạt, vòng đồng",
-        "clothingImage": "",
+        "clothingImage": "https://media.routine.vn/prod/media/trang-phuc-dan-toc-e-de-6-jpg-8q5b.webp",
         "cuisine": [
           {
             "name": "Cơm gạo tẻ",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREluVnugUJ3QbrX3OEa9IG7ScRHAydoqbL3g&s"
           },
           {
             "name": "Muối ớt, măng, rau củ, cá, thịt săn bắn",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2024/08/23/uploads-2024-thang-8-ngay-22-bang-ngan-anh-204-t54a.jpg"
           },
           {
             "name": "Rượu cần ủ trong vò sành",
-            "imageUrl": ""
-          },
-          {
-            "name": "Xôi (dùng cúng thần)",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtU64nEZMhDHAyB381O_XPuuUX2HCB8AKWQ&s"
           }
         ],
         "housing": "Nhà sàn dài kiến trúc mô phỏng hình thuyền, không kết cấu vì kèo",
-        "housingImage": ""
+        "housingImage": "https://vov2.vov.vn/sites/default/files/images/NHA%20DAI%20EDE.jpg"
       },
       "music": [
         {
           "title": "Tiếng cồng chiêng Ê Đê",
-          "url": "",
+          "url": "https://www.youtube.com/embed/rp1WV92qePQ",
           "description": "Cồng chiêng Tây Nguyên không chỉ có sức hấp dẫn đặc biệt ở sự đa dạng độc đáo bởi kỹ thuật diễn tấu mà còn là biểu tượng cho đời sống các tộc người; là nhân tố gắn kết giữa quá khứ, hiện tại và tương lai của cộng đồng."
         }
       ],
-      "videos": [],
-      "characteristics": []
+      "videos": [
+        {
+          "title": "Tiểu vương quốc người Êđê Adham.",
+          "url": "https://www.youtube.com/embed/qgyeV76i4uk",
+          "description": "Tiểu quốc Adham trải dài từ Krông H'nang đến lưu vực sông Ea h'leo, do Bà Yă wan tiếng êđê adham gọi là Mtao yă nghĩa là vua bà cai trị. Thông qua con đường buôn bán với người Lào, Xiêm, Khmer tại các cửa sông Sêrêpôk Buôn Đôn ngày nay, thế kỷ XVIII - XIX được coi thời kỳ phát triển mạnh của Êđê Adham, Cho đến đầu thế kỷ XX, người Adham là nhóm người hùng mạnh và thịnh vượng nhất so với các nhóm Êđê khác như người Kpă. Nhận được nhiều sự kính trọng từ cá Vương quốc lào, xiêm, khmer…"
+        }
+      ],
+      "characteristics": [
+        "Áo chui đầu nửa thân",
+        "Váy tấm màu đen",
+        "Khố",
+        "Hoa văn kpang"
+      ]
     },
     {
       "id": "bana",
       "orderNo": 12,
       "name": "Ba Na",
-      "otherNames": [
-        "Bơ Nâm",
-        "Roh",
-        "Kon Kđe",
-        "Ala Kông",
-        "Kpang Kông"
-      ],
+      "otherNames": ["Bơ Nâm", "Roh", "Kon Kđe", "Ala Kông", "Kpang Kông"],
       "population": 286910,
       "regions": [
         "Gia Lai",
@@ -1080,54 +1153,69 @@
       ],
       "language": "Tiếng Ba Na (Nhóm Môn-Khmer, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/541780819_1073550844934319_3080239885151947354_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=p50JTcQLtxgQ7kNvwFkuf9e&_nc_oc=Adq3WH8lH-giOCrMqtSTin5Djz3hB1q9VwlS4Ry6-Dmok0eaEpnmQYMjLj8SrUZdkA0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=eK6pvfOZxj96xy_QGohdGA&_nc_ss=7b2a8&oh=00_Af596PmRBIWo8z2pPpC5D2vpqv1NG--Q4KgRwOF3DX7znw&oe=6A15E995",
-      "images": [],
+      "images": ["https://imagevietnam.vnanet.vn/Upload/2015/3/3/TT6.jpg"],
       "description": "Người Ba Na sinh sống chủ yếu ở tây bắc tỉnh Gia Lai, Kon Tum, Quảng Ngãi và các vùng Tây Nguyên. Đây là một dân tộc lâu đời với đời sống gắn bó với núi rừng, duy trì nhiều phong tục tập quán, tín ngưỡng cổ truyền. Người Ba Na sống theo làng (buôn), có quan hệ cộng đồng chặt chẽ và nhiều thế hệ cùng sinh sống. Văn hóa Ba Na nổi bật với nhà rông, cồng chiêng, trang phục thổ cẩm, lễ hội và âm nhạc dân gian, phản ánh đời sống tinh thần phong phú và truyền thống cộng đồng.",
       "history": {
         "description": "Tổ tiên người Ba na chủ yếu sinh sống tại vùng dưới núi Mang Yang, dọc theo hai bờ sông Ba trở về phía đông tới những huyện đồng bằng giáp ranh miền núi và các huyện miền núi của tỉnh Bình Định. Về sau, do tác động của quá trình di dân qua các thời kỳ, người Ba na chuyển cư dần sang phía tây tới lưu vực các sông Ayun, Đắk Bla và đến tận Kon Tum như hiện nay.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqxq_riuAR-N9hfbgf27DHDm7eOY6AIR7hUA&s",
+          "https://dotchuoinon.com/wp-content/uploads/2015/03/bana4_c491b1.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ mừng lúa mới",
-            "imageUrl": ""
+            "imageUrl": "https://images2.thanhnien.vn/528068263637045248/2024/3/5/z52182197297460ef60e862e8d6edc4e9a902b58efdacd-1709630651701261777764.jpg"
           },
           {
             "name": "Lễ đâm trâu",
-            "imageUrl": ""
+            "imageUrl": "https://bazantravel.com/cdn/medias/uploads/28/28331-le-hoi-dam-trau.jpg"
           }
         ],
         "customs": [
           {
             "name": "Sinh hoạt theo buôn làng, gắn kết cộng đồng",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2023/11/05/uploads-2023-thang-8-moi-ngay-14-ngoc-20thu-nha-20rong.jpg"
           },
           {
             "name": "Thờ thần núi, thần lúa, thần sông và tổ tiên",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa3zjf_87ft8nHFJ18XMsS9cn8JAk_vFvVw&s"
           },
           {
             "name": "Tục cưới hỏi, ở rể và các nghi lễ mùa vụ",
-            "imageUrl": ""
+            "imageUrl": "https://file-dangcongsan.nhandan.vn/data/0/images/2022/02/13/duongntcd/le-cuoi-nguoi-ba-na-a7.jpg"
           }
         ],
         "clothing": "Áo váy thổ cẩm nhiều màu sắc (Nữ); Trang phục tối màu, đơn giản (Nam)",
-        "clothingImage": "",
+        "clothingImage": "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/032023/28/10/5-copy20230328104526.jpg?rt=20230328104806",
         "cuisine": [
           {
             "name": "Cơm lam, gà nướng chấm muối lá é",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2022/03/28/uploads-2022-th-c3-a1ng-203-ng-c3-a0y_27-ngoc-e1-ba-a2nh-202.jpg"
           },
           {
             "name": "Cá Niêng nướng",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSGn8NyVkEBcZAjF44nNqOeHGQBAKpnZPBg&s"
           }
         ],
         "housing": "Nhà rông (sinh hoạt cộng đồng) và nhà sàn",
-        "housingImage": ""
+        "housingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZwFDlsx0Sn-uW0hmH_rXXwwGDHyd5wjgmA&s"
       },
-      "music": [],
-      "videos": [],
+      "music": [
+        {
+          "title": "Dân ca Bana",
+          "url": "https://www.youtube.com/embed/HMcIpGnVOpw",
+          "description": "Bài dân ca của dân tộc bana mộc mạc, dễ thương. Được phối bằng tiếng huýt sáo và tiếng chiêng nhẹ nhàng và sâu lắng, âm nhạc của người dân tây nguyên luôn luôn mộc mạc  "
+        }
+      ],
+      "videos": [
+        {
+          "title": "ĐỘC ĐÁO CHIÊNG TRE CỦA ĐỒNG BÀO BANA Ở GIA LAI",
+          "url": "https://www.youtube.com/embed/obstSHDbF0Y",
+          "description": "Nhạc cụ truyền thống đặc sắc riêng có của đồng bào các dân tộc thiểu số Tây Nguyên. Nét độc đáo của bộ chiêng tre, là được chế tác từ những ống tre già. Điều đặc biệt là âm thanh từ dàn chiêng tre vẫn đầy đủ các giai điệu, trầm, bổng, thánh thót, giống như âm thanh của bộ chiêng đồng. "
+        }
+      ],
       "characteristics": []
     },
     {
@@ -1144,68 +1232,84 @@
         "Ka Râng"
       ],
       "population": 212277,
-      "regions": [
-        "Kon Tum",
-        "Quảng Nam",
-        "Quảng Ngãi",
-        "Đắk Lắk",
-        "Gia Lai"
-      ],
+      "regions": ["Kon Tum", "Quảng Nam", "Quảng Ngãi", "Đắk Lắk", "Gia Lai"],
       "language": "Tiếng Xơ-Đăng (Nhóm Môn-Khmer, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/536270130_1073550251601045_3643254525470973074_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6TysHoik1ugQ7kNvwHO0jDC&_nc_oc=Adp_a6pAmwytMQKbQ4YNFWeAGRLeXYVVd4FgZLO8LtOk0OpaZmknP7SHNZg3DuJkss8&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=-JHusk1kAK9v-53abTApyQ&_nc_ss=7b2a8&oh=00_Af445QfG2gNmRQ2HYC6tWO5dzJIYN2ThE4m0-BN6jV8QgQ&oe=6A160962",
-      "images": [],
+      "images": [
+        "https://cly.1cdn.vn/2023/11/17/mot-le-hoi-cua-nguoi-xo-dang.jpg"
+      ],
       "description": "Người Xơ Đăng sinh sống chủ yếu ở các tỉnh Tây Nguyên như Kon Tum, Gia Lai. Họ là dân tộc thiểu số lâu đời với đời sống gắn bó với núi rừng và nương rẫy. Người Xơ Đăng sống theo buôn làng, nơi các gia đình và dòng họ sinh hoạt tập trung, duy trì phong tục truyền thống, tín ngưỡng cổ xưa và văn hóa cộng đồng độc đáo. Văn hóa Xơ Đăng nổi bật với nhà rông, cồng chiêng, trang phục thổ cẩm, lễ hội và âm nhạc dân gian.",
       "history": {
         "description": "Người Xơ-đăng đã có một quá trình lịch sử rất lâu đời sinh sống tại vùng Bắc Tây Nguyên. Khoảng những năm 1855-1885, khi người Pháp ra sức củng cố chính quyền ở Đông Dương và khi giữa các bộ lạc miền núi xảy ra tình trạng hỗn loạn, thì người Xơ-Đăng mở rộng lãnh thổ sinh sống của mình sang những bộ lạc láng giềng.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1i4X_dtRY_BUq0fkd_pl0vc4CmCx3S30jQA&s",
+          "https://cdnmedia.baotintuc.vn/2017/04/27/18/04/224-mang-2.JPG"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ mừng lúa mới",
-            "imageUrl": ""
+            "imageUrl": "https://mic.mediacdn.vn/Upload_Moi/2023_02_vn/20232009-duy4.jpg"
           },
           {
             "name": "Lễ hội cúng máng nước",
-            "imageUrl": ""
+            "imageUrl": "https://vov2.vov.vn/sites/default/files/styles/large_watermark/public/2025-08/b.jpg"
           }
         ],
         "customs": [
           {
             "name": "Sinh hoạt theo buôn làng, kết nối dòng họ",
-            "imageUrl": ""
+            "imageUrl": "https://files.bdttg.gov.vn/contentfolder/ubdt/source_files/2015/11/04/10263391_ng%C6%B0%E1%BB%9Di%20s%C6%A1%20%C4%91%C4%83ng_15-11-04.jpg"
           },
           {
             "name": "Thờ thần rừng, thần núi, thần sông và tổ tiên",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExfj7PvPpLS6Y4xMqDCiqm3Tt_qwuiX9UQQ&s"
           },
           {
             "name": "Tục cưới hỏi, nghi lễ mùa vụ",
-            "imageUrl": ""
+            "imageUrl": "https://scov.gov.vn/upload/2005660/20210923/869c0b26f0ca2bf41f0c32a39e9018d6090626_bs_LeCuoiXoDang__3_.jpg"
           }
         ],
         "clothing": "Áo váy thổ cẩm tối màu, đội khăn trùm đầu (Nữ); Áo cánh ngắn, quần tối màu (Nam)",
-        "clothingImage": "",
+        "clothingImage": "https://vnn.1cdn.vn/2023/11/23/uploads-2023-thang-11-ngay-21-bang-ngan-z4900761289379_7ffbe78c40555c02de8448a146a1f581-20-1.jpg",
         "cuisine": [
           {
             "name": "Cơm lam Xơ Đăng",
-            "imageUrl": ""
+            "imageUrl": "https://media.nghean24h.vn/thumb_x500x/2022/11/7/32/com-lam-1667808754.jpg"
           },
           {
             "name": "Thịt nướng, cá nướng",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2022/04/29/uploads-2022-th-c3-a1ng-204-ng-c3-a0y_29-anh-untitled-20folder-202-8.jpg"
           },
           {
             "name": "Rau rừng, xôi",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykne4gClNj8XunttnzfVczg5AevxdH0ukYg&s"
           }
         ],
         "housing": "Nhà rông nhỏ (nơi sinh hoạt chung) và nhà sàn",
-        "housingImage": ""
+        "housingImage": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/5/16/1192977/IMG_7438.JPG"
       },
-      "music": [],
-      "videos": [],
-      "characteristics": []
+      "music": [
+        {
+          "title": "Dân ca dân tộc Xơ Đăng",
+          "url": "https://www.youtube.com/embed/e-2KmldY6Vg",
+          "description": ""
+        }
+      ],
+      "videos": [
+        {
+          "title": "Trình diễn nhạc cụ dân tộc Xơ Đăng",
+          "url": "https://www.youtube.com/embed/c5Jtz2bIqJQ",
+          "description": ""
+        }
+      ],
+      "characteristics": [
+        "Áo chui đầu thân thẳng",
+        "Váy tấm màu chàm",
+        "Khố",
+        "Hoa văn sọc đỏ"
+      ]
     },
     {
       "id": "sanchay",
@@ -1232,51 +1336,73 @@
       ],
       "language": "Tiếng Cao Lan (nhóm Tày-Thái) và Tiếng Sán Chỉ (nhóm Hán)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540517962_1073550981600972_7958988566784448877_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=kTQ48Xsg2m4Q7kNvwE4pGER&_nc_oc=AdqhC2Kg_kwNiSkncsdtITm95pJ-lyUJA0Np8_pLirLnwmJ9Wv1i4e1kSFQ3ygISkRg&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=vR1HXPK_9d-eg52WddvQuA&_nc_ss=7b2a8&oh=00_Af6WVH-cLYfik5pcfO4MUEGmCSFQ7VcRd4L5XVzvpZLfOQ&oe=6A15ED7C",
-      "images": [],
+      "images": [
+        "https://file-dangcongsan.nhandan.vn/data/0/images/2023/02/28/upload_2674/1-bnguoi-san-chay-thai-nguyen.jpg"
+      ],
       "description": "Người Sán Chay là một trong 54 dân tộc anh em tại Việt Nam, với dân số hơn 200.000 người. Cư trú chủ yếu ở các tỉnh trung du và miền núi phía Bắc, họ nổi bật với nền văn hóa đa dạng, đặc sắc, kết hợp giữa truyền thống canh tác nương rẫy và các giá trị nghệ thuật dân gian độc đáo.",
       "history": {
         "description": "Người Sán Chay từ Trung Quốc đến Việt Nam vào quãng cuối đời Minh, đầu đời Thanh, cách ngày nay 300-500 năm.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://dttg.vnncdn.net/CKFinderJava/userfiles/images/Chi%20tiet%20dan%20toc/sanchay_trangphuc_2.jpg",
+          "https://dttg.vnncdn.net/CKFinderJava/userfiles/images/Chi%20tiet%20dan%20toc/sanchay_trangphuc_4.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ hội Cầu mùa (Lồng Tồng / Xuống đồng)",
-            "imageUrl": ""
+            "imageUrl": "https://file3.qdnd.vn/data/images/0/2016/05/03/vietcuong/01052016son37.jpg"
           }
         ],
         "customs": [
           {
             "name": "Tín ngưỡng đa thần",
-            "imageUrl": ""
+            "imageUrl": "https://vovworld.vn/sites/default/files/world/Uploaded/hoanghuong/2015_11_17/y2.jpg"
           },
           {
             "name": "Nghệ thuật Múa Tắc Xình",
-            "imageUrl": ""
+            "imageUrl": "https://vnn.1cdn.vn/2022/03/04/uploads-2022-th-c3-a1ng-203-ng-c3-a0y-204-to-20oanh-tac-20xinh-h1-20-11.jpg"
           }
         ],
         "clothing": "Màu chàm chủ đạo. Nữ: Áo dài thêu hoa văn sao 8 cánh, váy chàm, thắt lưng rực rỡ; Nam: Áo kiểu bà ba màu chàm, quần dài ống rộng",
-        "clothingImage": "",
+        "clothingImage": "https://vnn.1cdn.vn/2022/03/04/uploads-2022-th-c3-a1ng-203-ng-c3-a0y-204-to-20oanh-tac-20xinh-h3-20-14.jpg",
         "cuisine": [
           {
             "name": "Bánh vắt vai",
-            "imageUrl": ""
+            "imageUrl": "https://biolomix.vn/wp-content/uploads/2025/04/220408.jpg"
           },
           {
             "name": "Xôi ngũ sắc",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFTerEzpIMPbcKA52xzFQ-AYxEwjED_WHYcw&s"
           },
           {
             "name": "Bánh gio",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSFsxcachuoL8D-IscZicXuV21XMiVRn3lg&s"
           }
         ],
         "housing": "Nhà sàn mô phỏng hình dáng con trâu (nhà trâu đực, nhà trâu cái), mái ngói âm dương",
-        "housingImage": ""
+        "housingImage": "https://danviet.ex-cdn.com/files/f1/upload/2-2016/images/2016-06-30/14672798677592-dv-phu13.jpg"
       },
-      "music": [],
-      "videos": [],
-      "characteristics": []
+      "music": [
+        {
+          "title": "Hát Sình Ca Dân Tộc Cao Lan (Sán Chay) Tuyên Quang",
+          "url": "https://www.youtube.com/embed/tGNaRZR-1f8",
+          "description": ""
+        }
+      ],
+      "videos": [
+        {
+          "title": "Bản Sắc Dân Tộc Sán Chay Nhảy Tắc Xình",
+          "url": "https://www.youtube.com/embed/cMgKu4We_6I",
+          "description": ""
+        }
+      ],
+      "characteristics": [
+        "Áo chàm năm thân",
+        "Áo dài Sán Chay",
+        "Dây bao xanh",
+        "Dây bao đỏ"
+      ]
     },
     {
       "id": "coho",
@@ -1304,83 +1430,99 @@
       ],
       "language": "Nhóm ngôn ngữ Môn-Khmer (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540682507_1073551061600964_8791821676399137466_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=LMUMalU2-DQQ7kNvwExdUxK&_nc_oc=Adot8_fMUpvAsnCGtGMwcxWGXhTSK7hHlJAIDoS_42ravO62ysjDplAL6jZBCyeRg_8&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=ZFOng4Uk0wD1wzPkC7A4sw&_nc_ss=7b2a8&oh=00_Af4NN8A48dgJ2tXbvR_9LupViX-QvlF7EGsb6i-P8jTxbQ&oe=6A15FF42",
-      "images": [],
+      "images": [
+        "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf82a57d054b036666873d8399f28c4cd09ce2df014d97b968d4e48e049b211edd27329dde271de65cee7157c7fa210cdc9/co-ho3-2753.jpg.webp"
+      ],
       "description": "Cư dân bản địa có lịch sử sinh sống lâu đời bậc nhất tại vùng Nam Tây Nguyên (Lâm Đồng), gắn liền với dòng chảy của nền văn hóa cổ Sa Huỳnh và Đông Sơn. Người Cơ-ho nổi tiếng với nghề làm gốm thủ công phát đạt, thiết chế liên minh làng tự nguyện và y phục thổ cẩm đen - trắng đặc trưng.",
       "history": {
         "description": "Thuộc chủng Inđônêdiên, là đồng chủ nhân của văn hóa Sa Huỳnh và bộ phận phía nam văn hóa Đông Sơn. Tồn tại cách ngày nay trên dưới 2.500 năm, là cư dân bản địa lâu đời ở Tây Nguyên.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://thegioidisan.vn/assets/media/2016/Thang%207/Co%20ho%201.jpg",
+          "https://dotchuoinon.com/wp-content/uploads/2015/04/coho6.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Tết ăn mừng lúa vào kho (li rơ bong)",
-            "imageUrl": ""
+            "imageUrl": "https://images2.thanhnien.vn/528068263637045248/2024/12/15/z6132705410673211939c0e7f0e5252362e27fae89150d-copy-1734256689211599918974.jpg"
           },
           {
             "name": "Lễ đâm trâu",
-            "imageUrl": ""
+            "imageUrl": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2020/02/le-hoi-dam-trau-o-tay-nguyen-1.jpg"
           },
           {
             "name": "Lễ mừng lúa mới",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzyii2wYQ6cnwJvXuAdIMBB__2N6yvQlERg&s"
           },
           {
             "name": "Lễ thức cúng viếng thần linh",
-            "imageUrl": ""
+            "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDZYY_YG0qlHhX-GXJJ2Q1RplISLilvpTVedKAITnYG6ZlnK7wj7iar2z5kBlOB4E-LddysWAPoeJc87PmMo10tDqY5_4by3zDxsXoQGGNoYw_S-Ae50VdL2AVT8wRFVMXD0ajon_y2y4/s640/Co+Ho+028.jpg"
           }
         ],
         "customs": [
           {
             "name": "Quần cư thành làng (bon/bòn), có tổ chức liên minh M’đrông",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUpmLdMoiktnAeN243_GXRRidClJSERAj6g&s"
           },
           {
             "name": "Gia đình chế độ mẫu hệ",
-            "imageUrl": ""
+            "imageUrl": "https://media.baovanhoa.vn/zoom/1000/uploaded/thanhkhiem/2025_08_22/dsc0797_pxct.jpg"
           },
           {
             "name": "Tục ăn trầu, hút thuốc, căng dái tai, nhuộm răng đen",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1dA3rx_iyvYJWp7G1oSITilez0oborxbjyQ&s"
           },
           {
             "name": "Tín ngưỡng đa thần (Yang/Chà)",
-            "imageUrl": ""
+            "imageUrl": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-07/gia_lang_lam_le_hien_sinh_voi_con_ga_trong_va_mam_le_vat_de_xin_ha_chieng_xuong_su_dung.jpg"
           }
         ],
         "clothing": "Đàn ông đóng khố; Phụ nữ mặc váy ngắn quấn quanh người giắt cạp; Trời lạnh quấn thêm chăn (ùi)",
-        "clothingImage": "",
+        "clothingImage": "https://scov.gov.vn/upload/2005660/20210923/31e9fea8422ecb7fc068d779d466b840_1_anh-51.jpg",
         "cuisine": [
           {
             "name": "Cơm gạo nếp, gạo tẻ",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoDYNbaXMfLmVOuK0toPgqIHUafGp_SNyNQ&s"
           },
           {
             "name": "Món ăn tổng hợp từ con vật hiến tế",
-            "imageUrl": ""
+            "imageUrl": "https://ati.net.vn/wp-content/uploads/2023/06/am-thuc-dan-toc-co-ho.jpg"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": ""
+            "imageUrl": "https://vovworld.vn/sites/default/files/world/Uploaded/hoanghuong/2016_10_21/b2.jpg"
           }
         ],
         "housing": "Nhà sàn dài (hìu jòng) hoặc nhà đất",
-        "housingImage": ""
+        "housingImage": "https://dulichvn.org.vn/nhaptin/uploads/images/0anhasanLD.jpg"
       },
-      "music": [],
-      "videos": [],
-      "characteristics": []
+      "music": [
+        {
+          "title": "Đêl Mờl Dân ca k'ho",
+          "url": "https://www.youtube.com/embed/i0X8nYrRVcI",
+          "description": ""
+        }
+      ],
+      "videos": [
+        {
+          "title": "Độc đáo lễ cưới truyền thống của người K’Ho",
+          "url": "https://www.youtube.com/embed/OlwRCyCqt-Q",
+          "description": ""
+        }
+      ],
+      "characteristics": [
+        "Trang sức hạt cườm cổ",
+        "Vòng tay đồng",
+        "Khuyên tai ngà voi",
+        "Váy tấm màu chàm"
+      ]
     },
     {
       "id": "cham",
       "orderNo": 17,
       "name": "Chăm",
-      "otherNames": [
-        "Chàm",
-        "Chiêm",
-        "Chiêm Thành",
-        "Chăm Pa",
-        "Hời"
-      ],
+      "otherNames": ["Chàm", "Chiêm", "Chiêm Thành", "Chăm Pa", "Hời"],
       "population": 178948,
       "regions": [
         "Ninh Thuận",
@@ -1392,62 +1534,73 @@
       ],
       "language": "Tiếng Chăm (nhóm ngôn ngữ Malayô-Polynéxia, ngữ hệ Nam Đảo)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540993578_1073550898267647_8207193951597354113_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=him9eSMvp4oQ7kNvwEtgW1P&_nc_oc=AdqXs6lc5DfUhC9Qxtq5bQvQwaRXzEonPc7ydQCCaq8cmWKlehIN0x7KRVplY7ricPA&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=FisoNll3BU54JtfQPdg9lA&_nc_ss=7b2a8&oh=00_Af6DRaEpzJOdfDHpkHQBqgd--HeIFJtVcrys4xBGWRcM3w&oe=6A15F743",
-      "images": [],
+      "images": [
+        "https://file.hstatic.net/200000503583/file/trang-phuc-dan-toc-cham-3_0e3dad4924b940bd8c976eadecdf5de0.jpg"
+      ],
       "description": "Dân tộc Chăm là cộng đồng có nền văn hóa lâu đời, độc đáo, nổi bật với chế độ mẫu hệ và sự kết hợp hài hòa giữa tín ngưỡng Bà-la-môn và Hồi giáo. Họ sinh sống chủ yếu tại Ninh Thuận, Bình Thuận và Nam Bộ, nổi tiếng với nghề dệt thổ cẩm, gốm Bàu Trúc, các lễ hội Kate/Ramawan đặc sắc và ẩm thực đậm vị.",
       "history": {
         "description": "Dân tộc Chăm vốn sinh tụ ở duyên hải miền trung Việt Nam từ rất lâu đời, đã từng kiến tạo nên một nền văn hóa rực rỡ với ảnh hưởng sâu sắc của văn hóa Ấn Ðộ. Ngay từ những thế kỷ thứ XVII, người Chăm đã từng xây dựng nên vương quốc Chăm-pa.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWejSeum94wSUf5Rz1TsokgMnmNxJ-CmKrDw&s",
+          "https://lichsuvietnam.org/wp-content/uploads/2025/11/cham202.webp"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ hội Katê (đạo Bà-la-môn)",
-            "imageUrl": ""
+            "imageUrl": "https://bcp.cdnchinhphu.vn/334894974524682240/2022/4/5/kt-16491291184891710918981.jpg"
           }
         ],
         "customs": [
           {
             "name": "Chế độ mẫu hệ",
-            "imageUrl": ""
+            "imageUrl": "https://vovworld.vn/sites/default/files/world/Uploaded/lechien/2013_08_27/Cham%204.jpg"
           }
         ],
         "clothing": "Váy dài, áo dài, quấn khăn xà rông (Nữ)",
-        "clothingImage": "",
+        "clothingImage": "https://n7media.coolmate.me/image/April2024/trang-phuc-dan-toc-cham-1.jpg",
         "cuisine": [
           {
             "name": "Cơm nị",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQKlC9WPjaQZnWqYVEPYxglYnvqMs4VufgxQ&s"
           },
           {
             "name": "Cà púa (cà ri dê/bò)",
-            "imageUrl": ""
+            "imageUrl": "https://cafebiz.cafebizcdn.vn/162123310254002176/2022/12/21/anh-khoi-lam-chieu-1-16714394035951294639706-1671586592650-16715865927301749353717.jpg"
           },
           {
-            "name": "Tum lò mò (lạp xưởng bò)",
-            "imageUrl": ""
+            "name": "Tung lò mò (lạp xưởng bò)",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXxKf0MXwA1MtVc5FxTcDFAbyGnbF0DnTfg&s"
           },
           {
             "name": "Canh thịt trâu nấu bạc hà",
-            "imageUrl": ""
+            "imageUrl": "https://vcdn1-dulich.vnecdn.net/2013/10/14/1379298-436925569753070-160569-2415-4055-1381716957.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=JUamfbxeFLS1gpnMoGw0ew"
           }
         ],
         "housing": "Nhà bằng gỗ, tre hoặc gạch, phân chia không gian rõ rệt nam/nữ",
-        "housingImage": ""
+        "housingImage": "https://dangquangarch.com/wp-content/uploads/2021/04/pham-duc-nhuyen5.jpg"
       },
       "music": [
         {
           "title": "Nhạc lễ hội Katê Chăm",
-          "url": "https://www.youtube.com/embed/uW24N5340yA",
+          "url": "https://www.youtube.com/embed/T5sIrqYu3jo",
           "description": "Âm nhạc rộn rã đón chào năm mới của đồng bào Chăm tại tháp cổ linh thiêng."
         },
         {
           "title": "Hòa tấu Trống Paranưng và Kèn Saranai",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/PuCGMojVNbA",
           "description": "Sự hòa quyện nhịp nhàng giữa trống vỗ Paranưng và tiếng kèn Saranai réo rắt."
         }
       ],
-      "videos": [],
-      "characteristics": []
+      "videos": [
+        {
+          "title": "Ẩm thực truyền thống của người Chăm ở Ninh Thuận",
+          "url": "https://www.youtube.com/embed/wmgc4fSNfrA",
+          "description": ""
+        }
+      ],
+      "characteristics": ["Áo dài Chăm", "Áo voan nửa thân", "Váy tấm", "Khố"]
     },
     {
       "id": "sandiu",
@@ -1472,50 +1625,67 @@
       ],
       "language": "Tiếng Sán Dìu (nhóm ngôn ngữ Hán-Tạng)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540706583_1073550954934308_7816985635335182291_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=96BQBwO_xTQQ7kNvwEk8j0u&_nc_oc=AdpvdD7pAxTdWPvIhOmlQlw8bG_AEV-9EVNxCJiveofd8ErECNo0IDxhaYZ3yoHc7jo&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=yDWZ4q-BrX7C5s2xW9JkKg&_nc_ss=7b2a8&oh=00_Af6hCCCrzWAJQQF72C8H4Y4p1HZ1QUuWCXRp-J5hWIOodg&oe=6A16088B",
-      "images": [],
+      "images": [
+        "https://files.bdttg.gov.vn/contentfolder/ubdt/source_files/2015/11/04/10263061_ng%C6%B0%E1%BB%9Di%20s%C3%A1n%20d%C3%ACu_15-11-04.jpg"
+      ],
       "description": "Dân tộc Sán Dìu là một trong 53 dân tộc thiểu số tại Việt Nam, có dân số khoảng hơn 183.000 người. Họ cư trú chủ yếu ở các tỉnh trung du và miền núi phía Bắc như Quảng Ninh, Thái Nguyên, Bắc Giang, Vĩnh Phúc và Tuyên Quang. Đây là cộng đồng di cư từ Trung Quốc sang Việt Nam từ khoảng 300 năm trước, mang đậm bản sắc văn hóa nông nghiệp và ngôn ngữ Hán - Tạng.",
       "history": {
         "description": "Về nguồn gốc dân tộc, căn cứ vào tên tự nhận là Sơn Dao, có thể gợi mở nhiều suy nghĩ về nguồn gốc dân tộc Sán Dìu. Căn cứ vào một số nghiên cứu, người Sán Dìu có thể có nguồn gốc là người Dao, phiêu bạt các nơi để mưu sinh và phát triển.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCL6i4c4Oitz3pKQneCUFX2bMcVyXLWPdNCw&s",
+          "https://cly.1cdn.vn/2023/12/03/anh-bai-doc-dao-san-diu-1.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ hội Đại Phan (lễ cầu mùa/cầu an)",
-            "imageUrl": ""
+            "imageUrl": "https://cdn.langsontv.vn/upload/news/2_02//le_hoi_dai_phan_cua_nguoi_san_diu_08261614022022.jpg"
           }
         ],
         "customs": [
           {
             "name": "Hát giao duyên (Soọng cô) để tỏ tình, kết bạn",
-            "imageUrl": ""
+            "imageUrl": "https://dulichphutho.gov.vn/content-uploads/2025/12/1sandiu2_qdso.png"
           },
           {
             "name": "Lễ cưới mang đậm tính lễ nghĩa, tục lệ bắt vợ",
-            "imageUrl": ""
+            "imageUrl": "https://vhtt.ninhbinh.gov.vn/public/userfiles/TUOI/CUOI%20SAN%20DIU.jpg"
           }
         ],
         "clothing": "Váy xẻ màu chàm, thắt lưng dải lụa màu, trang sức bạc (Nữ); Trang phục tương tự người Kinh (Nam)",
-        "clothingImage": "",
+        "clothingImage": "https://dttg.vnncdn.net/CKFinderJava/userfiles/images/4.JPG",
         "cuisine": [
           {
             "name": "Xôi đen",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqR2QcuVVfEO_DwaRPva74sfaGrv6OaRx8g&s"
           },
           {
             "name": "Thịt thính",
-            "imageUrl": ""
+            "imageUrl": "https://danviet.ex-cdn.com/files/f1/296231569849192448/2023/7/13/base64-1689263407477140841089.png"
           },
           {
             "name": "Lươn nấu thân chuối",
-            "imageUrl": ""
+            "imageUrl": "https://cdn.tgdd.vn/2021/06/CookProduct/Bi-quyet-lam-mon-luon-om-cu-chuoi-ngon-ba-dao-6-45-screenshot-1200x676.jpg"
           }
         ],
         "housing": "Nhà trệt (nhà đất) lợp ngói âm dương hoặc lá cọ ở sườn/chân đồi",
-        "housingImage": ""
+        "housingImage": "https://ati.net.vn/wp-content/uploads/2023/05/nha-cua-dan-toc-san-dieu.jpg"
       },
-      "music": [],
-      "videos": [],
+      "music": [
+        {
+          "title": "Hát soọng cô dân tộc Sán Dìu",
+          "url": "https://www.youtube.com/embed/rNGGdaRp0OA",
+          "description": "Cũng như những dân tộc anh em khác, người Sán Dìu có tiếng nói riêng, chữ viết riêng và bản sắc dân tộc riêng. Trong đó phải kể đến hát Soọng Cô, hát Soọng Cô là làn điệu dân ca đặc sắc của đồng bào dân tộc Sán Dìu, được lưu giữ hàng trăm năm trong kho tàng văn hoá, văn nghệ dân gian ở Vĩnh Phúc. Hát Soọng Cô chủ yếu là phần đối đáp giao duyên, sau đó là phần hát trong đám cưới. Soọng Cô được hát theo sách, có bài bản sẵn. Người đi hát phải thuộc sách hát, họ dẫn câu hát trong sách ra để hát đố, người đáp cũng trích ra những câu hợp cảnh hợp tình để hát đáp câu hỏi. Họ hát những câu hát nói về tình yêu lứa đôi, thiên nhiên, ca ngợi tình nghĩa thuỷ chung vợ chồng, ca ngợi công lao ông bà, cha mẹ, răn dạy con người sống có đức, có nhân, có hiếu… khi cất lên nghe thật dặt dìu, réo rắt, lúc ngân cao, lúc trầm ấm làm say đắm lòng người"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Người Sán Dìu giữ gìn truyền thống văn hóa dân tộc",
+          "url": "https://www.youtube.com/embed/eV8b1Htkgok",
+          "description": "Dân tộc Sán Dìu có nhiều tên gọi khác nhau như San Dáo Nhín (Sơn Dao Nhân tức người Dao ở trên núi), Trại đất (người Trại ở nhà đất), người Trại ruộng (người Trại làm ruộng), Trại cộc, Mán cộc, Mán váy xẻ hay Slán Dao... Đến tháng 3 năm 1960, Tổng cục thống kê ghi nhận tên gọi của tộc người này là Sán Dìu. Từ đây, Sán Dìu là tên gọi chính thức trong các văn bản của Nhà nước."
+        }
+      ],
       "characteristics": []
     },
     {
@@ -1535,95 +1705,97 @@
         "Màn Thạch Bích"
       ],
       "population": 149460,
-      "regions": [
-        "Quảng Ngãi",
-        "Bình Định",
-        "Kon Tum"
-      ],
+      "regions": ["Quảng Ngãi", "Bình Định", "Kon Tum"],
       "language": "Tiếng Hrê (nhóm ngôn ngữ Môn-Khmer, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540791414_1073551094934294_2827142796751510530_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=7h5ijbBZCYkQ7kNvwEcB7Sx&_nc_oc=AdpvysLcwYXfZK-r7Uh5YickNJJr1nNQg182VN0iz9TVp2YC73ayPlI1D2LXYgPpsr4&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=VuiK_XNlI6XvkTfIcqDFag&_nc_ss=7b2a8&oh=00_Af7ogHGgf1OhInlHmokIHf7caPI0NMF4vvcl1-ZcKOdEog&oe=6A160AD2",
-      "images": [],
+      "images": [
+        "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf82a57d054b036666873d8399f28c4cd09e41f9c95e0a205b3aa3da7fce06ca60f5956cc7fcafac65d44504819d8839bc0/hre4-7959.jpg.webp"
+      ],
       "description": "Dân tộc Hrê (hay H'rê) là một trong những cư dân bản địa lâu đời tại vùng Trường Sơn - Tây Nguyên, tập trung chủ yếu tại tỉnh Quảng Ngãi. Đây là dân tộc có nền văn hóa lâu đời, độc đáo và bản tính chân thật.",
       "history": {
         "description": "Người Hrê sinh tụ rất lâu đời ở vùng Trường Sơn - Tây Nguyên. Một số học giả cho rằng, nguồn gốc tộc người Hrê có thể liên quan đến nạn hồng thủy và quá trình di cư.",
-        "imageUrls": []
+        "imageUrls": [
+          "https://i.ex-cdn.com/nongnghiepmoitruong.vn/files/bao_in/2023/02/23/14335078h3a-cau-mua-143350-172654.jpeg",
+          "https://media.baovanhoa.vn/zoom/1000/uploaded/nguyenthidong/2024_06_19/z5552249568638490a42a7a6c495a0be1c3aa82846a845_EFIC.jpg"
+        ]
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ đâm trâu (lễ mừng lúa mới)",
-            "imageUrl": ""
+            "imageUrl": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2020/02/le-hoi-dam-trau-o-tay-nguyen-3.jpg"
           },
           {
             "name": "Lễ cầu mưa",
-            "imageUrl": ""
+            "imageUrl": "https://tourdulichdaolyson.com/view/at_le-cau-mua-cua-nguoi-hre-o-ba-thanh-quang-ngai_1469e5a102c6a4462eb2e30c2c4b9c2e.jpg"
           }
         ],
         "customs": [
           {
             "name": "Thờ nhiều thần linh, các lễ cúng liên quan đến sản xuất nông nghiệp",
-            "imageUrl": ""
+            "imageUrl": "https://media.baovanhoa.vn/zoom/1000/uploaded/nguyenthidong/2025_04_17/cung_1_urwj.jpg"
           },
           {
             "name": "Lễ vật cúng bái (thịt lợn, gà, cơm, rượu) bày trên lá chuối",
-            "imageUrl": ""
+            "imageUrl": "https://storage.baoquangngai.vn/data/042025/c7_20250417190558.jpg"
           }
         ],
         "clothing": "Áo chui đầu, váy quấn, đội khăn, trang sức đồng/bạc (Nữ); Áo, đóng khố (Nam)",
-        "clothingImage": "",
+        "clothingImage": "https://dttg.vnncdn.net/CKFinderJava/userfiles/images/Bai%20viet%20dan%20toc/Hre/hre_detail_6.JPG",
         "cuisine": [
           {
             "name": "Cơm lam",
-            "imageUrl": ""
+            "imageUrl": "https://doanhnghiepkinhtexanh.vn/uploads/images/2024/02/13/lam-com-lam-kim-boi-1-1707826173.jpg"
           },
           {
             "name": "Cá niên nướng",
-            "imageUrl": ""
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKc9cbeAS6yrmczY5enS-l4Tr92x12nVNZg&s"
           },
           {
             "name": "Thịt trâu khô",
-            "imageUrl": ""
+            "imageUrl": "https://media.baosonla.org.vn/public/khanhhb/2025-01-12/quality_restoration_20250111235114157.jpeg"
           },
           {
             "name": "Rượu cần",
-            "imageUrl": ""
+            "imageUrl": "https://i.ex-cdn.com/nongnghiepmoitruong.vn/files/bao_in/2023/03/02/10351568h8a-ruou-can-don-khach-103515-094229.jpeg"
           }
         ],
         "housing": "Nhà sàn (xưa) và nhà trệt (nay)",
-        "housingImage": ""
+        "housingImage": "https://dttg.vnncdn.net/CKFinderJava/userfiles/images/Bai%20viet%20dan%20toc/Hre/hre_detail_2.JPG"
       },
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Hrê",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/5nMiLLliNvU",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Hrê."
         },
         {
           "title": "Nhạc cụ truyền thống người Hrê",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/VpXUfFBzNUU",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Hrê."
         }
       ],
-      "videos": [],
-      "characteristics": []
+      "videos": [
+        {
+          "title": "Dân tộc H'rê - Nghệ Thuật Biểu Diễn",
+          "url": "https://www.youtube.com/embed/arJEQOI84ZQ",
+          "description": ""
+        }
+      ],
+      "characteristics": [
+        "Hoa văn sọc trắng",
+        "Khăn đội đầu màu trắng",
+        "Cườm cổ sắc màu",
+        "Vòng tay đồng"
+      ]
     },
     {
       "id": "mnong",
       "orderNo": 20,
       "name": "Mnông",
-      "otherNames": [
-        "Pnông",
-        "Nông",
-        "Preh",
-        "Bu Đâng"
-      ],
+      "otherNames": ["Pnông", "Nông", "Preh", "Bu Đâng"],
       "population": 127334,
-      "regions": [
-        "Đắk Nông",
-        "Đắk Lắk",
-        "Lâm Đồng",
-        "Bình Phước"
-      ],
+      "regions": ["Đắk Nông", "Đắk Lắk", "Lâm Đồng", "Bình Phước"],
       "language": "Tiếng Mnông (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541117099_1073551051600965_3006572068000475070_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Uag73ib67loQ7kNvwFmAFC9&_nc_oc=AdqtnqTstsbCaSbvv79R8O3Hoy8USZZlCX3wSZsRG319ZryKCJ84lEsGLruE9uBntoA&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=J7l8s4qbdVDB_KUZ89Wnmg&_nc_ss=7b2a8&oh=00_Af4EAVp1YOHpR_ycNTHoaIuhVNgwLF9F4PiXsEvrS1fRNw&oe=6A15E8CB",
       "images": [],
@@ -1712,18 +1884,9 @@
       "id": "raglai",
       "orderNo": 19,
       "name": "Ra Glai",
-      "otherNames": [
-        "Raglai",
-        "Roglai",
-        "Radlai"
-      ],
+      "otherNames": ["Raglai", "Roglai", "Radlai"],
       "population": 146613,
-      "regions": [
-        "Ninh Thuận",
-        "Khánh Hòa",
-        "Bình Thuận",
-        "Lâm Đồng"
-      ],
+      "regions": ["Ninh Thuận", "Khánh Hòa", "Bình Thuận", "Lâm Đồng"],
       "language": "Tiếng Ra Glai (ngữ hệ Nam Đảo)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/541788402_1073550924934311_159609343159412049_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=zuJ-DUOtcW0Q7kNvwGhkweu&_nc_oc=Adqlx4y0XNe1odKqLc4KYggCnivLnHpjd3rT_aIpwW4rddx8vLhMOgz7RKyijauwgk0&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=n23yIt5Kz0GSqVvj73IgKA&_nc_ss=7b2a8&oh=00_Af6fvRz7VR-31uWvjTRw-eAsTU16oL_D_JcpI-CL6WPgAA&oe=6A160FA1",
       "images": [],
@@ -1804,18 +1967,9 @@
       "id": "bruvankieu",
       "orderNo": 22,
       "name": "Bru - Vân Kiều",
-      "otherNames": [
-        "Bru",
-        "Vân Kiều",
-        "Măng Coong",
-        "Trì"
-      ],
+      "otherNames": ["Bru", "Vân Kiều", "Măng Coong", "Trì"],
       "population": 94598,
-      "regions": [
-        "Quảng Trị",
-        "Quảng Bình",
-        "Đắk Lắk"
-      ],
+      "regions": ["Quảng Trị", "Quảng Bình", "Đắk Lắk"],
       "language": "Tiếng Bru - Vân Kiều (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536267956_1073551068267630_6703952735465748583_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6UJN6YspEHgQ7kNvwEUa584&_nc_oc=Adr3-plyIildwU9tnAWHx2CemEoQf-7R-WaJcn81ZjY9TiqRJtMU_Ci6BikQqlrDGY4&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=vsWqtWQ8cAiPxvtZ2ujAEQ&_nc_ss=7b2a8&oh=00_Af6VSadB4GACKiDezgmLg_-fkmnVajKBv9s163PJGqgmwA&oe=6A160C9B",
       "images": [],
@@ -1904,18 +2058,9 @@
       "id": "tho",
       "orderNo": 23,
       "name": "Thổ",
-      "otherNames": [
-        "Kẹo",
-        "Mọn",
-        "Cuối",
-        "Họ",
-        "Đan Lai"
-      ],
+      "otherNames": ["Kẹo", "Mọn", "Cuối", "Họ", "Đan Lai"],
       "population": 91430,
-      "regions": [
-        "Nghệ An",
-        "Thanh Hóa"
-      ],
+      "regions": ["Nghệ An", "Thanh Hóa"],
       "language": "Tiếng Thổ (ngữ hệ Nam Á, cùng nhóm Việt-Mường)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/541660682_1073549841601086_372441228483807640_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=plG6FWf53hIQ7kNvwET42Of&_nc_oc=AdrzqdW2a0BwSVs9gmVyyrZb9KqjwDMmZcnALYVPtAowzEx30hh47Q9CvFacaeFPmYQ&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=bN8lkl6-5gpx0QWlO-d8kQ&_nc_ss=7b2a8&oh=00_Af6Spit_d2W3ITiXbjAuLcOXdNopY8rsVZH5ZQVlYlTEEg&oe=6A15FDBF",
       "images": [],
@@ -1971,11 +2116,7 @@
         "housing": "Nhà sàn, gần gũi kiến trúc nhà người Thái hoặc Mường.",
         "housingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       },
-      "characteristics": [
-        "Chất phác",
-        "Hòa đồng",
-        "Dễ tiếp thu văn hóa mới"
-      ],
+      "characteristics": ["Chất phác", "Hòa đồng", "Dễ tiếp thu văn hóa mới"],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Thổ",
@@ -1993,19 +2134,9 @@
       "id": "giay",
       "orderNo": 26,
       "name": "Giáy",
-      "otherNames": [
-        "Nhắng",
-        "Dẳng",
-        "Pầu Thìn",
-        "Cùi Chu"
-      ],
+      "otherNames": ["Nhắng", "Dẳng", "Pầu Thìn", "Cùi Chu"],
       "population": 67715,
-      "regions": [
-        "Lào Cai",
-        "Hà Giang",
-        "Lai Châu",
-        "Cao Bằng"
-      ],
+      "regions": ["Lào Cai", "Hà Giang", "Lai Châu", "Cao Bằng"],
       "language": "Tiếng Giáy (ngữ hệ Tày-Thái)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/539247040_1073550724934331_7255742890453281826_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=mF203gj7bjIQ7kNvwHEhKg2&_nc_oc=AdoOMrRzrtEPkXiUEJ0T9J9gAQknE2angADEvzVvy9s6wiNY6EZ9Cocdp7jAHm988Qg&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=clXyS2bKAryVsE6O3rGIwg&_nc_ss=7b2a8&oh=00_Af7N_vhFSIhSZLFA_UJWXYdiH0VrawwxuOMFRgHkqEKh2A&oe=6A160543",
       "images": [],
@@ -2090,17 +2221,9 @@
       "id": "cotu",
       "orderNo": 25,
       "name": "Cơ Tu",
-      "otherNames": [
-        "Ca Tu",
-        "Cao",
-        "Hạ",
-        "Phương"
-      ],
+      "otherNames": ["Ca Tu", "Cao", "Hạ", "Phương"],
       "population": 74173,
-      "regions": [
-        "Quảng Nam",
-        "Thừa Thiên Huế"
-      ],
+      "regions": ["Quảng Nam", "Thừa Thiên Huế"],
       "language": "Tiếng Cơ Tu (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540691854_1073551124934291_4373169761924569988_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6R061M8lOtEQ7kNvwFU6nxJ&_nc_oc=Adr-zpfo6PedDvPNxpjn6_x97xbwfeNVUwNv1CCZsRjZMZvC6GMRMLRF8fg-8VU-wwQ&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=niRVv5CO4RYAQWw6qt1p5w&_nc_ss=7b2a8&oh=00_Af6Dc1tqYLHrJyPCax3pbI-byGQVgSdZYcvUMZxgaz0VTw&oe=6A15FDBD",
       "images": [],
@@ -2193,16 +2316,9 @@
       "id": "gietrieng",
       "orderNo": 27,
       "name": "Giẻ - Triêng",
-      "otherNames": [
-        "Đoàn",
-        "Xôi",
-        "Bnoong"
-      ],
+      "otherNames": ["Đoàn", "Xôi", "Bnoong"],
       "population": 63322,
-      "regions": [
-        "Kon Tum",
-        "Quảng Nam"
-      ],
+      "regions": ["Kon Tum", "Quảng Nam"],
       "language": "Tiếng Giẻ - Triêng (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/542759118_1073551008267636_6741247840120278749_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=XEC1KFI69kcQ7kNvwGsLG25&_nc_oc=AdovaNKfl_VBPzXdMrySVYIzl8q8HyNPYG-TufkKpgaLnBv2sTv_ygPdnE6ZugCx7vs&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=Qrg9oM1G4ncIyZuB9BW1gg&_nc_ss=7b2a8&oh=00_Af6b20BPgyJRPbqmYNYQd3WlavEC6n9IyCl7_qpc14jVZg&oe=6A160FF8",
       "images": [],
@@ -2291,17 +2407,9 @@
       "id": "ma",
       "orderNo": 29,
       "name": "Mạ",
-      "otherNames": [
-        "Châu Mạ",
-        "Mạ Xốp",
-        "Mạ Tô"
-      ],
+      "otherNames": ["Châu Mạ", "Mạ Xốp", "Mạ Tô"],
       "population": 50322,
-      "regions": [
-        "Lâm Đồng",
-        "Đồng Nai",
-        "Đắk Nông"
-      ],
+      "regions": ["Lâm Đồng", "Đồng Nai", "Đắk Nông"],
       "language": "Tiếng Mạ (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540232314_1073555708267166_3086681498886652348_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Bb80C2ieA7AQ7kNvwFXYrVP&_nc_oc=AdrhtrHgYYYh_--ctgJZr03fdwijKs_KwZojQ4UN3IU23dDq9kc-fhMZhmm0YHM1-wo&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=QDp641eyqTunLkh1tMyzLw&_nc_ss=7b2a8&oh=00_Af76CDIJtgjmlTwI86zLPE4wxpq2GcfG3336FV2mkJxOyg&oe=6A161648",
       "images": [],
@@ -2382,18 +2490,9 @@
       "id": "khomu",
       "orderNo": 24,
       "name": "Khơ Mú",
-      "otherNames": [
-        "Xá Cẩu",
-        "Tày Hay",
-        "Mứn Xen"
-      ],
+      "otherNames": ["Xá Cẩu", "Tày Hay", "Mứn Xen"],
       "population": 90612,
-      "regions": [
-        "Nghệ An",
-        "Điện Biên",
-        "Sơn La",
-        "Lai Châu"
-      ],
+      "regions": ["Nghệ An", "Điện Biên", "Sơn La", "Lai Châu"],
       "language": "Tiếng Khơ Mú (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542040374_1073551021600968_7412301712093398879_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=GpfIxw3Hv7UQ7kNvwFLOLtM&_nc_oc=AdqQoluPeP2zhI5BJuBC8Us4rlLv5Znla2HWowJs1B3DOIX2921R7qRRt33T18KPvn4&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=Mq0ROz6GkFAQx7DZoIWt_Q&_nc_ss=7b2a8&oh=00_Af6w1gkgQq4ELo-JkPFgYURpPs7LHiEDoD_OtEhdxzirqQ&oe=6A160922",
       "images": [],
@@ -2474,16 +2573,9 @@
       "id": "co",
       "orderNo": 30,
       "name": "Co",
-      "otherNames": [
-        "Cùa",
-        "Kor",
-        "Trầu"
-      ],
+      "otherNames": ["Cùa", "Kor", "Trầu"],
       "population": 40442,
-      "regions": [
-        "Quảng Ngãi",
-        "Quảng Nam"
-      ],
+      "regions": ["Quảng Ngãi", "Quảng Nam"],
       "language": "Tiếng Co (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/541740708_1073555748267162_7238045396952793248_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZHfTapUNhH4Q7kNvwFrWUOQ&_nc_oc=AdpQUVKwzhilDHeQDFJd69JBYiOw4ndKBHCtWJPe4uP8JYW9PlYEFbwGzAYPjWNvLhQ&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=KGJH-FynDqqt21ECeQ46mw&_nc_ss=7b2a8&oh=00_Af7STykaf0EgsthwYlDWOKn9mCuYCzEdCUoxWU0G-MIyng&oe=6A15E9AF",
       "images": [],
@@ -2572,15 +2664,9 @@
       "id": "taoi",
       "orderNo": 28,
       "name": "Tà Ôi",
-      "otherNames": [
-        "Pa Cô",
-        "Pa Hi"
-      ],
+      "otherNames": ["Pa Cô", "Pa Hi"],
       "population": 52356,
-      "regions": [
-        "Thừa Thiên Huế",
-        "Quảng Trị"
-      ],
+      "regions": ["Thừa Thiên Huế", "Quảng Trị"],
       "language": "Tiếng Tà Ôi (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542656546_1073643181591752_7141826958279780312_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=eggs--xHhLMQ7kNvwHTgeWj&_nc_oc=AdqjL7iHcCARdWaIwN4BO37ZhlIAtrfDReu6Jgh95y2WE3mzvsG8c2RDGTVLpOfxIBk&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=f5EQQrseBhKwD8tPZq7oQQ&_nc_ss=7b2a8&oh=00_Af6yCmoAUuKnf1gnt7e4QIpfoVpTybHz9B7-BD64cYQPDQ&oe=6A15F098",
       "images": [],
@@ -2669,16 +2755,9 @@
       "id": "choro",
       "orderNo": 31,
       "name": "Chơ Ro",
-      "otherNames": [
-        "Đơ-Ro",
-        "Châu Ro"
-      ],
+      "otherNames": ["Đơ-Ro", "Châu Ro"],
       "population": 29520,
-      "regions": [
-        "Đồng Nai",
-        "Bà Rịa - Vũng Tàu",
-        "Bình Thuận"
-      ],
+      "regions": ["Đồng Nai", "Bà Rịa - Vũng Tàu", "Bình Thuận"],
       "language": "Tiếng Chơ Ro (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540307637_1073555621600508_2433407633850497280_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=GY47GDsxxOgQ7kNvwFFtBzi&_nc_oc=AdqtyJ3Aq9nOaTVn7i2E9QUEap7nkFJj71NHxXPRK4Ug8pLHU4pQLe_9vx0T4TjzjVA&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=r6-hW2XCUF5i9a_3l8avZg&_nc_ss=7b2a8&oh=00_Af5wpZoMXUogIfUveEKSzfqwE1gVTjESS0nD4CaoKmQP4w&oe=6A15E78A",
       "images": [],
@@ -2763,17 +2842,9 @@
       "id": "khang",
       "orderNo": 36,
       "name": "Kháng",
-      "otherNames": [
-        "Xá Khao",
-        "Xá Sú",
-        "Xá Đón"
-      ],
+      "otherNames": ["Xá Khao", "Xá Sú", "Xá Đón"],
       "population": 16181,
-      "regions": [
-        "Sơn La",
-        "Điện Biên",
-        "Lai Châu"
-      ],
+      "regions": ["Sơn La", "Điện Biên", "Lai Châu"],
       "language": "Tiếng Kháng (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/542757153_1073553531600717_3329517426697411967_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZGHRfWaD9XQQ7kNvwFZHFxS&_nc_oc=Adq3sCuxda2rS_he8D7pjyZQuFrqi6RgnZJAgTgNRg9nDzyGr44AbqvX1VVndGXUXOs&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=vn-I6j6mOmAApCPS8LjQIw&_nc_ss=7b2a8&oh=00_Af4kn_Jl4zuvpQc1-0ASyxYVlF82cYIWPUDCt-7hEPd7-A&oe=6A15F41A",
       "images": [],
@@ -2866,15 +2937,9 @@
       "id": "xinhmun",
       "orderNo": 32,
       "name": "Xinh Mun",
-      "otherNames": [
-        "Puộc",
-        "Pụa"
-      ],
+      "otherNames": ["Puộc", "Pụa"],
       "population": 29503,
-      "regions": [
-        "Sơn La",
-        "Điện Biên"
-      ],
+      "regions": ["Sơn La", "Điện Biên"],
       "language": "Tiếng Xinh Mun (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/536270933_1073554418267295_2954176678657217444_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Dus44a48BigQ7kNvwH3UsQI&_nc_oc=Adr77hRT6I4gWWWHEPReRrg2zfkI8l9K6LoozHlPzW3bJEDxQBZhQraUjr6wSqhIJ5I&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=04yCefx4Byhd67_0qYVo3g&_nc_ss=7b2a8&oh=00_Af6Rx67tWXVp9W4BRvfdslm7ZKXMJuUoqkThC3zIs-bxcg&oe=6A15E979",
       "images": [],
@@ -2963,16 +3028,9 @@
       "id": "hanhi",
       "orderNo": 33,
       "name": "Hà Nhì",
-      "otherNames": [
-        "U Ní",
-        "Xá U Ní"
-      ],
+      "otherNames": ["U Ní", "Xá U Ní"],
       "population": 25539,
-      "regions": [
-        "Lai Châu",
-        "Lào Cai",
-        "Điện Biên"
-      ],
+      "regions": ["Lai Châu", "Lào Cai", "Điện Biên"],
       "language": "Tiếng Hà Nhì (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540947791_1073555661600504_3432539582096111337_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=yijsmwZhyaIQ7kNvwE-NPY0&_nc_oc=Adoxg3svXba7bRX59z3cjqzEnkm2-DN1ByVjyxKsZ_rgtWImhJ0PET5zX83uF1m8FqA&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=Db6X_0wM10MZ8kYmn9s4bA&_nc_ss=7b2a8&oh=00_Af4ijkRwn4EUMFMmPLiC7KY2bSrmDeuV3Ocf9q2osrpS5A&oe=6A15E7EE",
       "images": [],
@@ -3057,16 +3115,9 @@
       "id": "churu",
       "orderNo": 34,
       "name": "Chu Ru",
-      "otherNames": [
-        "Chơ Ru",
-        "Kru",
-        "Ru"
-      ],
+      "otherNames": ["Chơ Ru", "Kru", "Ru"],
       "population": 23242,
-      "regions": [
-        "Lâm Đồng",
-        "Ninh Thuận"
-      ],
+      "regions": ["Lâm Đồng", "Ninh Thuận"],
       "language": "Tiếng Chu Ru (ngữ hệ Nam Đảo)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536273897_1073555518267185_7354724255490945522_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=QovoLx5ioj8Q7kNvwH2VXxz&_nc_oc=AdoiTW6UN6y5Sk6jksvV3J41RUNt2VcXQ77w_WVc9l6zYiDfLEl0cOYolkCcy9oS8-c&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=3viCb_51Yp1sJWDYzjXOAg&_nc_ss=7b2a8&oh=00_Af6or8ggZhAwYcoPfq1_z3TQTExqwoLxA1fZm3Q-_h_wiQ&oe=6A161942",
       "images": [],
@@ -3155,17 +3206,9 @@
       "id": "lao",
       "orderNo": 35,
       "name": "Lào",
-      "otherNames": [
-        "Phu Thay",
-        "Thay Lào",
-        "Thay Cẩu"
-      ],
+      "otherNames": ["Phu Thay", "Thay Lào", "Thay Cẩu"],
       "population": 17532,
-      "regions": [
-        "Điện Biên",
-        "Lai Châu",
-        "Sơn La"
-      ],
+      "regions": ["Điện Biên", "Lai Châu", "Sơn La"],
       "language": "Tiếng Lào (ngữ hệ Tày-Thái)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542761334_1073555644933839_3334031265799722011_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=iK6mIDCxK2YQ7kNvwFHdj-c&_nc_oc=Ado1QlWi43z1stYirYvoP0QGF8NjSiTBUfArB_Wx7VoZKiy-ikO5swwOPpUNNM9uqco&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=kHMEFofXVi2GSdSbYBYVEQ&_nc_ss=7b2a8&oh=00_Af5WauxfhW9cWYgcMHuYpr9bBAdwzL1K4P63DlMD0ts52Q&oe=6A16139F",
       "images": [],
@@ -3258,16 +3301,9 @@
       "id": "lachi",
       "orderNo": 36,
       "name": "La Chí",
-      "otherNames": [
-        "Thổ Đen",
-        "Mán",
-        "Cù Tê"
-      ],
+      "otherNames": ["Thổ Đen", "Mán", "Cù Tê"],
       "population": 15126,
-      "regions": [
-        "Hà Giang",
-        "Lào Cai"
-      ],
+      "regions": ["Hà Giang", "Lào Cai"],
       "language": "Tiếng La Chí (ngữ hệ Ka Đai)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/536268022_1073555544933849_6102906788363654392_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=sYbl1Ldu_b0Q7kNvwEXLrEg&_nc_oc=Adon-PKS-U8dLWbx2ScggDFgLkB4dP_reWpMTT7iGKssKbSCJenQwVdJYCAKhDXrDqA&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=uecto7WSsrLJO28BUNWi9w&_nc_ss=7b2a8&oh=00_Af7oX0vtHFZvMI_vbY--7ct6Z8siaMHg5vidCDceikQ3fA&oe=6A15F23D",
       "images": [],
@@ -3352,15 +3388,9 @@
       "id": "lahu",
       "orderNo": 39,
       "name": "La Hủ",
-      "otherNames": [
-        "Xá Lá Vàng",
-        "Khù Sung",
-        "Cò Xung"
-      ],
+      "otherNames": ["Xá Lá Vàng", "Khù Sung", "Cò Xung"],
       "population": 12113,
-      "regions": [
-        "Lai Châu"
-      ],
+      "regions": ["Lai Châu"],
       "language": "Tiếng La Hủ (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540721666_1073555768267160_5765844644370442436_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=7UhiNEgasHwQ7kNvwH_X-OC&_nc_oc=AdoscaSwHZW7sq6h0T3DlsZ1J_U5K_bhSssb8fs2ri0eTYgumOmWEb6daYexA9CtzQE&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=3fmg9mb4tyMWaZYc_BeKTw&_nc_ss=7b2a8&oh=00_Af6KE3Qv81VbF19fBpxw3M0KTp_qm1T4jc3SWv5bOri7bA&oe=6A160996",
       "images": [],
@@ -3445,16 +3475,9 @@
       "id": "laha",
       "orderNo": 40,
       "name": "La Ha",
-      "otherNames": [
-        "Xá Khao",
-        "Xá Chá",
-        "Khơ Láo"
-      ],
+      "otherNames": ["Xá Khao", "Xá Chá", "Khơ Láo"],
       "population": 10157,
-      "regions": [
-        "Sơn La",
-        "Lào Cai"
-      ],
+      "regions": ["Sơn La", "Lào Cai"],
       "language": "Tiếng La Ha (ngữ hệ Ka Đai)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540401899_1073555138267223_5561851604498443419_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=hJ2GVdpViRcQ7kNvwFgl1Bn&_nc_oc=AdrSicg6zuYuIi-sHsxa0dQtNXH8rOOSOFeSZVU2PUdqys9hijBNIJjndpzVxbzc4pA&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=GGFfOr4p6dDjtZqZbeHlBA&_nc_ss=7b2a8&oh=00_Af5C4VlVq1iB3tKQedmZANFeoAZLMu_zOyIQTEHYZNV4MA&oe=6A161AF2",
       "images": [],
@@ -3539,15 +3562,9 @@
       "id": "pathen",
       "orderNo": 41,
       "name": "Pà Thẻn",
-      "otherNames": [
-        "Mèo Lai",
-        "Pà Hưng"
-      ],
+      "otherNames": ["Mèo Lai", "Pà Hưng"],
       "population": 8248,
-      "regions": [
-        "Hà Giang",
-        "Tuyên Quang"
-      ],
+      "regions": ["Hà Giang", "Tuyên Quang"],
       "language": "Tiếng Pà Thẻn (ngữ hệ H'Mông - Dao)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/539252885_1073555614933842_508052794805542271_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=oSKRPEJAiToQ7kNvwFEKsPS&_nc_oc=Adqtz8essRTbkWjH-ol31LNPRN5gQXsaKj2knRJYcGrCAaQPo2b3U6LTQn2PgSKE-e0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=C0V9NYkJ9rVyGa6quE9Ptg&_nc_ss=7b2a8&oh=00_Af4vXgvbqyZOxzCcf3WFzBDFX3yhmEh3JQffZeZ3N_sfnQ&oe=6A15F29D",
       "images": [],
@@ -3607,11 +3624,7 @@
         "housing": "Nhà sàn, nhà đất hoặc nửa sàn nửa đất tùy nơi.",
         "housingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
       },
-      "characteristics": [
-        "Tôn trọng thầy cúng",
-        "Gan dạ",
-        "Giỏi dệt vải"
-      ],
+      "characteristics": ["Tôn trọng thầy cúng", "Gan dạ", "Giỏi dệt vải"],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Pà Thẻn",
@@ -3629,15 +3642,9 @@
       "id": "lu",
       "orderNo": 43,
       "name": "Lự",
-      "otherNames": [
-        "Lự Đen",
-        "Lự Trắng",
-        "Nhắng"
-      ],
+      "otherNames": ["Lự Đen", "Lự Trắng", "Nhắng"],
       "population": 6757,
-      "regions": [
-        "Lai Châu"
-      ],
+      "regions": ["Lai Châu"],
       "language": "Tiếng Lự (ngữ hệ Tày-Thái)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540694688_1073555741600496_5427533160692059677_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=73EF0UVdzOwQ7kNvwHX2-I-&_nc_oc=Adq8H09rZ5bgCOgxNwdd5OvGsqPskthlV7X8cVIKmlYgBpMz3hcdmhlLruypCWqyoI8&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=vXRBJrWDXr14nojrpQ5IXg&_nc_ss=7b2a8&oh=00_Af5FKw5FBt_Xa92mgbDm1t77QH5xQDDqPX70xGpXXgzo5w&oe=6A1611CD",
       "images": [],
@@ -3726,18 +3733,9 @@
       "id": "ngai",
       "orderNo": 49,
       "name": "Ngái",
-      "otherNames": [
-        "Sán Ngái",
-        "Khách Gia",
-        "Hẹ"
-      ],
+      "otherNames": ["Sán Ngái", "Khách Gia", "Hẹ"],
       "population": 1649,
-      "regions": [
-        "Thái Nguyên",
-        "Bắc Giang",
-        "Quảng Ninh",
-        "Tuyên Quang"
-      ],
+      "regions": ["Thái Nguyên", "Bắc Giang", "Quảng Ninh", "Tuyên Quang"],
       "language": "Tiếng Ngái (thuộc hệ ngôn ngữ Hán - Tạng)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536272982_1073553728267364_4886541577598366062_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=JUpmi0UZMVgQ7kNvwG22159&_nc_oc=AdqhrXsfIbYVIoXtgwMr1eOZkkMEeMyn_WGmbLdIuJkKRy54Vj1K9n_1hsQ8RLKk7nE&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=HC-kxt_UACkwCXQKpdpr3g&_nc_ss=7b2a8&oh=00_Af5Bil4lw5XovngpJoq3jL44NQCvYvp7VVSIRLgwRqUCHw&oe=6A15FBAD",
       "images": [],
@@ -3797,11 +3795,7 @@
         "housing": "Nhà đất, tường trình bằng đất sét trộn rơm rạ hoặc xây gạch mộc.",
         "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       },
-      "characteristics": [
-        "Chịu thương chịu khó",
-        "Đoàn kết",
-        "Thích ca hát"
-      ],
+      "characteristics": ["Chịu thương chịu khó", "Đoàn kết", "Thích ca hát"],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Ngái",
@@ -3819,16 +3813,9 @@
       "id": "chut",
       "orderNo": 42,
       "name": "Chứt",
-      "otherNames": [
-        "Rục",
-        "Sách",
-        "Arem",
-        "Mày"
-      ],
+      "otherNames": ["Rục", "Sách", "Arem", "Mày"],
       "population": 7536,
-      "regions": [
-        "Quảng Bình"
-      ],
+      "regions": ["Quảng Bình"],
       "language": "Tiếng Chứt (ngữ hệ Nam Á, nhóm Việt - Mường)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540218676_1073555568267180_3667752769522128653_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=oUogKQhH6yUQ7kNvwF8-Fyi&_nc_oc=AdrrOBT6znld0SQowN9_AzRu4VcfA_d23avnybpm9wnuxKRoKrfkiKbncwvYT--Nh58&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=5wiaHLQSPj60qjEJ_8VlcA&_nc_ss=7b2a8&oh=00_Af5jXEoyFUmvu6onlJUo7sU9pKOS78IQ0d0OIm4gAmPcOw&oe=6A1602B5",
       "images": [],
@@ -3913,18 +3900,9 @@
       "id": "lolo",
       "orderNo": 44,
       "name": "Lô Lô",
-      "otherNames": [
-        "Mùn Di",
-        "Di",
-        "Lô Lô Hoa",
-        "Lô Lô Đen"
-      ],
+      "otherNames": ["Mùn Di", "Di", "Lô Lô Hoa", "Lô Lô Đen"],
       "population": 4827,
-      "regions": [
-        "Hà Giang",
-        "Cao Bằng",
-        "Lai Châu"
-      ],
+      "regions": ["Hà Giang", "Cao Bằng", "Lai Châu"],
       "language": "Tiếng Lô Lô (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540594224_1073555678267169_8881891095719564812_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=DIg0WlygvMkQ7kNvwF0Mxf-&_nc_oc=Adrdte4Wq7QbDPF12tKbxhnzW0V3SsXUSrpL12zeIloarikvcrN247Vw24NEt_-wwD8&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=CUtN5flVSy2orrMVXSJ3OA&_nc_ss=7b2a8&oh=00_Af6DNmyUNOZswPA1xxY_QHd2lgCuODWPju6xBVcRvatjjQ&oe=6A15EF21",
       "images": [],
@@ -4013,16 +3991,9 @@
       "id": "mang",
       "orderNo": 45,
       "name": "Mảng",
-      "otherNames": [
-        "Mảng Ư",
-        "Xá Mảng",
-        "Xá Bốc"
-      ],
+      "otherNames": ["Mảng Ư", "Xá Mảng", "Xá Bốc"],
       "population": 4650,
-      "regions": [
-        "Lai Châu",
-        "Điện Biên"
-      ],
+      "regions": ["Lai Châu", "Điện Biên"],
       "language": "Tiếng Mảng (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540768512_1073554714933932_5819082030882368618_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Y7r2kusQtJcQ7kNvwGlhHRi&_nc_oc=Adq7Mz5QOmMalnoNDBiNh_79CCj8TzSxCE7nsfXCT0ZmuJ9MaAilUyyIzQleZssX89E&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=txejazNosPd_M5nIljFYIQ&_nc_ss=7b2a8&oh=00_Af4k5lT_gdfgGArUZyN_VvrXdj3dZprrQluv4urpC-yDIA&oe=6A161BA7",
       "images": [],
@@ -4100,15 +4071,9 @@
       "id": "cong",
       "orderNo": 48,
       "name": "Cống",
-      "otherNames": [
-        "Xắm Khống",
-        "Phuy A"
-      ],
+      "otherNames": ["Xắm Khống", "Phuy A"],
       "population": 2729,
-      "regions": [
-        "Lai Châu",
-        "Điện Biên"
-      ],
+      "regions": ["Lai Châu", "Điện Biên"],
       "language": "Tiếng Cống (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540163283_1073555778267159_3290601736680667909_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=CNYFNbHsKrMQ7kNvwG7BmXb&_nc_oc=Ado8lzaJ7kp8uOb5GrU-cs3pa_UHzEUm74VHtCzvEorbh1Gequ8AtXqGtJDOzXRTdHw&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=01rwD3_SjNRex_bxOzlXog&_nc_ss=7b2a8&oh=00_Af6pt8JDihy127Z2QJLg08n9kPH3hId5ZejcyLFKMkAoBw&oe=6A160BC2",
       "images": [],
@@ -4189,17 +4154,9 @@
       "id": "boy",
       "orderNo": 47,
       "name": "Bố Y",
-      "otherNames": [
-        "Chủng Chá",
-        "Trọng Gia",
-        "Tu Dí"
-      ],
+      "otherNames": ["Chủng Chá", "Trọng Gia", "Tu Dí"],
       "population": 3232,
-      "regions": [
-        "Lào Cai",
-        "Hà Giang",
-        "Yên Bái"
-      ],
+      "regions": ["Lào Cai", "Hà Giang", "Yên Bái"],
       "language": "Tiếng Bố Y (ngữ hệ Ka Đai)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/539397124_1073555504933853_7903230571792711980_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=D-rE0nevNw8Q7kNvwGVgqDX&_nc_oc=AdrhdQ7gkVfMFC8kg9mGnHAOnGLuNZw7UOir97R02oPl0VSC4BLEEk7xNWdE_gpYnhk&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=bsNYAuUa7sQpqMk3VXoh2A&_nc_ss=7b2a8&oh=00_Af5DhRElQhhph56WpZzT5WLRo1sj64US5aEBG_AukN9W1g&oe=6A160BE8",
       "images": [],
@@ -4263,11 +4220,7 @@
         "housing": "Nhà đất trình tường, mái lợp ngói máng hoặc cỏ gianh, có cấu trúc bảo vệ tốt.",
         "housingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
       },
-      "characteristics": [
-        "Cần cù tằn tiện",
-        "Khéo tay",
-        "Tôn trọng lễ giáo"
-      ],
+      "characteristics": ["Cần cù tằn tiện", "Khéo tay", "Tôn trọng lễ giáo"],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Bố Y",
@@ -4285,16 +4238,9 @@
       "id": "colao",
       "orderNo": 46,
       "name": "Cờ Lao",
-      "otherNames": [
-        "Klau",
-        "Ho Ki",
-        "Voa Đề"
-      ],
+      "otherNames": ["Klau", "Ho Ki", "Voa Đề"],
       "population": 2939,
-      "regions": [
-        "Hà Giang",
-        "Yên Bái"
-      ],
+      "regions": ["Hà Giang", "Yên Bái"],
       "language": "Tiếng Cờ Lao (ngữ hệ Ka Đai)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/539579410_1073554408267296_6027175855306375227_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=-BMOB21w8moQ7kNvwHUaAFC&_nc_oc=AdpPIzaJzVKgboXIQ7iJ_dQ9roz9gYDrX3H1SvdgiZk-gdhw8C4hpJMtktrfkaWT5Mk&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=g3HolmthSkNQW1ttX5_cdw&_nc_ss=7b2a8&oh=00_Af7C4emOM62R3mQRLp0vyHdeqwMJmmos7o0TndyIef5UrQ&oe=6A15FB0A",
       "images": [],
@@ -4383,15 +4329,9 @@
       "id": "pupeo",
       "orderNo": 51,
       "name": "Pu Péo",
-      "otherNames": [
-        "Ka Bẻo",
-        "Penti",
-        "La Quả"
-      ],
+      "otherNames": ["Ka Bẻo", "Penti", "La Quả"],
       "population": 903,
-      "regions": [
-        "Hà Giang"
-      ],
+      "regions": ["Hà Giang"],
       "language": "Tiếng Pu Péo (ngữ hệ Ka Đai)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/540506990_1073555398267197_6036112289563785796_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=DQP3VZHXnBgQ7kNvwEf7IWP&_nc_oc=AdrV2nK1eoP1fHY2S4PJ9e7FSQJbFWP-5m2htFAIjRwGKiK8GK9oPwWWG44Lyc0XcNc&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=iTQ_CuUoXP10QWUBBNzlFw&_nc_ss=7b2a8&oh=00_Af7UQjRpI1UMvVIuEKEVEqV70hrh-xRYY11np9nPaBOheg&oe=6A15FAF4",
       "images": [],
@@ -4472,15 +4412,9 @@
       "id": "sila",
       "orderNo": 50,
       "name": "Si La",
-      "otherNames": [
-        "Cú Dề Xừ",
-        "Khả Phé"
-      ],
+      "otherNames": ["Cú Dề Xừ", "Khả Phé"],
       "population": 840,
-      "regions": [
-        "Lai Châu",
-        "Điện Biên"
-      ],
+      "regions": ["Lai Châu", "Điện Biên"],
       "language": "Tiếng Si La (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540519557_1073554934933910_2345132444430674836_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=M-d_1ynipFEQ7kNvwFPwydV&_nc_oc=Ado0icbnVBbVcalIgjQwsNsqKONFBIi7aXFmphan4RZDsKuPkBah9NG1YoW0zCXQl9Q&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=eJjpt16br_aMvPhR7ZTv7Q&_nc_ss=7b2a8&oh=00_Af41UoOIV3kL0QS8yBmCts3aZHOPuBmsZo92DrzbdFUHsw&oe=6A15F8F1",
       "images": [],
@@ -4536,11 +4470,7 @@
         "housing": "Nhà trệt, nhỏ bé, vách nứa, mái tranh, cửa thấp.",
         "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
       },
-      "characteristics": [
-        "Thật thà",
-        "Hiền lành",
-        "Hòa hợp với thiên nhiên"
-      ],
+      "characteristics": ["Thật thà", "Hiền lành", "Hòa hợp với thiên nhiên"],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Si La",
@@ -4558,14 +4488,9 @@
       "id": "odu",
       "orderNo": 54,
       "name": "Ơ Đu",
-      "otherNames": [
-        "Tày Hạt",
-        "Phouteng"
-      ],
+      "otherNames": ["Tày Hạt", "Phouteng"],
       "population": 428,
-      "regions": [
-        "Nghệ An"
-      ],
+      "regions": ["Nghệ An"],
       "language": "Tiếng Ơ Đu (ngữ hệ Nam Á) - Nay chủ yếu nói tiếng Khơ Mú hoặc Thái",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540964568_1073554578267279_9169848179293654942_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=gKkLFTTD9VYQ7kNvwHRAWvV&_nc_oc=AdqC43OMhyJDj2naUE1KktKUTk7o8LSTy0dIIXXpMrRIIqhYMmOAQvENkaMHm42yiRs&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=svkv55UKLzt_1UkIoswOuA&_nc_ss=7b2a8&oh=00_Af6GX3BSdc1wEupvFhS3aa29M96gF6Sc_Q1ipS14NWYasQ&oe=6A160023",
       "images": [],
@@ -4625,11 +4550,7 @@
         "housing": "Nhà sàn mái tranh, trước đây thường nằm quay lưng vào núi.",
         "housingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
       },
-      "characteristics": [
-        "Sống khép kín",
-        "Dễ đồng hóa",
-        "Hiền lành"
-      ],
+      "characteristics": ["Sống khép kín", "Dễ đồng hóa", "Hiền lành"],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Ơ Đu",
@@ -4647,13 +4568,9 @@
       "id": "romam",
       "orderNo": 52,
       "name": "Rơ Măm",
-      "otherNames": [
-        "Rong Mam"
-      ],
+      "otherNames": ["Rong Mam"],
       "population": 639,
-      "regions": [
-        "Kon Tum"
-      ],
+      "regions": ["Kon Tum"],
       "language": "Tiếng Rơ Măm (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540589495_1073555701600500_9199702526155125452_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=zSrLNCDw6OUQ7kNvwHIHjAp&_nc_oc=AdqHgr5byTufnih-FPOiwW73Qv9zo85f3y17JtN5pJazdzVDTSDLACT8A9eZUnOb7xE&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=ykf-ju07uXo8iHNPnL9ptQ&_nc_ss=7b2a8&oh=00_Af7AtZvbBEUYTyiLnC1hSBO_MoXfcAz8Y1Rqneq6XwZh2w&oe=6A15EEDE",
       "images": [],
@@ -4746,14 +4663,9 @@
       "id": "brau",
       "orderNo": 53,
       "name": "Brâu",
-      "otherNames": [
-        "Brao",
-        "Lave"
-      ],
+      "otherNames": ["Brao", "Lave"],
       "population": 525,
-      "regions": [
-        "Kon Tum"
-      ],
+      "regions": ["Kon Tum"],
       "language": "Tiếng Brâu (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540692356_1073555368267200_8431722915880646244_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=YwIPcytn-F4Q7kNvwFZ5vpB&_nc_oc=AdoYFEmnYK80iJXUbNNyHYSlY4ny_-8V06OhtAeWtsgaA4UOBzeoufVucGmm-in_4-Q&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=_I7CuEEYg8mkKfpv7gAYlg&_nc_ss=7b2a8&oh=00_Af5yTrsumSXEjzEcRSjLXdUASlQzaHOk5jr8s-xX46DDtw&oe=6A15FCC1",
       "images": [],
@@ -4838,17 +4750,9 @@
       "id": "xtieng",
       "orderNo": 21,
       "name": "Xtiêng",
-      "otherNames": [
-        "Xa Điêng",
-        "Bù Đíp"
-      ],
+      "otherNames": ["Xa Điêng", "Bù Đíp"],
       "population": 100752,
-      "regions": [
-        "Bình Phước",
-        "Tây Ninh",
-        "Lâm Đồng",
-        "Đồng Nai"
-      ],
+      "regions": ["Bình Phước", "Tây Ninh", "Lâm Đồng", "Đồng Nai"],
       "language": "Tiếng Xtiêng (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/539925388_1073550968267640_6155595176305917767_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZFu8cfFJytwQ7kNvwEgLoWS&_nc_oc=Adr9p5w_fZTSSLkC2NMQUK8CS6kfpZU7jiN8As_6gSH8f2MLDzsoxoND-KfM38aQVkY&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=JLZQ2HSgdI_PTvFMClEl1g&_nc_ss=7b2a8&oh=00_Af4YiNCGSaqnBi-QkjHIb7rjV3WMKvUqrzMhFQ56r61r7Q&oe=6A16093C",
       "images": [],
@@ -4912,11 +4816,7 @@
         "housing": "Nhà sàn hoặc nhà trệt tùy nhóm, cửa ra vào thấp, ít cửa sổ.",
         "housingImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
       },
-      "characteristics": [
-        "Tự lập",
-        "Gan dạ",
-        "Tôn trọng các trưởng lão làng"
-      ],
+      "characteristics": ["Tự lập", "Gan dạ", "Tôn trọng các trưởng lão làng"],
       "music": [
         {
           "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
@@ -4934,18 +4834,9 @@
       "id": "phula",
       "orderNo": 38,
       "name": "Phù Lá",
-      "otherNames": [
-        "Xá Phó",
-        "Bồ Khô Pạ",
-        "Mu Di Pạ"
-      ],
+      "otherNames": ["Xá Phó", "Bồ Khô Pạ", "Mu Di Pạ"],
       "population": 12471,
-      "regions": [
-        "Lào Cai",
-        "Lai Châu",
-        "Sơn La",
-        "Hà Giang"
-      ],
+      "regions": ["Lào Cai", "Lai Châu", "Sơn La", "Hà Giang"],
       "language": "Tiếng Phù Lá (ngữ hệ Tạng-Miến)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540903570_1073553984934005_8090647307573750101_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ithbsLUwYw0Q7kNvwFuhflZ&_nc_oc=AdqOlEZo4RAC0Irf-pSU7lGJEeBSMOEqTmLEtCyiWA3dNQj0Y1Ex3e7YWqsVaP_UG58&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=klEBnWf6PcxK4A0PfhEJGA&_nc_ss=7b2a8&oh=00_Af5V32Z1YuEuAVfMW_xcYRnjbEpWJ4_H8AnlwwA_4oUjdQ&oe=6A16115C",
       "images": [],
