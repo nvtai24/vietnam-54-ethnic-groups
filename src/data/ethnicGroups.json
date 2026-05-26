@@ -9,112 +9,105 @@
       ],
       "population": 82085826,
       "regions": [
-        "Toàn quốc, tập trung đông ở vùng đồng bằng, ven biển và các đô thị"
+        "Khắp lãnh thổ Việt Nam, tập trung đông nhất tại các vùng đồng bằng, ven biển (duyên hải) và các trung tâm đô thị lớn"
       ],
-      "language": "Tiếng Việt",
+      "language": "Tiếng Việt (Nhóm ngôn ngữ Việt - Mường, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/540417361_1073549098267827_7697229140014734706_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeH3MNrYnlbJGw2vQGJLs2ZP21iPbZj8GNHbWI9tmPwY0ab9Gah8BKlHQv_ZceDtaJC2hqaeevfxFrlOyyItknvv&_nc_ohc=ItNFclJl6LsQ7kNvwFKxgGS&_nc_oc=Adq0Qwqena7b4PHQXV2nk9-oD2Jl5eIUF--VEXKjT3Wj7TniEZZcSFQYnyomlglI9mc&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=tcs5yN8PmNIaDAep7qm07w&_nc_ss=7a2a8&oh=00_Af4qBaXsSV4_hVcyOILAKN7YBuN0zUyaLxpddBA0FWtclg&oe=6A15CBCC",
       "images": [
-        "https://nghiencuulichsu.com/wp-content/uploads/2013/05/nguoi-kinh-o-trung-quoc.jpg",
-        "https://www.kidsup.net/wp-content/uploads/2025/09/cac-dan-toc-tren-dat-nuoc-viet-nam.jpg",
-        "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/09_2020/dan-toc-lo-lo-viet-nam.jpg"
+        "https://routine-db.s3.amazonaws.com/prod/media/ao-dai-viet-nam-jpg-mfx4.webp"
       ],
-      "description": "Người Kinh là dân tộc đông nhất Việt Nam, chiếm khoảng 85% dân số cả nước. Người Kinh có nền văn hóa lâu đời, chịu ảnh hưởng sâu sắc của văn hóa Á Đông nhưng vẫn giữ được bản sắc riêng độc đáo.",
+      "description": "Người Kinh (hay người Việt) là dân tộc đa số tại Việt Nam, chiếm khoảng 85-86% dân số. Với lịch sử lâu đời gắn liền với nền văn minh lúa nước, họ là lực lượng chủ đạo trong công cuộc dựng nước và giữ nước, hiện diện và đóng vai trò cốt lõi trong mọi mặt đời sống chính trị, kinh tế, và văn hóa của quốc gia.",
       "history": {
-        "description": "Người Kinh có lịch sử hình thành và phát triển hàng nghìn năm, từ thời Văn Lang - Âu Lạc, gắn liền với nền văn minh lúa nước sông Hồng.",
+        "description": "Người Kinh (cũng như người Mường, Thổ, Chứt) là tộc người bản địa, sở tại, sinh sống từ rất lâu đời trên dải đất Việt Nam, không phải có nguồn gốc từ lãnh thổ bên ngoài. Từ cái nôi ban đầu là vùng Bắc Bộ và Bắc Trung Bộ, tập trung ở đồng bằng, người Kinh chuyển cư đến các vùng khác, trở thành tộc người đông đảo, có mặt trên mọi địa bàn, địa hình của Tổ quốc.",
         "imageUrls": [
-          "https://static.wixstatic.com/media/41a9b2_c299eb4c38bc483bafb4d42fadd7d548~mv2.png/v1/fill/w_611,h_415,al_c,q_85,enc_avif,quality_auto/41a9b2_c299eb4c38bc483bafb4d42fadd7d548~mv2.png",
-          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi4oau8_pYdsdDSNM1VvoHLzLSxVRBrLdpwhwtfDZPBTXFE8q9ntNyc_1OqDPfbVJoFWDjMdCfppTy4759jaQIYnX7f7qeGqw7N4g3u75LCWj1NGvnKN3DIZ-nubMIWXrtM_StPV2OrSGq/s1600/%2540image1.jpg"
+          "https://file.hstatic.net/200000503583/file/trang-phuc-dan-toc-kinh-cardina-6.jpg_75366279be764da8a5fd054c3ea6180a.jpg",
+          "https://vovworld.vn/sites/default/files/world/Uploaded/honganh/2013_05_08/ao%20dai1.jpg"
         ]
       },
       "culture": {
         "festivals": [
           {
-            "name": "Tết Nguyên Đán",
-            "imageUrl": "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2026/2/16/y-nghia-nguon-goc-tet-nguyen-dan-17712078943591859502505.jpg"
-          },
-          {
-            "name": "Tết Trung Thu",
-            "imageUrl": "https://cellphones.com.vn/sforum/wp-content/uploads/2023/09/tet-trung-thu-la-gi-1.jpg"
+            "name": "Tết Nguyên đán",
+            "imageUrl": "https://i.pinimg.com/736x/8f/8d/fc/8f8dfcdd4c9bc9ec71501d2262dd1558.jpg"
           },
           {
             "name": "Giỗ Tổ Hùng Vương",
-            "imageUrl": "https://source.unsplash.com/900x700/?Gi%E1%BB%97%20T%E1%BB%95%20H%C3%B9ng%20V%C6%B0%C6%A1ng%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": "https://dulichbacgiang.gov.vn/uploads/content/1_927.jpg"
           },
           {
-            "name": "Tết Đoan Ngọ",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20%C4%90oan%20Ng%E1%BB%8D%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Hội Lim",
+            "imageUrl": "https://ticotravel.com.vn/wp-content/uploads/2023/06/hoi-lim-3.jpg"
+          },
+          {
+            "name": "Lễ hội Chùa Hương",
+            "imageUrl": "https://cdn.xanhsm.com/2025/02/9bb90dc9-le-hoi-chua-huong-1.jpg"
           }
         ],
         "customs": [
           {
             "name": "Thờ cúng tổ tiên",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%9D%20c%C3%BAng%20t%E1%BB%95%20ti%C3%AAn%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": "https://buulong.com.vn/wp-content/uploads/2026/02/hinh-anh-tho-cung-to-tien-4.jpg"
           },
           {
-            "name": "Cưới hỏi theo nghi lễ truyền thống",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%B0%E1%BB%9Bi%20h%E1%BB%8Fi%20theo%20nghi%20l%E1%BB%85%20truy%E1%BB%81n%20th%E1%BB%91ng%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Nông nghiệp lúa nước",
+            "imageUrl": "https://t.ex-cdn.com/vovgiaothong.vn/resize/1280x854/files/content/2023/11/25/026-1614.jpg"
           },
           {
-            "name": "Tôn sư trọng đạo",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%C3%B4n%20s%C6%B0%20tr%E1%BB%8Dng%20%C4%91%E1%BA%A1o%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Tục ăn trầu cau",
+            "imageUrl": "https://uploads.nguoidothi.net.vn/content/9d9ccb8e-6e85-47a7-b4aa-5f19b28afd74.jpg"
+          },
+          {
+            "name": "Lễ thôi nôi",
+            "imageUrl": "https://buulong.com.vn/wp-content/uploads/2026/02/hinh-anh-mam-cung-thoi-noi-be-trai-4.jpg"
           }
         ],
-        "clothing": "Áo dài, áo tứ thân, yếm, nón lá.",
-        "clothingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+        "clothing": "Áo dài, Áo tứ thân, Áo bà ba, Áo cánh, Khăn xếp, Khăn rằn.",
+        "clothingImage": "https://bizweb.dktcdn.net/100/326/676/files/ao-dai-truyen-thong-6.webp?v=1727877987647",
         "cuisine": [
           {
             "name": "Phở",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ph%E1%BB%9F%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Bánh chưng",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%A1nh%20ch%C6%B0ng%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Nem rán",
-            "imageUrl": "https://source.unsplash.com/900x700/?Nem%20r%C3%A1n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmZWU_64IghGEDKpIvuHFaN5XF7jvIeHLqQ&s"
           },
           {
             "name": "Bún chả",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%BAn%20ch%E1%BA%A3%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": "https://i-giadinh.vnecdn.net/2023/04/16/Buoc-11-Thanh-pham-11-7068-1681636164.jpg"
           },
           {
-            "name": "Nước mắm",
-            "imageUrl": "https://source.unsplash.com/900x700/?N%C6%B0%E1%BB%9Bc%20m%E1%BA%AFm%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Bánh mì",
+            "imageUrl": "https://vcdn1-dulich.vnecdn.net/2025/10/21/Banhmi3173-1761039187-8345-1761039586.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=KROxv_K5cSuSQsbB3ULo7Q"
+          },
+          {
+            "name": "Bún đậu mắm tôm",
+            "imageUrl": "https://i-giadinh.vnecdn.net/2025/05/16/Bun-dau-mam-tom-6-vnexpress-17-9082-8722-1747388531.jpg"
           }
         ],
-        "housing": "Nhà 3 gian 2 chái truyền thống bằng gỗ, mái ngói đỏ hoặc nhà hiện đại.",
-        "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        "housing": "Nhà trệt 3 gian hoặc 5 gian, Nhà ngói sân gạch (Miền Bắc), Nhà rường (Miền Trung), Nhà lá (Miền Nam).",
+        "housingImage": "https://nhatoreview.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/12/nha-3-gian-1.jpg"
       },
-      "characteristics": [
-        "Cần cù, chịu khó",
-        "Trọng tình nghĩa",
-        "Hiếu học",
-        "Yêu nước"
+      "music": [
+        {
+          "title": "Hát Xẩm",
+          "url": "https://www.youtube-nocookie.com/embed/QsYhHz4Ohl8",
+          "description": "Làn điệu hát rong dân gian của các nghệ sĩ khiếm thị thường thấy ở chợ quê."
+        },
+        {
+          "title": "Quan Họ",
+          "url": "https://www.youtube-nocookie.com/embed/SmVqzbt5T_Q",
+          "description": "Thể loại hát giao duyên nổi tiếng với các làn điệu như Ngồi tựa mạn thuyền, Khách đến chơi nhà."
+        }
       ],
       "videos": [
         {
-          "title": "Văn hóa truyền thống người Kinh",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Tìm hiểu về văn hóa, phong tục tập quán của người Kinh"
-        },
-        {
-          "title": "Lễ hội Tết Nguyên Đán",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá lễ hội Tết truyền thống của người Việt"
+          "title": "Dân tộc Kinh",
+          "url": "https://www.youtube-nocookie.com/embed/qyHeyIiEcoA",
+          "description": ""
         }
       ],
-      "music": [
-        {
-          "title": "Dân ca Quan họ Bắc Ninh - Bèo dạt mây trôi",
-          "url": "https://www.youtube.com/embed/S2H_kR7G0kM",
-          "description": "Bèo dạt mây trôi là một bài dân ca Quan họ Bắc Ninh thể hiện tình cảm chân thành, sâu lắng của người dân Việt."
-        },
-        {
-          "title": "Đờn ca tài tử Nam Bộ",
-          "url": "https://www.youtube.com/embed/S3_Jq0W6mxs",
-          "description": "Nghệ thuật đờn ca tài tử đặc trưng của vùng sông nước Nam Bộ, di sản văn hóa phi vật thể của nhân loại."
-        }
+      "characteristics": [
+        "Cần cù",
+        "nhân hậu",
+        "yêu nước",
+        "Đoàn kết"
       ]
     },
     {
@@ -125,199 +118,214 @@
         "Thổ",
         "Ngạn",
         "Phén",
-        "Thù Lao"
+        "Thu Lao",
+        "Pa Dí"
       ],
-      "population": 1845892,
+      "population": 1845492,
       "regions": [
         "Cao Bằng",
         "Lạng Sơn",
         "Bắc Kạn",
+        "Thái Nguyên",
         "Quảng Ninh",
         "Hà Giang",
-        "Thái Nguyên",
-        "Lào Cai"
+        "Tuyên Quang"
       ],
-      "language": "Tiếng Tày (ngữ hệ Tày-Thái)",
+      "language": "Tiếng Tày (Hệ ngôn ngữ Tai-Kadai)",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/536270962_1073551101600960_5559361163122572502_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=M787kJTxqKkQ7kNvwFAdrvF&_nc_oc=AdrUKO2H5K4A9hb1MXJzwnlPVEPndo6p5p-eJmepSJXGhFaJP2-rCDINeo95jxhx4Aw&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=iN1BhHLnNnSvzFo_pRkYSQ&_nc_ss=7b2a8&oh=00_Af4n1im-P_tj-2Vw9NGUpP6frX1Q7rM88KfG9XstCCsXBQ&oe=6A15F436",
-      "images": [],
-      "description": "Người Tày là dân tộc thiểu số đông nhất Việt Nam, cư trú chủ yếu ở vùng thung lũng, ven suối các tỉnh miền núi phía Bắc.",
+      "images": [
+        "https://routine-db.s3.amazonaws.com/prod/media/trang-phuc-dan-toc-tay-nu-don-gian-diu-dang-jpg-klji.webp"
+      ],
+      "description": "Dân tộc Tày là dân tộc thiểu số đông dân nhất Việt Nam, chủ yếu sống ở vùng Đông Bắc. Họ có nền văn hóa lâu đời với màu áo chàm đặc trưng, hát Then, và lễ hội Lồng Tồng (xuống đồng). Ẩm thực nổi tiếng với các món chua, xôi nếp và phong tục tập quán chú trọng thờ cúng tổ tiên, hiếu khách.",
       "history": {
-        "description": "Người Tày là cư dân bản địa có mặt ở Việt Nam từ rất sớm, gắn bó mật thiết với người Nùng và người Thái.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
-        ]
+        "description": "Người Tày có mặt ở Việt Nam từ rất sớm, từ cuối thiên niên kỷ thứ nhất trước Công nguyên và là một trong những chủ nhân đầu tiên của nước Việt cổ.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ hội Lồng Tồng (Xuống đồng)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20L%E1%BB%93ng%20T%E1%BB%93ng%20(Xu%E1%BB%91ng%20%C4%91%E1%BB%93ng)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": ""
+          },
+          {
+            "name": "Nghi lễ Hát Then",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Thờ cúng tổ tiên và thờ Thổ công, Bà mụ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%9D%20c%C3%BAng%20t%E1%BB%95%20ti%C3%AAn%20v%C3%A0%20th%E1%BB%9D%20Th%E1%BB%95%20c%C3%B4ng%2C%20B%C3%A0%20m%E1%BB%A5%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Thờ cúng tổ tiên, bà mụ, Phật Bà",
+            "imageUrl": ""
           },
           {
-            "name": "Hát Then",
-            "imageUrl": "https://source.unsplash.com/900x700/?H%C3%A1t%20Then%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Chúc tết nhà ngoại",
+            "imageUrl": ""
+          },
+          {
+            "name": "Tập quán đập lúa trên máng gỗ",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Trang phục màu chàm đen, phụ nữ mặc áo ngũ thân, chít khăn mỏ quạ.",
-        "clothingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+        "clothing": "Quần áo màu chàm",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Xôi ngũ sắc",
-            "imageUrl": "https://source.unsplash.com/900x700/?X%C3%B4i%20ng%C5%A9%20s%E1%BA%AFc%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Thịt trâu/lợn xào măng chua",
+            "imageUrl": ""
           },
           {
-            "name": "Bánh chưng tày",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%A1nh%20ch%C6%B0ng%20t%C3%A0y%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cá ruộng ướp chua",
+            "imageUrl": ""
           },
           {
-            "name": "Thịt lợn quay",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20l%E1%BB%A3n%20quay%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Xôi nếp (Khau nặm)",
+            "imageUrl": ""
           },
           {
-            "name": "Khâu nhục",
-            "imageUrl": "https://source.unsplash.com/900x700/?Kh%C3%A2u%20nh%E1%BB%A5c%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Bánh chưng",
+            "imageUrl": ""
           },
           {
-            "name": "Lạp sườn",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BA%A1p%20s%C6%B0%E1%BB%9Dn%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Bánh khảo",
+            "imageUrl": ""
+          },
+          {
+            "name": "Khẩu sli",
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà sàn bằng gỗ, mái lợp cọ hoặc ngói.",
-        "housingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        "housing": "Nhà sàn truyền thống 4 mái",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Hiền hòa, hiếu khách",
-        "Giỏi canh tác lúa nước",
-        "Văn hóa dân ca phong phú"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
       "music": [
         {
-          "title": "Hát Then Đàn Tính truyền thống",
-          "url": "https://www.youtube.com/embed/Rk4y637X5Qc",
-          "description": "Hát Then cổ truyền kết hợp với Đàn Tính, nhạc cụ độc đáo của người Tày."
-        },
-        {
-          "title": "Hòa tấu Đàn Tính - Âm vang núi rừng",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Âm thanh thanh tao của Đàn Tính thể hiện vẻ đẹp thiên nhiên vùng cao sơn cước."
+          "title": "Tuyên Quang quê nọong",
+          "url": "",
+          "description": "Bài hát Tuyên Quang quê nọong (Tuyên Quang quê em) là một tác phẩm then mới đặc sắc, ca ngợi vẻ đẹp thiên nhiên, con người và văn hóa đậm đà bản sắc của dân tộc Tày tại tỉnh Tuyên Quang."
         }
-      ]
+      ],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "thai",
       "orderNo": 3,
       "name": "Thái",
       "otherNames": [
-        "Táy",
-        "Tày Đăm",
-        "Tày Khảo"
+        "Hàng Tổng",
+        "Tay Dọ",
+        "Tay Đăm",
+        "Tay Mười",
+        "Tay Thanh",
+        "Mán Thanh",
+        "Hàng Bông",
+        "Tày Mường",
+        "Pa Thay",
+        "Thổ Đà Bắc"
       ],
       "population": 1820950,
       "regions": [
-        "Sơn La",
-        "Điện Biên",
-        "Lai Châu",
         "Hòa Bình",
+        "Lai Châu",
+        "Điện Biên",
+        "Sơn La",
+        "Lào Cai",
+        "Yên Bái",
         "Thanh Hóa",
-        "Nghệ An"
+        "Nghệ An",
+        "Tây Nguyên"
       ],
-      "language": "Tiếng Thái (ngữ hệ Tày-Thái)",
+      "language": "Tiếng Thái (Nhóm ngôn ngữ Tày - Thái, ngữ hệ Thái – Kađai)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540613496_1073551044934299_6887533771478842802_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=u2oG1AKMbu4Q7kNvwGq02Ur&_nc_oc=AdqoNDO0q4zTPFy0tr6LjF962UjbfA-uC8od5snpyMSIWJfMPy8WqfEZk6O5o_7gDO0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=B8kLwuW1TgflsFqZxRArJA&_nc_ss=7b2a8&oh=00_Af6pqoIWSJHPR1WouglxRlPY_DMBFK0hrtO5MxyCIo3J3Q&oe=6A15EE0D",
       "images": [],
-      "description": "Người Thái nổi tiếng với nghệ thuật dệt thổ cẩm, kiến trúc nhà sàn và điệu múa xòe truyền thống.",
+      "description": "Là dân tộc thiểu số đông dân thứ hai tại Việt Nam với bề dày lịch sử cư trú lâu đời tại vùng bồn địa Tây Bắc. Người Thái nổi tiếng với nền văn hóa sông nước đặc sắc, chữ viết cổ phong phú, các điệu múa Xòe di sản và trang phục áo cóm khăn Piêu mang tính biểu tượng thẩm mỹ cao.",
       "history": {
-        "description": "Người Thái di cư từ vùng Vân Nam (Trung Quốc) xuống phía Nam cách đây hàng ngàn năm.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
-        ]
+        "description": "Người Thái có cội nguồn ở vùng Đông Nam Á lục địa, tổ tiên xa xưa của người Thái có mặt ở Việt Nam từ rất sớm.\nNgười Thái ở Việt Nam được nhìn nhận là một cộng đồng tộc người với nhiều nhóm địa phương. Nguồn gốc cũng như sự có mặt của họ ở Việt Nam không hoàn toàn giống nhau. Theo các nhà dân tộc học, người Thái ở Việt Nam có hai nhóm chính: Thái Trắng và Thái Đen.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ hội Xên Bản Xên Mường",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20X%C3%AAn%20B%E1%BA%A3n%20X%C3%AAn%20M%C6%B0%E1%BB%9Dng%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ cúng thần đất, núi, nước và linh hồn người",
+            "imageUrl": ""
           },
           {
-            "name": "Lễ hội Hoa Ban",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20Hoa%20Ban%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ đón nhà mới",
+            "imageUrl": ""
+          },
+          {
+            "name": "Cúng tổ tiên",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ hội Nàng Han",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ hội Xên bản Xên mường",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Tục ở rể (đã giảm)",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20%E1%BB%9F%20r%E1%BB%83%20(%C4%91%C3%A3%20gi%E1%BA%A3m)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Tổ chức xã hội theo bản mường (phìa tạo)",
+            "imageUrl": ""
           },
           {
-            "name": "Múa Xòe, múa Sạp",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%BAa%20X%C3%B2e%2C%20m%C3%BAa%20S%E1%BA%A1p%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Tục ở rể",
+            "imageUrl": ""
           },
           {
-            "name": "Thờ cúng tổ tiên",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%9D%20c%C3%BAng%20t%E1%BB%95%20ti%C3%AAn%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Lễ tang có bước Pông và Xống",
+            "imageUrl": ""
+          },
+          {
+            "name": "Tục làm vía",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Phụ nữ mặc áo cóm (ngắn) bó sát, váy đen dài, đội khăn piêu (Thái đen).",
-        "clothingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+        "clothing": "Áo cánh ngắn đính khuy bạc, Váy vải thâm hình ống, Khăn Piêu (Nữ); Quần cắt thắt lưng, Áo cánh xẻ ngực (Nam).",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Cơm lam",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20lam%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Xôi nếp, Cơm gạo tẻ",
+            "imageUrl": ""
           },
           {
-            "name": "Thịt trâu gác bếp",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20tr%C3%A2u%20g%C3%A1c%20b%E1%BA%BFp%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Các món nướng, lùi, đồ, sấy, mắm thính, nộm thịt tươi (lạp, cỏi)",
+            "imageUrl": ""
           },
           {
-            "name": "Pa pỉnh tộp (cá nướng)",
-            "imageUrl": "https://source.unsplash.com/900x700/?Pa%20p%E1%BB%89nh%20t%E1%BB%99p%20(c%C3%A1%20n%C6%B0%E1%BB%9Bng)%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Nước chấm Chéo",
+            "imageUrl": ""
           },
           {
-            "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Nặm pịa",
+            "imageUrl": ""
+          },
+          {
+            "name": "Rượu cần, Rượu cất",
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà sàn cao, mái lợp cỏ gianh hình mai rùa (Thái Đen) hoặc mái bằng (Thái Trắng).",
-        "housingImage": "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        "housing": "Nhà sàn (mái khum hình mai rùa hoặc 4 mái)",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Thanh lịch, khéo léo",
-        "Giỏi dệt thổ cẩm",
-        "Yêu ca múa"
+      "music": [
+        {
+          "title": "Xòe Thái",
+          "url": "",
+          "description": "Xòe vòng - một di sản văn hóa, một niềm tự hào của người Thái. Trích \"Xòe Thái - tinh hoa dân tộc\" trong Chương trình Khai mạc Lễ hội văn hóa du lịch Mường Lò năm 2019!"
+        }
       ],
       "videos": [
         {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
+          "title": "Nét độc đáo văn hóa dân tộc Thái ở Lai Châu",
+          "url": "",
+          "description": ""
         }
       ],
-      "music": [
-        {
-          "title": "Dân ca Thái - Inh lả ơi",
-          "url": "https://www.youtube.com/embed/mGjT4B37D28",
-          "description": "Bài dân ca Tây Bắc quen thuộc thể hiện lòng hiếu khách và nét đẹp văn hóa người Thái."
-        },
-        {
-          "title": "Khắp Thái cổ truyền",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Điệu hát đối đáp trữ tình sâu lắng trong các dịp lễ hội của dân tộc Thái."
-        }
-      ]
+      "characteristics": []
     },
     {
       "id": "muong",
@@ -326,204 +334,161 @@
       "otherNames": [
         "Mol",
         "Mual",
-        "Mọi"
+        "Mul",
+        "Mon"
       ],
       "population": 1452095,
       "regions": [
         "Hòa Bình",
-        "Thanh Hóa",
         "Phú Thọ",
+        "Thanh Hóa",
         "Sơn La",
-        "Hà Nội (Ba Vì)"
+        "Ninh Bình",
+        "Yên Bái"
       ],
-      "language": "Tiếng Mường (ngữ hệ Nam Á)",
+      "language": "Tiếng Mường (Nhóm ngôn ngữ Việt-Mường, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/542756321_1073550531601017_5670771808055452094_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=_kW0hry5SgwQ7kNvwEiVC61&_nc_oc=AdreDlSeUi88owyS6_th_pwz6AOti1bBJGW7vmFfFoEj5vAYrvferEmd4iSj9-WOZZ4&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=TEcWR3Lb7FbM_1hnxeBX9w&_nc_ss=7b2a8&oh=00_Af7cy2roXMbHOM7B9MWJB1hIz1UvSpO2OMT_03KaS3GsvA&oe=6A15FE49",
       "images": [],
-      "description": "Người Mường có cùng nguồn gốc với người Kinh, nhưng sinh sống ở miền núi nên giữ được nhiều nét văn hóa cổ xưa hơn.",
+      "description": "Người Mường là một trong những dân tộc lâu đời ở Việt Nam, sinh sống chủ yếu tại các tỉnh miền núi và trung du phía Bắc như Hòa Bình, Thanh Hóa và Phú Thọ. Họ có quan hệ gần gũi với người Kinh về ngôn ngữ và văn hóa nhưng vẫn giữ được nhiều bản sắc riêng. Người Mường sinh hoạt theo Bon (làng) – đơn vị cộng đồng gắn kết nhiều thế hệ, nhấn mạnh tinh thần đoàn kết và hợp tác trong lao động, lễ nghi và đời sống tinh thần.",
       "history": {
-        "description": "Là cư dân bản địa lâu đời, tách ra từ khối Việt-Mường chung khoảng vài ngàn năm trước.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
-        ]
+        "description": "Người Mường là cư dân bản địa, sinh sống lâu đời ở nước ta, có cùng nguồn gốc với người Việt cổ và đã tạo dựng được một nền văn hóa phong phú, giàu bản sắc tộc người.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ hội Khai hạ",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20Khai%20h%E1%BA%A1%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ Khai Hạ",
+            "imageUrl": ""
           },
           {
-            "name": "Lễ hội cầu mưa",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20c%E1%BA%A7u%20m%C6%B0a%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ hội Cầu An Cho Bản Mường (Xên Bản - Xên Mường)",
+            "imageUrl": ""
           },
           {
-            "name": "Lễ mừng cơm mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20m%E1%BB%ABng%20c%C6%A1m%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ hội Cơm Mới (Lễ Mừng Lúa Mới)",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Sử thi Đẻ đất đẻ nước",
-            "imageUrl": "https://source.unsplash.com/900x700/?S%E1%BB%AD%20thi%20%C4%90%E1%BA%BB%20%C4%91%E1%BA%A5t%20%C4%91%E1%BA%BB%20n%C6%B0%E1%BB%9Bc%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Thờ cúng tổ tiên, thần núi, thần sông, thần đất",
+            "imageUrl": ""
           },
           {
-            "name": "Sử dụng cồng chiêng trong các dịp lễ tết",
-            "imageUrl": "https://source.unsplash.com/900x700/?S%E1%BB%AD%20d%E1%BB%A5ng%20c%E1%BB%93ng%20chi%C3%AAng%20trong%20c%C3%A1c%20d%E1%BB%8Bp%20l%E1%BB%85%20t%E1%BA%BFt%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Sinh hoạt cộng đồng theo Bon (làng)",
+            "imageUrl": ""
+          },
+          {
+            "name": "Tín ngưỡng Mo Mường",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Phụ nữ mặc áo cánh ngắn (pắn), váy đen dài với cạp váy dệt hoa văn cầu kỳ.",
-        "clothingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+        "clothing": "Áo dài đến eo/áo chùng, yếm thổ cẩm (Nữ); Áo ngắn cổ tròn, quần vải mộc thô ống rộng (Nam)",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Cỗ lá",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%E1%BB%97%20l%C3%A1%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cơm lam",
+            "imageUrl": ""
           },
           {
-            "name": "Cơm đồ",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20%C4%91%E1%BB%93%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Thịt lợn thui luộc",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20l%E1%BB%A3n%20thui%20lu%E1%BB%99c%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Rau xôi",
+            "imageUrl": ""
           },
           {
             "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà sàn truyền thống với 4 mái.",
-        "housingImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        "housing": "Nhà sàn truyền thống (bằng gỗ, tre, nứa, lợp cọ/tranh)",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Chân chất, mộc mạc",
-        "Tôn trọng thứ bậc gia đình",
-        "Giàu truyền thống văn nghệ dân gian"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
       "music": [
         {
-          "title": "Hòa tấu Cồng Chiêng Mường",
-          "url": "https://www.youtube.com/embed/iA1xWl4z6kU",
-          "description": "Cồng chiêng là nhạc cụ linh thiêng, biểu tượng văn hóa lâu đời của người Mường."
-        },
-        {
-          "title": "Hát Đang Mường",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Thể loại dân ca nghi lễ, giao duyên độc đáo của người Mường."
+          "title": "Đập nàng Khọt",
+          "url": "",
+          "description": "\"Đập nàng Khọt\" là 1 ca khúc dân ca với lời Mường cổ"
         }
-      ]
+      ],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "khmer",
       "orderNo": 6,
       "name": "Khmer",
       "otherNames": [
-        "Khmer Nam Bộ",
-        "Miên"
+        "Khơ-me Crôm",
+        "Khơ-me Hạ",
+        "Khơ-me Dưới",
+        "Người Việt gốc Miên"
       ],
       "population": 1319652,
       "regions": [
-        "Sóc Trăng",
         "Trà Vinh",
-        "Kiên Giang",
-        "An Giang",
+        "Sóc Trăng",
         "Bạc Liêu",
-        "Cà Mau"
+        "An Giang",
+        "Kiên Giang"
       ],
-      "language": "Tiếng Khmer (ngữ hệ Nam Á)",
+      "language": "Tiếng Khmer (Nhóm Môn-Khmer, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540990630_1073550914934312_7646554292734668563_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=m6A9_IW5PfEQ7kNvwHhZf7y&_nc_oc=AdrJKIlsuEzvJvImfMGismElXCxJO1HmRdDT9Vo-tw-ZSx87FBVMMU_JthnGgwm78ig&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=Y1zc2pEwPNmsr_elksPpxw&_nc_ss=7b2a8&oh=00_Af45cDErtjLLSLKlbodKD5FSGN1xQw38UANoaauuCU7ZEQ&oe=6A15FDE4",
       "images": [],
-      "description": "Người Khmer Nam Bộ có nền văn hóa gắn liền với Phật giáo Nam tông, thể hiện rõ qua hệ thống chùa chiền độc đáo.",
+      "description": "Người Khmer (hay người Khmer Krom) tại Việt Nam là một trong 54 dân tộc anh em, sinh sống tập trung lâu đời tại khu vực Tây Nam Bộ. Họ sở hữu nền văn hóa bản địa độc đáo, gắn liền với hệ thống tín ngưỡng Phật giáo Nam Tông và phương thức canh tác nông nghiệp trù phú.",
       "history": {
-        "description": "Là những cư dân sinh sống lâu đời ở vùng đồng bằng sông Cửu Long.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
-        ]
+        "description": "Nhiều nghiên cứu đã khẳng định người Khơ-me ở nước ta là hậu duệ của các di dân từ Lục Chân Lạp - tiền thân của nhà nước Campuchia ngày nay. Họ di cư sang khu vực này theo nhiều đợt và do nhiều nguyên nhân khác nhau. Cùng với người Việt và người Hoa, người Khơ-me là một trong những nhóm cư dân có mặt sớm nhất ở đồng bằng sông Cửu Long.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Chôl Chnăm Thmây (Năm mới)",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%C3%B4l%20Chn%C4%83m%20Thm%C3%A2y%20(N%C4%83m%20m%E1%BB%9Bi)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Tết Chôl Chnăm Thmây (Mừng năm mới)",
+            "imageUrl": ""
           },
           {
-            "name": "Sen Dolta (Lễ cúng ông bà)",
-            "imageUrl": "https://source.unsplash.com/900x700/?Sen%20Dolta%20(L%E1%BB%85%20c%C3%BAng%20%C3%B4ng%20b%C3%A0)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ Sene Đôn Ta (Cúng ông bà)",
+            "imageUrl": ""
           },
           {
-            "name": "Oóc Om Bóc (Lễ cúng trăng)",
-            "imageUrl": "https://source.unsplash.com/900x700/?O%C3%B3c%20Om%20B%C3%B3c%20(L%E1%BB%85%20c%C3%BAng%20tr%C4%83ng)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ hội Ok Om Bok (Cúng trăng)",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Tục nam giới đi tu báo hiếu",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20nam%20gi%E1%BB%9Bi%20%C4%91i%20tu%20b%C3%A1o%20hi%E1%BA%BFu%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Tín ngưỡng bản địa giao thoa Phật giáo Nam Tông",
+            "imageUrl": ""
           },
           {
-            "name": "Đua ghe ngo",
-            "imageUrl": "https://source.unsplash.com/900x700/?%C4%90ua%20ghe%20ngo%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
-            "name": "Nghệ thuật sân khấu Dù kê, Rô băm",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ngh%E1%BB%87%20thu%E1%BA%ADt%20s%C3%A2n%20kh%E1%BA%A5u%20D%C3%B9%20k%C3%AA%2C%20R%C3%B4%20b%C4%83m%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Chùa là trung tâm văn hóa, tín ngưỡng và giáo dục",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Trang phục truyền thống Săm-pốt, áo tầm vông.",
-        "clothingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+        "clothing": "Áo tầm-vông, xà-rông, khăn rằn, váy som-pốt hôl (Nữ); Áo bà ba, quần lụa đen, xà-rông, khăn Kăl-xinh (Nam)",
+        "clothingImage": "",
         "cuisine": [
           {
+            "name": "Mắm bò hóc",
+            "imageUrl": ""
+          },
+          {
             "name": "Bún nước lèo",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%BAn%20n%C6%B0%E1%BB%9Bc%20l%C3%A8o%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": ""
           },
           {
-            "name": "Mắm bò hóc (Prahok)",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%E1%BA%AFm%20b%C3%B2%20h%C3%B3c%20(Prahok)%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cốm dẹp",
+            "imageUrl": ""
           },
           {
-            "name": "Bánh tét Trà Cuôn",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%A1nh%20t%C3%A9t%20Tr%C3%A0%20Cu%C3%B4n%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Canh sim-lo",
-            "imageUrl": "https://source.unsplash.com/900x700/?Canh%20sim-lo%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Bánh truyền thống Khmer",
+            "imageUrl": ""
           }
         ],
-        "housing": "Thường cất nhà sàn hoặc nhà đất, bố trí xóm làng xung quanh chùa.",
-        "housingImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        "housing": "Nhà sàn truyền thống và nhà trệt nền đất",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Sùng đạo Phật",
-        "Hiền lành, cởi mở",
-        "Có năng khiếu nghệ thuật, điêu khắc"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
-      "music": [
-        {
-          "title": "Dàn nhạc Ngũ âm (Pinpeat) cổ truyền",
-          "url": "https://www.youtube.com/embed/N-0_U4eJ1G4",
-          "description": "Dàn nhạc ngũ âm đặc trưng biểu diễn trong các dịp đại lễ tại chùa Khmer."
-        },
-        {
-          "title": "Nhạc múa Lâm Thôn (Romvong)",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Điệu múa vòng tròn truyền thống vui tươi, gắn kết cộng đồng người Khmer."
-        }
-      ]
+      "music": [],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "hoa",
@@ -531,9 +496,10 @@
       "name": "Hoa",
       "otherNames": [
         "Hán",
-        "Triều Châu",
-        "Phúc Kiến",
-        "Quảng Đông"
+        "Tàu",
+        "Khách",
+        "Minh Hương",
+        "Người Thanh"
       ],
       "population": 749466,
       "regions": [
@@ -544,299 +510,267 @@
         "Bạc Liêu",
         "Bình Dương"
       ],
-      "language": "Tiếng Hán (các phương ngữ: Quảng Đông, Phúc Kiến, Triều Châu...)",
+      "language": "Các phương ngữ Trung Quốc (Quảng Đông, Triều Châu, Phúc Kiến, Hẹ, Hải Nam)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541990081_1073550948267642_8635293302090286179_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=tUn3zjGR5wAQ7kNvwGXTKZL&_nc_oc=AdrxHIpQQLRAm4Ammx4CYjCjHRQrf1RWgRYqnzlLH5nlXg4mrmTrDy3aM0SS3vCgXls&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=V67I_ou18dpgPj5QdkMFlQ&_nc_ss=7b2a8&oh=00_Af6B3brCU7J61EtaEMw7bz-z3BhUb9GPtK2fUAFV5vIuzg&oe=6A15F75D",
       "images": [],
-      "description": "Người Hoa tại Việt Nam chủ yếu sống ở các đô thị lớn, có truyền thống kinh doanh thương mại và tiểu thủ công nghiệp.",
+      "description": "Dân tộc Hoa (người Hoa) là một trong 54 dân tộc tại Việt Nam, di cư từ Trung Quốc vào qua nhiều thế kỷ, tập trung đông tại các đô thị lớn. Họ nổi bật với truyền thống kinh doanh, văn hóa ẩm thực tinh tế, tín ngưỡng đa dạng và các lễ hội rực rỡ sắc màu, góp phần làm phong phú nền văn hóa Việt Nam.",
       "history": {
-        "description": "Người Hoa di cư sang Việt Nam nhiều đợt trong lịch sử, đặc biệt từ thế kỷ 17 đến thế kỷ 20.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
-        ]
+        "description": "Người Hoa di cư đến Việt Nam vào những thời điểm khác nhau từ thế kỷ XVI, và sau này vào cuối thời Minh, đầu thời Thanh, kéo dài cho đến nửa đầu thế kỷ XX.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Tết Nguyên Tiêu",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Nguy%C3%AAn%20Ti%C3%AAu%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Tết Nguyên Đán",
+            "imageUrl": ""
+          },
+          {
+            "name": "Tết Nguyên Tiêu (Rằm tháng Giêng)",
+            "imageUrl": ""
           },
           {
             "name": "Tết Trung Thu",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Trung%20Thu%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": ""
           },
           {
-            "name": "Tết Thanh Minh",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Thanh%20Minh%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
-            "name": "Lễ vía Bà Thiên Hậu",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20v%C3%ADa%20B%C3%A0%20Thi%C3%AAn%20H%E1%BA%ADu%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ Bà Thiên Hậu",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Múa lân sư rồng",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%BAa%20l%C3%A2n%20s%C6%B0%20r%E1%BB%93ng%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Thờ cúng tổ tiên, Thần Bếp, Thổ Địa, Thần Tài",
+            "imageUrl": ""
           },
           {
-            "name": "Thờ cúng Quan Công, Bà Thiên Hậu",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%9D%20c%C3%BAng%20Quan%20C%C3%B4ng%2C%20B%C3%A0%20Thi%C3%AAn%20H%E1%BA%ADu%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Thờ Quan Công, Bà Thiên Hậu, Ông Bổn, Quan Âm",
+            "imageUrl": ""
           },
           {
-            "name": "Viết thư pháp",
-            "imageUrl": "https://source.unsplash.com/900x700/?Vi%E1%BA%BFt%20th%C6%B0%20ph%C3%A1p%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Lễ cưới/tang truyền thống phức tạp",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Sườn xám (nữ), áo cổ tàu. Ngày nay chủ yếu mặc âu phục.",
-        "clothingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+        "clothing": "Áo sườn xám (xường xám), áo bà ba kiểu Hoa",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Dimsum",
-            "imageUrl": "https://source.unsplash.com/900x700/?Dimsum%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Mì, hủ tiếu, hoành thánh",
+            "imageUrl": ""
           },
           {
-            "name": "Vịt quay",
-            "imageUrl": "https://source.unsplash.com/900x700/?V%E1%BB%8Bt%20quay%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Bánh bao, xíu mại",
+            "imageUrl": ""
           },
           {
-            "name": "Hủ tiếu",
-            "imageUrl": "https://source.unsplash.com/900x700/?H%E1%BB%A7%20ti%E1%BA%BFu%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Mì xào",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%AC%20x%C3%A0o%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Chè trôi nước",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%C3%A8%20tr%C3%B4i%20n%C6%B0%E1%BB%9Bc%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Các món xào, hấp, tiềm (hầm)",
+            "imageUrl": ""
           }
         ],
-        "housing": "Sống trong các khu phố sầm uất, nhà cửa xây bằng gạch, ngói, đặc trưng kiểu kiến trúc phố cổ.",
-        "housingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+        "housing": "Nhà gạch kết cấu ba gian truyền thống, chú trọng phong thủy",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Giỏi kinh doanh",
-        "Đề cao tính gia tộc, hội đồng hương",
-        "Trọng chữ tín"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
       "music": [
         {
-          "title": "Hòa tấu Đàn Tranh và Đàn Nhị",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Sự kết hợp tinh tế giữa âm thanh réo rắt của Đàn Tranh và âm điệu trầm bổng của Đàn Nhị."
-        },
-        {
-          "title": "Nhạc múa Lân Sư Rồng",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Nhạc cụ gõ sôi động biểu diễn trong các dịp Tết và lễ hội truyền thống người Hoa."
+          "title": "Đóa hoa xuân",
+          "url": "",
+          "description": "Đóa hoa xuân là một tiết mục nghệ thuật đặc sắc, thường được biểu diễn trong không gian văn hóa cộng đồng, đặc biệt là vào dịp Tết Nguyên đán. Sự kết hợp giữa giọng hát khỏe khoắn, truyền cảm cùng vũ đạo uyển chuyển tạo nên một bức tranh xuân sống động, tươi mới."
         }
-      ]
+      ],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "nung",
       "orderNo": 7,
       "name": "Nùng",
       "otherNames": [
-        "Nùng Xuồng",
-        "Nùng Giang",
+        "Xuồng",
+        "Giang",
         "Nùng An",
-        "Nùng Inh"
+        "Phàn Sinh",
+        "Nùng Cháo",
+        "Nùng Lòi",
+        "Quý Rim",
+        "Khèn Lài"
       ],
       "population": 1083298,
       "regions": [
         "Lạng Sơn",
         "Cao Bằng",
-        "Bắc Giang",
+        "Bắc Kạn",
         "Thái Nguyên",
         "Hà Giang",
-        "Đắk Lắk"
+        "Bắc Giang",
+        "Quảng Ninh",
+        "Lào Cai",
+        "Yên Bái"
       ],
-      "language": "Tiếng Nùng (ngữ hệ Tày-Thái)",
+      "language": "Nhóm ngôn ngữ Tày - Thái, ngữ hệ Thái – Kađai",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540329648_1073551131600957_182783554328537053_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=WYHPd5hnGAIQ7kNvwEbCZec&_nc_oc=AdovYBvt90XauEO-kYkojPRO71Si6gnTJqc3oGaS15G8wxjfQU_JI7q1733lAbO1CGo&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=6zrjUf-aZA7Jwc3Dt9QxXA&_nc_ss=7b2a8&oh=00_Af4GLN_wavPC02PDVxp61nB3iF5FsHWF9TW4kaW8Xu0GKQ&oe=6A15F6F3",
       "images": [],
-      "description": "Người Nùng có mối quan hệ gần gũi với người Tày, giỏi nghề mộc, đan lát và rèn nông cụ.",
+      "description": "Dân tộc Nùng là một trong những tộc người năng động, có dân số đông ở Việt Nam, sinh sống phần lớn ở các tỉnh miền núi phía bắc, có mối quan hệ giao thoa văn hóa chặt chẽ với người Tày. Người Nùng sở hữu thế mạnh truyền thống về kinh tế mậu biên, nghề rèn đúc thủ công kiệt xuất tại Phúc Sen (Cao Bằng) và di sản nghệ thuật hát Then, hát Sli vang danh.",
       "history": {
-        "description": "Có nguồn gốc từ các nhóm cư dân sống ở khu vực biên giới Việt - Trung, di cư vào Việt Nam từ lâu đời.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
-          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
-        ]
+        "description": "Phần lớn tổ tiên người Nùng di cư từ vùng Quảng Tây (Trung Quốc) sang Việt Nam cách đây khoảng 200 - 300 năm.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ hội Lồng Tồng",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20L%E1%BB%93ng%20T%E1%BB%93ng%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ hội lùng tùng (xuống đồng)",
+            "imageUrl": ""
           },
           {
-            "name": "Tết Thanh Minh (Tết tảo mộ)",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Thanh%20Minh%20(T%E1%BA%BFt%20t%E1%BA%A3o%20m%E1%BB%99)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ hội cầu mùa",
+            "imageUrl": ""
+          },
+          {
+            "name": "Tết Nguyên đán và tết cuối tháng Giêng",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Hát Sli",
-            "imageUrl": "https://source.unsplash.com/900x700/?H%C3%A1t%20Sli%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Tín ngưỡng đa thần, thờ cúng tổ tiên ba đời",
+            "imageUrl": ""
           },
           {
-            "name": "Thờ cúng tổ tiên, ma xó",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%9D%20c%C3%BAng%20t%E1%BB%95%20ti%C3%AAn%2C%20ma%20x%C3%B3%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Ảnh hưởng của Tam giáo (Phật, Khổng, Đạo)",
+            "imageUrl": ""
+          },
+          {
+            "name": "Hệ thống thầy cúng: Tào, Mo, Pựt, Then",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Trang phục màu chàm, ít thêu thùa hoa văn, thiết kế đơn giản, thiết thực cho lao động.",
-        "clothingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+        "clothing": "Áo cổ đứng xẻ ngực (Nam); Áo năm thân cài cúc nách phải, khăn chít mỏ quạ (Nữ); Vải thô nhuộm chàm ít hoa văn",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Khâu nhục",
-            "imageUrl": "https://source.unsplash.com/900x700/?Kh%C3%A2u%20nh%E1%BB%A5c%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Xôi màu, xôi trám đen, xôi trứng kiến",
+            "imageUrl": ""
           },
           {
-            "name": "Lợn quay mắc mật",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%A3n%20quay%20m%E1%BA%AFc%20m%E1%BA%ADt%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Bánh cao quyển, cao xằng, bánh ngải",
+            "imageUrl": ""
           },
           {
-            "name": "Bánh khảo",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%A1nh%20kh%E1%BA%A3o%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Gà trống thiến, bánh chưng dài",
+            "imageUrl": ""
           },
           {
-            "name": "Xôi màu",
-            "imageUrl": "https://source.unsplash.com/900x700/?X%C3%B4i%20m%C3%A0u%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Lợn quay nhồi lá mắc mật",
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà sàn truyền thống hoặc nhà trình tường (vùng giáp biên). ",
-        "housingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+        "housing": "Nhà sàn 3 tầng lợp ngói máng hoặc nhà trình tường đất",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Thật thà, thẳng thắn",
-        "Chăm chỉ",
-        "Có tinh thần thượng võ"
-      ],
+      "music": [],
       "videos": [
         {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
+          "title": "Nét đẹp trong phong tục cưới hỏi của dân tộc Nùng",
+          "url": "",
+          "description": ""
         }
       ],
-      "music": [
-        {
-          "title": "Hát Sli truyền thống của người Nùng",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Làn điệu dân ca đối đáp không nhạc đệm, thể hiện tâm tình mộc mạc."
-        }
-      ]
+      "characteristics": []
     },
     {
       "id": "hmong",
       "orderNo": 5,
       "name": "H'Mông",
       "otherNames": [
-        "Mông",
-        "Mèo",
-        "Mán trắng"
+        "Hmông Trắng",
+        "Hmông Đen",
+        "Hmông Xanh",
+        "Hmông Hoa"
       ],
       "population": 1393547,
       "regions": [
         "Hà Giang",
-        "Điện Biên",
         "Sơn La",
+        "Điện Biên",
         "Lào Cai",
         "Lai Châu",
         "Yên Bái",
+        "Thanh Hóa",
         "Nghệ An",
-        "Đắk Lắk"
+        "Đắk Lắk",
+        "Đắk Nông",
+        "Cao Bằng",
+        "Bắc Kạn",
+        "Lâm Đồng"
       ],
-      "language": "Tiếng H'Mông (ngữ hệ H'Mông - Dao)",
+      "language": "Hệ ngôn ngữ H'Mông - Dao",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/543060510_1073550114934392_4949719968174761156_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=uW1Y2f-K-eAQ7kNvwHQahBu&_nc_oc=Adrv8saO0x9yEFi5YR95RrSn4zizaWFR6yVf-nXJQFwRFiTJd4J8UC-Yrm_EPlIRTcQ&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=OAWx-r_m10qQIOZJ5DS3Hg&_nc_ss=7b2a8&oh=00_Af5vfv84-v3mKbTItehViuXUdEJIJJ4qqgo0Skux0ofXDQ&oe=6A15F09B",
       "images": [],
-      "description": "Người H'Mông nổi tiếng với trang phục sặc sỡ, ruộng bậc thang kỳ vĩ và kỹ năng thổi khèn điêu luyện.",
+      "description": "Người H'Mông là một dân tộc thiểu số sinh sống chủ yếu ở các vùng núi cao Tây Bắc Việt Nam, gồm các tỉnh như Hà Giang, Lào Cai, Lai Châu, Sơn La, Điện Biên. Người H'Mông có nguồn gốc lâu đời, cư trú tập trung ở các khu vực đồi núi, thường sống thành từng bản, từng dòng họ, với các phong tục tập quán gắn liền với nương rẫy và đời sống cộng đồng.",
       "history": {
-        "description": "Người H'Mông di cư vào miền Bắc Việt Nam khoảng 300 năm trước từ phía Bắc.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
-          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
-        ]
+        "description": "Cách nay khoảng 4-5 nghìn năm, hai tộc người Hmông và Dao cùng bị người Hán đẩy ra khỏi vùng đất Tam Miêu ở Trung Quốc, phải chịu các cuộc binh chiến và thiên di kéo dài hàng nghìn năm. Vào cuối thế kỷ XVII đầu thế kỷ XVIII, họ bắt đầu thiên di vào vùng Đông Nam Á.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
             "name": "Lễ hội Gầu Tào",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20G%E1%BA%A7u%20T%C3%A0o%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": ""
           },
           {
-            "name": "Tết độc lập (2/9)",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20%C4%91%E1%BB%99c%20l%E1%BA%ADp%20(2%2F9)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ hội cầu mùa",
+            "imageUrl": ""
+          },
+          {
+            "name": "Tết H'Mông",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Tục kéo vợ (bắt vợ)",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20k%C3%A9o%20v%E1%BB%A3%20(b%E1%BA%AFt%20v%E1%BB%A3)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Thờ ông Trời",
+            "imageUrl": ""
           },
           {
-            "name": "Hát ống, thổi khèn Mông",
-            "imageUrl": "https://source.unsplash.com/900x700/?H%C3%A1t%20%E1%BB%91ng%2C%20th%E1%BB%95i%20kh%C3%A8n%20M%C3%B4ng%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Quan niệm vạn vật hữu linh",
+            "imageUrl": ""
           },
           {
-            "name": "Chơi quay, ném pao",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%C6%A1i%20quay%2C%20n%C3%A9m%20pao%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Thờ cúng tổ tiên",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Trang phục rực rỡ nhiều màu sắc, váy xếp nếp dệt bằng lanh, nhuộm sáp ong, thêu hoa văn phức tạp.",
-        "clothingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+        "clothing": "Váy thổ cẩm sặc sỡ, áo cộc tay, khăn piêu, trang sức bạc (Nữ); Áo cánh ngắn, quần tối màu (Nam)",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Mèn mén (cơm ngô)",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%A8n%20m%C3%A9n%20(c%C6%A1m%20ng%C3%B4)%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Mèn mén (bột ngô đồ)",
+            "imageUrl": ""
+          },
+          {
+            "name": "Bánh bột ngô, bánh gạo",
+            "imageUrl": ""
+          },
+          {
+            "name": "Rượu ngô, rượu gạo",
+            "imageUrl": ""
           },
           {
             "name": "Thắng cố",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BA%AFng%20c%E1%BB%91%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Thịt hun khói",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20hun%20kh%C3%B3i%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Rượu ngô",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20ng%C3%B4%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà trệt, vách ván hoặc trình tường đất, mái lợp ván gỗ hoặc ngói âm dương.",
-        "housingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        "housing": "Nhà sàn, nhà gỗ lợp tranh, nhà trình tường đất",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Độc lập, mạnh mẽ",
-        "Chịu đựng gian khổ tốt",
-        "Giữ gìn bản sắc văn hóa rất mạnh"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
       "music": [
         {
-          "title": "Độc tấu Khèn Mông gọi bạn",
-          "url": "https://www.youtube.com/embed/Vptc24-J3B8",
-          "description": "Tiếng khèn là linh hồn văn hóa H'Mông, dùng để tỏ tình và giao lưu bè bạn."
-        },
-        {
-          "title": "Độc tấu Sáo Mông truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Âm thanh sáo Mông da diết, vang vọng khắp núi rừng Tây Bắc."
+          "title": "Xuân Về Trên Bản H'Mông",
+          "url": "",
+          "description": "Tiếng sáo gợi nhớ đến khung cảnh thiên nhiên hùng vĩ, cuộc sống sinh hoạt nơi nương rẫy và tinh thần cộng đồng H’Mông được hòa quyện trong giai điệu"
         }
-      ]
+      ],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "dao",
@@ -845,102 +779,99 @@
       "otherNames": [
         "Mán",
         "Động",
-        "Trại",
+        "Xá",
+        "Kềm Miền",
+        "Kìm Mùn",
         "Dìu Miền",
-        "Kim Miền"
+        "Yìu Miền"
       ],
       "population": 891151,
       "regions": [
-        "Hà Giang",
-        "Tuyên Quang",
-        "Lào Cai",
-        "Yên Bái",
-        "Quảng Ninh",
-        "Lai Châu"
+        "Miền núi phía Bắc",
+        "Trung du Bắc Bộ",
+        "Tây Nguyên",
+        "Đông Nam Bộ"
       ],
-      "language": "Tiếng Dao (ngữ hệ H'Mông - Dao)",
+      "language": "Hệ ngôn ngữ H'Mông - Dao",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/541639339_1073550224934381_377953197478521140_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=U03D99sDaJ8Q7kNvwG-FRXW&_nc_oc=AdqRN5JNQjjlKg4cklX6LWwErtf2LQHTs4e3c9gJJihl3vSF5z4lm34o6HsNJf9DOSE&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=sk_g3RXLfKFCxiAPw_UOOA&_nc_ss=7b2a8&oh=00_Af5Fw05J73fY0gmDDd-5SI0BhP-yzTBJvU7Ef-0p-6EI-A&oe=6A15F4F8",
       "images": [],
-      "description": "Người Dao có nhiều nhóm địa phương (Dao Đỏ, Dao Tiền, Dao Quần Chẹt...) với trang phục và phong tục đa dạng. Nổi tiếng với các bài thuốc Nam bí truyền.",
+      "description": "Người Dao là một trong 54 dân tộc thiểu số tại Việt Nam (hơn 890.000 người, sinh chủ yếu ở vùng miền núi phía Bắc). Họ có nguồn gốc di cư từ Trung Quốc và nổi bật với nền văn hóa đa dạng, nhiều nhóm nhánh, hệ thống chữ viết cổ (chữ Nho), cùng các nghi lễ độc đáo như Tết nhảy hay cấp sắc.",
       "history": {
-        "description": "Cũng giống người H'Mông, người Dao di cư vào Việt Nam từ các vùng phía Bắc từ thế kỷ 13 đến thế kỷ 20.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
-        ]
+        "description": "Người Dao có nguồn gốc từ Trung Quốc, việc chuyển cư sang Việt Nam kéo dài suốt từ thế kỷ XII, XIII cho đến nửa đầu thế kỷ XX.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ Cấp sắc (Lễ trưởng thành cho nam giới)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20C%E1%BA%A5p%20s%E1%BA%AFc%20(L%E1%BB%85%20tr%C6%B0%E1%BB%9Fng%20th%C3%A0nh%20cho%20nam%20gi%E1%BB%9Bi)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ Cấp Sắc (Lễ Tủ Cải)",
+            "imageUrl": ""
           },
           {
-            "name": "Tết Nhảy",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Nh%E1%BA%A3y%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ Nhảy Lửa",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ hội Bàn Vương",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ Cầu Mùa (Lễ Chầu Nhẩn)",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ Púng Hiéng",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Sử dụng chữ Nôm Dao",
-            "imageUrl": "https://source.unsplash.com/900x700/?S%E1%BB%AD%20d%E1%BB%A5ng%20ch%E1%BB%AF%20N%C3%B4m%20Dao%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Tín ngưỡng thờ Bàn Hồ (Bàn Vương)",
+            "imageUrl": ""
           },
           {
-            "name": "Tắm lá thuốc",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%AFm%20l%C3%A1%20thu%E1%BB%91c%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
-            "name": "Lễ cúng Bàn Vương (thủy tổ)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20B%C3%A0n%20V%C6%B0%C6%A1ng%20(th%E1%BB%A7y%20t%E1%BB%95)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Phong tục chạm bạc và nhuộm chàm truyền thống",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Rất đa dạng. Dao Đỏ đội khăn đỏ rực rỡ, Dao Tiền đính các đồng bạc trên áo, Dao Quần Chẹt mặc quần ngắn nẹp chéo.",
-        "clothingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+        "clothing": "Áo dài, yếm, xà cạp, khăn đội đầu cầu kỳ thêu 5 màu cơ bản (Nữ)",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Thịt lợn ướp chua",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20l%E1%BB%A3n%20%C6%B0%E1%BB%9Bp%20chua%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Thịt lợn cắp nách",
+            "imageUrl": ""
           },
           {
-            "name": "Cá suối nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A1%20su%E1%BB%91i%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Bánh chưng đen",
+            "imageUrl": ""
           },
           {
-            "name": "Rượu hoẵng",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20ho%E1%BA%B5ng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Xôi ngũ sắc",
+            "imageUrl": ""
+          },
+          {
+            "name": "Thịt lợn muối chua",
+            "imageUrl": ""
+          },
+          {
+            "name": "Canh gà nấu rượu bâu",
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà đất, nhà sàn hoặc nhà nửa sàn nửa đất tùy thuộc vào nhóm và địa hình.",
-        "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        "housing": "Nhà đất (trệt), nhà sàn và nhà nửa sàn nửa đất",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Am hiểu thảo dược",
-        "Kín đáo, trầm tĩnh",
-        "Trọng nghi lễ và tôn giáo"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
-      "music": [
-        {
-          "title": "Hát Páo dung của người Dao",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Làn điệu dân ca sinh hoạt, giao duyên có ý nghĩa to lớn trong đời sống tinh thần người Dao."
-        }
-      ]
+      "music": [],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "giarai",
       "orderNo": 10,
       "name": "Gia Rai",
       "otherNames": [
-        "Jarai",
-        "Giơ-rai",
-        "Chơ-ray"
+        "Jrai",
+        "Giơ Ray",
+        "Chơ Ray"
       ],
       "population": 513930,
       "regions": [
@@ -948,398 +879,333 @@
         "Kon Tum",
         "Đắk Lắk"
       ],
-      "language": "Tiếng Gia Rai (ngữ hệ Nam Đảo)",
+      "language": "Nhóm ngôn ngữ Mã Lai - Đa Đảo",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/540491047_1073550861600984_286595324562604687_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=p2v7zfi2KC8Q7kNvwFFnYdU&_nc_oc=AdoSNF-5Mp2PQCObGr5OYpd8PLarYQtJz7Rzwx16A_PojfcYX0TEmMBsFpakQqNJ-7o&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=rNfO4SjE1JbCcqCgSTHhAg&_nc_ss=7b2a8&oh=00_Af52Ufha2nF7egGmpSov8WND7vWvedvJnddie_9bkCBU5g&oe=6A161A56",
       "images": [],
-      "description": "Là dân tộc bản địa có dân số đông nhất Tây Nguyên, nổi tiếng với nhà rông cao vút và nhà mồ với các bức tượng sinh động.",
+      "description": "Dân tộc Gia Rai (Jrai) là một trong những cư dân bản địa lâu đời nhất tại Tây Nguyên, Việt Nam, với dân số trên 40 vạn người, tập trung chủ yếu ở tỉnh Gia Lai (90%), Kon Tum và Đắk Lắk. Họ thuộc nhóm ngôn ngữ Mã Lai-Đa Đảo, nổi tiếng với nền văn hóa mẫu hệ đặc trưng, phong tục nhà dài, văn hóa cồng chiêng và lễ bỏ mả.",
       "history": {
-        "description": "Gia Rai là một trong những cư dân bản địa lâu đời nhất tại Tây Nguyên.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
-        ]
+        "description": "Dân tộc Gia Rai là một trong những cư dân sớm sinh tụ ở vùng núi Tây Nguyên, lan sang một phần đất Campuchia. Trong xã hội Gia Rai xưa đã có Pơtaoia (Vua Nước) và Pơtaopui (Vua Lửa) chuyên cúng trời, đất, cầu mưa thuận gió hòa.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ Bỏ mả (Pơ-thi)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20B%E1%BB%8F%20m%E1%BA%A3%20(P%C6%A1-thi)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ bỏ mả (Pơ Thi)",
+            "imageUrl": ""
           },
           {
-            "name": "Lễ mừng lúa mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20m%E1%BB%ABng%20l%C3%BAa%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ cúng Giọt nước (Yang Ia)",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ mừng lúa mới (Khoi Yang Pơh Pơi)",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ cầu mưa (Hơ Jan)",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Chế độ mẫu hệ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20m%E1%BA%ABu%20h%E1%BB%87%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Phụ nữ chủ động đi hỏi chồng, chế độ mẫu hệ",
+            "imageUrl": ""
           },
           {
-            "name": "Sử dụng cồng chiêng, đàn T'rưng, K'lông pút",
-            "imageUrl": "https://source.unsplash.com/900x700/?S%E1%BB%AD%20d%E1%BB%A5ng%20c%E1%BB%93ng%20chi%C3%AAng%2C%20%C4%91%C3%A0n%20T'r%C6%B0ng%2C%20K'l%C3%B4ng%20p%C3%BAt%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Chôn chung huyệt cùng họ mẹ",
+            "imageUrl": ""
+          },
+          {
+            "name": "Tín ngưỡng thờ đa thần (Yang): thần rừng, núi, bến nước",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Nam đóng khố, cởi trần hoặc mặc áo chui đầu; nữ mặc váy quấn, áo ngắn chui đầu, chủ đạo là màu chàm có sọc hoa văn đỏ, vàng.",
-        "clothingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+        "clothing": "Áo chui đầu, quấn khố (Nam); Áo chui đầu, váy quấn dài (Nữ); Tông màu đen/đỏ, trang trí thổ cẩm",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Cơm lam",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20lam%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cơm lam & Gà nướng",
+            "imageUrl": ""
           },
           {
-            "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Lá mì (lá sắn) xào",
+            "imageUrl": ""
           },
           {
-            "name": "Thịt nướng xiên",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20n%C6%B0%E1%BB%9Bng%20xi%C3%AAn%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Muối cá/Muối ớt, muối kiến vàng",
+            "imageUrl": ""
           },
           {
-            "name": "Muối kiến vàng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Mu%E1%BB%91i%20ki%E1%BA%BFn%20v%C3%A0ng%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Bò một nắng",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%B2%20m%E1%BB%99t%20n%E1%BA%AFng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Măng rừng (măng chua, măng luộc)",
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà sàn dài bằng gỗ, tre nứa. Mỗi làng có một nhà Rông lớn ở trung tâm.",
-        "housingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        "housing": "Nhà sàn truyền thống và nhà rông",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Trọng nữ quyền",
-        "Tinh thần cộng đồng cao",
-        "Giàu tính nghệ thuật (điêu khắc gỗ)"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
-      "music": [
-        {
-          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
-          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
-          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Gia Rai, Kiệt tác truyền khẩu phi vật thể nhân loại."
-        },
-        {
-          "title": "Độc tấu Đàn T'rưng",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Gia Rai."
-        }
-      ]
+      "music": [],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "ede",
       "orderNo": 11,
       "name": "Ê Đê",
       "otherNames": [
-        "Rhade",
-        "Aná Gar",
-        "Mọi"
+        "Anăk Ea Ðê",
+        "Ra Ðê",
+        "êgar",
+        "Kpạ",
+        "A-đham",
+        "Krung",
+        "Ktul",
+        "Đliê Ruê",
+        "Blô",
+        "Epan",
+        "Mđhur",
+        "Bih"
       ],
       "population": 398671,
       "regions": [
         "Đắk Lắk",
+        "Gia Lai",
         "Phú Yên",
-        "Đắk Nông",
         "Khánh Hòa"
       ],
-      "language": "Tiếng Ê Đê (ngữ hệ Nam Đảo)",
+      "language": "Nhóm ngôn ngữ Malayô-Pôlinêxia, ngữ hệ Nam Đảo",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541109081_1073550961600974_1988735277485627441_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=XFDkaq-nHX0Q7kNvwHvUMPW&_nc_oc=AdqLOMnzwPkPgbEdBgaweCHeKQLZaKB9HVjLw_H-BunGjgiIXAs7CuZQyv_HcJTLjG4&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=OAQXW-MwPZG09-MSzEdS6w&_nc_ss=7b2a8&oh=00_Af5rNKBatMTOzy-QGr-AA8ISkG3Htt3QKkrxdD-lfNNtXw&oe=6A16036B",
       "images": [],
-      "description": "Người Ê Đê nổi bật với kiến trúc nhà dài hình con thuyền, sử thi Đam San và chế độ mẫu hệ sâu sắc.",
+      "description": "Một trong những tộc người bản địa có lịch sử lâu đời và hùng mạnh nhất vùng đất đỏ Tây Nguyên. Người Ê Đê đến nay vẫn lưu giữ vẹn nguyên cấu trúc xã hội mẫu hệ truyền thống đậm nét, không gian kiến trúc nhà sàn dài hình thuyền độc đáo và kho tàng sử thi hát kể (Khan) vô giá.",
       "history": {
-        "description": "Người Ê Đê thuộc nhóm ngôn ngữ Malayo-Polynesia, đã định cư ở Tây Nguyên từ thời tiền sử.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900",
-          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
-        ]
+        "description": "Người Ê-đê là cư dân có mặt lâu đời ở miền trung-Tây Nguyên. Dấu vết về nguồn gốc hải đảo của dân tộc Ê-đê đã được phản ánh từ các sử thi và nghệ thuật kiến trúc, tạo hình dân gian. Cho đến nay, cộng đồng Ê-đê vẫn tồn tại những truyền thống đậm nét mẫu hệ ở nước ta.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ cúng bến nước",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20b%E1%BA%BFn%20n%C6%B0%E1%BB%9Bc%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ ăn mừng cơm mới (hmạ ngắt)",
+            "imageUrl": ""
           },
           {
-            "name": "Lễ mừng lúa mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20m%E1%BB%ABng%20l%C3%BAa%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ mừng vụ mùa bội thu (mnăm thun)",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ bỏ mả",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ cầu phúc và mừng sức khỏe",
+            "imageUrl": ""
           },
           {
             "name": "Lễ cầu mưa",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%E1%BA%A7u%20m%C6%B0a%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Chế độ mẫu hệ: con mang họ mẹ, con gái út thừa kế tài sản",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20m%E1%BA%ABu%20h%E1%BB%87%3A%20con%20mang%20h%E1%BB%8D%20m%E1%BA%B9%2C%20con%20g%C3%A1i%20%C3%BAt%20th%E1%BB%ABa%20k%E1%BA%BF%20t%C3%A0i%20s%E1%BA%A3n%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Gia đình mẫu hệ, phụ nữ đi hỏi chồng, cư trú nhà vợ",
+            "imageUrl": ""
           },
           {
-            "name": "Kể Khan (sử thi)",
-            "imageUrl": "https://source.unsplash.com/900x700/?K%E1%BB%83%20Khan%20(s%E1%BB%AD%20thi)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Đơn vị cư trú là làng (buôn), đứng đầu là Chủ bến nước",
+            "imageUrl": ""
+          },
+          {
+            "name": "Tục nối dòng (chuê nuê)",
+            "imageUrl": ""
+          },
+          {
+            "name": "Tục ăn trầu cau, cà răng - căng tai, nhuộm răng đen",
+            "imageUrl": ""
+          },
+          {
+            "name": "Thờ Đấng sáng tạo Aê Ðiê, Aê Ðu, thần đất, thần lúa",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Màu đen hoặc chàm làm nền, điểm xuyết hoa văn đỏ, trắng, vàng. Nữ mặc váy quấn dài, áo chui đầu xẻ tà.",
-        "clothingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+        "clothing": "Váy tấm dài đến gót, áo ngắn chui đầu (Nữ); Đóng khố, áo cánh ngắn chui đầu (Nam); Trang sức chuỗi hạt, vòng đồng",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Canh bồi",
-            "imageUrl": "https://source.unsplash.com/900x700/?Canh%20b%E1%BB%93i%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cơm gạo tẻ",
+            "imageUrl": ""
           },
           {
-            "name": "Cà đắng",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A0%20%C4%91%E1%BA%AFng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Muối ớt, măng, rau củ, cá, thịt săn bắn",
+            "imageUrl": ""
           },
           {
-            "name": "Thịt gác bếp",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20g%C3%A1c%20b%E1%BA%BFp%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Rượu cần ủ trong vò sành",
+            "imageUrl": ""
           },
           {
-            "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Xôi (dùng cúng thần)",
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà dài truyền thống bằng gỗ, tre, lợp cỏ tranh, cầu thang đẽo hình bầu vú mẹ.",
-        "housingImage": "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
+        "housing": "Nhà sàn dài kiến trúc mô phỏng hình thuyền, không kết cấu vì kèo",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Phóng khoáng, cởi mở",
-        "Trọng mẫu hệ",
-        "Đam mê âm nhạc cồng chiêng"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
       "music": [
         {
-          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
-          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
-          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Ê Đê, Kiệt tác truyền khẩu phi vật thể nhân loại."
-        },
-        {
-          "title": "Độc tấu Đàn T'rưng",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Ê Đê."
+          "title": "Tiếng cồng chiêng Ê Đê",
+          "url": "",
+          "description": "Cồng chiêng Tây Nguyên không chỉ có sức hấp dẫn đặc biệt ở sự đa dạng độc đáo bởi kỹ thuật diễn tấu mà còn là biểu tượng cho đời sống các tộc người; là nhân tố gắn kết giữa quá khứ, hiện tại và tương lai của cộng đồng."
         }
-      ]
+      ],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "bana",
       "orderNo": 12,
       "name": "Ba Na",
       "otherNames": [
-        "Bahnar",
         "Bơ Nâm",
         "Roh",
-        "Kon Kđe"
+        "Kon Kđe",
+        "Ala Kông",
+        "Kpang Kông"
       ],
       "population": 286910,
       "regions": [
-        "Kon Tum",
         "Gia Lai",
+        "Kon Tum",
         "Bình Định",
-        "Phú Yên"
+        "Phú Yên",
+        "Khánh Hòa",
+        "Quảng Ngãi"
       ],
-      "language": "Tiếng Ba Na (ngữ hệ Nam Á)",
+      "language": "Tiếng Ba Na (Nhóm Môn-Khmer, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/541780819_1073550844934319_3080239885151947354_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=p50JTcQLtxgQ7kNvwFkuf9e&_nc_oc=Adq3WH8lH-giOCrMqtSTin5Djz3hB1q9VwlS4Ry6-Dmok0eaEpnmQYMjLj8SrUZdkA0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=eK6pvfOZxj96xy_QGohdGA&_nc_ss=7b2a8&oh=00_Af596PmRBIWo8z2pPpC5D2vpqv1NG--Q4KgRwOF3DX7znw&oe=6A15E995",
       "images": [],
-      "description": "Người Ba Na là cư dân bản địa lâu đời ở Tây Nguyên, nổi tiếng với sử thi (H'mon) và kiến trúc nhà Rông.",
+      "description": "Người Ba Na sinh sống chủ yếu ở tây bắc tỉnh Gia Lai, Kon Tum, Quảng Ngãi và các vùng Tây Nguyên. Đây là một dân tộc lâu đời với đời sống gắn bó với núi rừng, duy trì nhiều phong tục tập quán, tín ngưỡng cổ truyền. Người Ba Na sống theo làng (buôn), có quan hệ cộng đồng chặt chẽ và nhiều thế hệ cùng sinh sống. Văn hóa Ba Na nổi bật với nhà rông, cồng chiêng, trang phục thổ cẩm, lễ hội và âm nhạc dân gian, phản ánh đời sống tinh thần phong phú và truyền thống cộng đồng.",
       "history": {
-        "description": "Người Ba Na cư trú tại vùng bắc Tây Nguyên và tây duyên hải miền Trung từ rất lâu đời.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900",
-          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900"
-        ]
+        "description": "Tổ tiên người Ba na chủ yếu sinh sống tại vùng dưới núi Mang Yang, dọc theo hai bờ sông Ba trở về phía đông tới những huyện đồng bằng giáp ranh miền núi và các huyện miền núi của tỉnh Bình Định. Về sau, do tác động của quá trình di dân qua các thời kỳ, người Ba na chuyển cư dần sang phía tây tới lưu vực các sông Ayun, Đắk Bla và đến tận Kon Tum như hiện nay.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ đâm trâu",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20%C4%91%C3%A2m%20tr%C3%A2u%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
             "name": "Lễ mừng lúa mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20m%E1%BB%ABng%20l%C3%BAa%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": ""
           },
           {
-            "name": "Lễ bỏ mả",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20b%E1%BB%8F%20m%E1%BA%A3%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ đâm trâu",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Chế độ song hệ (kết hợp phụ hệ và mẫu hệ)",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20song%20h%E1%BB%87%20(k%E1%BA%BFt%20h%E1%BB%A3p%20ph%E1%BB%A5%20h%E1%BB%87%20v%C3%A0%20m%E1%BA%ABu%20h%E1%BB%87)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Sinh hoạt theo buôn làng, gắn kết cộng đồng",
+            "imageUrl": ""
           },
           {
-            "name": "Sinh hoạt cộng đồng tại nhà Rông",
-            "imageUrl": "https://source.unsplash.com/900x700/?Sinh%20ho%E1%BA%A1t%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20t%E1%BA%A1i%20nh%C3%A0%20R%C3%B4ng%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Thờ thần núi, thần lúa, thần sông và tổ tiên",
+            "imageUrl": ""
           },
           {
-            "name": "Kể H'mon",
-            "imageUrl": "https://source.unsplash.com/900x700/?K%E1%BB%83%20H'mon%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Tục cưới hỏi, ở rể và các nghi lễ mùa vụ",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Màu đen, xanh đen và đỏ. Nam mặc áo chui đầu xẻ ngực, đóng khố chữ T. Nữ mặc áo ngắn, váy quấn.",
-        "clothingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+        "clothing": "Áo váy thổ cẩm nhiều màu sắc (Nữ); Trang phục tối màu, đơn giản (Nam)",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cơm lam, gà nướng chấm muối lá é",
+            "imageUrl": ""
           },
           {
-            "name": "Thịt nướng ống tre",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20n%C6%B0%E1%BB%9Bng%20%E1%BB%91ng%20tre%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Cá suối nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A1%20su%E1%BB%91i%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Lá mì xào",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%C3%A1%20m%C3%AC%20x%C3%A0o%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cá Niêng nướng",
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà sàn bằng gỗ, tre, lợp tranh. Nhà Rông Ba Na rất to và cao vút, là biểu tượng sức mạnh của làng.",
-        "housingImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
+        "housing": "Nhà rông (sinh hoạt cộng đồng) và nhà sàn",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Thượng võ, dũng cảm",
-        "Yêu tự do",
-        "Giỏi đan lát và tạc tượng"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
-      "music": [
-        {
-          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
-          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
-          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Ba Na, Kiệt tác truyền khẩu phi vật thể nhân loại."
-        },
-        {
-          "title": "Độc tấu Đàn T'rưng",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Ba Na."
-        }
-      ]
+      "music": [],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "xodang",
       "orderNo": 13,
       "name": "Xơ Đăng",
       "otherNames": [
-        "Sedang",
-        "Xê Đăng",
+        "Xơ Đeng",
+        "Ca Dong",
+        "Tơ-dra",
         "Hđang",
-        "Mơ-nâm"
+        "Mơ-nâm",
+        "Ha Lăng",
+        "Ka Râng"
       ],
       "population": 212277,
       "regions": [
         "Kon Tum",
         "Quảng Nam",
-        "Quảng Ngãi"
+        "Quảng Ngãi",
+        "Đắk Lắk",
+        "Gia Lai"
       ],
-      "language": "Tiếng Xơ Đăng (ngữ hệ Nam Á)",
+      "language": "Tiếng Xơ-Đăng (Nhóm Môn-Khmer, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/536270130_1073550251601045_3643254525470973074_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6TysHoik1ugQ7kNvwHO0jDC&_nc_oc=Adp_a6pAmwytMQKbQ4YNFWeAGRLeXYVVd4FgZLO8LtOk0OpaZmknP7SHNZg3DuJkss8&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=-JHusk1kAK9v-53abTApyQ&_nc_ss=7b2a8&oh=00_Af445QfG2gNmRQ2HYC6tWO5dzJIYN2ThE4m0-BN6jV8QgQ&oe=6A160962",
       "images": [],
-      "description": "Cư trú chủ yếu ở Bắc Tây Nguyên, giỏi canh tác lúa nước trên ruộng bậc thang và rèn nông cụ.",
+      "description": "Người Xơ Đăng sinh sống chủ yếu ở các tỉnh Tây Nguyên như Kon Tum, Gia Lai. Họ là dân tộc thiểu số lâu đời với đời sống gắn bó với núi rừng và nương rẫy. Người Xơ Đăng sống theo buôn làng, nơi các gia đình và dòng họ sinh hoạt tập trung, duy trì phong tục truyền thống, tín ngưỡng cổ xưa và văn hóa cộng đồng độc đáo. Văn hóa Xơ Đăng nổi bật với nhà rông, cồng chiêng, trang phục thổ cẩm, lễ hội và âm nhạc dân gian.",
       "history": {
-        "description": "Có quan hệ nguồn gốc với các cư dân Nam Á cổ, sinh sống lâu đời ở vùng núi Ngọc Linh.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1512553353614-82a7370096dc?w=900",
-          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900"
-        ]
+        "description": "Người Xơ-đăng đã có một quá trình lịch sử rất lâu đời sinh sống tại vùng Bắc Tây Nguyên. Khoảng những năm 1855-1885, khi người Pháp ra sức củng cố chính quyền ở Đông Dương và khi giữa các bộ lạc miền núi xảy ra tình trạng hỗn loạn, thì người Xơ-Đăng mở rộng lãnh thổ sinh sống của mình sang những bộ lạc láng giềng.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ hội máng nước",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20m%C3%A1ng%20n%C6%B0%E1%BB%9Bc%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
-            "name": "Lễ đâm trâu",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20%C4%91%C3%A2m%20tr%C3%A2u%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
             "name": "Lễ mừng lúa mới",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20m%E1%BB%ABng%20l%C3%BAa%20m%E1%BB%9Bi%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ hội cúng máng nước",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Nam nữ bình đẳng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Nam%20n%E1%BB%AF%20b%C3%ACnh%20%C4%91%E1%BA%B3ng%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Sinh hoạt theo buôn làng, kết nối dòng họ",
+            "imageUrl": ""
           },
           {
-            "name": "Trồng sâm Ngọc Linh",
-            "imageUrl": "https://source.unsplash.com/900x700/?Tr%E1%BB%93ng%20s%C3%A2m%20Ng%E1%BB%8Dc%20Linh%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Thờ thần rừng, thần núi, thần sông và tổ tiên",
+            "imageUrl": ""
           },
           {
-            "name": "Hát múa dân gian phong phú",
-            "imageUrl": "https://source.unsplash.com/900x700/?H%C3%A1t%20m%C3%BAa%20d%C3%A2n%20gian%20phong%20ph%C3%BA%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Tục cưới hỏi, nghi lễ mùa vụ",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Nam đóng khố, nữ mặc váy quấn và áo chui đầu không tay, trang phục nhiều hoa văn.",
-        "clothingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+        "clothing": "Áo váy thổ cẩm tối màu, đội khăn trùm đầu (Nữ); Áo cánh ngắn, quần tối màu (Nam)",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cơm lam Xơ Đăng",
+            "imageUrl": ""
           },
           {
-            "name": "Cơm lam",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20lam%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Thịt nướng, cá nướng",
+            "imageUrl": ""
           },
           {
-            "name": "Chuột rừng nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Chu%E1%BB%99t%20r%E1%BB%ABng%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Thịt trâu gác bếp",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20tr%C3%A2u%20g%C3%A1c%20b%E1%BA%BFp%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Rau rừng, xôi",
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà sàn dài nhiều bếp, các làng thường có nhà rông với hình dáng giống cánh buồm.",
-        "housingImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
+        "housing": "Nhà rông nhỏ (nơi sinh hoạt chung) và nhà sàn",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Đoàn kết cộng đồng",
-        "Có tinh thần tự lập cao",
-        "Giỏi săn bắn, rèn sắt"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
-      "music": [
-        {
-          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
-          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
-          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Xơ Đăng, Kiệt tác truyền khẩu phi vật thể nhân loại."
-        },
-        {
-          "title": "Độc tấu Đàn T'rưng",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Xơ Đăng."
-        }
-      ]
+      "music": [],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "sanchay",
@@ -1348,98 +1214,69 @@
       "otherNames": [
         "Cao Lan",
         "Sán Chỉ",
-        "Mán Cao Lan"
+        "Mán Cao Lan",
+        "Hờn Bán",
+        "Chùng",
+        "Trại"
       ],
       "population": 201398,
       "regions": [
         "Tuyên Quang",
         "Thái Nguyên",
         "Bắc Giang",
-        "Quảng Ninh"
+        "Quảng Ninh",
+        "Cao Bằng",
+        "Lạng Sơn",
+        "Phú Thọ",
+        "Vĩnh Phúc"
       ],
-      "language": "Tiếng Sán Chay (nhóm ngôn ngữ Tày-Thái đối với Cao Lan, Hán đối với Sán Chỉ)",
+      "language": "Tiếng Cao Lan (nhóm Tày-Thái) và Tiếng Sán Chỉ (nhóm Hán)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540517962_1073550981600972_7958988566784448877_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=kTQ48Xsg2m4Q7kNvwE4pGER&_nc_oc=AdqhC2Kg_kwNiSkncsdtITm95pJ-lyUJA0Np8_pLirLnwmJ9Wv1i4e1kSFQ3ygISkRg&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=vR1HXPK_9d-eg52WddvQuA&_nc_ss=7b2a8&oh=00_Af6WVH-cLYfik5pcfO4MUEGmCSFQ7VcRd4L5XVzvpZLfOQ&oe=6A15ED7C",
       "images": [],
-      "description": "Người Sán Chay gồm hai nhóm Cao Lan và Sán Chỉ, giỏi làm ruộng nước và có kho tàng dân ca phong phú.",
+      "description": "Người Sán Chay là một trong 54 dân tộc anh em tại Việt Nam, với dân số hơn 200.000 người. Cư trú chủ yếu ở các tỉnh trung du và miền núi phía Bắc, họ nổi bật với nền văn hóa đa dạng, đặc sắc, kết hợp giữa truyền thống canh tác nương rẫy và các giá trị nghệ thuật dân gian độc đáo.",
       "history": {
-        "description": "Di cư từ Nam Trung Quốc vào Việt Nam từ khoảng thế kỷ 17.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1528181304800-259b08848526?w=900",
-          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
-        ]
+        "description": "Người Sán Chay từ Trung Quốc đến Việt Nam vào quãng cuối đời Minh, đầu đời Thanh, cách ngày nay 300-500 năm.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Tết Nguyên Đán",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Nguy%C3%AAn%20%C4%90%C3%A1n%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
-            "name": "Lễ cầu mùa",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%E1%BA%A7u%20m%C3%B9a%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
-            "name": "Lễ Cấp sắc",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20C%E1%BA%A5p%20s%E1%BA%AFc%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ hội Cầu mùa (Lồng Tồng / Xuống đồng)",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Hát Sình ca (giao duyên)",
-            "imageUrl": "https://source.unsplash.com/900x700/?H%C3%A1t%20S%C3%ACnh%20ca%20(giao%20duy%C3%AAn)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Tín ngưỡng đa thần",
+            "imageUrl": ""
           },
           {
-            "name": "Múa xúc tép, múa chim gáy",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%BAa%20x%C3%BAc%20t%C3%A9p%2C%20m%C3%BAa%20chim%20g%C3%A1y%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
-            "name": "Sử dụng chữ Hán nôm",
-            "imageUrl": "https://source.unsplash.com/900x700/?S%E1%BB%AD%20d%E1%BB%A5ng%20ch%E1%BB%AF%20H%C3%A1n%20n%C3%B4m%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Nghệ thuật Múa Tắc Xình",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Nhóm Cao Lan mặc áo dài chàm xẻ tà, nhóm Sán Chỉ nữ thường chít khăn quấn đầu đỏ.",
-        "clothingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800",
+        "clothing": "Màu chàm chủ đạo. Nữ: Áo dài thêu hoa văn sao 8 cánh, váy chàm, thắt lưng rực rỡ; Nam: Áo kiểu bà ba màu chàm, quần dài ống rộng",
+        "clothingImage": "",
         "cuisine": [
           {
+            "name": "Bánh vắt vai",
+            "imageUrl": ""
+          },
+          {
             "name": "Xôi ngũ sắc",
-            "imageUrl": "https://source.unsplash.com/900x700/?X%C3%B4i%20ng%C5%A9%20s%E1%BA%AFc%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": ""
           },
           {
-            "name": "Bánh chưng sừng trâu",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%A1nh%20ch%C6%B0ng%20s%E1%BB%ABng%20tr%C3%A2u%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Thịt chua",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20chua%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Bánh gio",
+            "imageUrl": ""
           }
         ],
-        "housing": "Chủ yếu ở nhà sàn, một số nơi ở nhà đất.",
-        "housingImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
+        "housing": "Nhà sàn mô phỏng hình dáng con trâu (nhà trâu đực, nhà trâu cái), mái ngói âm dương",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Hiền lành, chất phác",
-        "Thích ca hát",
-        "Tôn trọng người già"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
-      "music": [
-        {
-          "title": "Dân ca cổ truyền dân tộc Sán Chay",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Sán Chay."
-        },
-        {
-          "title": "Nhạc cụ truyền thống người Sán Chay",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Sán Chay."
-        }
-      ]
+      "music": [],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "coho",
@@ -1447,92 +1284,91 @@
       "name": "Cơ Ho",
       "otherNames": [
         "K'ho",
-        "Srê",
-        "Nộp",
-        "Chil"
+        "Xrê",
+        "Nốp",
+        "Tu-lốp",
+        "Cơ-don",
+        "Chil",
+        "Lat",
+        "Lach",
+        "Trinh"
       ],
-      "population": 214616,
+      "population": 200800,
       "regions": [
         "Lâm Đồng",
         "Bình Thuận",
+        "Khánh Hòa",
         "Ninh Thuận",
+        "Đắk Lắk",
         "Đồng Nai"
       ],
-      "language": "Tiếng Cơ Ho (ngữ hệ Nam Á)",
+      "language": "Nhóm ngôn ngữ Môn-Khmer (ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540682507_1073551061600964_8791821676399137466_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=LMUMalU2-DQQ7kNvwExdUxK&_nc_oc=Adot8_fMUpvAsnCGtGMwcxWGXhTSK7hHlJAIDoS_42ravO62ysjDplAL6jZBCyeRg_8&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=ZFOng4Uk0wD1wzPkC7A4sw&_nc_ss=7b2a8&oh=00_Af4NN8A48dgJ2tXbvR_9LupViX-QvlF7EGsb6i-P8jTxbQ&oe=6A15FF42",
       "images": [],
-      "description": "Cơ Ho là dân tộc bản địa đông nhất ở Lâm Đồng, có văn hóa cồng chiêng đặc sắc gắn liền với các buôn làng Tây Nguyên.",
+      "description": "Cư dân bản địa có lịch sử sinh sống lâu đời bậc nhất tại vùng Nam Tây Nguyên (Lâm Đồng), gắn liền với dòng chảy của nền văn hóa cổ Sa Huỳnh và Đông Sơn. Người Cơ-ho nổi tiếng với nghề làm gốm thủ công phát đạt, thiết chế liên minh làng tự nguyện và y phục thổ cẩm đen - trắng đặc trưng.",
       "history": {
-        "description": "Là cư dân thuộc nhóm ngôn ngữ Môn - Khmer đã định cư lâu đời trên cao nguyên Lang Biang.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900",
-          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900"
-        ]
+        "description": "Thuộc chủng Inđônêdiên, là đồng chủ nhân của văn hóa Sa Huỳnh và bộ phận phía nam văn hóa Đông Sơn. Tồn tại cách ngày nay trên dưới 2.500 năm, là cư dân bản địa lâu đời ở Tây Nguyên.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ cúng Thần Nông (Nhô Lir Bông)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20Th%E1%BA%A7n%20N%C3%B4ng%20(Nh%C3%B4%20Lir%20B%C3%B4ng)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Tết ăn mừng lúa vào kho (li rơ bong)",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ đâm trâu",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ mừng lúa mới",
+            "imageUrl": ""
+          },
+          {
+            "name": "Lễ thức cúng viếng thần linh",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Chế độ mẫu hệ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20m%E1%BA%ABu%20h%E1%BB%87%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Quần cư thành làng (bon/bòn), có tổ chức liên minh M’đrông",
+            "imageUrl": ""
           },
           {
-            "name": "Tôn giáo đa thần (Yàng)",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%C3%B4n%20gi%C3%A1o%20%C4%91a%20th%E1%BA%A7n%20(Y%C3%A0ng)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Gia đình chế độ mẫu hệ",
+            "imageUrl": ""
           },
           {
-            "name": "Chơi đàn T'rưng, kèn bầu",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%C6%A1i%20%C4%91%C3%A0n%20T'r%C6%B0ng%2C%20k%C3%A8n%20b%E1%BA%A7u%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Tục ăn trầu, hút thuốc, căng dái tai, nhuộm răng đen",
+            "imageUrl": ""
+          },
+          {
+            "name": "Tín ngưỡng đa thần (Yang/Chà)",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Váy, áo (nữ) và khố (nam) bằng vải thổ cẩm nền đen dệt hoa văn trắng, đỏ.",
-        "clothingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+        "clothing": "Đàn ông đóng khố; Phụ nữ mặc váy ngắn quấn quanh người giắt cạp; Trời lạnh quấn thêm chăn (ùi)",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Thịt nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cơm gạo nếp, gạo tẻ",
+            "imageUrl": ""
           },
           {
-            "name": "Cà đắng nấu lươn",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A0%20%C4%91%E1%BA%AFng%20n%E1%BA%A5u%20l%C6%B0%C6%A1n%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Món ăn tổng hợp từ con vật hiến tế",
+            "imageUrl": ""
           },
           {
-            "name": "Rượu cần (tơ-nơm)",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20(t%C6%A1-n%C6%A1m)%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Rượu cần",
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà sàn dài bằng gỗ, mái lợp tranh, hai mái uốn cong như mui thuyền.",
-        "housingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
+        "housing": "Nhà sàn dài (hìu jòng) hoặc nhà đất",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Giản dị, chân thành",
-        "Hòa hợp với thiên nhiên",
-        "Tôn trọng chế độ mẫu hệ"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
-      "music": [
-        {
-          "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
-          "url": "https://www.youtube.com/embed/C21_jX7cKoc",
-          "description": "Không gian văn hóa Cồng chiêng Tây Nguyên của đồng bào Cơ Ho, Kiệt tác truyền khẩu phi vật thể nhân loại."
-        },
-        {
-          "title": "Độc tấu Đàn T'rưng",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Âm thanh trong trẻo, thánh thót từ tre nứa mô phỏng tiếng nước chảy róc rách của dân tộc Cơ Ho."
-        }
-      ]
+      "music": [],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "cham",
@@ -1540,8 +1376,10 @@
       "name": "Chăm",
       "otherNames": [
         "Chàm",
+        "Chiêm",
         "Chiêm Thành",
-        "Hroi"
+        "Chăm Pa",
+        "Hời"
       ],
       "population": 178948,
       "regions": [
@@ -1552,73 +1390,50 @@
         "Tây Ninh",
         "Phú Yên"
       ],
-      "language": "Tiếng Chăm (ngữ hệ Nam Đảo)",
+      "language": "Tiếng Chăm (nhóm ngôn ngữ Malayô-Polynéxia, ngữ hệ Nam Đảo)",
       "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540993578_1073550898267647_8207193951597354113_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=him9eSMvp4oQ7kNvwEtgW1P&_nc_oc=AdqXs6lc5DfUhC9Qxtq5bQvQwaRXzEonPc7ydQCCaq8cmWKlehIN0x7KRVplY7ricPA&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=FisoNll3BU54JtfQPdg9lA&_nc_ss=7b2a8&oh=00_Af6DRaEpzJOdfDHpkHQBqgd--HeIFJtVcrys4xBGWRcM3w&oe=6A15F743",
       "images": [],
-      "description": "Người Chăm là hậu duệ của vương quốc Chăm Pa cổ, sở hữu nền văn hóa đa dạng, rực rỡ với các tháp Chăm cổ kính và nghệ thuật làm gốm Bàu Trúc.",
+      "description": "Dân tộc Chăm là cộng đồng có nền văn hóa lâu đời, độc đáo, nổi bật với chế độ mẫu hệ và sự kết hợp hài hòa giữa tín ngưỡng Bà-la-môn và Hồi giáo. Họ sinh sống chủ yếu tại Ninh Thuận, Bình Thuận và Nam Bộ, nổi tiếng với nghề dệt thổ cẩm, gốm Bàu Trúc, các lễ hội Kate/Ramawan đặc sắc và ẩm thực đậm vị.",
       "history": {
-        "description": "Từng có quốc gia Chăm Pa phát triển rực rỡ ở miền Trung Việt Nam từ thế kỷ thứ 2 đến thế kỷ 17.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=900",
-          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900"
-        ]
+        "description": "Dân tộc Chăm vốn sinh tụ ở duyên hải miền trung Việt Nam từ rất lâu đời, đã từng kiến tạo nên một nền văn hóa rực rỡ với ảnh hưởng sâu sắc của văn hóa Ấn Ðộ. Ngay từ những thế kỷ thứ XVII, người Chăm đã từng xây dựng nên vương quốc Chăm-pa.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ hội Katê (Chăm Bà-la-môn)",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20h%E1%BB%99i%20Kat%C3%AA%20(Ch%C4%83m%20B%C3%A0-la-m%C3%B4n)%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
-            "name": "Tết Ramawan (Chăm Islam)",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Ramawan%20(Ch%C4%83m%20Islam)%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ hội Katê (đạo Bà-la-môn)",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
             "name": "Chế độ mẫu hệ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20m%E1%BA%ABu%20h%E1%BB%87%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
-            "name": "Múa Apsara, múa quạt",
-            "imageUrl": "https://source.unsplash.com/900x700/?M%C3%BAa%20Apsara%2C%20m%C3%BAa%20qu%E1%BA%A1t%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
-            "name": "Tín ngưỡng Bà-la-môn giáo và Hồi giáo",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%C3%ADn%20ng%C6%B0%E1%BB%A1ng%20B%C3%A0-la-m%C3%B4n%20gi%C3%A1o%20v%C3%A0%20H%E1%BB%93i%20gi%C3%A1o%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "imageUrl": ""
           }
         ],
-        "clothing": "Nữ mặc áo dài quá gối chui đầu, váy quấn (Aw Kamei), nam mặc áo sơ mi, quấn sà rông.",
-        "clothingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=800",
+        "clothing": "Váy dài, áo dài, quấn khăn xà rông (Nữ)",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Canh bồi",
-            "imageUrl": "https://source.unsplash.com/900x700/?Canh%20b%E1%BB%93i%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cơm nị",
+            "imageUrl": ""
           },
           {
-            "name": "Cà ri Chăm",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C3%A0%20ri%20Ch%C4%83m%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Cà púa (cà ri dê/bò)",
+            "imageUrl": ""
           },
           {
-            "name": "Bánh tét",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%A1nh%20t%C3%A9t%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Tum lò mò (lạp xưởng bò)",
+            "imageUrl": ""
+          },
+          {
+            "name": "Canh thịt trâu nấu bạc hà",
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà trệt xây gạch, mái ngói, quần tụ thành từng paley (làng).",
-        "housingImage": "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
+        "housing": "Nhà bằng gỗ, tre hoặc gạch, phân chia không gian rõ rệt nam/nữ",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Tinh hoa nghệ thuật điêu khắc, kiến trúc",
-        "Giỏi dệt vải, làm gốm",
-        "Trọng mẫu hệ"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
       "music": [
         {
           "title": "Nhạc lễ hội Katê Chăm",
@@ -1630,7 +1445,9 @@
           "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
           "description": "Sự hòa quyện nhịp nhàng giữa trống vỗ Paranưng và tiếng kèn Saranai réo rắt."
         }
-      ]
+      ],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "sandiu",
@@ -1639,7 +1456,10 @@
       "otherNames": [
         "Sán Déo",
         "Trại",
-        "Trại Đất"
+        "Trại Đất",
+        "Mán quần cộc",
+        "San Déo Nhín",
+        "Sơn Dao Nhân"
       ],
       "population": 183004,
       "regions": [
@@ -1647,177 +1467,131 @@
         "Vĩnh Phúc",
         "Bắc Giang",
         "Quảng Ninh",
-        "Tuyên Quang"
+        "Tuyên Quang",
+        "Hải Dương"
       ],
-      "language": "Tiếng Sán Dìu (nhóm ngôn ngữ Hán)",
+      "language": "Tiếng Sán Dìu (nhóm ngôn ngữ Hán-Tạng)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540706583_1073550954934308_7816985635335182291_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=96BQBwO_xTQQ7kNvwEk8j0u&_nc_oc=AdpvdD7pAxTdWPvIhOmlQlw8bG_AEV-9EVNxCJiveofd8ErECNo0IDxhaYZ3yoHc7jo&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=yDWZ4q-BrX7C5s2xW9JkKg&_nc_ss=7b2a8&oh=00_Af6hCCCrzWAJQQF72C8H4Y4p1HZ1QUuWCXRp-J5hWIOodg&oe=6A16088B",
       "images": [],
-      "description": "Người Sán Dìu cư trú chủ yếu ở trung du miền núi phía Bắc, có kinh nghiệm trồng trọt, chăn nuôi lâu đời.",
+      "description": "Dân tộc Sán Dìu là một trong 53 dân tộc thiểu số tại Việt Nam, có dân số khoảng hơn 183.000 người. Họ cư trú chủ yếu ở các tỉnh trung du và miền núi phía Bắc như Quảng Ninh, Thái Nguyên, Bắc Giang, Vĩnh Phúc và Tuyên Quang. Đây là cộng đồng di cư từ Trung Quốc sang Việt Nam từ khoảng 300 năm trước, mang đậm bản sắc văn hóa nông nghiệp và ngôn ngữ Hán - Tạng.",
       "history": {
-        "description": "Di cư sang Việt Nam từ khu vực Quảng Đông (Trung Quốc) khoảng 400 năm trước.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
-          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900"
-        ]
+        "description": "Về nguồn gốc dân tộc, căn cứ vào tên tự nhận là Sơn Dao, có thể gợi mở nhiều suy nghĩ về nguồn gốc dân tộc Sán Dìu. Căn cứ vào một số nghiên cứu, người Sán Dìu có thể có nguồn gốc là người Dao, phiêu bạt các nơi để mưu sinh và phát triển.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Tết Thanh Minh",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20Thanh%20Minh%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
-            "name": "Tết Đông Chí",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BA%BFt%20%C4%90%C3%B4ng%20Ch%C3%AD%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
-            "name": "Lễ cúng Đại phan",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%C3%BAng%20%C4%90%E1%BA%A1i%20phan%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ hội Đại Phan (lễ cầu mùa/cầu an)",
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Hát Soọng cô (giao duyên)",
-            "imageUrl": "https://source.unsplash.com/900x700/?H%C3%A1t%20So%E1%BB%8Dng%20c%C3%B4%20(giao%20duy%C3%AAn)%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Hát giao duyên (Soọng cô) để tỏ tình, kết bạn",
+            "imageUrl": ""
           },
           {
-            "name": "Tục rước dâu ban đêm",
-            "imageUrl": "https://source.unsplash.com/900x700/?T%E1%BB%A5c%20r%C6%B0%E1%BB%9Bc%20d%C3%A2u%20ban%20%C4%91%C3%AAm%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
-            "name": "Ăn trầu",
-            "imageUrl": "https://source.unsplash.com/900x700/?%C4%82n%20tr%E1%BA%A7u%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Lễ cưới mang đậm tính lễ nghĩa, tục lệ bắt vợ",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Trang phục nữ thường là áo xẻ ngực dài qua mông, nhuộm chàm, bên trong mặc yếm, đội khăn đen.",
-        "clothingImage": "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=800",
+        "clothing": "Váy xẻ màu chàm, thắt lưng dải lụa màu, trang sức bạc (Nữ); Trang phục tương tự người Kinh (Nam)",
+        "clothingImage": "",
         "cuisine": [
           {
-            "name": "Bánh chưng gù",
-            "imageUrl": "https://source.unsplash.com/900x700/?B%C3%A1nh%20ch%C6%B0ng%20g%C3%B9%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Xôi đen",
+            "imageUrl": ""
           },
           {
-            "name": "Thịt lợn khau nhục",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20l%E1%BB%A3n%20khau%20nh%E1%BB%A5c%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Thịt thính",
+            "imageUrl": ""
           },
           {
-            "name": "Cháo măng chua",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%C3%A1o%20m%C4%83ng%20chua%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "name": "Lươn nấu thân chuối",
+            "imageUrl": ""
           }
         ],
-        "housing": "Sống trong nhà đất, mái lợp rạ hoặc ngói, tường trình đất hoặc xếp gạch mộc.",
-        "housingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
+        "housing": "Nhà trệt (nhà đất) lợp ngói âm dương hoặc lá cọ ở sườn/chân đồi",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Cần cù, tiết kiệm",
-        "Giỏi nghề mộc, rèn",
-        "Coi trọng gia phả"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
-      "music": [
-        {
-          "title": "Dân ca cổ truyền dân tộc Sán Dìu",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Sán Dìu."
-        },
-        {
-          "title": "Nhạc cụ truyền thống người Sán Dìu",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Sán Dìu."
-        }
-      ]
+      "music": [],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "hre",
       "orderNo": 18,
       "name": "Hrê",
       "otherNames": [
-        "Mọi đá vách",
         "Chăm Rê",
-        "Mọi Luỹ"
+        "Chom",
+        "Thượng Ba Tơ",
+        "Mọi Luỹ",
+        "Mọi Sơn Phòng",
+        "Mọi Đá Vách",
+        "Chăm Quảng Ngãi",
+        "Mọi Chòm",
+        "Rê",
+        "Màn Thạch Bích"
       ],
       "population": 149460,
       "regions": [
         "Quảng Ngãi",
-        "Bình Định"
+        "Bình Định",
+        "Kon Tum"
       ],
-      "language": "Tiếng Hrê (ngữ hệ Nam Á)",
+      "language": "Tiếng Hrê (nhóm ngôn ngữ Môn-Khmer, ngữ hệ Nam Á)",
       "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540791414_1073551094934294_2827142796751510530_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=7h5ijbBZCYkQ7kNvwEcB7Sx&_nc_oc=AdpvysLcwYXfZK-r7Uh5YickNJJr1nNQg182VN0iz9TVp2YC73ayPlI1D2LXYgPpsr4&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=VuiK_XNlI6XvkTfIcqDFag&_nc_ss=7b2a8&oh=00_Af7ogHGgf1OhInlHmokIHf7caPI0NMF4vvcl1-ZcKOdEog&oe=6A160AD2",
       "images": [],
-      "description": "Người Hrê sinh sống dọc sườn Đông Trường Sơn, giỏi làm ruộng nước và dệt thổ cẩm.",
+      "description": "Dân tộc Hrê (hay H'rê) là một trong những cư dân bản địa lâu đời tại vùng Trường Sơn - Tây Nguyên, tập trung chủ yếu tại tỉnh Quảng Ngãi. Đây là dân tộc có nền văn hóa lâu đời, độc đáo và bản tính chân thật.",
       "history": {
-        "description": "Là cư dân sinh sống lâu đời ở khu vực miền núi phía tây các tỉnh duyên hải Nam Trung Bộ.",
-        "imageUrls": [
-          "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
-          "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=900"
-        ]
+        "description": "Người Hrê sinh tụ rất lâu đời ở vùng Trường Sơn - Tây Nguyên. Một số học giả cho rằng, nguồn gốc tộc người Hrê có thể liên quan đến nạn hồng thủy và quá trình di cư.",
+        "imageUrls": []
       },
       "culture": {
         "festivals": [
           {
-            "name": "Lễ đâm trâu",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20%C4%91%C3%A2m%20tr%C3%A2u%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "name": "Lễ đâm trâu (lễ mừng lúa mới)",
+            "imageUrl": ""
           },
           {
             "name": "Lễ cầu mưa",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20c%E1%BA%A7u%20m%C6%B0a%20le%20hoi%20van%20hoa%20Viet%20Nam"
-          },
-          {
-            "name": "Lễ ăn trâu",
-            "imageUrl": "https://source.unsplash.com/900x700/?L%E1%BB%85%20%C4%83n%20tr%C3%A2u%20le%20hoi%20van%20hoa%20Viet%20Nam"
+            "imageUrl": ""
           }
         ],
         "customs": [
           {
-            "name": "Thờ cúng đa thần",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%9D%20c%C3%BAng%20%C4%91a%20th%E1%BA%A7n%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Thờ nhiều thần linh, các lễ cúng liên quan đến sản xuất nông nghiệp",
+            "imageUrl": ""
           },
           {
-            "name": "Hát ca choi, thổi kèn đá",
-            "imageUrl": "https://source.unsplash.com/900x700/?H%C3%A1t%20ca%20choi%2C%20th%E1%BB%95i%20k%C3%A8n%20%C4%91%C3%A1%20phong%20tuc%20tap%20quan%20Viet%20Nam"
-          },
-          {
-            "name": "Chế độ phụ hệ",
-            "imageUrl": "https://source.unsplash.com/900x700/?Ch%E1%BA%BF%20%C4%91%E1%BB%99%20ph%E1%BB%A5%20h%E1%BB%87%20phong%20tuc%20tap%20quan%20Viet%20Nam"
+            "name": "Lễ vật cúng bái (thịt lợn, gà, cơm, rượu) bày trên lá chuối",
+            "imageUrl": ""
           }
         ],
-        "clothing": "Trang phục màu đen có sọc đỏ. Nam đóng khố, nữ mặc váy và áo chui đầu.",
-        "clothingImage": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800",
+        "clothing": "Áo chui đầu, váy quấn, đội khăn, trang sức đồng/bạc (Nữ); Áo, đóng khố (Nam)",
+        "clothingImage": "",
         "cuisine": [
           {
+            "name": "Cơm lam",
+            "imageUrl": ""
+          },
+          {
+            "name": "Cá niên nướng",
+            "imageUrl": ""
+          },
+          {
+            "name": "Thịt trâu khô",
+            "imageUrl": ""
+          },
+          {
             "name": "Rượu cần",
-            "imageUrl": "https://source.unsplash.com/900x700/?R%C6%B0%E1%BB%A3u%20c%E1%BA%A7n%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Thịt trâu nướng",
-            "imageUrl": "https://source.unsplash.com/900x700/?Th%E1%BB%8Bt%20tr%C3%A2u%20n%C6%B0%E1%BB%9Bng%20am%20thuc%20mon%20an%20Viet%20Nam"
-          },
-          {
-            "name": "Cơm gạo lốc (gạo rẫy)",
-            "imageUrl": "https://source.unsplash.com/900x700/?C%C6%A1m%20g%E1%BA%A1o%20l%E1%BB%91c%20(g%E1%BA%A1o%20r%E1%BA%ABy)%20am%20thuc%20mon%20an%20Viet%20Nam"
+            "imageUrl": ""
           }
         ],
-        "housing": "Nhà sàn, hai mái uốn cong, không có nhà rông.",
-        "housingImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=900"
+        "housing": "Nhà sàn (xưa) và nhà trệt (nay)",
+        "housingImage": ""
       },
-      "characteristics": [
-        "Mạnh mẽ, gan dạ",
-        "Giỏi canh tác thủy lợi",
-        "Yêu âm nhạc cồng chiêng"
-      ],
-      "videos": [
-        {
-          "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
-          "description": "Khám phá văn hóa truyền thống độc đáo"
-        }
-      ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Hrê",
@@ -1829,7 +1603,9 @@
           "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Hrê."
         }
-      ]
+      ],
+      "videos": [],
+      "characteristics": []
     },
     {
       "id": "mnong",
