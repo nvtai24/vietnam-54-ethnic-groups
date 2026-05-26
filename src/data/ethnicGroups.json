@@ -2231,12 +2231,14 @@
       ],
       "language": "Tiếng Thổ (ngữ hệ Nam Á, cùng nhóm Việt-Mường)",
       "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/541660682_1073549841601086_372441228483807640_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=plG6FWf53hIQ7kNvwET42Of&_nc_oc=AdrzqdW2a0BwSVs9gmVyyrZb9KqjwDMmZcnALYVPtAowzEx30hh47Q9CvFacaeFPmYQ&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=bN8lkl6-5gpx0QWlO-d8kQ&_nc_ss=7b2a8&oh=00_Af6Spit_d2W3ITiXbjAuLcOXdNopY8rsVZH5ZQVlYlTEEg&oe=6A15FDBF",
-      "images": ["https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf849cd557cb6f3fd6b5b0c2b71dee43fd3c7b2cf6d2ee3310e976d289b9591f751d50786887d610ec51982fee64e037465/tho-4496.jpg.webp", 
-      "https://bvhttdl.gov.vn/uploads/2025/12/16/610869/1376670931794003.jpg",
-      "https://vnn.1cdn.vn/2021/09/30/uploads-2021-th-c3-a1ng-209-ng-c3-a0y_30-anh-34530387_728793510624524_208201421596655616_n.jpg", 
-      "https://media.nghean24h.vn/thumb_x480x250/2018/4/19/27/87-1524109316.jpg",
-      "https://cdnmedia.baotintuc.vn/Upload/c2tvplmdloSDblsn03qN2Q/files/2024/10/17/van-hoa-cong-chieng-nghe-an-17102024a.jpg",
-      "https://farm4.staticflickr.com/3800/13551764224_af0e5d340c.jpg?w=900?w=1000"],
+      "images": [
+        "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf849cd557cb6f3fd6b5b0c2b71dee43fd3c7b2cf6d2ee3310e976d289b9591f751d50786887d610ec51982fee64e037465/tho-4496.jpg.webp",
+        "https://bvhttdl.gov.vn/uploads/2025/12/16/610869/1376670931794003.jpg",
+        "https://vnn.1cdn.vn/2021/09/30/uploads-2021-th-c3-a1ng-209-ng-c3-a0y_30-anh-34530387_728793510624524_208201421596655616_n.jpg",
+        "https://media.nghean24h.vn/thumb_x480x250/2018/4/19/27/87-1524109316.jpg",
+        "https://cdnmedia.baotintuc.vn/Upload/c2tvplmdloSDblsn03qN2Q/files/2024/10/17/van-hoa-cong-chieng-nghe-an-17102024a.jpg",
+        "https://farm4.staticflickr.com/3800/13551764224_af0e5d340c.jpg?w=900?w=1000"
+      ],
       "description": "Người Thổ cư trú ở vùng giao thoa giữa người Việt và người Mường, có nét văn hóa pha trộn đặc sắc.",
       "history": {
         "description": "Có nguồn gốc hình thành từ sự giao lưu, hòa huyết giữa các nhóm Việt cổ và Mường.",
@@ -3826,12 +3828,12 @@
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc La Hủ",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/5JKf64L60po",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người La Hủ."
         },
         {
           "title": "Nhạc cụ truyền thống người La Hủ",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/5JKf64L60po",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc La Hủ."
         }
       ]
@@ -3916,19 +3918,19 @@
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/RqIWiJzlVac",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc La Ha",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/RqIWiJzlVac",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người La Ha."
         },
         {
           "title": "Nhạc cụ truyền thống người La Ha",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/RqIWiJzlVac",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc La Ha."
         }
       ]
@@ -4016,19 +4018,19 @@
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Pà Thẻn",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/BV006WzhIXM",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Pà Thẻn."
         },
         {
           "title": "Nhạc cụ truyền thống người Pà Thẻn",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/BV006WzhIXM",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Pà Thẻn."
         }
       ],
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/BV006WzhIXM",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ]
@@ -4116,19 +4118,19 @@
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/UoQglTWds8w",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Lự",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/aFVTYhTpzJE",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Lự."
         },
         {
           "title": "Nhạc cụ truyền thống người Lự",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/aFVTYhTpzJE",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Lự."
         }
       ]
@@ -4220,19 +4222,19 @@
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Ngái",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/vbF5bOCvPJg",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Ngái."
         },
         {
           "title": "Nhạc cụ truyền thống người Ngái",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/vbF5bOCvPJg",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Ngái."
         }
       ],
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/HR_ULlk-1g8",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ]
@@ -4319,19 +4321,19 @@
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/CHXLUcOZWY0",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Chứt",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/CHXLUcOZWY0",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Chứt."
         },
         {
           "title": "Nhạc cụ truyền thống người Chứt",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/CHXLUcOZWY0",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Chứt."
         }
       ]
@@ -4423,19 +4425,19 @@
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/ZBCPN2nygo4",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Lô Lô",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/WOiWXMBCj3M",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Lô Lô."
         },
         {
           "title": "Nhạc cụ truyền thống người Lô Lô",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/WOiWXMBCj3M",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Lô Lô."
         }
       ]
@@ -4522,19 +4524,19 @@
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Mảng",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/uWxSOBodj0c",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Mảng."
         },
         {
           "title": "Nhạc cụ truyền thống người Mảng",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/uWxSOBodj0c",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Mảng."
         }
       ],
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/MpcqeP8yxkY",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ]
@@ -4616,19 +4618,19 @@
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/9ZhF4QM0VAE",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Cống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/sUpd-OEUHLQ",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Cống."
         },
         {
           "title": "Nhạc cụ truyền thống người Cống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/sUpd-OEUHLQ",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Cống."
         }
       ]
@@ -4723,19 +4725,19 @@
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Bố Y",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/Qu4ua4wDOww",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Bố Y."
         },
         {
           "title": "Nhạc cụ truyền thống người Bố Y",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/Qu4ua4wDOww",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Bố Y."
         }
       ],
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/VlG29NFCJ2c",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ]
@@ -4826,19 +4828,19 @@
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/X5dTRI5mXfM",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Cờ Lao",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/6O5Tr3ToLnM",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Cờ Lao."
         },
         {
           "title": "Nhạc cụ truyền thống người Cờ Lao",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/6O5Tr3ToLnM",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Cờ Lao."
         }
       ]
@@ -4919,19 +4921,19 @@
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/nE-0EgtMHr8",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Pu Péo",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/LyswIgQ96hY",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Pu Péo."
         },
         {
           "title": "Nhạc cụ truyền thống người Pu Péo",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/LyswIgQ96hY",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Pu Péo."
         }
       ]
@@ -5016,19 +5018,19 @@
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Si La",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/lUKhZO67Ccw",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Si La."
         },
         {
           "title": "Nhạc cụ truyền thống người Si La",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/lUKhZO67Ccw",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Si La."
         }
       ],
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/nW9s2cQoNmM",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ]
@@ -5116,19 +5118,19 @@
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Ơ Đu",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/G7UIcc-S65w",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Ơ Đu."
         },
         {
           "title": "Nhạc cụ truyền thống người Ơ Đu",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/G7UIcc-S65w",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Ơ Đu."
         }
       ],
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/MB6wHqhy1uo",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ]
@@ -5219,19 +5221,19 @@
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/OpNRBYGK74E",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Rơ Măm",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/OvQ96BR8yIw",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Rơ Măm."
         },
         {
           "title": "Nhạc cụ truyền thống người Rơ Măm",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/OvQ96BR8yIw",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Rơ Măm."
         }
       ]
@@ -5315,19 +5317,19 @@
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/B-dP4frxx94",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Brâu",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/OvQ96BR8yIw",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Brâu."
         },
         {
           "title": "Nhạc cụ truyền thống người Brâu",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/OvQ96BR8yIw",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Brâu."
         }
       ]
@@ -5526,19 +5528,19 @@
       "videos": [
         {
           "title": "Văn hóa truyền thống",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/dNezPV8eYoc",
           "description": "Khám phá văn hóa truyền thống độc đáo"
         }
       ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Phù Lá",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/tcsGWfQsaWs",
           "description": "Các làn điệu cổ truyền, dân ca trữ tình lưu truyền qua nhiều thế hệ của người Phù Lá."
         },
         {
           "title": "Nhạc cụ truyền thống người Phù Lá",
-          "url": "https://www.youtube.com/embed/qzbYhXLY6GI",
+          "url": "https://www.youtube.com/embed/tcsGWfQsaWs",
           "description": "Tìm hiểu các nhạc cụ độc đáo chế tác từ chất liệu tự nhiên của dân tộc Phù Lá."
         }
       ]
