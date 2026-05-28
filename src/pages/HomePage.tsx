@@ -147,12 +147,6 @@ const HomePage = () => {
                     Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng
                     dân tộc.
                   </p>
-                  <a
-                    href="#groups"
-                    className="mt-6 inline-flex h-11 items-center border-2 border-[#b0160b] bg-[#b0160b] px-5 text-xs font-black uppercase tracking-[0.14em] text-[#f8f4ec] transition hover:bg-transparent hover:text-[#b0160b]"
-                  >
-                    Bắt đầu
-                  </a>
                 </div>
               </div>
             </div>
