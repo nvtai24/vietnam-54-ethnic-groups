@@ -4,13 +4,15 @@
       "id": "kinh",
       "orderNo": 1,
       "name": "Kinh",
-      "otherNames": ["Việt"],
+      "otherNames": [
+        "Việt"
+      ],
       "population": 82085826,
       "regions": [
         "Khắp lãnh thổ Việt Nam, tập trung đông nhất tại các vùng đồng bằng, ven biển (duyên hải) và các trung tâm đô thị lớn"
       ],
       "language": "Tiếng Việt (Nhóm ngôn ngữ Việt - Mường, ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/540417361_1073549098267827_7697229140014734706_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeH3MNrYnlbJGw2vQGJLs2ZP21iPbZj8GNHbWI9tmPwY0ab9Gah8BKlHQv_ZceDtaJC2hqaeevfxFrlOyyItknvv&_nc_ohc=ItNFclJl6LsQ7kNvwFKxgGS&_nc_oc=Adq0Qwqena7b4PHQXV2nk9-oD2Jl5eIUF--VEXKjT3Wj7TniEZZcSFQYnyomlglI9mc&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=tcs5yN8PmNIaDAep7qm07w&_nc_ss=7a2a8&oh=00_Af4qBaXsSV4_hVcyOILAKN7YBuN0zUyaLxpddBA0FWtclg&oe=6A15CBCC",
+      "thumbnail": "/dantoc/1.jpg",
       "images": [
         "https://routine-db.s3.amazonaws.com/prod/media/ao-dai-viet-nam-jpg-mfx4.webp"
       ],
@@ -101,13 +103,24 @@
           "description": ""
         }
       ],
-      "characteristics": ["Cần cù", "nhân hậu", "yêu nước", "Đoàn kết"]
+      "characteristics": [
+        "Cần cù",
+        "nhân hậu",
+        "yêu nước",
+        "Đoàn kết"
+      ]
     },
     {
       "id": "tay",
       "orderNo": 2,
       "name": "Tày",
-      "otherNames": ["Thổ", "Ngạn", "Phén", "Thu Lao", "Pa Dí"],
+      "otherNames": [
+        "Thổ",
+        "Ngạn",
+        "Phén",
+        "Thu Lao",
+        "Pa Dí"
+      ],
       "population": 1845492,
       "regions": [
         "Cao Bằng",
@@ -119,7 +132,7 @@
         "Tuyên Quang"
       ],
       "language": "Tiếng Tày (Hệ ngôn ngữ Tai-Kadai)",
-      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/536270962_1073551101600960_5559361163122572502_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=M787kJTxqKkQ7kNvwFAdrvF&_nc_oc=AdrUKO2H5K4A9hb1MXJzwnlPVEPndo6p5p-eJmepSJXGhFaJP2-rCDINeo95jxhx4Aw&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=iN1BhHLnNnSvzFo_pRkYSQ&_nc_ss=7b2a8&oh=00_Af4n1im-P_tj-2Vw9NGUpP6frX1Q7rM88KfG9XstCCsXBQ&oe=6A15F436",
+      "thumbnail": "/dantoc/2.jpg",
       "images": [
         "https://routine-db.s3.amazonaws.com/prod/media/trang-phuc-dan-toc-tay-nu-don-gian-diu-dang-jpg-klji.webp"
       ],
@@ -201,7 +214,12 @@
           "description": "Hát Lượn Cọi Giao Duyên – Dân ca dân tộc Tày"
         }
       ],
-      "characteristics": ["Vải chàm", "Khăn mỏ quạ", "Vòng bạc", "Hát Then"]
+      "characteristics": [
+        "Vải chàm",
+        "Khăn mỏ quạ",
+        "Vòng bạc",
+        "Hát Then"
+      ]
     },
     {
       "id": "thai",
@@ -232,7 +250,7 @@
         "Tây Nguyên"
       ],
       "language": "Tiếng Thái (Nhóm ngôn ngữ Tày - Thái, ngữ hệ Thái – Kađai)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540613496_1073551044934299_6887533771478842802_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=u2oG1AKMbu4Q7kNvwGq02Ur&_nc_oc=AdqoNDO0q4zTPFy0tr6LjF962UjbfA-uC8od5snpyMSIWJfMPy8WqfEZk6O5o_7gDO0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=B8kLwuW1TgflsFqZxRArJA&_nc_ss=7b2a8&oh=00_Af6pqoIWSJHPR1WouglxRlPY_DMBFK0hrtO5MxyCIo3J3Q&oe=6A15EE0D",
+      "thumbnail": "/dantoc/3.jpg",
       "images": [
         "https://hoilhpn.org.vn/documents/20182/5288968/11_May_2023_092346_GMTmuongsang_SL.png/874bd9e8-f1ea-49e8-b5eb-45932a1e5ec9"
       ],
@@ -320,7 +338,12 @@
       "id": "muong",
       "orderNo": 4,
       "name": "Mường",
-      "otherNames": ["Mol", "Mual", "Mul", "Mon"],
+      "otherNames": [
+        "Mol",
+        "Mual",
+        "Mul",
+        "Mon"
+      ],
       "population": 1452095,
       "regions": [
         "Hòa Bình",
@@ -331,7 +354,7 @@
         "Yên Bái"
       ],
       "language": "Tiếng Mường (Nhóm ngôn ngữ Việt-Mường, ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/542756321_1073550531601017_5670771808055452094_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=_kW0hry5SgwQ7kNvwEiVC61&_nc_oc=AdreDlSeUi88owyS6_th_pwz6AOti1bBJGW7vmFfFoEj5vAYrvferEmd4iSj9-WOZZ4&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=TEcWR3Lb7FbM_1hnxeBX9w&_nc_ss=7b2a8&oh=00_Af7cy2roXMbHOM7B9MWJB1hIz1UvSpO2OMT_03KaS3GsvA&oe=6A15FE49",
+      "thumbnail": "/dantoc/4.jpg",
       "images": [
         "https://cdn3891.cdn4s7.io.vn/media/caravan-tay-bac-mua-lua-chin_1/muong2.jpg"
       ],
@@ -432,7 +455,7 @@
         "Kiên Giang"
       ],
       "language": "Tiếng Khmer (Nhóm Môn-Khmer, ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540990630_1073550914934312_7646554292734668563_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=m6A9_IW5PfEQ7kNvwHhZf7y&_nc_oc=AdrJKIlsuEzvJvImfMGismElXCxJO1HmRdDT9Vo-tw-ZSx87FBVMMU_JthnGgwm78ig&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=Y1zc2pEwPNmsr_elksPpxw&_nc_ss=7b2a8&oh=00_Af45cDErtjLLSLKlbodKD5FSGN1xQw38UANoaauuCU7ZEQ&oe=6A15FDE4",
+      "thumbnail": "/dantoc/6.jpg",
       "images": [
         "https://file3.qdnd.vn/data/images/0/2023/05/07/thuthuytv/1%203.jpg?dpi=150&quality=100&w=870"
       ],
@@ -512,7 +535,13 @@
       "id": "hoa",
       "orderNo": 9,
       "name": "Hoa",
-      "otherNames": ["Hán", "Tàu", "Khách", "Minh Hương", "Người Thanh"],
+      "otherNames": [
+        "Hán",
+        "Tàu",
+        "Khách",
+        "Minh Hương",
+        "Người Thanh"
+      ],
       "population": 749466,
       "regions": [
         "TP. Hồ Chí Minh",
@@ -523,7 +552,7 @@
         "Bình Dương"
       ],
       "language": "Các phương ngữ Trung Quốc (Quảng Đông, Triều Châu, Phúc Kiến, Hẹ, Hải Nam)",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541990081_1073550948267642_8635293302090286179_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=tUn3zjGR5wAQ7kNvwGXTKZL&_nc_oc=AdrxHIpQQLRAm4Ammx4CYjCjHRQrf1RWgRYqnzlLH5nlXg4mrmTrDy3aM0SS3vCgXls&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=V67I_ou18dpgPj5QdkMFlQ&_nc_ss=7b2a8&oh=00_Af6B3brCU7J61EtaEMw7bz-z3BhUb9GPtK2fUAFV5vIuzg&oe=6A15F75D",
+      "thumbnail": "/dantoc/9.jpg",
       "images": [
         "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf84dae6de83dc1ee6eca05cb74e29b84bafd4f8633718156bc0ec3420423a18f3a098b716d6de611c2832864fcc9d3bc677b0854adb711e1fa486d03a34e4f90ef/e36112608773402d1962.jpg.webp"
       ],
@@ -636,7 +665,7 @@
         "Yên Bái"
       ],
       "language": "Nhóm ngôn ngữ Tày - Thái, ngữ hệ Thái – Kađai",
-      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540329648_1073551131600957_182783554328537053_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=WYHPd5hnGAIQ7kNvwEbCZec&_nc_oc=AdovYBvt90XauEO-kYkojPRO71Si6gnTJqc3oGaS15G8wxjfQU_JI7q1733lAbO1CGo&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=6zrjUf-aZA7Jwc3Dt9QxXA&_nc_ss=7b2a8&oh=00_Af4GLN_wavPC02PDVxp61nB3iF5FsHWF9TW4kaW8Xu0GKQ&oe=6A15F6F3",
+      "thumbnail": "/dantoc/7.jpg",
       "images": [
         "https://redsvn.net/wp-content/uploads/2017/12/Nguoi-Nung.jpg"
       ],
@@ -725,7 +754,12 @@
       "id": "hmong",
       "orderNo": 5,
       "name": "H'Mông",
-      "otherNames": ["Hmông Trắng", "Hmông Đen", "Hmông Xanh", "Hmông Hoa"],
+      "otherNames": [
+        "Hmông Trắng",
+        "Hmông Đen",
+        "Hmông Xanh",
+        "Hmông Hoa"
+      ],
       "population": 1393547,
       "regions": [
         "Hà Giang",
@@ -743,7 +777,7 @@
         "Lâm Đồng"
       ],
       "language": "Hệ ngôn ngữ H'Mông - Dao",
-      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/543060510_1073550114934392_4949719968174761156_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=uW1Y2f-K-eAQ7kNvwHQahBu&_nc_oc=Adrv8saO0x9yEFi5YR95RrSn4zizaWFR6yVf-nXJQFwRFiTJd4J8UC-Yrm_EPlIRTcQ&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=OAWx-r_m10qQIOZJ5DS3Hg&_nc_ss=7b2a8&oh=00_Af5vfv84-v3mKbTItehViuXUdEJIJJ4qqgo0Skux0ofXDQ&oe=6A15F09B",
+      "thumbnail": "/dantoc/5.jpg",
       "images": [
         "https://danviet.ex-cdn.com/files/f1/296231569849192448/2023/2/9/redsvn-mick-palarczik-05-1675942974749-1675942975739318737665.jpg"
       ],
@@ -846,7 +880,7 @@
         "Đông Nam Bộ"
       ],
       "language": "Hệ ngôn ngữ H'Mông - Dao",
-      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/541639339_1073550224934381_377953197478521140_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=U03D99sDaJ8Q7kNvwG-FRXW&_nc_oc=AdqRN5JNQjjlKg4cklX6LWwErtf2LQHTs4e3c9gJJihl3vSF5z4lm34o6HsNJf9DOSE&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=sk_g3RXLfKFCxiAPw_UOOA&_nc_ss=7b2a8&oh=00_Af5Fw05J73fY0gmDDd-5SI0BhP-yzTBJvU7Ef-0p-6EI-A&oe=6A15F4F8",
+      "thumbnail": "/dantoc/8.jpg",
       "images": [
         "https://cdn.baolaocai.vn/images/463974ce6d97d8cb8df387bbe715721ba55fab73fc22a03d0e5e6d06fcff08fdad548e768d09685db79e7f753f2e8676a265e2c2b29ed8b17f6a024713d5b909ec0d39a0fc80e771bd58592a08b6bcab1183adc067c3cedb15526e3e974386e0/1-trang-phuc-dao.jpg.webp"
       ],
@@ -943,11 +977,19 @@
       "id": "giarai",
       "orderNo": 10,
       "name": "Gia Rai",
-      "otherNames": ["Jrai", "Giơ Ray", "Chơ Ray"],
+      "otherNames": [
+        "Jrai",
+        "Giơ Ray",
+        "Chơ Ray"
+      ],
       "population": 513930,
-      "regions": ["Gia Lai", "Kon Tum", "Đắk Lắk"],
+      "regions": [
+        "Gia Lai",
+        "Kon Tum",
+        "Đắk Lắk"
+      ],
       "language": "Nhóm ngôn ngữ Mã Lai - Đa Đảo",
-      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/540491047_1073550861600984_286595324562604687_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=p2v7zfi2KC8Q7kNvwFFnYdU&_nc_oc=AdoSNF-5Mp2PQCObGr5OYpd8PLarYQtJz7Rzwx16A_PojfcYX0TEmMBsFpakQqNJ-7o&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=rNfO4SjE1JbCcqCgSTHhAg&_nc_ss=7b2a8&oh=00_Af52Ufha2nF7egGmpSov8WND7vWvedvJnddie_9bkCBU5g&oe=6A161A56",
+      "thumbnail": "/dantoc/10.jpg",
       "images": [
         "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/4/12/base64-17444447342431532046756.jpeg"
       ],
@@ -1025,7 +1067,12 @@
           "description": ""
         }
       ],
-      "characteristics": ["Áo chui đầu", "Váy tấm", "Khố", "Hoa văn sọc dọc"]
+      "characteristics": [
+        "Áo chui đầu",
+        "Váy tấm",
+        "Khố",
+        "Hoa văn sọc dọc"
+      ]
     },
     {
       "id": "ede",
@@ -1046,9 +1093,14 @@
         "Bih"
       ],
       "population": 398671,
-      "regions": ["Đắk Lắk", "Gia Lai", "Phú Yên", "Khánh Hòa"],
+      "regions": [
+        "Đắk Lắk",
+        "Gia Lai",
+        "Phú Yên",
+        "Khánh Hòa"
+      ],
       "language": "Nhóm ngôn ngữ Malayô-Pôlinêxia, ngữ hệ Nam Đảo",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541109081_1073550961600974_1988735277485627441_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=XFDkaq-nHX0Q7kNvwHvUMPW&_nc_oc=AdqLOMnzwPkPgbEdBgaweCHeKQLZaKB9HVjLw_H-BunGjgiIXAs7CuZQyv_HcJTLjG4&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=OAQXW-MwPZG09-MSzEdS6w&_nc_ss=7b2a8&oh=00_Af5rNKBatMTOzy-QGr-AA8ISkG3Htt3QKkrxdD-lfNNtXw&oe=6A16036B",
+      "thumbnail": "/dantoc/11.jpg",
       "images": [
         "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/042023/14/11/1-copy20230414113645.jpg?rt=20230414113705"
       ],
@@ -1141,7 +1193,13 @@
       "id": "bana",
       "orderNo": 12,
       "name": "Ba Na",
-      "otherNames": ["Bơ Nâm", "Roh", "Kon Kđe", "Ala Kông", "Kpang Kông"],
+      "otherNames": [
+        "Bơ Nâm",
+        "Roh",
+        "Kon Kđe",
+        "Ala Kông",
+        "Kpang Kông"
+      ],
       "population": 286910,
       "regions": [
         "Gia Lai",
@@ -1152,8 +1210,10 @@
         "Quảng Ngãi"
       ],
       "language": "Tiếng Ba Na (Nhóm Môn-Khmer, ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/541780819_1073550844934319_3080239885151947354_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=p50JTcQLtxgQ7kNvwFkuf9e&_nc_oc=Adq3WH8lH-giOCrMqtSTin5Djz3hB1q9VwlS4Ry6-Dmok0eaEpnmQYMjLj8SrUZdkA0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=eK6pvfOZxj96xy_QGohdGA&_nc_ss=7b2a8&oh=00_Af596PmRBIWo8z2pPpC5D2vpqv1NG--Q4KgRwOF3DX7znw&oe=6A15E995",
-      "images": ["https://imagevietnam.vnanet.vn/Upload/2015/3/3/TT6.jpg"],
+      "thumbnail": "/dantoc/12.jpg",
+      "images": [
+        "https://imagevietnam.vnanet.vn/Upload/2015/3/3/TT6.jpg"
+      ],
       "description": "Người Ba Na sinh sống chủ yếu ở tây bắc tỉnh Gia Lai, Kon Tum, Quảng Ngãi và các vùng Tây Nguyên. Đây là một dân tộc lâu đời với đời sống gắn bó với núi rừng, duy trì nhiều phong tục tập quán, tín ngưỡng cổ truyền. Người Ba Na sống theo làng (buôn), có quan hệ cộng đồng chặt chẽ và nhiều thế hệ cùng sinh sống. Văn hóa Ba Na nổi bật với nhà rông, cồng chiêng, trang phục thổ cẩm, lễ hội và âm nhạc dân gian, phản ánh đời sống tinh thần phong phú và truyền thống cộng đồng.",
       "history": {
         "description": "Tổ tiên người Ba na chủ yếu sinh sống tại vùng dưới núi Mang Yang, dọc theo hai bờ sông Ba trở về phía đông tới những huyện đồng bằng giáp ranh miền núi và các huyện miền núi của tỉnh Bình Định. Về sau, do tác động của quá trình di dân qua các thời kỳ, người Ba na chuyển cư dần sang phía tây tới lưu vực các sông Ayun, Đắk Bla và đến tận Kon Tum như hiện nay.",
@@ -1232,9 +1292,15 @@
         "Ka Râng"
       ],
       "population": 212277,
-      "regions": ["Kon Tum", "Quảng Nam", "Quảng Ngãi", "Đắk Lắk", "Gia Lai"],
+      "regions": [
+        "Kon Tum",
+        "Quảng Nam",
+        "Quảng Ngãi",
+        "Đắk Lắk",
+        "Gia Lai"
+      ],
       "language": "Tiếng Xơ-Đăng (Nhóm Môn-Khmer, ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/536270130_1073550251601045_3643254525470973074_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6TysHoik1ugQ7kNvwHO0jDC&_nc_oc=Adp_a6pAmwytMQKbQ4YNFWeAGRLeXYVVd4FgZLO8LtOk0OpaZmknP7SHNZg3DuJkss8&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=-JHusk1kAK9v-53abTApyQ&_nc_ss=7b2a8&oh=00_Af445QfG2gNmRQ2HYC6tWO5dzJIYN2ThE4m0-BN6jV8QgQ&oe=6A160962",
+      "thumbnail": "/dantoc/13.jpg",
       "images": [
         "https://cly.1cdn.vn/2023/11/17/mot-le-hoi-cua-nguoi-xo-dang.jpg"
       ],
@@ -1335,7 +1401,7 @@
         "Vĩnh Phúc"
       ],
       "language": "Tiếng Cao Lan (nhóm Tày-Thái) và Tiếng Sán Chỉ (nhóm Hán)",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540517962_1073550981600972_7958988566784448877_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=kTQ48Xsg2m4Q7kNvwE4pGER&_nc_oc=AdqhC2Kg_kwNiSkncsdtITm95pJ-lyUJA0Np8_pLirLnwmJ9Wv1i4e1kSFQ3ygISkRg&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=vR1HXPK_9d-eg52WddvQuA&_nc_ss=7b2a8&oh=00_Af6WVH-cLYfik5pcfO4MUEGmCSFQ7VcRd4L5XVzvpZLfOQ&oe=6A15ED7C",
+      "thumbnail": "/dantoc/14.jpg",
       "images": [
         "https://file-dangcongsan.nhandan.vn/data/0/images/2023/02/28/upload_2674/1-bnguoi-san-chay-thai-nguyen.jpg"
       ],
@@ -1429,7 +1495,7 @@
         "Đồng Nai"
       ],
       "language": "Nhóm ngôn ngữ Môn-Khmer (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540682507_1073551061600964_8791821676399137466_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=LMUMalU2-DQQ7kNvwExdUxK&_nc_oc=Adot8_fMUpvAsnCGtGMwcxWGXhTSK7hHlJAIDoS_42ravO62ysjDplAL6jZBCyeRg_8&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=ZFOng4Uk0wD1wzPkC7A4sw&_nc_ss=7b2a8&oh=00_Af4NN8A48dgJ2tXbvR_9LupViX-QvlF7EGsb6i-P8jTxbQ&oe=6A15FF42",
+      "thumbnail": "/dantoc/15.jpg",
       "images": [
         "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf82a57d054b036666873d8399f28c4cd09ce2df014d97b968d4e48e049b211edd27329dde271de65cee7157c7fa210cdc9/co-ho3-2753.jpg.webp"
       ],
@@ -1522,7 +1588,13 @@
       "id": "cham",
       "orderNo": 17,
       "name": "Chăm",
-      "otherNames": ["Chàm", "Chiêm", "Chiêm Thành", "Chăm Pa", "Hời"],
+      "otherNames": [
+        "Chàm",
+        "Chiêm",
+        "Chiêm Thành",
+        "Chăm Pa",
+        "Hời"
+      ],
       "population": 178948,
       "regions": [
         "Ninh Thuận",
@@ -1533,7 +1605,7 @@
         "Phú Yên"
       ],
       "language": "Tiếng Chăm (nhóm ngôn ngữ Malayô-Polynéxia, ngữ hệ Nam Đảo)",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540993578_1073550898267647_8207193951597354113_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=him9eSMvp4oQ7kNvwEtgW1P&_nc_oc=AdqXs6lc5DfUhC9Qxtq5bQvQwaRXzEonPc7ydQCCaq8cmWKlehIN0x7KRVplY7ricPA&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=FisoNll3BU54JtfQPdg9lA&_nc_ss=7b2a8&oh=00_Af6DRaEpzJOdfDHpkHQBqgd--HeIFJtVcrys4xBGWRcM3w&oe=6A15F743",
+      "thumbnail": "/dantoc/17.jpg",
       "images": [
         "https://file.hstatic.net/200000503583/file/trang-phuc-dan-toc-cham-3_0e3dad4924b940bd8c976eadecdf5de0.jpg"
       ],
@@ -1600,7 +1672,12 @@
           "description": ""
         }
       ],
-      "characteristics": ["Áo dài Chăm", "Áo voan nửa thân", "Váy tấm", "Khố"]
+      "characteristics": [
+        "Áo dài Chăm",
+        "Áo voan nửa thân",
+        "Váy tấm",
+        "Khố"
+      ]
     },
     {
       "id": "sandiu",
@@ -1624,7 +1701,7 @@
         "Hải Dương"
       ],
       "language": "Tiếng Sán Dìu (nhóm ngôn ngữ Hán-Tạng)",
-      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540706583_1073550954934308_7816985635335182291_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=96BQBwO_xTQQ7kNvwEk8j0u&_nc_oc=AdpvdD7pAxTdWPvIhOmlQlw8bG_AEV-9EVNxCJiveofd8ErECNo0IDxhaYZ3yoHc7jo&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=yDWZ4q-BrX7C5s2xW9JkKg&_nc_ss=7b2a8&oh=00_Af6hCCCrzWAJQQF72C8H4Y4p1HZ1QUuWCXRp-J5hWIOodg&oe=6A16088B",
+      "thumbnail": "/dantoc/16.jpg",
       "images": [
         "https://files.bdttg.gov.vn/contentfolder/ubdt/source_files/2015/11/04/10263061_ng%C6%B0%E1%BB%9Di%20s%C3%A1n%20d%C3%ACu_15-11-04.jpg"
       ],
@@ -1705,9 +1782,13 @@
         "Màn Thạch Bích"
       ],
       "population": 149460,
-      "regions": ["Quảng Ngãi", "Bình Định", "Kon Tum"],
+      "regions": [
+        "Quảng Ngãi",
+        "Bình Định",
+        "Kon Tum"
+      ],
       "language": "Tiếng Hrê (nhóm ngôn ngữ Môn-Khmer, ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540791414_1073551094934294_2827142796751510530_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=7h5ijbBZCYkQ7kNvwEcB7Sx&_nc_oc=AdpvysLcwYXfZK-r7Uh5YickNJJr1nNQg182VN0iz9TVp2YC73ayPlI1D2LXYgPpsr4&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=VuiK_XNlI6XvkTfIcqDFag&_nc_ss=7b2a8&oh=00_Af7ogHGgf1OhInlHmokIHf7caPI0NMF4vvcl1-ZcKOdEog&oe=6A160AD2",
+      "thumbnail": "/dantoc/18.jpg",
       "images": [
         "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf82a57d054b036666873d8399f28c4cd09e41f9c95e0a205b3aa3da7fce06ca60f5956cc7fcafac65d44504819d8839bc0/hre4-7959.jpg.webp"
       ],
@@ -1793,11 +1874,21 @@
       "id": "mnong",
       "orderNo": 20,
       "name": "Mnông",
-      "otherNames": ["Pnông", "Nông", "Preh", "Bu Đâng"],
+      "otherNames": [
+        "Pnông",
+        "Nông",
+        "Preh",
+        "Bu Đâng"
+      ],
       "population": 127334,
-      "regions": ["Đắk Nông", "Đắk Lắk", "Lâm Đồng", "Bình Phước"],
+      "regions": [
+        "Đắk Nông",
+        "Đắk Lắk",
+        "Lâm Đồng",
+        "Bình Phước"
+      ],
       "language": "Tiếng Mnông (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/541117099_1073551051600965_3006572068000475070_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Uag73ib67loQ7kNvwFmAFC9&_nc_oc=AdqtnqTstsbCaSbvv79R8O3Hoy8USZZlCX3wSZsRG319ZryKCJ84lEsGLruE9uBntoA&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=J7l8s4qbdVDB_KUZ89Wnmg&_nc_ss=7b2a8&oh=00_Af4EAVp1YOHpR_ycNTHoaIuhVNgwLF9F4PiXsEvrS1fRNw&oe=6A15E8CB",
+      "thumbnail": "/dantoc/20.jpg",
       "images": [
         "https://vnn.1cdn.vn/2025/04/28/uploads-2025-thang-4-ngay-28-anh-4-hinh-2-mnong.jpg",
         "https://dotchuoinon.com/wp-content/uploads/2015/04/mnong4.jpg",
@@ -1891,11 +1982,20 @@
       "id": "raglai",
       "orderNo": 19,
       "name": "Ra Glai",
-      "otherNames": ["Raglai", "Roglai", "Radlai"],
+      "otherNames": [
+        "Raglai",
+        "Roglai",
+        "Radlai"
+      ],
       "population": 146613,
-      "regions": ["Ninh Thuận", "Khánh Hòa", "Bình Thuận", "Lâm Đồng"],
+      "regions": [
+        "Ninh Thuận",
+        "Khánh Hòa",
+        "Bình Thuận",
+        "Lâm Đồng"
+      ],
       "language": "Tiếng Ra Glai (ngữ hệ Nam Đảo)",
-      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/541788402_1073550924934311_159609343159412049_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=zuJ-DUOtcW0Q7kNvwGhkweu&_nc_oc=Adqlx4y0XNe1odKqLc4KYggCnivLnHpjd3rT_aIpwW4rddx8vLhMOgz7RKyijauwgk0&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=n23yIt5Kz0GSqVvj73IgKA&_nc_ss=7b2a8&oh=00_Af6fvRz7VR-31uWvjTRw-eAsTU16oL_D_JcpI-CL6WPgAA&oe=6A160FA1",
+      "thumbnail": "/dantoc/19.jpg",
       "images": [
         "https://phunuvietnam.mediacdn.vn/179072216278405120/2025/8/26/anh1-1756184089128278188047.jpg",
         "https://baokhanhhoa.vn/CMSImage/Resources/Uploaded/tbtdaduyet/1/raglai-2-2022-08-12-18-14.jpg",
@@ -1981,11 +2081,20 @@
       "id": "bruvankieu",
       "orderNo": 22,
       "name": "Bru - Vân Kiều",
-      "otherNames": ["Bru", "Vân Kiều", "Măng Coong", "Trì"],
+      "otherNames": [
+        "Bru",
+        "Vân Kiều",
+        "Măng Coong",
+        "Trì"
+      ],
       "population": 94598,
-      "regions": ["Quảng Trị", "Quảng Bình", "Đắk Lắk"],
+      "regions": [
+        "Quảng Trị",
+        "Quảng Bình",
+        "Đắk Lắk"
+      ],
       "language": "Tiếng Bru - Vân Kiều (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536267956_1073551068267630_6703952735465748583_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6UJN6YspEHgQ7kNvwEUa584&_nc_oc=Adr3-plyIildwU9tnAWHx2CemEoQf-7R-WaJcn81ZjY9TiqRJtMU_Ci6BikQqlrDGY4&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=vsWqtWQ8cAiPxvtZ2ujAEQ&_nc_ss=7b2a8&oh=00_Af6VSadB4GACKiDezgmLg_-fkmnVajKBv9s163PJGqgmwA&oe=6A160C9B",
+      "thumbnail": "/dantoc/22.jpg",
       "images": [
         "https://ttdn.vn/Uploads/Images/2024/3/10/5/7734-7-3-10-3.9.jpg",
         "https://ati.net.vn/wp-content/uploads/2023/05/dan-toc-bru-van-kieu-1.jpg",
@@ -2079,11 +2188,20 @@
       "id": "tho",
       "orderNo": 23,
       "name": "Thổ",
-      "otherNames": ["Kẹo", "Mọn", "Cuối", "Họ", "Đan Lai"],
+      "otherNames": [
+        "Kẹo",
+        "Mọn",
+        "Cuối",
+        "Họ",
+        "Đan Lai"
+      ],
       "population": 91430,
-      "regions": ["Nghệ An", "Thanh Hóa"],
+      "regions": [
+        "Nghệ An",
+        "Thanh Hóa"
+      ],
       "language": "Tiếng Thổ (ngữ hệ Nam Á, cùng nhóm Việt-Mường)",
-      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/541660682_1073549841601086_372441228483807640_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=plG6FWf53hIQ7kNvwET42Of&_nc_oc=AdrzqdW2a0BwSVs9gmVyyrZb9KqjwDMmZcnALYVPtAowzEx30hh47Q9CvFacaeFPmYQ&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=bN8lkl6-5gpx0QWlO-d8kQ&_nc_ss=7b2a8&oh=00_Af6Spit_d2W3ITiXbjAuLcOXdNopY8rsVZH5ZQVlYlTEEg&oe=6A15FDBF",
+      "thumbnail": "/dantoc/23.jpg",
       "images": [
         "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf849cd557cb6f3fd6b5b0c2b71dee43fd3c7b2cf6d2ee3310e976d289b9591f751d50786887d610ec51982fee64e037465/tho-4496.jpg.webp",
         "https://bvhttdl.gov.vn/uploads/2025/12/16/610869/1376670931794003.jpg",
@@ -2144,7 +2262,11 @@
         "housing": "Nhà sàn, gần gũi kiến trúc nhà người Thái hoặc Mường.",
         "housingImage": "https://vietnamhoc.net/wp-content/uploads/2020/09/dantoc-tho-nhasan-vietnamhoc.net_.jpg"
       },
-      "characteristics": ["Chất phác", "Hòa đồng", "Dễ tiếp thu văn hóa mới"],
+      "characteristics": [
+        "Chất phác",
+        "Hòa đồng",
+        "Dễ tiếp thu văn hóa mới"
+      ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Thổ",
@@ -2169,11 +2291,21 @@
       "id": "giay",
       "orderNo": 26,
       "name": "Giáy",
-      "otherNames": ["Nhắng", "Dẳng", "Pầu Thìn", "Cùi Chu"],
+      "otherNames": [
+        "Nhắng",
+        "Dẳng",
+        "Pầu Thìn",
+        "Cùi Chu"
+      ],
       "population": 67715,
-      "regions": ["Lào Cai", "Hà Giang", "Lai Châu", "Cao Bằng"],
+      "regions": [
+        "Lào Cai",
+        "Hà Giang",
+        "Lai Châu",
+        "Cao Bằng"
+      ],
       "language": "Tiếng Giáy (ngữ hệ Tày-Thái)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/539247040_1073550724934331_7255742890453281826_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=mF203gj7bjIQ7kNvwHEhKg2&_nc_oc=AdoOMrRzrtEPkXiUEJ0T9J9gAQknE2angADEvzVvy9s6wiNY6EZ9Cocdp7jAHm988Qg&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=clXyS2bKAryVsE6O3rGIwg&_nc_ss=7b2a8&oh=00_Af7N_vhFSIhSZLFA_UJWXYdiH0VrawwxuOMFRgHkqEKh2A&oe=6A160543",
+      "thumbnail": "/dantoc/26.jpg",
       "images": [
         "https://vov4.vov.vn/sites/default/files/styles/large/public/2023-03/01.jpg",
         "https://icdn.dantri.com.vn/thumb_w/960/2019/07/20/xao-xuyen-net-dep-sac-nuoc-huong-troidocx-1563631475561.jpeg",
@@ -2263,11 +2395,19 @@
       "id": "cotu",
       "orderNo": 25,
       "name": "Cơ Tu",
-      "otherNames": ["Ca Tu", "Cao", "Hạ", "Phương"],
+      "otherNames": [
+        "Ca Tu",
+        "Cao",
+        "Hạ",
+        "Phương"
+      ],
       "population": 74173,
-      "regions": ["Quảng Nam", "Thừa Thiên Huế"],
+      "regions": [
+        "Quảng Nam",
+        "Thừa Thiên Huế"
+      ],
       "language": "Tiếng Cơ Tu (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540691854_1073551124934291_4373169761924569988_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=6R061M8lOtEQ7kNvwFU6nxJ&_nc_oc=Adr-zpfo6PedDvPNxpjn6_x97xbwfeNVUwNv1CCZsRjZMZvC6GMRMLRF8fg-8VU-wwQ&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=niRVv5CO4RYAQWw6qt1p5w&_nc_ss=7b2a8&oh=00_Af6Dc1tqYLHrJyPCax3pbI-byGQVgSdZYcvUMZxgaz0VTw&oe=6A15FDBD",
+      "thumbnail": "/dantoc/25.jpg",
       "images": [
         "https://i.ytimg.com/vi/datX8YuMmQk/maxresdefault.jpg",
         "https://files.bdttg.gov.vn/contentfolder/ubdt/source_files/2015/11/04/10261148_nguoi%20co%20tu_15-11-04.jpg",
@@ -2365,11 +2505,18 @@
       "id": "gietrieng",
       "orderNo": 27,
       "name": "Giẻ - Triêng",
-      "otherNames": ["Đoàn", "Xôi", "Bnoong"],
+      "otherNames": [
+        "Đoàn",
+        "Xôi",
+        "Bnoong"
+      ],
       "population": 63322,
-      "regions": ["Kon Tum", "Quảng Nam"],
+      "regions": [
+        "Kon Tum",
+        "Quảng Nam"
+      ],
       "language": "Tiếng Giẻ - Triêng (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/542759118_1073551008267636_6741247840120278749_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=XEC1KFI69kcQ7kNvwGsLG25&_nc_oc=AdovaNKfl_VBPzXdMrySVYIzl8q8HyNPYG-TufkKpgaLnBv2sTv_ygPdnE6ZugCx7vs&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=Qrg9oM1G4ncIyZuB9BW1gg&_nc_ss=7b2a8&oh=00_Af6b20BPgyJRPbqmYNYQd3WlavEC6n9IyCl7_qpc14jVZg&oe=6A160FF8",
+      "thumbnail": "/dantoc/27.jpg",
       "images": [
         "https://ttdn.vn/Uploads/Images/2024/5/31/25/gietrieng1.jpg",
         "https://dotchuoinon.com/wp-content/uploads/2015/04/gt_sc6a1n-ne1bbaf-gic3a9-tric3aang-nhc3b3m-tric3aang-de1bb87t-the1bb95-ce1baa9m.jpg",
@@ -2463,11 +2610,19 @@
       "id": "ma",
       "orderNo": 29,
       "name": "Mạ",
-      "otherNames": ["Châu Mạ", "Mạ Xốp", "Mạ Tô"],
+      "otherNames": [
+        "Châu Mạ",
+        "Mạ Xốp",
+        "Mạ Tô"
+      ],
       "population": 50322,
-      "regions": ["Lâm Đồng", "Đồng Nai", "Đắk Nông"],
+      "regions": [
+        "Lâm Đồng",
+        "Đồng Nai",
+        "Đắk Nông"
+      ],
       "language": "Tiếng Mạ (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540232314_1073555708267166_3086681498886652348_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Bb80C2ieA7AQ7kNvwFXYrVP&_nc_oc=AdrhtrHgYYYh_--ctgJZr03fdwijKs_KwZojQ4UN3IU23dDq9kc-fhMZhmm0YHM1-wo&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=QDp641eyqTunLkh1tMyzLw&_nc_ss=7b2a8&oh=00_Af76CDIJtgjmlTwI86zLPE4wxpq2GcfG3336FV2mkJxOyg&oe=6A161648",
+      "thumbnail": "/dantoc/29.jpg",
       "images": [
         "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/042023/22/18/1-copy20230422183034.jpg?rt=20230422183051",
         "https://dantocmiennui-media.baotintuc.vn/images/5c0c54f95c9777a45a8f5910a7a986a5bba0b9b46313a688299c9f6e40b1ba38ee9394ccc8d7f5ab0b777613b3ac3bbb747fca6f5e84a99830ba065aec437e42/ma.jpg.webp",
@@ -2553,11 +2708,20 @@
       "id": "khomu",
       "orderNo": 24,
       "name": "Khơ Mú",
-      "otherNames": ["Xá Cẩu", "Tày Hay", "Mứn Xen"],
+      "otherNames": [
+        "Xá Cẩu",
+        "Tày Hay",
+        "Mứn Xen"
+      ],
       "population": 90612,
-      "regions": ["Nghệ An", "Điện Biên", "Sơn La", "Lai Châu"],
+      "regions": [
+        "Nghệ An",
+        "Điện Biên",
+        "Sơn La",
+        "Lai Châu"
+      ],
       "language": "Tiếng Khơ Mú (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542040374_1073551021600968_7412301712093398879_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=GpfIxw3Hv7UQ7kNvwFLOLtM&_nc_oc=AdqQoluPeP2zhI5BJuBC8Us4rlLv5Znla2HWowJs1B3DOIX2921R7qRRt33T18KPvn4&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=Mq0ROz6GkFAQx7DZoIWt_Q&_nc_ss=7b2a8&oh=00_Af6w1gkgQq4ELo-JkPFgYURpPs7LHiEDoD_OtEhdxzirqQ&oe=6A160922",
+      "thumbnail": "/dantoc/24.jpg",
       "images": [
         "https://cdn-i2.congthuong.vn/stores/news_dataimages/2023/042023/07/15/2-copy20230407154726.jpg?rt=20230407154802",
         "https://static.mattran.org.vn/Uploaded/buidoanhung/2021_02_05/5_2_kmh-1_KBLC.jpg",
@@ -2643,11 +2807,18 @@
       "id": "co",
       "orderNo": 30,
       "name": "Co",
-      "otherNames": ["Cùa", "Kor", "Trầu"],
+      "otherNames": [
+        "Cùa",
+        "Kor",
+        "Trầu"
+      ],
       "population": 40442,
-      "regions": ["Quảng Ngãi", "Quảng Nam"],
+      "regions": [
+        "Quảng Ngãi",
+        "Quảng Nam"
+      ],
       "language": "Tiếng Co (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/541740708_1073555748267162_7238045396952793248_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZHfTapUNhH4Q7kNvwFrWUOQ&_nc_oc=AdpQUVKwzhilDHeQDFJd69JBYiOw4ndKBHCtWJPe4uP8JYW9PlYEFbwGzAYPjWNvLhQ&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=KGJH-FynDqqt21ECeQ46mw&_nc_ss=7b2a8&oh=00_Af7STykaf0EgsthwYlDWOKn9mCuYCzEdCUoxWU0G-MIyng&oe=6A15E9AF",
+      "thumbnail": "/dantoc/30.jpg",
       "images": [
         "https://dddn.1cdn.vn/2024/03/25/thegioianh.diendandoanhnghiep.vn-wp-content-uploads-2024-03-_1-copy202403250837521.jpg",
         "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf8ca4519cc84de2393d3f40c1497116154eb42aa175ef82fa2ee972ba5e9b76d3a5d5d7f494a6dbe90d0c2c0a358e4d9ad5cfacd5ee898d181029010948d9846a0/cor15-6920.jpg.webp",
@@ -2741,11 +2912,17 @@
       "id": "taoi",
       "orderNo": 28,
       "name": "Tà Ôi",
-      "otherNames": ["Pa Cô", "Pa Hi"],
+      "otherNames": [
+        "Pa Cô",
+        "Pa Hi"
+      ],
       "population": 52356,
-      "regions": ["Thừa Thiên Huế", "Quảng Trị"],
+      "regions": [
+        "Thừa Thiên Huế",
+        "Quảng Trị"
+      ],
       "language": "Tiếng Tà Ôi (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542656546_1073643181591752_7141826958279780312_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=eggs--xHhLMQ7kNvwHTgeWj&_nc_oc=AdqjL7iHcCARdWaIwN4BO37ZhlIAtrfDReu6Jgh95y2WE3mzvsG8c2RDGTVLpOfxIBk&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=f5EQQrseBhKwD8tPZq7oQQ&_nc_ss=7b2a8&oh=00_Af6yCmoAUuKnf1gnt7e4QIpfoVpTybHz9B7-BD64cYQPDQ&oe=6A15F098",
+      "thumbnail": "/dantoc/28.jpg",
       "images": [
         "https://vov4.vov.vn/sites/default/files/styles/large_watermark/public/2023-05/z4386006428899_553d519dba7f7e87612bdf1718fd7e4a.jpg",
         "https://vov4.vov.vn/sites/default/files/styles/large_watermark/public/2023-05/z4385999555592_47f6b622aeb70d1f9021b6f8c87eb64b.jpg",
@@ -2835,11 +3012,18 @@
       "id": "choro",
       "orderNo": 31,
       "name": "Chơ Ro",
-      "otherNames": ["Đơ-Ro", "Châu Ro"],
+      "otherNames": [
+        "Đơ-Ro",
+        "Châu Ro"
+      ],
       "population": 29520,
-      "regions": ["Đồng Nai", "Bà Rịa - Vũng Tàu", "Bình Thuận"],
+      "regions": [
+        "Đồng Nai",
+        "Bà Rịa - Vũng Tàu",
+        "Bình Thuận"
+      ],
       "language": "Tiếng Chơ Ro (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540307637_1073555621600508_2433407633850497280_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=GY47GDsxxOgQ7kNvwFFtBzi&_nc_oc=AdqtyJ3Aq9nOaTVn7i2E9QUEap7nkFJj71NHxXPRK4Ug8pLHU4pQLe_9vx0T4TjzjVA&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=r6-hW2XCUF5i9a_3l8avZg&_nc_ss=7b2a8&oh=00_Af5wpZoMXUogIfUveEKSzfqwE1gVTjESS0nD4CaoKmQP4w&oe=6A15E78A",
+      "thumbnail": "/dantoc/31.jpg",
       "images": [
         "https://vietnamhoc.net/wp-content/uploads/2020/06/choro-thieunu-vietnamhoc.net_-800x480.jpg",
         "https://images.vietnamtourism.gov.vn/vn//images/2024/thang_12/cho_ro_2.jpg",
@@ -2929,11 +3113,19 @@
       "id": "khang",
       "orderNo": 36,
       "name": "Kháng",
-      "otherNames": ["Xá Khao", "Xá Sú", "Xá Đón"],
+      "otherNames": [
+        "Xá Khao",
+        "Xá Sú",
+        "Xá Đón"
+      ],
       "population": 16181,
-      "regions": ["Sơn La", "Điện Biên", "Lai Châu"],
+      "regions": [
+        "Sơn La",
+        "Điện Biên",
+        "Lai Châu"
+      ],
       "language": "Tiếng Kháng (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/542757153_1073553531600717_3329517426697411967_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZGHRfWaD9XQQ7kNvwFZHFxS&_nc_oc=Adq3sCuxda2rS_he8D7pjyZQuFrqi6RgnZJAgTgNRg9nDzyGr44AbqvX1VVndGXUXOs&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=vn-I6j6mOmAApCPS8LjQIw&_nc_ss=7b2a8&oh=00_Af4kn_Jl4zuvpQc1-0ASyxYVlF82cYIWPUDCt-7hEPd7-A&oe=6A15F41A",
+      "thumbnail": "/dantoc/36.jpg",
       "images": [
         "https://thinhvuongvietnam.com/Content/UploadFiles/EditorFiles/images/2025/Quy1/dan-toc-khang-304012025104604.png",
         "https://cdn.diaocthongthai.com/2023/02/Khang_Ethnic_Stamp.jpg",
@@ -3031,11 +3223,17 @@
       "id": "xinhmun",
       "orderNo": 32,
       "name": "Xinh Mun",
-      "otherNames": ["Puộc", "Pụa"],
+      "otherNames": [
+        "Puộc",
+        "Pụa"
+      ],
       "population": 29503,
-      "regions": ["Sơn La", "Điện Biên"],
+      "regions": [
+        "Sơn La",
+        "Điện Biên"
+      ],
       "language": "Tiếng Xinh Mun (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/536270933_1073554418267295_2954176678657217444_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Dus44a48BigQ7kNvwH3UsQI&_nc_oc=Adr77hRT6I4gWWWHEPReRrg2zfkI8l9K6LoozHlPzW3bJEDxQBZhQraUjr6wSqhIJ5I&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=04yCefx4Byhd67_0qYVo3g&_nc_ss=7b2a8&oh=00_Af6Rx67tWXVp9W4BRvfdslm7ZKXMJuUoqkThC3zIs-bxcg&oe=6A15E979",
+      "thumbnail": "/dantoc/32.jpg",
       "images": [
         "https://mia.vn/media/uploads/blog-du-lich/dan-toc-xinh-mun-net-dep-dan-toc-thieu-so-vung-nui-tay-bac-01-1645546452.jpg",
         "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf8ca4519cc84de2393d3f40c1497116154eb42aa175ef82fa2ee972ba5e9b76d3a6509ebd0a09b2ff18608d618501ec5d7f4bc513c1fc7d947b4b5e53ba098b75e/xinh-mun-184.jpg.webp",
@@ -3121,11 +3319,18 @@
       "id": "hanhi",
       "orderNo": 33,
       "name": "Hà Nhì",
-      "otherNames": ["U Ní", "Xá U Ní"],
+      "otherNames": [
+        "U Ní",
+        "Xá U Ní"
+      ],
       "population": 25539,
-      "regions": ["Lai Châu", "Lào Cai", "Điện Biên"],
+      "regions": [
+        "Lai Châu",
+        "Lào Cai",
+        "Điện Biên"
+      ],
       "language": "Tiếng Hà Nhì (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540947791_1073555661600504_3432539582096111337_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=yijsmwZhyaIQ7kNvwE-NPY0&_nc_oc=Adoxg3svXba7bRX59z3cjqzEnkm2-DN1ByVjyxKsZ_rgtWImhJ0PET5zX83uF1m8FqA&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=Db6X_0wM10MZ8kYmn9s4bA&_nc_ss=7b2a8&oh=00_Af4ijkRwn4EUMFMmPLiC7KY2bSrmDeuV3Ocf9q2osrpS5A&oe=6A15E7EE",
+      "thumbnail": "/dantoc/33.jpg",
       "images": [
         "https://cdn.eva.vn/upload/2-2023/images/2023-04-19/1--2--1681890092-52-width800height550.jpg",
         "https://hoilhpn.org.vn/documents/20182/1823217/small_15648.jpg/641c6dbc-4332-4f86-a646-0abe14cc56a5",
@@ -3211,11 +3416,18 @@
       "id": "churu",
       "orderNo": 34,
       "name": "Chu Ru",
-      "otherNames": ["Chơ Ru", "Kru", "Ru"],
+      "otherNames": [
+        "Chơ Ru",
+        "Kru",
+        "Ru"
+      ],
       "population": 23242,
-      "regions": ["Lâm Đồng", "Ninh Thuận"],
+      "regions": [
+        "Lâm Đồng",
+        "Ninh Thuận"
+      ],
       "language": "Tiếng Chu Ru (ngữ hệ Nam Đảo)",
-      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536273897_1073555518267185_7354724255490945522_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=QovoLx5ioj8Q7kNvwH2VXxz&_nc_oc=AdoiTW6UN6y5Sk6jksvV3J41RUNt2VcXQ77w_WVc9l6zYiDfLEl0cOYolkCcy9oS8-c&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=3viCb_51Yp1sJWDYzjXOAg&_nc_ss=7b2a8&oh=00_Af6or8ggZhAwYcoPfq1_z3TQTExqwoLxA1fZm3Q-_h_wiQ&oe=6A161942",
+      "thumbnail": "/dantoc/34.jpg",
       "images": [
         "https://vnn.1cdn.vn/2021/08/13/uploads-2021-th-c3-a1ng-208-ng-c3-a0y_13-c3-81nh-churu_mc3baa-truye1bb81n-the1bb91ng.jpg",
         "https://imgnvsk.vnanet.vn/MediaUpload/Medium/2024/02/26/churu-492926-16-26-32.jpg",
@@ -3305,11 +3517,19 @@
       "id": "lao",
       "orderNo": 35,
       "name": "Lào",
-      "otherNames": ["Phu Thay", "Thay Lào", "Thay Cẩu"],
+      "otherNames": [
+        "Phu Thay",
+        "Thay Lào",
+        "Thay Cẩu"
+      ],
       "population": 17532,
-      "regions": ["Điện Biên", "Lai Châu", "Sơn La"],
+      "regions": [
+        "Điện Biên",
+        "Lai Châu",
+        "Sơn La"
+      ],
       "language": "Tiếng Lào (ngữ hệ Tày-Thái)",
-      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/542761334_1073555644933839_3334031265799722011_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=iK6mIDCxK2YQ7kNvwFHdj-c&_nc_oc=Ado1QlWi43z1stYirYvoP0QGF8NjSiTBUfArB_Wx7VoZKiy-ikO5swwOPpUNNM9uqco&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=kHMEFofXVi2GSdSbYBYVEQ&_nc_ss=7b2a8&oh=00_Af5WauxfhW9cWYgcMHuYpr9bBAdwzL1K4P63DlMD0ts52Q&oe=6A16139F",
+      "thumbnail": "/dantoc/35.jpg",
       "images": [
         "https://imgnvsk.vnanet.vn/MediaUpload/Content/2024/03/03/lao13-12-21-42.jpg",
         "https://imagevietnam.vnanet.vn//MediaUpload/Org/2024/08/15/415-11-23-10.jpg",
@@ -3401,13 +3621,20 @@
     },
     {
       "id": "lachi",
-      "orderNo": 36,
+      "orderNo": 37,
       "name": "La Chí",
-      "otherNames": ["Thổ Đen", "Mán", "Cù Tê"],
+      "otherNames": [
+        "Thổ Đen",
+        "Mán",
+        "Cù Tê"
+      ],
       "population": 15126,
-      "regions": ["Hà Giang", "Lào Cai"],
+      "regions": [
+        "Hà Giang",
+        "Lào Cai"
+      ],
       "language": "Tiếng La Chí (ngữ hệ Ka Đai)",
-      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/536268022_1073555544933849_6102906788363654392_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=sYbl1Ldu_b0Q7kNvwEXLrEg&_nc_oc=Adon-PKS-U8dLWbx2ScggDFgLkB4dP_reWpMTT7iGKssKbSCJenQwVdJYCAKhDXrDqA&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=uecto7WSsrLJO28BUNWi9w&_nc_ss=7b2a8&oh=00_Af7oX0vtHFZvMI_vbY--7ct6Z8siaMHg5vidCDceikQ3fA&oe=6A15F23D",
+      "thumbnail": "/dantoc/37.jpg",
       "images": [
         "https://imgnvsk.vnanet.vn/MediaUpload/Medium/2024/03/03/lachi-5843-11-21-41.jpg",
         "https://www.vwu.vn/documents/1809139/0/lachi2.jpg/7ba84c57-dec0-4062-bee0-9170cc2427d1?t=1604382292566",
@@ -3489,11 +3716,17 @@
       "id": "lahu",
       "orderNo": 39,
       "name": "La Hủ",
-      "otherNames": ["Xá Lá Vàng", "Khù Sung", "Cò Xung"],
+      "otherNames": [
+        "Xá Lá Vàng",
+        "Khù Sung",
+        "Cò Xung"
+      ],
       "population": 12113,
-      "regions": ["Lai Châu"],
+      "regions": [
+        "Lai Châu"
+      ],
       "language": "Tiếng La Hủ (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540721666_1073555768267160_5765844644370442436_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=7UhiNEgasHwQ7kNvwH_X-OC&_nc_oc=AdoscaSwHZW7sq6h0T3DlsZ1J_U5K_bhSssb8fs2ri0eTYgumOmWEb6daYexA9CtzQE&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=3fmg9mb4tyMWaZYc_BeKTw&_nc_ss=7b2a8&oh=00_Af6KE3Qv81VbF19fBpxw3M0KTp_qm1T4jc3SWv5bOri7bA&oe=6A160996",
+      "thumbnail": "/dantoc/39.jpg",
       "images": [
         "https://imagevietnam.vnanet.vn//MediaUpload/Org/2025/03/10/1910-15-1-49.jpg",
         "https://images.openai.com/static-rsc-4/tMIVj1B2VdvDx1OUvXSBfCHZfIjFGftXTlgt8UE8pIvUPHfIcHvBKQMUCJbS5Gr869hgCqd8brV36vD_dEPPo50Kq5aEi9FjEP-xfonb8tSoTh33hHoGZM3JY43rsga9Qgl8lTOcbJXp2p9oaJJ2hG8ERSoKOYpPZ_W9UTjt8EM?purpose=inline",
@@ -3580,11 +3813,18 @@
       "id": "laha",
       "orderNo": 40,
       "name": "La Ha",
-      "otherNames": ["Xá Khao", "Xá Chá", "Khơ Láo"],
+      "otherNames": [
+        "Xá Khao",
+        "Xá Chá",
+        "Khơ Láo"
+      ],
       "population": 10157,
-      "regions": ["Sơn La", "Lào Cai"],
+      "regions": [
+        "Sơn La",
+        "Lào Cai"
+      ],
       "language": "Tiếng La Ha (ngữ hệ Ka Đai)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540401899_1073555138267223_5561851604498443419_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=hJ2GVdpViRcQ7kNvwFgl1Bn&_nc_oc=AdrSicg6zuYuIi-sHsxa0dQtNXH8rOOSOFeSZVU2PUdqys9hijBNIJjndpzVxbzc4pA&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=GGFfOr4p6dDjtZqZbeHlBA&_nc_ss=7b2a8&oh=00_Af5C4VlVq1iB3tKQedmZANFeoAZLMu_zOyIQTEHYZNV4MA&oe=6A161AF2",
+      "thumbnail": "/dantoc/40.jpg",
       "images": [
         "https://mia.vn/media/uploads/blog-du-lich/kham-pha-cuoc-song-cua-dong-bao-dan-toc-la-ha-1645500716.jpg",
         "https://static.laodong.vn/storage/newsportal/2023/6/16/1205333/11-TB-1013932-01.jpg"
@@ -3670,11 +3910,17 @@
       "id": "pathen",
       "orderNo": 41,
       "name": "Pà Thẻn",
-      "otherNames": ["Mèo Lai", "Pà Hưng"],
+      "otherNames": [
+        "Mèo Lai",
+        "Pà Hưng"
+      ],
       "population": 8248,
-      "regions": ["Hà Giang", "Tuyên Quang"],
+      "regions": [
+        "Hà Giang",
+        "Tuyên Quang"
+      ],
       "language": "Tiếng Pà Thẻn (ngữ hệ H'Mông - Dao)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/539252885_1073555614933842_508052794805542271_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=oSKRPEJAiToQ7kNvwFEKsPS&_nc_oc=Adqtz8essRTbkWjH-ol31LNPRN5gQXsaKj2knRJYcGrCAaQPo2b3U6LTQn2PgSKE-e0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=C0V9NYkJ9rVyGa6quE9Ptg&_nc_ss=7b2a8&oh=00_Af4vXgvbqyZOxzCcf3WFzBDFX3yhmEh3JQffZeZ3N_sfnQ&oe=6A15F29D",
+      "thumbnail": "/dantoc/41.jpg",
       "images": [
         "https://imagevietnam.vnanet.vn//MediaUpload/Org/2022/11/16/0216-10-40-37.jpg",
         "https://baohagiang.vn/file/dataimages/201805/original/images1404518_Phu_nu_Pa_Then__H.Toan_.jpg"
@@ -3735,7 +3981,11 @@
         "housing": "Nhà sàn, nhà đất hoặc nửa sàn nửa đất tùy nơi.",
         "housingImage": "https://www.hoilhpn.org.vn/documents/246915/5151434/dt+2.jpg/fc2dab62-ded2-4345-ab27-c916675cc776"
       },
-      "characteristics": ["Tôn trọng thầy cúng", "Gan dạ", "Giỏi dệt vải"],
+      "characteristics": [
+        "Tôn trọng thầy cúng",
+        "Gan dạ",
+        "Giỏi dệt vải"
+      ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Pà Thẻn",
@@ -3760,11 +4010,17 @@
       "id": "lu",
       "orderNo": 43,
       "name": "Lự",
-      "otherNames": ["Lự Đen", "Lự Trắng", "Nhắng"],
+      "otherNames": [
+        "Lự Đen",
+        "Lự Trắng",
+        "Nhắng"
+      ],
       "population": 6757,
-      "regions": ["Lai Châu"],
+      "regions": [
+        "Lai Châu"
+      ],
       "language": "Tiếng Lự (ngữ hệ Tày-Thái)",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540694688_1073555741600496_5427533160692059677_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=73EF0UVdzOwQ7kNvwHX2-I-&_nc_oc=Adq8H09rZ5bgCOgxNwdd5OvGsqPskthlV7X8cVIKmlYgBpMz3hcdmhlLruypCWqyoI8&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=vXRBJrWDXr14nojrpQ5IXg&_nc_ss=7b2a8&oh=00_Af5FKw5FBt_Xa92mgbDm1t77QH5xQDDqPX70xGpXXgzo5w&oe=6A1611CD",
+      "thumbnail": "/dantoc/43.jpg",
       "images": [
         "https://special.nhandan.vn/dong-bao-lu-giu-ban-sac-tu-trang-phuc-truyen-thong/assets/TbQT8Al7E9/dat_5307-2192x1461.jpg",
         "https://cdn.arttimes.vn/upload/3-2023/images/2023-08-01/1690860172-anh-3-phu-nu-dan-toc-lu.jpg"
@@ -3854,11 +4110,20 @@
       "id": "ngai",
       "orderNo": 49,
       "name": "Ngái",
-      "otherNames": ["Sán Ngái", "Khách Gia", "Hẹ"],
+      "otherNames": [
+        "Sán Ngái",
+        "Khách Gia",
+        "Hẹ"
+      ],
       "population": 1649,
-      "regions": ["Thái Nguyên", "Bắc Giang", "Quảng Ninh", "Tuyên Quang"],
+      "regions": [
+        "Thái Nguyên",
+        "Bắc Giang",
+        "Quảng Ninh",
+        "Tuyên Quang"
+      ],
       "language": "Tiếng Ngái (thuộc hệ ngôn ngữ Hán - Tạng)",
-      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/536272982_1073553728267364_4886541577598366062_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=JUpmi0UZMVgQ7kNvwG22159&_nc_oc=AdqhrXsfIbYVIoXtgwMr1eOZkkMEeMyn_WGmbLdIuJkKRy54Vj1K9n_1hsQ8RLKk7nE&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=HC-kxt_UACkwCXQKpdpr3g&_nc_ss=7b2a8&oh=00_Af5Bil4lw5XovngpJoq3jL44NQCvYvp7VVSIRLgwRqUCHw&oe=6A15FBAD",
+      "thumbnail": "/dantoc/49.jpg",
       "images": [
         "https://thegioidisan.vn/assets/media/2018/nguoi-ngai.jpg",
         "https://vietnamtourism.vn/imguploads/tourist/2014/VNDatNuocConNguoi/01Khaiquatchung/03Dancu/Cacdantoc/35DantocNgai.jpg",
@@ -3920,7 +4185,11 @@
         "housing": "Nhà đất, tường trình bằng đất sét trộn rơm rạ hoặc xây gạch mộc.",
         "housingImage": "https://vnn.1cdn.vn/2021/08/05/uploads-2021-th-c3-a1ng-208-ng-c3-a0y-205-c3-81nh-j6x4_19a-1.jpg"
       },
-      "characteristics": ["Chịu thương chịu khó", "Đoàn kết", "Thích ca hát"],
+      "characteristics": [
+        "Chịu thương chịu khó",
+        "Đoàn kết",
+        "Thích ca hát"
+      ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Ngái",
@@ -3945,11 +4214,18 @@
       "id": "chut",
       "orderNo": 42,
       "name": "Chứt",
-      "otherNames": ["Rục", "Sách", "Arem", "Mày"],
+      "otherNames": [
+        "Rục",
+        "Sách",
+        "Arem",
+        "Mày"
+      ],
       "population": 7536,
-      "regions": ["Quảng Bình"],
+      "regions": [
+        "Quảng Bình"
+      ],
       "language": "Tiếng Chứt (ngữ hệ Nam Á, nhóm Việt - Mường)",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540218676_1073555568267180_3667752769522128653_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=oUogKQhH6yUQ7kNvwF8-Fyi&_nc_oc=AdrrOBT6znld0SQowN9_AzRu4VcfA_d23avnybpm9wnuxKRoKrfkiKbncwvYT--Nh58&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=5wiaHLQSPj60qjEJ_8VlcA&_nc_ss=7b2a8&oh=00_Af5jXEoyFUmvu6onlJUo7sU9pKOS78IQ0d0OIm4gAmPcOw&oe=6A1602B5",
+      "thumbnail": "/dantoc/42.jpg",
       "images": [
         "https://cdn.baohatinh.vn/images/6dbe9995ce3816a5c8736d330e7dce474662f78ef54724f443dd8be38f1eb823018a6e004ef922032a48afe5bc6f43f9c64db0ec857a408f890642ce478df764/bht_brd_atdt00359.jpg",
         "https://images2.thanhnien.vn/thumb_w/686/528068263637045248/2025/4/18/co-to-quoc-3-17449482039221939227602-0-623-1715-1909-crop-17449501211121636171775.jpg",
@@ -4037,11 +4313,20 @@
       "id": "lolo",
       "orderNo": 44,
       "name": "Lô Lô",
-      "otherNames": ["Mùn Di", "Di", "Lô Lô Hoa", "Lô Lô Đen"],
+      "otherNames": [
+        "Mùn Di",
+        "Di",
+        "Lô Lô Hoa",
+        "Lô Lô Đen"
+      ],
       "population": 4827,
-      "regions": ["Hà Giang", "Cao Bằng", "Lai Châu"],
+      "regions": [
+        "Hà Giang",
+        "Cao Bằng",
+        "Lai Châu"
+      ],
       "language": "Tiếng Lô Lô (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540594224_1073555678267169_8881891095719564812_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=DIg0WlygvMkQ7kNvwF0Mxf-&_nc_oc=Adrdte4Wq7QbDPF12tKbxhnzW0V3SsXUSrpL12zeIloarikvcrN247Vw24NEt_-wwD8&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=CUtN5flVSy2orrMVXSJ3OA&_nc_ss=7b2a8&oh=00_Af6DNmyUNOZswPA1xxY_QHd2lgCuODWPju6xBVcRvatjjQ&oe=6A15EF21",
+      "thumbnail": "/dantoc/44.jpg",
       "images": [
         "https://hoinongdan.caobang.gov.vn/uploads/news/2019_11/1_56.jpg",
         "https://scontent.iocvnpt.com/resources/portal/Images/CBG/hoainamcbg/nam_2023/thang_11/gioi_thieu_lo_lo_den_o_cb_271040723.jpg",
@@ -4132,11 +4417,18 @@
       "id": "mang",
       "orderNo": 45,
       "name": "Mảng",
-      "otherNames": ["Mảng Ư", "Xá Mảng", "Xá Bốc"],
+      "otherNames": [
+        "Mảng Ư",
+        "Xá Mảng",
+        "Xá Bốc"
+      ],
       "population": 4650,
-      "regions": ["Lai Châu", "Điện Biên"],
+      "regions": [
+        "Lai Châu",
+        "Điện Biên"
+      ],
       "language": "Tiếng Mảng (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540768512_1073554714933932_5819082030882368618_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Y7r2kusQtJcQ7kNvwGlhHRi&_nc_oc=Adq7Mz5QOmMalnoNDBiNh_79CCj8TzSxCE7nsfXCT0ZmuJ9MaAilUyyIzQleZssX89E&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=txejazNosPd_M5nIljFYIQ&_nc_ss=7b2a8&oh=00_Af4k5lT_gdfgGArUZyN_VvrXdj3dZprrQluv4urpC-yDIA&oe=6A161BA7",
+      "thumbnail": "/dantoc/45.jpg",
       "images": [
         "https://imagevietnam.vnanet.vn//MediaUpload/Org/2024/03/05/15-10-24-53.jpg",
         "https://imagevietnam.vnanet.vn//MediaUpload/Org/2024/03/05/14-avatar5-10-30-35.jpg",
@@ -4224,11 +4516,17 @@
       "id": "cong",
       "orderNo": 48,
       "name": "Cống",
-      "otherNames": ["Xắm Khống", "Phuy A"],
+      "otherNames": [
+        "Xắm Khống",
+        "Phuy A"
+      ],
       "population": 2729,
-      "regions": ["Lai Châu", "Điện Biên"],
+      "regions": [
+        "Lai Châu",
+        "Điện Biên"
+      ],
       "language": "Tiếng Cống (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540163283_1073555778267159_3290601736680667909_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=CNYFNbHsKrMQ7kNvwG7BmXb&_nc_oc=Ado8lzaJ7kp8uOb5GrU-cs3pa_UHzEUm74VHtCzvEorbh1Gequ8AtXqGtJDOzXRTdHw&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=01rwD3_SjNRex_bxOzlXog&_nc_ss=7b2a8&oh=00_Af6pt8JDihy127Z2QJLg08n9kPH3hId5ZejcyLFKMkAoBw&oe=6A160BC2",
+      "thumbnail": "/dantoc/48.jpg",
       "images": [
         "https://media-cdn-v2.laodong.vn/storage/newsportal/2023/10/11/1252830/Tet-Com-Moi-Dan-Toc--02.jpg",
         "https://imagevietnam.vnanet.vn//MediaUpload/Org/2024/01/15/415-10-37-0.jpg",
@@ -4312,11 +4610,19 @@
       "id": "boy",
       "orderNo": 47,
       "name": "Bố Y",
-      "otherNames": ["Chủng Chá", "Trọng Gia", "Tu Dí"],
+      "otherNames": [
+        "Chủng Chá",
+        "Trọng Gia",
+        "Tu Dí"
+      ],
       "population": 3232,
-      "regions": ["Lào Cai", "Hà Giang", "Yên Bái"],
+      "regions": [
+        "Lào Cai",
+        "Hà Giang",
+        "Yên Bái"
+      ],
       "language": "Tiếng Bố Y (ngữ hệ Ka Đai)",
-      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/539397124_1073555504933853_7903230571792711980_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=D-rE0nevNw8Q7kNvwGVgqDX&_nc_oc=AdrhdQ7gkVfMFC8kg9mGnHAOnGLuNZw7UOir97R02oPl0VSC4BLEEk7xNWdE_gpYnhk&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=bsNYAuUa7sQpqMk3VXoh2A&_nc_ss=7b2a8&oh=00_Af5DhRElQhhph56WpZzT5WLRo1sj64US5aEBG_AukN9W1g&oe=6A160BE8",
+      "thumbnail": "/dantoc/47.jpg",
       "images": [
         "https://imgchinhsachcuocsong.vnanet.vn/MediaUpload/Org/2024/05/24/190820-bo-y.jpg",
         "https://images.vietnamtourism.gov.vn/vn/images/2014/AnhInternet/0aBoY14.jpg",
@@ -4382,7 +4688,11 @@
         "housing": "Nhà đất trình tường, mái lợp ngói máng hoặc cỏ gianh, có cấu trúc bảo vệ tốt.",
         "housingImage": "https://cdn-i2.congthuong.vn/stores/news_dataimages/vananh/052020/20/10/in_article/4415_a_2223_1.jpg"
       },
-      "characteristics": ["Cần cù tằn tiện", "Khéo tay", "Tôn trọng lễ giáo"],
+      "characteristics": [
+        "Cần cù tằn tiện",
+        "Khéo tay",
+        "Tôn trọng lễ giáo"
+      ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Bố Y",
@@ -4407,11 +4717,18 @@
       "id": "colao",
       "orderNo": 46,
       "name": "Cờ Lao",
-      "otherNames": ["Klau", "Ho Ki", "Voa Đề"],
+      "otherNames": [
+        "Klau",
+        "Ho Ki",
+        "Voa Đề"
+      ],
       "population": 2939,
-      "regions": ["Hà Giang", "Yên Bái"],
+      "regions": [
+        "Hà Giang",
+        "Yên Bái"
+      ],
       "language": "Tiếng Cờ Lao (ngữ hệ Ka Đai)",
-      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/539579410_1073554408267296_6027175855306375227_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=-BMOB21w8moQ7kNvwHUaAFC&_nc_oc=AdpPIzaJzVKgboXIQ7iJ_dQ9roz9gYDrX3H1SvdgiZk-gdhw8C4hpJMtktrfkaWT5Mk&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=g3HolmthSkNQW1ttX5_cdw&_nc_ss=7b2a8&oh=00_Af7C4emOM62R3mQRLp0vyHdeqwMJmmos7o0TndyIef5UrQ&oe=6A15FB0A",
+      "thumbnail": "/dantoc/46.jpg",
       "images": [
         "https://cly.1cdn.vn/2021/06/06/dantoctongiao.congly.vn-upload-content_img-2021-0606-_trang-phuc-truyen-thong-cua-phu-nu-co-lao_anh_bai_dac_sac_van_hoa_co_lao_1.jpg",
         "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf83c9d5ca8cb9be7361548fc83c94f5ad65f09933d8e4f032b075d59a96448ad79144b4b34da5d0c9bfa253b9e5ca7495a/colao1.jpg.webp",
@@ -4503,11 +4820,17 @@
       "id": "pupeo",
       "orderNo": 51,
       "name": "Pu Péo",
-      "otherNames": ["Ka Bẻo", "Penti", "La Quả"],
+      "otherNames": [
+        "Ka Bẻo",
+        "Penti",
+        "La Quả"
+      ],
       "population": 903,
-      "regions": ["Hà Giang"],
+      "regions": [
+        "Hà Giang"
+      ],
       "language": "Tiếng Pu Péo (ngữ hệ Ka Đai)",
-      "thumbnail": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/540506990_1073555398267197_6036112289563785796_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=DQP3VZHXnBgQ7kNvwEf7IWP&_nc_oc=AdrV2nK1eoP1fHY2S4PJ9e7FSQJbFWP-5m2htFAIjRwGKiK8GK9oPwWWG44Lyc0XcNc&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=iTQ_CuUoXP10QWUBBNzlFw&_nc_ss=7b2a8&oh=00_Af7UQjRpI1UMvVIuEKEVEqV70hrh-xRYY11np9nPaBOheg&oe=6A15FAF4",
+      "thumbnail": "/dantoc/51.jpg",
       "images": [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPXstBVM4iL3OWqBegPm2PVMdE9Vvdgme-A&s",
         "https://imgnvsk.vnanet.vn/MediaUpload/Medium/2024/03/05/75-20-50-29.jpg",
@@ -4590,11 +4913,17 @@
       "id": "sila",
       "orderNo": 50,
       "name": "Si La",
-      "otherNames": ["Cú Dề Xừ", "Khả Phé"],
+      "otherNames": [
+        "Cú Dề Xừ",
+        "Khả Phé"
+      ],
       "population": 840,
-      "regions": ["Lai Châu", "Điện Biên"],
+      "regions": [
+        "Lai Châu",
+        "Điện Biên"
+      ],
       "language": "Tiếng Si La (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/540519557_1073554934933910_2345132444430674836_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=M-d_1ynipFEQ7kNvwFPwydV&_nc_oc=Ado0icbnVBbVcalIgjQwsNsqKONFBIi7aXFmphan4RZDsKuPkBah9NG1YoW0zCXQl9Q&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=eJjpt16br_aMvPhR7ZTv7Q&_nc_ss=7b2a8&oh=00_Af41UoOIV3kL0QS8yBmCts3aZHOPuBmsZo92DrzbdFUHsw&oe=6A15F8F1",
+      "thumbnail": "/dantoc/50.jpg",
       "images": [
         "https://imagevietnam.vnanet.vn//MediaUpload/Org/2024/05/16/116-14-40-55.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/4/40/Si_La_people.jpg",
@@ -4652,7 +4981,11 @@
         "housing": "Nhà trệt, nhỏ bé, vách nứa, mái tranh, cửa thấp.",
         "housingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3D19g7wx59bx9p9N6pPUkVZl-s9aWpwuSA&s"
       },
-      "characteristics": ["Thật thà", "Hiền lành", "Hòa hợp với thiên nhiên"],
+      "characteristics": [
+        "Thật thà",
+        "Hiền lành",
+        "Hòa hợp với thiên nhiên"
+      ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Si La",
@@ -4677,11 +5010,16 @@
       "id": "odu",
       "orderNo": 54,
       "name": "Ơ Đu",
-      "otherNames": ["Tày Hạt", "Phouteng"],
+      "otherNames": [
+        "Tày Hạt",
+        "Phouteng"
+      ],
       "population": 428,
-      "regions": ["Nghệ An"],
+      "regions": [
+        "Nghệ An"
+      ],
       "language": "Tiếng Ơ Đu (ngữ hệ Nam Á) - Nay chủ yếu nói tiếng Khơ Mú hoặc Thái",
-      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/540964568_1073554578267279_9169848179293654942_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=gKkLFTTD9VYQ7kNvwHRAWvV&_nc_oc=AdqC43OMhyJDj2naUE1KktKUTk7o8LSTy0dIIXXpMrRIIqhYMmOAQvENkaMHm42yiRs&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=svkv55UKLzt_1UkIoswOuA&_nc_ss=7b2a8&oh=00_Af6GX3BSdc1wEupvFhS3aa29M96gF6Sc_Q1ipS14NWYasQ&oe=6A160023",
+      "thumbnail": "/dantoc/54.jpg",
       "images": [
         "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf83c9d5ca8cb9be7361548fc83c94f5ad63393d0423b88c93a9631808ff81a298c5cfacd5ee898d181029010948d9846a0/6.jpg.webp",
         "https://bvhttdl.mediacdn.vn/2019/12/27/1-dt-o-du-15774371924931572281544.jpg",
@@ -4743,7 +5081,11 @@
         "housing": "Nhà sàn mái tranh, trước đây thường nằm quay lưng vào núi.",
         "housingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AXMpdBs5Sqe4noZQ51q8VOYtDYkIUhNXBQ&s"
       },
-      "characteristics": ["Sống khép kín", "Dễ đồng hóa", "Hiền lành"],
+      "characteristics": [
+        "Sống khép kín",
+        "Dễ đồng hóa",
+        "Hiền lành"
+      ],
       "music": [
         {
           "title": "Dân ca cổ truyền dân tộc Ơ Đu",
@@ -4768,11 +5110,15 @@
       "id": "romam",
       "orderNo": 52,
       "name": "Rơ Măm",
-      "otherNames": ["Rong Mam"],
+      "otherNames": [
+        "Rong Mam"
+      ],
       "population": 639,
-      "regions": ["Kon Tum"],
+      "regions": [
+        "Kon Tum"
+      ],
       "language": "Tiếng Rơ Măm (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540589495_1073555701600500_9199702526155125452_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=zSrLNCDw6OUQ7kNvwHIHjAp&_nc_oc=AdqHgr5byTufnih-FPOiwW73Qv9zo85f3y17JtN5pJazdzVDTSDLACT8A9eZUnOb7xE&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=ykf-ju07uXo8iHNPnL9ptQ&_nc_ss=7b2a8&oh=00_Af7AtZvbBEUYTyiLnC1hSBO_MoXfcAz8Y1Rqneq6XwZh2w&oe=6A15EEDE",
+      "thumbnail": "/dantoc/52.jpg",
       "images": [
         "https://cdn.nhandan.vn/images/22f099ca8bc7ae81aa2a8d3416a84bf8ca4519cc84de2393d3f40c1497116154eb42aa175ef82fa2ee972ba5e9b76d3af963e8b5d2552e495bc3c7baf7bd0c18992aead934705541f0bd3e48c3deb770/ro-mam4-8605.jpg.webp",
         "https://thegioidisan.vn/assets/media/2016/31032016/Nguoi-Ro-MaM1.jpg",
@@ -4867,11 +5213,16 @@
       "id": "brau",
       "orderNo": 53,
       "name": "Brâu",
-      "otherNames": ["Brao", "Lave"],
+      "otherNames": [
+        "Brao",
+        "Lave"
+      ],
       "population": 525,
-      "regions": ["Kon Tum"],
+      "regions": [
+        "Kon Tum"
+      ],
       "language": "Tiếng Brâu (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/540692356_1073555368267200_8431722915880646244_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=YwIPcytn-F4Q7kNvwFZ5vpB&_nc_oc=AdoYFEmnYK80iJXUbNNyHYSlY4ny_-8V06OhtAeWtsgaA4UOBzeoufVucGmm-in_4-Q&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=_I7CuEEYg8mkKfpv7gAYlg&_nc_ss=7b2a8&oh=00_Af5yTrsumSXEjzEcRSjLXdUASlQzaHOk5jr8s-xX46DDtw&oe=6A15FCC1",
+      "thumbnail": "/dantoc/53.jpg",
       "images": [
         "https://vnn.1cdn.vn/2022/08/01/uploads-2022-th-c3-a1ng-206-ng-c3-a0y_30-to-20oanh-dan-20toc-20brau-dsc_0059.jpg",
         "https://vnn.1cdn.vn/2021/08/03/uploads-2021-th-c3-a1ng-208-ng-c3-a0y-203-c3-81nh-brau-chuyen-tinh-brau-4_uakj.jpg",
@@ -4958,11 +5309,19 @@
       "id": "xtieng",
       "orderNo": 21,
       "name": "Xtiêng",
-      "otherNames": ["Xa Điêng", "Bù Đíp"],
+      "otherNames": [
+        "Xa Điêng",
+        "Bù Đíp"
+      ],
       "population": 100752,
-      "regions": ["Bình Phước", "Tây Ninh", "Lâm Đồng", "Đồng Nai"],
+      "regions": [
+        "Bình Phước",
+        "Tây Ninh",
+        "Lâm Đồng",
+        "Đồng Nai"
+      ],
       "language": "Tiếng Xtiêng (ngữ hệ Nam Á)",
-      "thumbnail": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/539925388_1073550968267640_6155595176305917767_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ZFu8cfFJytwQ7kNvwEgLoWS&_nc_oc=Adr9p5w_fZTSSLkC2NMQUK8CS6kfpZU7jiN8As_6gSH8f2MLDzsoxoND-KfM38aQVkY&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=JLZQ2HSgdI_PTvFMClEl1g&_nc_ss=7b2a8&oh=00_Af4YiNCGSaqnBi-QkjHIb7rjV3WMKvUqrzMhFQ56r61r7Q&oe=6A16093C",
+      "thumbnail": "/dantoc/21.jpg",
       "images": [
         "https://images.unsplash.com/photo-1604456930969-37f67b3c6b15?w=900",
         "https://images.unsplash.com/photo-1591634616938-1dfa7ee2e617?w=900",
@@ -5028,7 +5387,11 @@
         "housing": "Nhà sàn hoặc nhà trệt tùy nhóm, cửa ra vào thấp, ít cửa sổ.",
         "housingImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900"
       },
-      "characteristics": ["Tự lập", "Gan dạ", "Tôn trọng các trưởng lão làng"],
+      "characteristics": [
+        "Tự lập",
+        "Gan dạ",
+        "Tôn trọng các trưởng lão làng"
+      ],
       "music": [
         {
           "title": "Hòa tấu Cồng Chiêng Tây Nguyên",
@@ -5053,11 +5416,20 @@
       "id": "phula",
       "orderNo": 38,
       "name": "Phù Lá",
-      "otherNames": ["Xá Phó", "Bồ Khô Pạ", "Mu Di Pạ"],
+      "otherNames": [
+        "Xá Phó",
+        "Bồ Khô Pạ",
+        "Mu Di Pạ"
+      ],
       "population": 12471,
-      "regions": ["Lào Cai", "Lai Châu", "Sơn La", "Hà Giang"],
+      "regions": [
+        "Lào Cai",
+        "Lai Châu",
+        "Sơn La",
+        "Hà Giang"
+      ],
       "language": "Tiếng Phù Lá (ngữ hệ Tạng-Miến)",
-      "thumbnail": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/540903570_1073553984934005_8090647307573750101_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=ithbsLUwYw0Q7kNvwFuhflZ&_nc_oc=AdqOlEZo4RAC0Irf-pSU7lGJEeBSMOEqTmLEtCyiWA3dNQj0Y1Ex3e7YWqsVaP_UG58&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=klEBnWf6PcxK4A0PfhEJGA&_nc_ss=7b2a8&oh=00_Af5V32Z1YuEuAVfMW_xcYRnjbEpWJ4_H8AnlwwA_4oUjdQ&oe=6A16115C",
+      "thumbnail": "/dantoc/38.jpg",
       "images": [
         "https://ati.net.vn/wp-content/uploads/2023/05/trang-phuc-phu-la-1.jpg",
         "https://cly.1cdn.vn/2021/07/21/dantoctongiao.congly.vn-upload-content_img-2021-0721-_trang-phuc-cua-nguoi-phu-nu-phu-la_anh_bai_nhung_net_dep_cua_nguoi_phu_la_1.jpg",
