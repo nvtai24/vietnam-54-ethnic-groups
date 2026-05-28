@@ -14,7 +14,10 @@ const BackgroundMusic = () => {
     audio.volume = 0.35;
     audio.loop = true;
 
-    const handleCanPlay = () => setIsLoaded(true);
+    const handleCanPlay = () => {
+      setIsLoaded(true);
+      audio.play().then(() => setIsPlaying(true)).catch(() => {});
+    };
     audio.addEventListener("canplay", handleCanPlay);
 
     return () => {
@@ -30,7 +33,10 @@ const BackgroundMusic = () => {
       audio.pause();
       setIsPlaying(false);
     } else {
-      audio.play().then(() => setIsPlaying(true)).catch(() => {});
+      audio
+        .play()
+        .then(() => setIsPlaying(true))
+        .catch(() => {});
     }
   };
 
