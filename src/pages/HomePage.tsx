@@ -36,12 +36,15 @@ const homepageImages = {
 };
 
 const HomePage = () => {
-  const groups = (ethnicGroupsData.groups as EthnicGroup[]).sort((a, b) => a.orderNo - b.orderNo);
+  const groups = (ethnicGroupsData.groups as EthnicGroup[]).sort(
+    (a, b) => a.orderNo - b.orderNo,
+  );
   const carouselGroups = [...groups, ...groups];
   const fallbackImage = homepageImages.heroBackground;
 
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedRegion, setSelectedRegion] = useState("all");
+  const [hideContent, setHideContent] = useState(false);
 
   const regionOptions = useMemo(
     () =>
@@ -96,15 +99,44 @@ const HomePage = () => {
         <img
           src={homepageImages.heroBackground}
           alt=""
-          className="absolute inset-0 h-full w-full scale-105 object-cover opacity-58 saturate-100 contrast-105"
+          className={`absolute inset-0 h-full w-full scale-105 object-cover saturate-100 contrast-105 transition-opacity duration-500 ${hideContent ? "opacity-100" : "opacity-58"}`}
           aria-hidden="true"
         />
-        <div className="absolute inset-0 bg-[#15110f]/25"></div>
-        <div className="absolute inset-0 bg-[#f3dfbd]/50"></div>
-        <div className="paper-grain absolute inset-0"></div>
-        <div className="absolute inset-x-5 top-5 bottom-5 border-2 border-[#b0160b]/80 sm:inset-x-7 sm:top-7 sm:bottom-7"></div>
+        <div
+          className={`absolute inset-0 bg-[#15110f]/25 transition-opacity duration-500 ${hideContent ? "opacity-0" : "opacity-100"}`}
+        ></div>
+        <div
+          className={`absolute inset-0 bg-[#f3dfbd]/50 transition-opacity duration-500 ${hideContent ? "opacity-0" : "opacity-100"}`}
+        ></div>
+        <div
+          className={`paper-grain absolute inset-0 transition-opacity duration-500 ${hideContent ? "opacity-0" : "opacity-100"}`}
+        ></div>
+        <div
+          className={`absolute inset-x-5 top-5 bottom-5 border-2 border-[#b0160b]/80 sm:inset-x-7 sm:top-7 sm:bottom-7 transition-opacity duration-500 ${hideContent ? "opacity-0" : "opacity-100"}`}
+        ></div>
 
-        <div className="relative z-10 mx-auto flex min-h-screen w-full max-w-[1440px] flex-col px-8 py-10 sm:px-12 lg:px-16">
+        <button
+          type="button"
+          onClick={() => setHideContent((v) => !v)}
+          aria-label={hideContent ? "Hiện nội dung" : "Ẩn nội dung"}
+          title={hideContent ? "Hiện nội dung" : "Ẩn nội dung"}
+          className="fixed bottom-6 right-20 z-50 flex h-12 w-12 items-center justify-center border-2 border-primary bg-ink text-paper shadow-[0_4px_24px_rgba(176,22,11,0.35)] transition hover:bg-primary focus:outline-none focus-visible:ring-4 focus-visible:ring-primary/50"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5" aria-hidden="true">
+            {hideContent ? (
+              <>
+                <path d="M12 15a3 3 0 100-6 3 3 0 000 6z" />
+                <path fillRule="evenodd" d="M1.323 11.447C2.811 6.976 7.028 3.75 12.001 3.75c4.97 0 9.185 3.223 10.675 7.69.12.362.12.752 0 1.113-1.487 4.471-5.705 7.697-10.677 7.697-4.97 0-9.186-3.223-10.675-7.69a1.762 1.762 0 010-1.113zM17.25 12a5.25 5.25 0 11-10.5 0 5.25 5.25 0 0110.5 0z" clipRule="evenodd" />
+              </>
+            ) : (
+              <path fillRule="evenodd" d="M3.53 2.47a.75.75 0 00-1.06 1.06l18 18a.75.75 0 101.06-1.06l-18-18zM22.676 12.553a11.249 11.249 0 01-2.631 4.31l-3.099-3.099a5.25 5.25 0 00-6.71-6.71L7.759 4.577A11.217 11.217 0 0112 3.75c4.5 0 8.336 2.55 10.364 6.306a11.21 11.21 0 01.312 2.497zM15.75 12c0 .18-.013.357-.037.53l-4.244-4.243A3.75 3.75 0 0115.75 12zM12.53 15.713l-4.243-4.244a3.75 3.75 0 004.243 4.243zM6.75 12c0-.619.107-1.213.304-1.764l-3.1-3.1a11.25 11.25 0 00-2.63 4.31c-.12.396-.12.82 0 1.216A11.249 11.249 0 0012 20.25a11.21 11.21 0 004.52-.935l-2.429-2.43A3.75 3.75 0 016.75 12z" clipRule="evenodd" />
+            )}
+          </svg>
+        </button>
+
+        <div
+          className={`relative z-10 mx-auto flex min-h-screen w-full max-w-[1440px] flex-col px-8 py-10 sm:px-12 lg:px-16 transition-opacity duration-500 ${hideContent ? "opacity-0 pointer-events-none" : "opacity-100"}`}
+        >
           <header className="relative z-20 flex items-start justify-between gap-6 text-[0.68rem] font-black uppercase leading-none tracking-normal text-[#15110f]">
             <div>
               <p>Vietnam 54 Ethnic Groups</p>
