@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 
-const MUSIC_SRC = "/background-music.mp3";
+const MUSIC_SRC = "/moianhvetaybac.mp3";
 
 const BackgroundMusic = () => {
   const audioRef = useRef<HTMLAudioElement>(null);
@@ -16,7 +16,10 @@ const BackgroundMusic = () => {
 
     const handleCanPlay = () => {
       setIsLoaded(true);
-      audio.play().then(() => setIsPlaying(true)).catch(() => {});
+      audio
+        .play()
+        .then(() => setIsPlaying(true))
+        .catch(() => {});
     };
     audio.addEventListener("canplay", handleCanPlay);
 
