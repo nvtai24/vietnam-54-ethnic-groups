@@ -135,7 +135,7 @@ const HomePage = () => {
         </button>
 
         <div
-          className={`relative z-10 mx-auto flex min-h-screen w-full max-w-[1440px] flex-col px-8 py-10 sm:px-12 lg:px-16 transition-opacity duration-500 ${hideContent ? "opacity-0 pointer-events-none" : "opacity-100"}`}
+          className={`relative z-10 mx-auto flex min-h-screen w-full max-w-[1440px] flex-col px-5 py-8 sm:px-12 sm:py-10 lg:px-16 transition-opacity duration-500 ${hideContent ? "opacity-0 pointer-events-none" : "opacity-100"}`}
         >
           <header className="relative z-20 flex items-start justify-between gap-6 text-[0.68rem] font-black uppercase leading-none tracking-normal text-[#15110f]">
             <div>
@@ -155,7 +155,7 @@ const HomePage = () => {
             </nav>
           </header>
 
-          <div className="relative z-20 grid flex-1 items-center gap-10 py-12 lg:grid-cols-[minmax(0,1fr)_minmax(440px,620px)] lg:gap-14 lg:py-8">
+          <div className="relative z-20 grid flex-1 items-center gap-6 py-6 sm:gap-10 sm:py-10 lg:grid-cols-[minmax(0,1fr)_minmax(440px,620px)] lg:gap-14 lg:py-8">
             <div className="max-w-[820px]">
               <div className="mb-6 flex flex-wrap items-center gap-3 text-[0.68rem] font-black uppercase leading-none text-[#b0160b]">
                 <span className="border-2 border-[#b0160b] px-3 py-2">
@@ -169,12 +169,12 @@ const HomePage = () => {
                 Việt Nam
               </h1>
 
-              <div className="mt-8 grid gap-5 border-l-4 border-[#b0160b] pl-5 md:grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)] md:items-end">
+              <div className="mt-6 grid gap-5 border-l-4 border-[#b0160b] pl-5 sm:mt-8 md:grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)] md:items-end">
                 <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base">
                   Một bản đồ văn hóa sống động của các cộng đồng trên dải đất
                   hình chữ S.
                 </p>
-                <div className="md:text-right">
+                <div className="hidden md:block md:text-right">
                   <p className="text-sm font-bold leading-[1.4] text-[#15110f] sm:text-base">
                     Khám phá trang phục, lễ hội, ngôn ngữ và đời sống của từng
                     dân tộc.
@@ -183,9 +183,9 @@ const HomePage = () => {
               </div>
             </div>
 
-            <div className="relative w-full justify-self-center lg:justify-self-end">
+            <div className="relative w-full min-w-0 lg:justify-self-end">
               <div className="absolute -right-4 top-6 hidden h-[82%] w-16 rotate-2 bg-[#b0160b] shadow-[0_16px_32px_rgba(176,22,11,0.18)] sm:block"></div>
-              <div className="relative w-full max-w-[620px] border-2 border-[#15110f] bg-[#f8f4ec]/95 p-2 shadow-[0_24px_70px_rgba(21,17,15,0.18)]">
+              <div className="relative w-full overflow-hidden border-2 border-ink bg-paper/95 p-2 shadow-[0_24px_70px_rgba(21,17,15,0.18)] lg:max-w-155">
                 <div className="flex items-center justify-between border-b-2 border-[#15110f] px-3 py-2 text-[0.62rem] font-black uppercase leading-none text-[#15110f]">
                   <span>Video tư liệu</span>
                   <span className="text-[#b0160b]">54 dân tộc anh em</span>
@@ -228,7 +228,7 @@ const HomePage = () => {
             </div>
           </div>
 
-          <div className="relative z-20 flex items-end justify-between gap-6 text-[0.62rem] font-black uppercase leading-none text-[#15110f]">
+          <div className="relative z-20 hidden items-end justify-between gap-6 text-[0.62rem] font-black uppercase leading-none text-ink sm:flex">
             <p>Since 2026</p>
             <p>vietnam-54ethnic-groups</p>
           </div>
